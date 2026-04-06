@@ -1,65 +1,74 @@
-import Image from "next/image";
+import fs from "fs";
+import path from "path";
+import type { InvestorsData } from "@/lib/types";
+import InvestorTable from "@/components/InvestorTable";
+import StatCard from "@/components/StatCard";
+
+export const metadata = {
+  title: "VIP Investor Insights",
+  description: "Dashboard for VIP investors with 3+ properties won",
+};
+
+function getDataDir() {
+  // process.cwd() may not be the project root when launched from parent dir
+  const cwd = process.cwd();
+  const candidate = path.join(cwd, "public", "data");
+  if (fs.existsSync(candidate)) return candidate;
+  const projectCandidate = path.join(cwd, "vip-investor-insights", "public", "data");
+  if (fs.existsSync(projectCandidate)) return projectCandidate;
+  return candidate;
+}
 
 export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+  const filePath = path.join(getDataDir(), "investors.json");
+
+  if (!fs.existsSync(filePath)) {
+    return (
+      <main className="max-w-7xl mx-auto px-4 py-8">
+        <h1 className="text-2xl font-bold text-gray-900 mb-4">
+          VIP Investor Insights
+        </h1>
+        <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6 text-yellow-800">
+          <p className="font-medium">No data available</p>
+          <p className="text-sm mt-1">
+            Run <code className="bg-yellow-100 px-1 rounded">node scripts/extract-data.js</code> to
+            generate investor data.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
       </main>
-    </div>
+    );
+  }
+
+  const raw = fs.readFileSync(filePath, "utf-8");
+  const data: InvestorsData = JSON.parse(raw);
+
+  const totalInvestors = data.investors.length;
+  const totalWon = data.investors.reduce((s, i) => s + i.totalWon, 0);
+  const activeYTD = data.investors.filter((i) => i.ytdWon > 0).length;
+
+  return (
+    <main className="max-w-7xl mx-auto px-4 py-8">
+      <div className="mb-6">
+        <h1 className="text-2xl font-bold text-gray-900">
+          VIP Investor Insights
+        </h1>
+        <p className="text-sm text-gray-500 mt-1">
+          Investors with 3+ properties won &middot; Updated{" "}
+          {new Date(data.generatedAt).toLocaleDateString()}
+        </p>
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+        <StatCard label="VIP Investors" value={totalInvestors} />
+        <StatCard label="Total Properties Won" value={totalWon} />
+        <StatCard
+          label="Active YTD"
+          value={activeYTD}
+          sub={totalInvestors > 0 ? `${Math.round((activeYTD / totalInvestors) * 100)}% of VIPs` : undefined}
+        />
+      </div>
+
+      <InvestorTable investors={data.investors} />
+    </main>
   );
 }
