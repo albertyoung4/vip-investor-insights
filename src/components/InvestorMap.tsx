@@ -11,6 +11,13 @@ export default function InvestorMap({
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    // Load Leaflet CSS dynamically to avoid Turbopack issues
+    if (!document.querySelector('link[href*="leaflet"]')) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+      document.head.appendChild(link);
+    }
     setMounted(true);
   }, []);
 
@@ -29,7 +36,6 @@ function MapInner({ properties }: { properties: PropertyDetail[] }) {
   /* eslint-disable @typescript-eslint/no-require-imports */
   const L = require("leaflet");
   const { MapContainer, TileLayer, CircleMarker, Popup } = require("react-leaflet");
-  require("leaflet/dist/leaflet.css");
 
   const geoProps = properties.filter((p) => p.lat && p.lng);
 
