@@ -1,11 +1,12 @@
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
-import type { InvestorProfile } from "@/lib/types";
+import type { InvestorProfile, OMRDeal } from "@/lib/types";
 import StatCard from "@/components/StatCard";
 import QuarterlyStats from "@/components/QuarterlyStats";
 import PropertyTable from "@/components/PropertyTable";
 import InvestorMap from "@/components/InvestorMap";
+import OMRDealsTable from "@/components/OMRDealsTable";
 
 function getDataDir() {
   const cwd = process.cwd();
@@ -61,6 +62,14 @@ export default async function InvestorPage({
       const parts = line.split(",");
       mlsInfo[parts[0]] = { category: parts[4] || "Off Market", exitStrategy: parts[5] || "" };
     }
+  }
+
+  // Load OMR deals for this investor
+  const omrPath = path.join(getDataDir(), "omr-matches.json");
+  let omrDeals: OMRDeal[] = [];
+  if (fs.existsSync(omrPath)) {
+    const omrData = JSON.parse(fs.readFileSync(omrPath, "utf-8"));
+    omrDeals = omrData.investors?.[id] || [];
   }
 
   const rebuiltShare =
@@ -128,6 +137,12 @@ export default async function InvestorPage({
       </div>
 
       <PropertyTable properties={properties} mlsInfo={mlsInfo} />
+
+      {omrDeals.length > 0 && (
+        <div className="mt-6">
+          <OMRDealsTable deals={omrDeals} />
+        </div>
+      )}
     </main>
   );
 }

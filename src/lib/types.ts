@@ -83,6 +83,24 @@ export interface CommissionFile {
   };
 }
 
+export interface OMRDeal {
+  id: string;
+  city: string;
+  state: string;
+  address: string;
+  askingPrice: number | null;
+  arv: number | null;
+  beds: number | null;
+  baths: number | null;
+  sqft: number | null;
+  posterName: string;
+  postedAt: string;
+  matchStatus: string;
+  attomId: number | null;
+  distanceMiles: number;
+  snippet: string;
+}
+
 export interface InvestorsData {
   generatedAt: string;
   investors: VIPInvestor[];
