@@ -1,0 +1,167 @@
+{
+  "investor": {
+    "id": "a233f4ef-79a1-4c5e-a908-69d19b043a21",
+    "name": "Brad Phillips",
+    "email": "Aspenproperties.al@gmail.com",
+    "phone": "+1 (503) 504-6557",
+    "totalWon": 3,
+    "totalBids": 10,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "aspen properties llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 4,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "01936e01-4e0c-74ed-ab4a-810f53a504ee",
+      "attomId": 324004812,
+      "offerDate": "2024-12-02T06:00:00.000Z",
+      "offerPrice": 181000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "14162 OVER CREEK CIR, MADISON AL",
+      "city": "MADISON",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1200,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01936ec8-f521-72d8-9673-e5323548a13e",
+      "attomId": 233163133,
+      "offerDate": "2024-12-03T06:00:00.000Z",
+      "offerPrice": 92500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "417 PEARL ST SW, HARTSELLE AL",
+      "city": "HARTSELLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1758,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0196b57d-19d4-723c-8e0a-61b8195e41b1",
+      "attomId": 324019350,
+      "offerDate": "2025-05-13T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "11742 COWFORD RD, ATHENS AL",
+      "city": "ATHENS",
+      "state": "AL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1540,
+      "lotSize": 4.7600002,
+      "lat": 34.729398,
+      "lng": -87.0709373
+    },
+    {
+      "propertyId": null,
+      "attomId": 36649823,
+      "offerDate": "2025-10-24T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "13342 TRAIL HOLLOW DR # 3342, HOUSTON TX",
+      "city": "HOUSTON",
+      "state": "TX",
+      "beds": 2,
+      "baths": 3,
+      "sqft": 1521,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null,
+      "entity": "ASPEN PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 207630512,
+      "offerDate": "2025-08-05T05:00:00.000Z",
+      "offerPrice": 95000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1302 ALPINE ST SE, DECATUR AL",
+      "city": "DECATUR",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1506,
+      "lotSize": 0,
+      "lat": 45.7549456,
+      "lng": 8.312629,
+      "entity": "ASPEN PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 324275230,
+      "offerDate": "2025-07-28T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "12027 SAND DOLLAR BEACH DR, GALVESTON TX",
+      "city": "GALVESTON",
+      "state": "TX",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.1320018,
+      "lat": 29.478199,
+      "lng": -94.5784584,
+      "entity": "ASPEN PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 213694194,
+      "offerDate": "2025-02-12T06:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1308 S LINDENWOOD DR, OLATHE KS",
+      "city": "OLATHE",
+      "state": "KS",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1008,
+      "lotSize": 0.1742654,
+      "lat": 38.8789955,
+      "lng": -94.7836885,
+      "entity": "ASPEN PROPERTIES LLC"
+    }
+  ]
+}

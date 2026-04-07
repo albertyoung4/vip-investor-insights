@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "d68fcc9e-7d85-4b8c-8b25-15e86ec45a3b",
+    "name": "MIchael Mubarak",
+    "email": "michaelrmubarak@gmail.com",
+    "phone": "+1 (865) 300-2242",
+    "totalWon": 3,
+    "totalBids": 7,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "3219c61a-ad0f-4a76-9d7f-7432609b0019",
+      "attomId": null,
+      "offerDate": "2024-07-19T05:00:00.000Z",
+      "offerPrice": 100000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01971723-9e7a-720b-a653-8e9e40bb27c6",
+      "attomId": 19789326,
+      "offerDate": "2025-06-10T05:00:00.000Z",
+      "offerPrice": 95000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1905 OHIO AVE, KNOXVILLE TN",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 966,
+      "lotSize": 0.1010101,
+      "lat": 35.9616702,
+      "lng": -83.9185718
+    },
+    {
+      "propertyId": "01975f60-4a22-7b3a-9418-d8abef2194b5",
+      "attomId": 47453332,
+      "offerDate": "2025-07-11T05:00:00.000Z",
+      "offerPrice": 88000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3014 WIMPOLE AVE, KNOXVILLE TN",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 770,
+      "lotSize": 0.1789945,
+      "lat": 35.9842242,
+      "lng": -83.8808733
+    }
+  ]
+}

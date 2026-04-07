@@ -1,0 +1,110 @@
+{
+  "investor": {
+    "id": "ad94c353-3fb0-43b8-9081-495378be638e",
+    "name": "Ace Cain",
+    "email": "TrashOut2016@gmail.com",
+    "phone": "+1 (502) 572-4542",
+    "totalWon": 4,
+    "totalBids": 8,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "1c57582e-de16-499d-bc68-f79de1f5ff17",
+      "attomId": null,
+      "offerDate": "2023-09-19T05:00:00.000Z",
+      "offerPrice": 190000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "e4aa373e-0a20-4864-8cb4-55d1fc2f40f2",
+      "attomId": null,
+      "offerDate": "2023-09-27T05:00:00.000Z",
+      "offerPrice": 170000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "e83575a6-c370-4aad-a74f-0e4a95f8106f",
+      "attomId": null,
+      "offerDate": "2024-02-23T06:00:00.000Z",
+      "offerPrice": 205000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01980a80-5f2c-739c-9eed-0e11acfd7532",
+      "attomId": 220865257,
+      "offerDate": "2025-07-18T05:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "110 CRUTZ LN, ELIZABETHTOWN KY",
+      "city": "ELIZABETHTOWN",
+      "state": "KY",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1170,
+      "lotSize": 0.275,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "investor": {
+    "id": "4579c0d8-b5dd-4c28-b34e-a1c1da84bf99",
+    "name": "Prime Estate Holdings LLC",
+    "email": "Primeestateholdings@gmail.com",
+    "phone": "+1 (210) 639-1936",
+    "totalWon": 3,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "prime estate holdings llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 1,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "12e8f194-49f6-4811-a317-2a849469f4ef",
+      "attomId": null,
+      "offerDate": "2024-07-22T05:00:00.000Z",
+      "offerPrice": 73000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "466f1a9b-f520-4196-bb34-2d7c907da485",
+      "attomId": null,
+      "offerDate": "2024-07-22T05:00:00.000Z",
+      "offerPrice": 73000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0192921d-0803-7897-bd3f-def4d7a90606",
+      "attomId": 164906254,
+      "offerDate": "2024-10-31T05:00:00.000Z",
+      "offerPrice": 36000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "516 GOULD ST, SAN ANTONIO TX",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 660,
+      "lotSize": 0.1170799,
+      "lat": 29.4319949,
+      "lng": -98.5334054
+    },
+    {
+      "propertyId": null,
+      "attomId": 183248447,
+      "offerDate": "2025-05-07T05:00:00.000Z",
+      "offerPrice": 205000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "6532 W BANCROFT ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1680,
+      "lotSize": 0.3779614,
+      "lat": 41.6636179,
+      "lng": -83.5741065,
+      "entity": "PRIME ESTATE HOLDINGS LLC"
+    }
+  ]
+}

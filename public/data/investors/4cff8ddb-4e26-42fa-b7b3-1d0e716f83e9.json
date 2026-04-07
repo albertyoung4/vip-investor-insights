@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "4cff8ddb-4e26-42fa-b7b3-1d0e716f83e9",
+    "name": "Anna Vesco",
+    "email": "annvesco@gmail.com",
+    "phone": "+1 (610) 908-4041",
+    "totalWon": 3,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "bb4cd53f-d48d-48f9-b334-d0ac6605167b",
+      "attomId": null,
+      "offerDate": "2023-10-07T05:00:00.000Z",
+      "offerPrice": 178000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0f55aace-4d24-4662-9841-33d323167468",
+      "attomId": null,
+      "offerDate": "2023-12-11T06:00:00.000Z",
+      "offerPrice": 155000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "144e2bc0-bb70-4a0f-92c4-e72c178926ff",
+      "attomId": null,
+      "offerDate": "2024-08-15T05:00:00.000Z",
+      "offerPrice": 173000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

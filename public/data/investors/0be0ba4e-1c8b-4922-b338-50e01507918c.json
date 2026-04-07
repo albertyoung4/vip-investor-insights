@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "0be0ba4e-1c8b-4922-b338-50e01507918c",
+    "name": "Edgar Maldonado",
+    "email": "ElgarMaldonado80@gmail.com",
+    "phone": "+1 (516) 943-5786",
+    "totalWon": 3,
+    "totalBids": 6,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "877b667c-cc97-42bc-8184-ae5d4cd32f8f",
+      "attomId": null,
+      "offerDate": "2024-04-22T05:00:00.000Z",
+      "offerPrice": 58000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01924ed9-f2d9-7f32-b337-336d6715f0fd",
+      "attomId": 192783370,
+      "offerDate": "2025-02-05T06:00:00.000Z",
+      "offerPrice": 37000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "106 EIGHTH ST, SALEM NJ",
+      "city": "SALEM",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1170,
+      "lotSize": 0.0707071,
+      "lat": 40.2302831,
+      "lng": -74.7049822
+    },
+    {
+      "propertyId": "01981f1e-90cd-767e-a93e-9719fe34f407",
+      "attomId": 198791082,
+      "offerDate": "2025-07-28T05:00:00.000Z",
+      "offerPrice": 145000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "99 MASON POINT RD, SALEM NJ",
+      "city": "SALEM",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 2139,
+      "lotSize": 0.85,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

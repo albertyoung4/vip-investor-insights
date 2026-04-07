@@ -1,0 +1,41 @@
+{
+  "investor": {
+    "id": "bee49dc8-efed-4372-83b8-c51c79b64dcc",
+    "name": "Toby Coyle",
+    "email": "tobycoyle455@yahoo.com",
+    "phone": "+1 (859) 582-5984",
+    "totalWon": 3,
+    "totalBids": 9,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": []
+}

@@ -1,0 +1,112 @@
+{
+  "investor": {
+    "id": "a2ef883f-4abf-4eab-bf0d-b08284e0e6c3",
+    "name": "Brian Conway",
+    "email": "brianconway@bayview.com",
+    "phone": "+1 (305) 302-6780",
+    "totalWon": 4,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "cedar brook properties funding 3 llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "7c7326ca-48fe-40b7-82e8-315b46afeade",
+      "attomId": null,
+      "offerDate": "2024-04-24T05:00:00.000Z",
+      "offerPrice": 130000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "eb593d33-f956-4217-81b9-b9bd993cd7e8",
+      "attomId": null,
+      "offerDate": "2024-06-13T05:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "dca25a8b-8041-49e0-8ee1-d7ce6e02b137",
+      "attomId": 220702353,
+      "offerDate": "2024-09-28T05:00:00.000Z",
+      "offerPrice": 140000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "163 PEBBLE BRANCH DR NANCY PULASKI KY USA 42544",
+      "city": "NANCY",
+      "state": "KY",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1406,
+      "lotSize": 0.3899908,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0194dd28-db25-7640-bb9e-397c3f21a7ed",
+      "attomId": 295759078,
+      "offerDate": "2025-02-20T06:00:00.000Z",
+      "offerPrice": 41000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "135 DOUGLAS AVE, FRANKFORT KY",
+      "city": "FRANKFORT",
+      "state": "KY",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 0,
+      "lotSize": 0.0734619,
+      "lat": 38.204166,
+      "lng": -84.8543195
+    }
+  ]
+}

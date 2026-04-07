@@ -1,0 +1,110 @@
+{
+  "investor": {
+    "id": "9263cce0-1bf9-47c1-8867-6fc373d4eeff",
+    "name": "Michael Bartlett",
+    "email": "bartlettinvestmentstn@gmail.com",
+    "phone": "+1 (931) 261-1353",
+    "totalWon": 4,
+    "totalBids": 10,
+    "ytdWon": 1,
+    "ytdBids": 3,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 2,
+        "total": 2
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "0194cdfe-a9c1-737c-86ec-d9b0a8b4d6e7",
+      "attomId": 208982420,
+      "offerDate": "2025-02-06T06:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "547 FOURTH ST, CROSSVILLE TN",
+      "city": "CROSSVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 728,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01952a79-af51-70c0-888a-2ec108f770c7",
+      "attomId": 194597562,
+      "offerDate": "2025-02-26T06:00:00.000Z",
+      "offerPrice": 70000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "259 S WALNUT AVE, COOKEVILLE TN",
+      "city": "COOKEVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 832,
+      "lotSize": 0,
+      "lat": 36.1599909,
+      "lng": -85.5061245
+    },
+    {
+      "propertyId": "0196756e-f523-7e42-815a-19c88252fcd0",
+      "attomId": 36315226,
+      "offerDate": "2025-05-16T05:00:00.000Z",
+      "offerPrice": 25000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2383 COUNTRY CLUB RD, SPARTA TN",
+      "city": "SPARTA",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1090,
+      "lotSize": 0.4800046,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019cd2f7-17cb-7751-87d4-53cf53f3f93b",
+      "attomId": 8620290,
+      "offerDate": "2026-03-10T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": "6004 RUNNING CREEK DR CROSSVILLE CUMBERLAND TN USA 38572",
+      "city": "CROSSVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 2052,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

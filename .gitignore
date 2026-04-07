@@ -43,6 +43,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# extracted data (regenerate with: node scripts/extract-data.js)
-public/data/investors.json
-public/data/investors/*.json
+# local processing scripts (keep data tracked for GitHub Pages)
+scripts/

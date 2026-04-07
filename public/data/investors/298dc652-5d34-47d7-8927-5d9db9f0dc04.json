@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "298dc652-5d34-47d7-8927-5d9db9f0dc04",
+    "name": "Jared Christensen",
+    "email": "jared2438@gmail.com",
+    "phone": "+1 (615) 476-8269",
+    "totalWon": 3,
+    "totalBids": 8,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "3a7c8ae3-5070-4a96-b329-7a4fac7f2b90",
+      "attomId": null,
+      "offerDate": "2024-05-05T05:00:00.000Z",
+      "offerPrice": 68500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0197a7c3-ff7f-783d-8158-0c99f3293206",
+      "attomId": null,
+      "offerDate": "2025-06-28T05:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019837e0-57b4-7c91-be7d-e5a921f70acf",
+      "attomId": 194542665,
+      "offerDate": "2025-07-28T05:00:00.000Z",
+      "offerPrice": 41000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "355 DELLER ST, LAWRENCEBURG TN",
+      "city": "LAWRENCEBURG",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 848,
+      "lotSize": 0.1893939,
+      "lat": 35.2447306,
+      "lng": -87.3367581
+    }
+  ]
+}

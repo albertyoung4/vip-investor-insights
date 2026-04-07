@@ -1,0 +1,110 @@
+{
+  "investor": {
+    "id": "01929576-bcfb-7b64-b44d-a4c5d3206cfc",
+    "name": "Clifford Jones",
+    "email": "crestpestcontrol@gmail.com",
+    "phone": "+1 (615) 601-6503",
+    "totalWon": 4,
+    "totalBids": 18,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 2,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 2,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "019778e2-f7b0-7a55-a82e-f419f3510037",
+      "attomId": 3547440,
+      "offerDate": "2025-07-16T05:00:00.000Z",
+      "offerPrice": 28000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "519 N 16TH ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1152,
+      "lotSize": 0.1899908,
+      "lat": 35.1512512,
+      "lng": -90.1655595
+    },
+    {
+      "propertyId": "019837e6-2727-77c5-8ac8-29f7763ff677",
+      "attomId": 189544182,
+      "offerDate": "2025-08-04T05:00:00.000Z",
+      "offerPrice": 36500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "206 N BOND ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1877,
+      "lotSize": 0.2,
+      "lat": 35.1480186,
+      "lng": -90.1897558
+    },
+    {
+      "propertyId": "0199828c-cdfc-7441-a987-fb507293a056",
+      "attomId": 202286285,
+      "offerDate": "2025-10-07T05:00:00.000Z",
+      "offerPrice": 36500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "725 ISLAND FORTY RD, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1632,
+      "lotSize": 1.5,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019a7475-8441-70aa-85b4-a3e90242c1c2",
+      "attomId": 2132870,
+      "offerDate": "2025-11-18T06:00:00.000Z",
+      "offerPrice": 14000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3502 BEATTY ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1042,
+      "lotSize": 0.1699954,
+      "lat": 35.1481686,
+      "lng": -90.1424466
+    }
+  ]
+}

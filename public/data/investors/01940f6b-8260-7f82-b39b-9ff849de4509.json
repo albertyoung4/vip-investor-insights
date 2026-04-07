@@ -1,0 +1,197 @@
+{
+  "investor": {
+    "id": "01940f6b-8260-7f82-b39b-9ff849de4509",
+    "name": "David Watts",
+    "email": "TWProperties2025@gmail.com",
+    "phone": "+1 (256) 572-9545",
+    "totalWon": 9,
+    "totalBids": 49,
+    "ytdWon": 3,
+    "ytdBids": 13,
+    "entities": [
+      "david ray watts"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 9,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 3,
+        "total": 3
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 3,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "0193cfdd-4db1-7a71-91ad-63f49c6111df",
+      "attomId": 194831088,
+      "offerDate": "2024-12-30T06:00:00.000Z",
+      "offerPrice": 109000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "97 BIG SPRING BROW RD, HORTON AL",
+      "city": "HORTON",
+      "state": "AL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1872,
+      "lotSize": 1.3,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01953194-b694-792b-8c05-6da8c3cc10c4",
+      "attomId": 7865394,
+      "offerDate": "2025-02-24T06:00:00.000Z",
+      "offerPrice": 110000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "145 EDMONDS RD, ALBERTVILLE AL",
+      "city": "ALBERTVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1975,
+      "lotSize": 0.4300046,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0195a564-fbab-7a37-961c-683b999db4e7",
+      "attomId": 290648672,
+      "offerDate": "2025-03-24T05:00:00.000Z",
+      "offerPrice": 85000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "506 CHERRY ST, GADSDEN AL",
+      "city": "GADSDEN",
+      "state": "AL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 2690,
+      "lotSize": 0.1664371,
+      "lat": 34.0047661,
+      "lng": -86.0086701
+    },
+    {
+      "propertyId": "0195aef9-992c-7f69-864b-db42c19f3c70",
+      "attomId": 290650814,
+      "offerDate": "2025-03-27T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.8067033886909485,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01978915-63f7-7fae-b16a-69525069da09",
+      "attomId": 290541961,
+      "offerDate": "2025-06-24T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "194 CROFT CIR, CROSSVILLE AL",
+      "city": "CROSSVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1174,
+      "lotSize": 0.3699954,
+      "lat": 34.2957224,
+      "lng": -85.9857418
+    },
+    {
+      "propertyId": "0199c955-c0c6-7767-805a-45aa74a24135",
+      "attomId": 290637512,
+      "offerDate": "2025-10-23T05:00:00.000Z",
+      "offerPrice": 22500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "16 LITTLE ST GADSDEN ETOWAH AL USA 35904",
+      "city": "GADSDEN",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1312,
+      "lotSize": 0.2066116,
+      "lat": 34.0301022,
+      "lng": -86.0471021
+    },
+    {
+      "propertyId": "019c7687-8a82-7cab-bb95-7ec39fd8a747",
+      "attomId": 53207106,
+      "offerDate": "2026-02-20T06:00:00.000Z",
+      "offerPrice": 95000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "168 DRUM CIR, ALBERTVILLE AL",
+      "city": "ALBERTVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1368,
+      "lotSize": 0.3642103,
+      "lat": 34.29837,
+      "lng": -86.2260642
+    },
+    {
+      "propertyId": "019c5244-3838-7683-9c7d-dc92eb8eab15",
+      "attomId": 290598606,
+      "offerDate": "2026-03-10T05:00:00.000Z",
+      "offerPrice": 33000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1801 ELWYN AVE GADSDEN ETOWAH AL USA 35904",
+      "city": "GADSDEN",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1215,
+      "lotSize": 0.2186639,
+      "lat": 33.9991747,
+      "lng": -86.0446529
+    },
+    {
+      "propertyId": "019c53ad-b37a-7cea-986e-73ebd6d56f9a",
+      "attomId": 290607474,
+      "offerDate": "2026-03-19T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": "424 E AIR DEPOT RD GLENCOE ETOWAH AL USA 35905",
+      "city": "GLENCOE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1708,
+      "lotSize": 0.3443526,
+      "lat": 33.96498,
+      "lng": -85.9333386
+    }
+  ]
+}

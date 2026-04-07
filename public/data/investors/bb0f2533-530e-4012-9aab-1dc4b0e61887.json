@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "bb0f2533-530e-4012-9aab-1dc4b0e61887",
+    "name": "Jason Krawitz",
+    "email": "Jason.S.Krawitz@gmail.com",
+    "phone": "+1 (615) 512-4160",
+    "totalWon": 3,
+    "totalBids": 8,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "09b53cae-31cd-4609-add7-54b2bbb2b2cb",
+      "attomId": null,
+      "offerDate": "2023-08-30T05:00:00.000Z",
+      "offerPrice": 12000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "4cd97b0c-1e86-4d0e-bac7-07daf327e8e2",
+      "attomId": null,
+      "offerDate": "2024-07-19T05:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01990336-a1b1-7094-bcae-94f5eccabd48",
+      "attomId": 143001571,
+      "offerDate": "2025-09-12T05:00:00.000Z",
+      "offerPrice": 25000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2116 DUMESNIL ST LOUISVILLE JEFFERSON KY USA 40210",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1121,
+      "lotSize": 0.0883838,
+      "lat": 38.2363157,
+      "lng": -85.7909922
+    }
+  ]
+}

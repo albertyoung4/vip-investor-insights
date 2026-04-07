@@ -1,0 +1,149 @@
+{
+  "investor": {
+    "id": "0197c860-79ae-7496-aa9a-96389642c59e",
+    "name": "David Labib",
+    "email": "davidlabib945@gmail.com",
+    "phone": "+1 (317) 579-5194",
+    "totalWon": 3,
+    "totalBids": 27,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": [
+      "davids group 2 llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 3,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 3,
+        "total": 5
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "01975a1d-ebbd-71c6-910e-5f2a33d3524e",
+      "attomId": 213900305,
+      "offerDate": "2025-07-22T05:00:00.000Z",
+      "offerPrice": 5000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3024 C AVE, NEW CASTLE IN",
+      "city": "NEW CASTLE",
+      "state": "IN",
+      "beds": 4,
+      "baths": 1,
+      "sqft": 1728,
+      "lotSize": 0.242011,
+      "lat": 39.92248,
+      "lng": -85.3554926
+    },
+    {
+      "propertyId": "0198a4b0-7068-72cf-9977-71bbc00ba1ea",
+      "attomId": 190554081,
+      "offerDate": "2025-08-26T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "518 N INDIANA ST, GREENCASTLE IN",
+      "city": "GREENCASTLE",
+      "state": "IN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1044,
+      "lotSize": 0.1480028,
+      "lat": 39.628502,
+      "lng": -86.8728096
+    },
+    {
+      "propertyId": "01971c41-732a-7d0e-935f-6e0e4461b7e1",
+      "attomId": 215636764,
+      "offerDate": "2025-09-05T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1436 W SPENCER AVE, MARION IN",
+      "city": "MARION",
+      "state": "IN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1442,
+      "lotSize": 0.1,
+      "lat": 40.561476,
+      "lng": -85.6619322
+    },
+    {
+      "propertyId": null,
+      "attomId": 214988132,
+      "offerDate": "2026-02-13T06:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1805 S SPRUCE ST, MUNCIE IN",
+      "city": "MUNCIE",
+      "state": "IN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 960,
+      "lotSize": 0.1100092,
+      "lat": 40.1770881,
+      "lng": -85.4321572,
+      "entity": "DAVIDS GROUP 2 LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 211444815,
+      "offerDate": "2025-09-02T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "211 S LIBERTY ST, MUNCIE IN",
+      "city": "MUNCIE",
+      "state": "IN",
+      "beds": 4,
+      "baths": 5,
+      "sqft": 2928,
+      "lotSize": 0.0640496,
+      "lat": 40.1934871,
+      "lng": -85.3300125,
+      "entity": "DAVIDS GROUP 2 LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 211444816,
+      "offerDate": "2025-09-02T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "400 BLK W JACKSON ST, MUNCIE IN",
+      "city": "MUNCIE",
+      "state": "IN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.0650826,
+      "lat": 40.1929901,
+      "lng": -85.3997322,
+      "entity": "DAVIDS GROUP 2 LLC"
+    }
+  ]
+}

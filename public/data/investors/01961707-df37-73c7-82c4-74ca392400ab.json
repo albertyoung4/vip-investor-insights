@@ -1,0 +1,203 @@
+{
+  "investor": {
+    "id": "01961707-df37-73c7-82c4-74ca392400ab",
+    "name": "Tony Wallace",
+    "email": "tonytenjobs@yahoo.com",
+    "phone": "+1 (757) 729-2847",
+    "totalWon": 3,
+    "totalBids": 14,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "ac wallace holdings llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 9,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 6,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 3,
+        "total": 4
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "01967544-06d1-79a1-b520-8cd6c92abfa7",
+      "attomId": 174315135,
+      "offerDate": "2025-04-30T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1314 W BUTLER ST, PEORIA IL",
+      "city": "PEORIA",
+      "state": "IL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1390,
+      "lotSize": 0,
+      "lat": 40.6840533,
+      "lng": -89.6104012
+    },
+    {
+      "propertyId": "01967562-713f-7202-9156-30c5ef153553",
+      "attomId": 293335476,
+      "offerDate": "2025-05-01T05:00:00.000Z",
+      "offerPrice": 28500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2330 E JOHNS AVE, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.0918274,
+      "lat": 39.8380059,
+      "lng": -88.946365
+    },
+    {
+      "propertyId": "01968c66-a62c-7f9e-9ef2-d87ad1c59de5",
+      "attomId": 293327235,
+      "offerDate": "2025-05-05T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "842 N MONROE ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 652,
+      "lotSize": 0.1579431,
+      "lat": 39.8657249,
+      "lng": -88.9637948
+    },
+    {
+      "propertyId": null,
+      "attomId": 309215695,
+      "offerDate": "2025-10-14T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "203 ZION BLVD, EMPORIA VA",
+      "city": "EMPORIA",
+      "state": "VA",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 0,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293323450,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 17000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1197 W GREEN ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1020,
+      "lotSize": 0.1086777,
+      "lat": 39.8468099,
+      "lng": -88.8852163,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293324291,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 12000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "464 W SAWYER ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 945,
+      "lotSize": 0.067034,
+      "lat": 39.8608268,
+      "lng": -88.9647402,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293334113,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 25000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "100 N 24TH ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.1285583,
+      "lat": 39.8478242,
+      "lng": -88.9215251,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293462316,
+      "offerDate": "2025-05-30T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "622 W BEECHER AVE, JACKSONVILLE IL",
+      "city": "JACKSONVILLE",
+      "state": "IL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.1199954,
+      "lat": 39.7313115,
+      "lng": -90.2295475,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293331865,
+      "offerDate": "2025-01-23T06:00:00.000Z",
+      "offerPrice": 33000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1536 E WALNUT ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.137741,
+      "lat": 39.8034143,
+      "lng": -88.9817821,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    }
+  ]
+}

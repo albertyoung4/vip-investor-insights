@@ -1,0 +1,129 @@
+{
+  "investor": {
+    "id": "671d8212-d610-43b5-917b-eda9434204da",
+    "name": "Jeff Moore",
+    "email": "Jeff@burroak.capital",
+    "phone": "+1 (859) 230-3115",
+    "totalWon": 5,
+    "totalBids": 12,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "jeff moore"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 5,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "b5a7a158-e2ef-4d4b-90ee-259b63b3a5f5",
+      "attomId": null,
+      "offerDate": "2024-04-24T05:00:00.000Z",
+      "offerPrice": 15000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "fb730b9a-8040-4a1c-a7c0-7904d89094b5",
+      "attomId": null,
+      "offerDate": "2024-05-18T05:00:00.000Z",
+      "offerPrice": 46000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "2c1572cc-1548-47e0-8963-56f2185e9526",
+      "attomId": 295695826,
+      "offerDate": "2024-09-29T05:00:00.000Z",
+      "offerPrice": 82000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "710 BROADWAY ST, IRVINE KY",
+      "city": "IRVINE",
+      "state": "KY",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 2606,
+      "lotSize": 0.1600092,
+      "lat": 37.7004666,
+      "lng": -83.9727364
+    },
+    {
+      "propertyId": "01927831-a2d6-7e50-a3e4-2c49d18cde8a",
+      "attomId": 295696891,
+      "offerDate": "2024-10-20T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "408 POPLAR ST, RAVENNA KY",
+      "city": "RAVENNA",
+      "state": "KY",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1212,
+      "lotSize": 0.0899908,
+      "lat": 37.6861612,
+      "lng": -83.9517395
+    },
+    {
+      "propertyId": "019a8493-e650-726f-8063-f81ce450117b",
+      "attomId": 296405906,
+      "offerDate": "2025-12-21T06:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "105 E NORTH ST CARLISLE NICHOLAS KY USA 40311",
+      "city": "CARLISLE",
+      "state": "KY",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1560,
+      "lotSize": 0.2272727,
+      "lat": 38.3126073,
+      "lng": -84.0271911
+    }
+  ]
+}

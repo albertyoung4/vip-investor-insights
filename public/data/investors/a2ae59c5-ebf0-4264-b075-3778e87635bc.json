@@ -1,0 +1,129 @@
+{
+  "investor": {
+    "id": "a2ae59c5-ebf0-4264-b075-3778e87635bc",
+    "name": "Clay Smith",
+    "email": "clay@lreillc.com",
+    "phone": "+1 (502) 807-2532",
+    "totalWon": 5,
+    "totalBids": 7,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "104 north 46th street family trust"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 5,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "7a5707c0-9910-4560-be07-549149316593",
+      "attomId": null,
+      "offerDate": "2023-08-27T05:00:00.000Z",
+      "offerPrice": 67500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019253e9-c068-732d-b064-be3474242ba5",
+      "attomId": 34323903,
+      "offerDate": "2024-10-09T05:00:00.000Z",
+      "offerPrice": 48000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "104 N 46TH ST, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1083,
+      "lotSize": 0.1239669,
+      "lat": 38.2664305,
+      "lng": -85.822662
+    },
+    {
+      "propertyId": "0192fd23-4710-7667-a543-f0851df9349a",
+      "attomId": 186948432,
+      "offerDate": "2024-11-13T06:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3411 W MUHAMMAD ALI BLVD, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1141,
+      "lotSize": 0.1033058,
+      "lat": 38.2570152,
+      "lng": -85.8082284
+    },
+    {
+      "propertyId": "0192df39-2d83-7b54-b175-1aef21e037ea",
+      "attomId": 22547294,
+      "offerDate": "2024-11-13T06:00:00.000Z",
+      "offerPrice": 75000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "4203 VERMONT AVE, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1525,
+      "lotSize": 0.1552342,
+      "lat": 38.2572596,
+      "lng": -85.8203609
+    },
+    {
+      "propertyId": "01931ae3-8b7c-73a0-9a73-a8448adadcaa",
+      "attomId": 193740126,
+      "offerDate": "2024-11-13T06:00:00.000Z",
+      "offerPrice": 30000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2312 S 36TH ST, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1304,
+      "lotSize": 0.1312902,
+      "lat": 38.2231508,
+      "lng": -85.8156306
+    }
+  ]
+}

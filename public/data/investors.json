@@ -1,0 +1,722 @@
+{
+  "generatedAt": "2026-04-06T19:43:16.845Z",
+  "investors": [
+    {
+      "id": "01940f6b-8260-7f82-b39b-9ff849de4509",
+      "name": "David Watts",
+      "email": "TWProperties2025@gmail.com",
+      "phone": "+1 (256) 572-9545",
+      "totalWon": 9,
+      "totalBids": 49,
+      "ytdWon": 3,
+      "ytdBids": 13,
+      "entities": [
+        "david ray watts"
+      ]
+    },
+    {
+      "id": "4038ad1f-6d48-458a-906b-4557d479bd76",
+      "name": "Kimble Brooks",
+      "email": "kimble5563@yahoo.com",
+      "phone": "+1 (423) 504-5563",
+      "totalWon": 7,
+      "totalBids": 19,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": [
+        "brooks brothers properties llc"
+      ]
+    },
+    {
+      "id": "a05f7496-0cd6-4c2c-ad41-31cdabf8a251",
+      "name": "Camren Berry",
+      "email": "Cberry@RedSpiral.co",
+      "phone": "+1 (602) 502-1923",
+      "totalWon": 6,
+      "totalBids": 48,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "urban oasis properties llc"
+      ]
+    },
+    {
+      "id": "2e7f2a51-8c24-4095-9500-1b95d3b4a88b",
+      "name": "Todd Simpson",
+      "email": "tsimpson@jatoil.com",
+      "phone": "+1 (256) 997-6757",
+      "totalWon": 6,
+      "totalBids": 18,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "simpson property llc"
+      ]
+    },
+    {
+      "id": "d03f809d-cdde-4161-86d7-a497543568af",
+      "name": "Zac Peterson",
+      "email": "zacpetersonky@gmail.com",
+      "phone": "+1 (859) 396-4156",
+      "totalWon": 6,
+      "totalBids": 11,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "barrel creek investments llp"
+      ]
+    },
+    {
+      "id": "7beb8c08-6edb-410c-9ad0-b51eea81a7ae",
+      "name": "Ethan Adler",
+      "email": "investments@107re.com",
+      "phone": "+1 (801) 529-4271",
+      "totalWon": 5,
+      "totalBids": 47,
+      "ytdWon": 1,
+      "ytdBids": 7,
+      "entities": [
+        "purple otter llc"
+      ]
+    },
+    {
+      "id": "abb5cccb-f5e0-401a-9a45-b98d26b667bd",
+      "name": "Will Moorehead",
+      "email": "will@ridgetop.llc",
+      "phone": "+1 (931) 212-7700",
+      "totalWon": 5,
+      "totalBids": 30,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "guppys holdings llc",
+        "inversiones de cuatro hermanos llc",
+        "ridgetop properties llc",
+        "william michael moorehead"
+      ]
+    },
+    {
+      "id": "46d3392c-c2da-4feb-98ef-0095f6562438",
+      "name": "Mike Wehby",
+      "email": "Wehbymike@yahoo.com",
+      "phone": "+1 (205) 516-8858",
+      "totalWon": 5,
+      "totalBids": 30,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": [
+        "wehby investment properties ll",
+        "wehby investment properties llc",
+        "wehby investment property llc",
+        "wehby investments llc"
+      ]
+    },
+    {
+      "id": "36cf2b58-aa79-4cb0-adda-eb525c55f866",
+      "name": "Ross Nazari",
+      "email": "Colfaxpro@gmail.com",
+      "phone": "+1 (917) 365-5984",
+      "totalWon": 5,
+      "totalBids": 28,
+      "ytdWon": 1,
+      "ytdBids": 5,
+      "entities": [
+        "colfax properties llc"
+      ]
+    },
+    {
+      "id": "01959219-2d3b-72ab-94eb-d7d3a063887b",
+      "name": "Catricia Roberson",
+      "email": "robersonc2000@gmail.com",
+      "phone": "+1 (301) 300-7931",
+      "totalWon": 5,
+      "totalBids": 26,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "catricia l roberson"
+      ]
+    },
+    {
+      "id": "7774beb5-1eb9-4be0-9adf-50390c47713d",
+      "name": "Chris Dean",
+      "email": "stargazerhomes1@gmail.com",
+      "phone": "+1 (859) 358-3515",
+      "totalWon": 5,
+      "totalBids": 20,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": []
+    },
+    {
+      "id": "412a9845-9862-41dd-a81d-717c7591b611",
+      "name": "Kenny Shaw International Immobiliare LLC",
+      "email": "Kenny@901homebuyers.com",
+      "phone": "+1 (901) 205-4338",
+      "totalWon": 5,
+      "totalBids": 18,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "901 home buyers, llc",
+        "cash end buyers llc",
+        "immobiliare international llc"
+      ]
+    },
+    {
+      "id": "10697af8-0636-4863-983b-1fe7723c5001",
+      "name": "Ray Rangoonwala",
+      "email": "growwithbravo6@gmail.com",
+      "phone": "+1 (954) 629-9778",
+      "totalWon": 5,
+      "totalBids": 18,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": [
+        "rrr investment group llc"
+      ]
+    },
+    {
+      "id": "505b692b-f070-4b12-a575-22683e093984",
+      "name": "Michael Pendergrast",
+      "email": "mdpendergrast@gmail.com",
+      "phone": "+1 (256) 412-6363",
+      "totalWon": 5,
+      "totalBids": 16,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": [
+        "michael davis pendergrast",
+        "michael pendergrast"
+      ]
+    },
+    {
+      "id": "671d8212-d610-43b5-917b-eda9434204da",
+      "name": "Jeff Moore",
+      "email": "Jeff@burroak.capital",
+      "phone": "+1 (859) 230-3115",
+      "totalWon": 5,
+      "totalBids": 12,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "jeff moore"
+      ]
+    },
+    {
+      "id": "08171496-3b33-4029-ad4b-2afc4f6fdf82",
+      "name": "Jacob Alsup",
+      "email": "cheyenneinv@gmail.com",
+      "phone": "+1 (615) 418-5209",
+      "totalWon": 5,
+      "totalBids": 11,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "cheyenne investments llc"
+      ]
+    },
+    {
+      "id": "422be436-6d7b-42f0-80be-67e7e4a6f89c",
+      "name": "Alan MacGavin",
+      "email": "contact@ltdinvestments.co",
+      "phone": "+1 (951) 375-7422",
+      "totalWon": 5,
+      "totalBids": 7,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "ltd investments llc"
+      ]
+    },
+    {
+      "id": "a2ae59c5-ebf0-4264-b075-3778e87635bc",
+      "name": "Clay Smith",
+      "email": "clay@lreillc.com",
+      "phone": "+1 (502) 807-2532",
+      "totalWon": 5,
+      "totalBids": 7,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "104 north 46th street family trust"
+      ]
+    },
+    {
+      "id": "0193f5b8-0d0e-74c0-a54c-b783f9abf382",
+      "name": "Josh McCoy",
+      "email": "josh.mccoy@compass.com",
+      "phone": "+1 (615) 484-6817",
+      "totalWon": 5,
+      "totalBids": 5,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "compass re llc"
+      ]
+    },
+    {
+      "id": "5783950c-8e88-42ee-958e-b6d084ba45f3",
+      "name": "Adam Hobson",
+      "email": "adam@bhamhomebuyers.com",
+      "phone": "+1 (205) 475-7801",
+      "totalWon": 4,
+      "totalBids": 34,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "shield property solutions llc"
+      ]
+    },
+    {
+      "id": "01929576-bcfb-7b64-b44d-a4c5d3206cfc",
+      "name": "Clifford Jones",
+      "email": "crestpestcontrol@gmail.com",
+      "phone": "+1 (615) 601-6503",
+      "totalWon": 4,
+      "totalBids": 18,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "9014cce5-575b-440c-8ea3-7664263bb99a",
+      "name": "Drew Conlin",
+      "email": "drewconlin@hotmail.com",
+      "phone": "+1 (856) 473-8534",
+      "totalWon": 4,
+      "totalBids": 17,
+      "ytdWon": 0,
+      "ytdBids": 2,
+      "entities": [
+        "delaware valley opportunity fund llc"
+      ]
+    },
+    {
+      "id": "9263cce0-1bf9-47c1-8867-6fc373d4eeff",
+      "name": "Michael Bartlett",
+      "email": "bartlettinvestmentstn@gmail.com",
+      "phone": "+1 (931) 261-1353",
+      "totalWon": 4,
+      "totalBids": 10,
+      "ytdWon": 1,
+      "ytdBids": 3,
+      "entities": []
+    },
+    {
+      "id": "28c5611b-3ddf-4166-9355-2840903ab352",
+      "name": "Camren Berry",
+      "email": "Cberry@RedSpiral.com",
+      "phone": "+1 (602) 502-1923",
+      "totalWon": 4,
+      "totalBids": 9,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "urban oasis properties llc"
+      ]
+    },
+    {
+      "id": "ad94c353-3fb0-43b8-9081-495378be638e",
+      "name": "Ace Cain",
+      "email": "TrashOut2016@gmail.com",
+      "phone": "+1 (502) 572-4542",
+      "totalWon": 4,
+      "totalBids": 8,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "6e860470-1ef0-4bb2-9bf4-a0799bd1fe46",
+      "name": "Tanner Dillard",
+      "email": "tannerd@dillard-associates.com",
+      "phone": "+1 (423) 650-5730",
+      "totalWon": 4,
+      "totalBids": 5,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "embark developments llc"
+      ]
+    },
+    {
+      "id": "a2ef883f-4abf-4eab-bf0d-b08284e0e6c3",
+      "name": "Brian Conway",
+      "email": "brianconway@bayview.com",
+      "phone": "+1 (305) 302-6780",
+      "totalWon": 4,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "cedar brook properties funding 3 llc"
+      ]
+    },
+    {
+      "id": "0197c860-79ae-7496-aa9a-96389642c59e",
+      "name": "David Labib",
+      "email": "davidlabib945@gmail.com",
+      "phone": "+1 (317) 579-5194",
+      "totalWon": 3,
+      "totalBids": 27,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": [
+        "davids group 2 llc"
+      ]
+    },
+    {
+      "id": "ac768b81-b97f-4dd2-8b5a-4a5237951f1b",
+      "name": "Wilber Castillo",
+      "email": "Castillowilber68@gmail.com",
+      "phone": "+1 (323) 381-1693",
+      "totalWon": 3,
+      "totalBids": 17,
+      "ytdWon": 1,
+      "ytdBids": 2,
+      "entities": [
+        "wilber castillo"
+      ]
+    },
+    {
+      "id": "01961707-df37-73c7-82c4-74ca392400ab",
+      "name": "Tony Wallace",
+      "email": "tonytenjobs@yahoo.com",
+      "phone": "+1 (757) 729-2847",
+      "totalWon": 3,
+      "totalBids": 14,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "ac wallace holdings llc"
+      ]
+    },
+    {
+      "id": "0192dfb6-4665-7a1e-95a5-ccf48b88911a",
+      "name": "Frank Famiano",
+      "email": "famfloor3@gmail.com",
+      "phone": "+1 (954) 914-2556",
+      "totalWon": 3,
+      "totalBids": 14,
+      "ytdWon": 0,
+      "ytdBids": 2,
+      "entities": [
+        "frank famiano"
+      ]
+    },
+    {
+      "id": "1d3eb9bd-a9fc-4b8b-bb35-c7bbaa204288",
+      "name": "Robert Rivera",
+      "email": "rrivera.high5@gmail.com",
+      "phone": "+1 (502) 509-5019",
+      "totalWon": 3,
+      "totalBids": 13,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "midnight buffalo llc"
+      ]
+    },
+    {
+      "id": "0195f79c-02f8-775e-a7a3-1b6601391830",
+      "name": "Ben Caplan",
+      "email": "rftarentals@gmail.com",
+      "phone": "+1 (443) 810-7975",
+      "totalWon": 3,
+      "totalBids": 12,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "revolutionary home buyers klc"
+      ]
+    },
+    {
+      "id": "a233f4ef-79a1-4c5e-a908-69d19b043a21",
+      "name": "Brad Phillips",
+      "email": "Aspenproperties.al@gmail.com",
+      "phone": "+1 (503) 504-6557",
+      "totalWon": 3,
+      "totalBids": 10,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "aspen properties llc"
+      ]
+    },
+    {
+      "id": "d3d19d05-ad39-41b3-9e60-27fbb54861a2",
+      "name": "Josiah Wilson",
+      "email": "twentyonerealestate@gmail.com",
+      "phone": "+1 (512) 676-1528",
+      "totalWon": 3,
+      "totalBids": 9,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "bee49dc8-efed-4372-83b8-c51c79b64dcc",
+      "name": "Toby Coyle",
+      "email": "tobycoyle455@yahoo.com",
+      "phone": "+1 (859) 582-5984",
+      "totalWon": 3,
+      "totalBids": 9,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "298dc652-5d34-47d7-8927-5d9db9f0dc04",
+      "name": "Jared Christensen",
+      "email": "jared2438@gmail.com",
+      "phone": "+1 (615) 476-8269",
+      "totalWon": 3,
+      "totalBids": 8,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "0195f44b-0707-791c-bb4f-20b330bef893",
+      "name": "Mark Hutter",
+      "email": "mhutter@detpro.com",
+      "phone": "+1 (734) 637-1963",
+      "totalWon": 3,
+      "totalBids": 8,
+      "ytdWon": 0,
+      "ytdBids": 2,
+      "entities": [
+        "mdpm holdings llc"
+      ]
+    },
+    {
+      "id": "bb0f2533-530e-4012-9aab-1dc4b0e61887",
+      "name": "Jason Krawitz",
+      "email": "Jason.S.Krawitz@gmail.com",
+      "phone": "+1 (615) 512-4160",
+      "totalWon": 3,
+      "totalBids": 8,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "6c511c31-dbf6-4d87-af37-d1b93107386a",
+      "name": "Josh Handler",
+      "email": "josh@passivesunshine.com",
+      "phone": "+1 (901) 661-2004",
+      "totalWon": 3,
+      "totalBids": 8,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "passive sunshine 1 llc"
+      ]
+    },
+    {
+      "id": "d68fcc9e-7d85-4b8c-8b25-15e86ec45a3b",
+      "name": "MIchael Mubarak",
+      "email": "michaelrmubarak@gmail.com",
+      "phone": "+1 (865) 300-2242",
+      "totalWon": 3,
+      "totalBids": 7,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "0be0ba4e-1c8b-4922-b338-50e01507918c",
+      "name": "Edgar Maldonado",
+      "email": "ElgarMaldonado80@gmail.com",
+      "phone": "+1 (516) 943-5786",
+      "totalWon": 3,
+      "totalBids": 6,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "02ee9f22-b786-4b27-8973-cba484534f4a",
+      "name": "Jason Hoskins",
+      "email": "jhoskins@newagainhouses.com",
+      "phone": "+1 (606) 776-9594",
+      "totalWon": 3,
+      "totalBids": 6,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "0195a927-b0c0-7664-8cc3-7cf75fc03e16",
+      "name": "joe Abraham",
+      "email": "Ejmgmtrentals@gmail.com",
+      "phone": "+1 (717) 300-8488",
+      "totalWon": 3,
+      "totalBids": 6,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "joe abraham"
+      ]
+    },
+    {
+      "id": "271de489-6ffb-46f5-a040-e75f552052d1",
+      "name": "william gonzalez",
+      "email": "gzisters1@gmail.com",
+      "phone": "+1 (256) 302-2493",
+      "totalWon": 3,
+      "totalBids": 6,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": []
+    },
+    {
+      "id": "06d46331-7434-43ab-85f7-d6a584d9a322",
+      "name": "Steven Kipnis",
+      "email": "stevenkipnis@gmail.com",
+      "phone": "+1 (732) 796-5132",
+      "totalWon": 3,
+      "totalBids": 5,
+      "ytdWon": 0,
+      "ytdBids": 2,
+      "entities": []
+    },
+    {
+      "id": "eb0ae82b-7ffa-4f7b-bb5f-79485e17a429",
+      "name": "Brian Bedinger",
+      "email": "bqpremierpropertysolutions@gmail.com",
+      "phone": "+1 (901) 338-9228",
+      "totalWon": 3,
+      "totalBids": 5,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "9effe7ef-0c35-43a8-aa9c-70cd51d9aee5",
+      "name": "PHIL DUKE",
+      "email": "phil.duke@1stclassre.com",
+      "phone": "+1 (205) 454-9247",
+      "totalWon": 3,
+      "totalBids": 5,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "prodigy marketing llc",
+        "talent boost llc"
+      ]
+    },
+    {
+      "id": "1c20027c-610a-42af-a94c-b90bc4c2eccc",
+      "name": "Chris Pickel",
+      "email": "CHRISPICKEL@MAC.COM",
+      "phone": "+1 (706) 280-4360",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "hm llc"
+      ]
+    },
+    {
+      "id": "35ca761e-94cc-499c-832b-dcebcd53e530",
+      "name": "Steven Lane",
+      "email": "sales@fthomesales.com",
+      "phone": "+1 (937) 416-2315",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "fast track home sales llc"
+      ]
+    },
+    {
+      "id": "f8b581c8-78cf-4742-89e7-ab57cdfa0e98",
+      "name": "Brie King",
+      "email": "realestatebrie@gmail.com",
+      "phone": "+1 (931) 993-3097",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "rowdon holdings llc"
+      ]
+    },
+    {
+      "id": "6a776e76-1c34-4e40-9201-56d818d83faa",
+      "name": "Adam Hatton",
+      "email": "ahatton10@gmail.com",
+      "phone": "+1 (859) 490-0672",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "twin willows properties llc"
+      ]
+    },
+    {
+      "id": "4579c0d8-b5dd-4c28-b34e-a1c1da84bf99",
+      "name": "Prime Estate Holdings LLC",
+      "email": "Primeestateholdings@gmail.com",
+      "phone": "+1 (210) 639-1936",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "prime estate holdings llc"
+      ]
+    },
+    {
+      "id": "4cff8ddb-4e26-42fa-b7b3-1d0e716f83e9",
+      "name": "Anna Vesco",
+      "email": "annvesco@gmail.com",
+      "phone": "+1 (610) 908-4041",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "876e4269-bf83-4fa9-ae0d-c0333e608169",
+      "name": "Charles Sims",
+      "email": "sims.charlie@gmail.com",
+      "phone": "+1 (502) 609-9996",
+      "totalWon": 3,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    },
+    {
+      "id": "0192a23e-6613-7a48-9ea3-8d672e09a108",
+      "name": "Devin Buford",
+      "email": "dlb91123@yahoo.com",
+      "phone": "+1 (901) 262-6743",
+      "totalWon": 3,
+      "totalBids": 3,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "devin buford"
+      ]
+    },
+    {
+      "id": "8e06a475-6546-4e47-b323-bb41824d73c2",
+      "name": "Ibrahim Khattab",
+      "email": "khattab.abe2019@gmail.com",
+      "phone": "+1 (267) 709-9941",
+      "totalWon": 3,
+      "totalBids": 3,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": []
+    }
+  ]
+}

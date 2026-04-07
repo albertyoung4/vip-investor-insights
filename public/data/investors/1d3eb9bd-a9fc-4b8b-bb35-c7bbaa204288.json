@@ -1,0 +1,113 @@
+{
+  "investor": {
+    "id": "1d3eb9bd-a9fc-4b8b-bb35-c7bbaa204288",
+    "name": "Robert Rivera",
+    "email": "rrivera.high5@gmail.com",
+    "phone": "+1 (502) 509-5019",
+    "totalWon": 3,
+    "totalBids": 13,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "midnight buffalo llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 1,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 2,
+        "total": 2
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "f90bb3a0-cf03-4992-bc5c-cb39f4c15ebf",
+      "attomId": null,
+      "offerDate": "2024-03-27T05:00:00.000Z",
+      "offerPrice": 72500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019461d5-cd52-79d9-a2bb-a915e313d7a3",
+      "attomId": 27458723,
+      "offerDate": "2025-01-17T06:00:00.000Z",
+      "offerPrice": 137000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2231 LIVERPOOL LN, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 925,
+      "lotSize": 0.1353994,
+      "lat": 38.2031852,
+      "lng": -85.6597573
+    },
+    {
+      "propertyId": "01943e39-4b8e-7ea1-a6d4-b243f46a6686",
+      "attomId": 214282412,
+      "offerDate": "2025-02-13T06:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "612 N COLLEGE AVE, SALEM IN",
+      "city": "SALEM",
+      "state": "IN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 816,
+      "lotSize": 0.1800046,
+      "lat": 38.6163506,
+      "lng": -86.0979467
+    },
+    {
+      "propertyId": null,
+      "attomId": 143002141,
+      "offerDate": "2025-05-15T05:00:00.000Z",
+      "offerPrice": 41000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2611 NARRAGANSETT DR, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 754,
+      "lotSize": 0.263315,
+      "lat": 38.2256386,
+      "lng": -85.8007761,
+      "entity": "MIDNIGHT BUFFALO LLC"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "investor": {
+    "id": "7774beb5-1eb9-4be0-9adf-50390c47713d",
+    "name": "Chris Dean",
+    "email": "stargazerhomes1@gmail.com",
+    "phone": "+1 (859) 358-3515",
+    "totalWon": 5,
+    "totalBids": 20,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 5,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "0c630117-23e0-47f8-a9a9-bdadda4a1542",
+      "attomId": null,
+      "offerDate": "2024-01-26T06:00:00.000Z",
+      "offerPrice": 76000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "6068fdcc-cc1a-49c7-9ad6-9ea879a4183e",
+      "attomId": null,
+      "offerDate": "2024-05-09T05:00:00.000Z",
+      "offerPrice": 115000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0194ad38-e725-7239-8203-2ffe1c1ff9d1",
+      "attomId": 296517680,
+      "offerDate": "2025-01-31T06:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "6006 US HIGHWAY 60 E, MOREHEAD KY",
+      "city": "MOREHEAD",
+      "state": "KY",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 28800,
+      "lotSize": 0,
+      "lat": 38.2069093,
+      "lng": -83.4029254
+    },
+    {
+      "propertyId": "01971715-8cfe-776c-bf02-4f62f89375ce",
+      "attomId": 296510289,
+      "offerDate": "2025-07-01T05:00:00.000Z",
+      "offerPrice": 62500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "105 OLD US HIGHWAY 60, MOREHEAD KY",
+      "city": "MOREHEAD",
+      "state": "KY",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 0,
+      "lotSize": 0,
+      "lat": 38.2069093,
+      "lng": -83.4029254
+    },
+    {
+      "propertyId": "019b04ae-47d4-78b9-84c6-270909aba429",
+      "attomId": 295476597,
+      "offerDate": "2025-12-11T06:00:00.000Z",
+      "offerPrice": 72500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "134 W 8TH ST, PARIS KY",
+      "city": "PARIS",
+      "state": "KY",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0,
+      "lat": 38.2106925,
+      "lng": -84.2570818
+    }
+  ]
+}

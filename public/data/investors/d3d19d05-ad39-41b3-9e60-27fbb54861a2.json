@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "d3d19d05-ad39-41b3-9e60-27fbb54861a2",
+    "name": "Josiah Wilson",
+    "email": "twentyonerealestate@gmail.com",
+    "phone": "+1 (512) 676-1528",
+    "totalWon": 3,
+    "totalBids": 9,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "9f2ea4fb-328e-4874-a966-0c19ae7ffa97",
+      "attomId": null,
+      "offerDate": "2023-06-29T05:00:00.000Z",
+      "offerPrice": 100000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "50b1b708-906c-4dcf-9356-ec44527ea827",
+      "attomId": null,
+      "offerDate": "2024-03-09T06:00:00.000Z",
+      "offerPrice": 62000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0193786b-80b9-733c-95c1-93fb3ccb683d",
+      "attomId": 210146887,
+      "offerDate": "2025-06-02T05:00:00.000Z",
+      "offerPrice": 56500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "574 OAKLAWN DR ROCKDALE MILAM TX USA 76567",
+      "city": "ROCKDALE",
+      "state": "TX",
+      "beds": 0,
+      "baths": null,
+      "sqft": 900,
+      "lotSize": 0.6749082,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

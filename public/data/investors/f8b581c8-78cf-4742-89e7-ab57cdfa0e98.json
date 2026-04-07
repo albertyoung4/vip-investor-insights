@@ -1,0 +1,149 @@
+{
+  "investor": {
+    "id": "f8b581c8-78cf-4742-89e7-ab57cdfa0e98",
+    "name": "Brie King",
+    "email": "realestatebrie@gmail.com",
+    "phone": "+1 (931) 993-3097",
+    "totalWon": 3,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "rowdon holdings llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 3,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "3d822f46-24c8-46d2-80f4-7b36aaa0adb1",
+      "attomId": null,
+      "offerDate": "2023-09-22T05:00:00.000Z",
+      "offerPrice": 93000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0dc7fb32-96ce-4c15-bfa1-9463267b1700",
+      "attomId": null,
+      "offerDate": "2024-04-28T05:00:00.000Z",
+      "offerPrice": 122000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01927164-1c52-7614-93de-45bb073cd0dd",
+      "attomId": 36232136,
+      "offerDate": "2024-10-10T05:00:00.000Z",
+      "offerPrice": 53000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "308 3RD AVE, FAYETTEVILLE TN",
+      "city": "FAYETTEVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 754,
+      "lotSize": 0.2582645,
+      "lat": 35.154678,
+      "lng": -86.5692687
+    },
+    {
+      "propertyId": null,
+      "attomId": 152198349,
+      "offerDate": "2025-12-08T06:00:00.000Z",
+      "offerPrice": 680000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "207 BRANCH LN, KNOXVILLE TN",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 3300,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null,
+      "entity": "ROWDON HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 198334386,
+      "offerDate": "2025-08-28T05:00:00.000Z",
+      "offerPrice": 150000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "33 EASTWOOD DR, FAYETTEVILLE TN",
+      "city": "FAYETTEVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1600,
+      "lotSize": 0.6969697,
+      "lat": null,
+      "lng": null,
+      "entity": "ROWDON HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 201640092,
+      "offerDate": "2025-07-28T05:00:00.000Z",
+      "offerPrice": 349900,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3472 JOHN ALLEN RD, CORNERSVILLE TN",
+      "city": "CORNERSVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1721,
+      "lotSize": 1.27,
+      "lat": null,
+      "lng": null,
+      "entity": "ROWDON HOLDINGS LLC"
+    }
+  ]
+}

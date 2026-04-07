@@ -1,0 +1,93 @@
+{
+  "investor": {
+    "id": "eb0ae82b-7ffa-4f7b-bb5f-79485e17a429",
+    "name": "Brian Bedinger",
+    "email": "bqpremierpropertysolutions@gmail.com",
+    "phone": "+1 (901) 338-9228",
+    "totalWon": 3,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": []
+  },
+  "stats": {
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "0e1fb617-9837-4878-baca-3014f32db63c",
+      "attomId": null,
+      "offerDate": "2024-03-13T05:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "2d99bcd8-09ce-4c49-83b1-4c1a37b0571d",
+      "attomId": null,
+      "offerDate": "2024-04-16T05:00:00.000Z",
+      "offerPrice": 2500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "e625d507-dff8-41ef-8986-3b71d898d509",
+      "attomId": null,
+      "offerDate": "2024-05-13T05:00:00.000Z",
+      "offerPrice": 54500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    }
+  ]
+}

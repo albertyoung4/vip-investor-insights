@@ -1,0 +1,95 @@
+{
+  "investor": {
+    "id": "0192a23e-6613-7a48-9ea3-8d672e09a108",
+    "name": "Devin Buford",
+    "email": "dlb91123@yahoo.com",
+    "phone": "+1 (901) 262-6743",
+    "totalWon": 3,
+    "totalBids": 3,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "devin buford"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 0,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 2,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "18b867b5-c8e9-464f-afa9-d0bff8d0deba",
+      "attomId": 26870217,
+      "offerDate": "2024-10-19T05:00:00.000Z",
+      "offerPrice": 21000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2904 WHITE ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1012,
+      "lotSize": 0.1899908,
+      "lat": 35.1510962,
+      "lng": -90.1480289
+    },
+    {
+      "propertyId": "0197219a-f78e-791d-8cbd-404234b62ae0",
+      "attomId": 140413297,
+      "offerDate": "2025-10-31T05:00:00.000Z",
+      "offerPrice": 14000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "705 CENTRAL ST, EARLE AR",
+      "city": "EARLE",
+      "state": "AR",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 2030,
+      "lotSize": 0.3399908,
+      "lat": 35.2716427,
+      "lng": -90.4623466
+    },
+    {
+      "propertyId": "019a92c5-be11-7085-a61b-46ad47e416fc",
+      "attomId": 214312420,
+      "offerDate": "2025-11-20T06:00:00.000Z",
+      "offerPrice": 70000,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": "900 DRAPER RD TALLADEGA TALLADEGA AL USA 35160",
+      "city": "TALLADEGA",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 3486,
+      "lotSize": 1.5,
+      "lat": 33.4829496,
+      "lng": -86.1788591
+    }
+  ]
+}

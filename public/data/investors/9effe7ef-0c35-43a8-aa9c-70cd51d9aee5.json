@@ -1,0 +1,81 @@
+{
+  "investor": {
+    "id": "9effe7ef-0c35-43a8-aa9c-70cd51d9aee5",
+    "name": "PHIL DUKE",
+    "email": "phil.duke@1stclassre.com",
+    "phone": "+1 (205) 454-9247",
+    "totalWon": 3,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "prodigy marketing llc",
+      "talent boost llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 0,
+    "recorderTransactions": 2,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 183488499,
+      "offerDate": "2025-04-23T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3232 SOUTHMONT DR, MONTGOMERY AL",
+      "city": "MONTGOMERY",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1218,
+      "lotSize": 0.2984389,
+      "lat": 32.3361235,
+      "lng": -86.3049954,
+      "entity": "PRODIGY MARKETING LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 290580231,
+      "offerDate": "2025-12-04T06:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "411 6TH ST NE, FAYETTE AL",
+      "city": "FAYETTE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1624,
+      "lotSize": 0,
+      "lat": 29.9764785,
+      "lng": 30.9521651,
+      "entity": "TALENT BOOST LLC"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "investor": {
+    "id": "35ca761e-94cc-499c-832b-dcebcd53e530",
+    "name": "Steven Lane",
+    "email": "sales@fthomesales.com",
+    "phone": "+1 (937) 416-2315",
+    "totalWon": 3,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "fast track home sales llc"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 3,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "665a2d76-01b9-4223-ad33-339ea7ad8376",
+      "attomId": null,
+      "offerDate": "2024-08-18T05:00:00.000Z",
+      "offerPrice": 52000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "28c39623-fdf1-4e13-b00a-021d17ce365f",
+      "attomId": null,
+      "offerDate": "2024-08-18T05:00:00.000Z",
+      "offerPrice": 148000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0192b48c-ea7f-7319-9dad-db9c9ef5e400",
+      "attomId": 182455249,
+      "offerDate": "2024-10-29T05:00:00.000Z",
+      "offerPrice": 70000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1739 GONDERT AVE, DAYTON OH",
+      "city": "DAYTON",
+      "state": "OH",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 940,
+      "lotSize": 0.0975895,
+      "lat": 39.7544974,
+      "lng": -84.1306206
+    },
+    {
+      "propertyId": null,
+      "attomId": 183061566,
+      "offerDate": "2026-02-17T06:00:00.000Z",
+      "offerPrice": 120000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3830 ROSECLIFF DR, DAYTON OH",
+      "city": "DAYTON",
+      "state": "OH",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1632,
+      "lotSize": 0,
+      "lat": null,
+      "lng": null,
+      "entity": "FAST TRACK HOME SALES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 26870315,
+      "offerDate": "2025-04-17T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1318 SWISHER AVE # 1320, DAYTON OH",
+      "city": "DAYTON",
+      "state": "OH",
+      "beds": 6,
+      "baths": 2,
+      "sqft": 2376,
+      "lotSize": 0.0780992,
+      "lat": null,
+      "lng": null,
+      "entity": "FAST TRACK HOME SALES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 182810221,
+      "offerDate": "2025-04-03T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1013 VIRGINIA AVE, FRANKLIN OH",
+      "city": "FRANKLIN",
+      "state": "OH",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1724,
+      "lotSize": 0.5148072,
+      "lat": 39.9810496,
+      "lng": -83.0375677,
+      "entity": "FAST TRACK HOME SALES LLC"
+    }
+  ]
+}
