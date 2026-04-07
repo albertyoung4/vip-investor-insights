@@ -1,0 +1,84 @@
+{
+  "investor": {
+    "id": "0192bbaf-79ea-76b9-b137-4961fc1c70c9",
+    "name": "Yvonne Guillen",
+    "email": "yvonne.guillen18@hotmail.com",
+    "phone": "+1 (205) 382-2639",
+    "totalWon": 2,
+    "totalBids": 10,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "YVONNE GUILLEN"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 2,
+    "recorderTransactions": 1,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": "019939cf-85dc-727d-877a-c95062bb30f6",
+      "attomId": 215256063,
+      "offerDate": "2025-09-12T05:00:00.000Z",
+      "offerPrice": 6000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1109 JOHNSON AVE",
+      "city": "ANNISTON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.634989,
+      "lng": -85.832527
+    },
+    {
+      "propertyId": "01941d6a-036b-7b0e-9617-b1d3a607bc88",
+      "attomId": 312447066,
+      "offerDate": "2025-01-03T05:00:00.000Z",
+      "offerPrice": 11000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "186 CREST CIR",
+      "city": "SPRINGVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.769624,
+      "lng": -86.491926
+    },
+    {
+      "propertyId": null,
+      "attomId": 312447066,
+      "offerDate": "2025-02-04T05:00:00.000Z",
+      "offerPrice": 6000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "186 CREST CIR, SPRINGVILLE AL",
+      "city": "SPRINGVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.769624,
+      "lng": -86.491926,
+      "entity": "YVONNE GUILLEN"
+    }
+  ]
+}

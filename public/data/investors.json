@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T19:43:16.845Z",
+  "generatedAt": "2026-04-07T12:00:00.000Z",
   "investors": [
     {
       "id": "01940f6b-8260-7f82-b39b-9ff849de4509",
@@ -730,6 +730,132 @@
       "entities": [
         "BBE ASSET HOLDINGS LLC",
         "RBE ASSET HOLDINGS LLC"
+      ]
+    },
+    {
+      "id": "0192a64b-5466-74bc-aa9c-f05c28f03359",
+      "name": "Eltra Leigh Jr",
+      "email": "scraprealestate@gmail.com",
+      "phone": "+1 (901) 870-6861",
+      "totalWon": 2,
+      "totalBids": 7,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "SAVVY TN SOLUTIONS LLC",
+        "MEMPHIS INVESTMENT PROPERTIES III L",
+        "LOCKS COURTIER SERVICE LLC",
+        "DAMON MCKAY",
+        "JACK WHITAKER JR"
+      ]
+    },
+    {
+      "id": "b9ab6790-24cf-4060-bd81-b61332456555",
+      "name": "Jake Schultz",
+      "email": "jake@securealestate.com",
+      "phone": "+1 (440) 252-0842",
+      "totalWon": 2,
+      "totalBids": 3,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "SECUREALESTATE INVESTMENTS LLC",
+        "PROJECT MADHOUSE LLC",
+        "IHAB PROPERTIES LLC"
+      ]
+    },
+    {
+      "id": "6e977ddd-8a8e-4272-ba8f-aa4ebe58ac6e",
+      "name": "Alec Anderson",
+      "email": "alec@renewpropertybuyers.com",
+      "phone": "+1 (423) 486-3566",
+      "totalWon": 2,
+      "totalBids": 8,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "AZ INVESTMENTS LLC",
+        "A Z INVESTMENTS LLC"
+      ]
+    },
+    {
+      "id": "c3925519-bf27-4d04-a7ba-b02e0142835a",
+      "name": "Max Lomas",
+      "email": "max@maxlomas.com",
+      "phone": "+1 (215) 207-8676",
+      "totalWon": 2,
+      "totalBids": 25,
+      "ytdWon": 0,
+      "ytdBids": 3,
+      "entities": [
+        "HCF PROPERTIES LLC",
+        "ASSETRICH LLC"
+      ]
+    },
+    {
+      "id": "adbb5834-2be1-43e8-ba7f-bd414a8bb87d",
+      "name": "Daniel Morgan",
+      "email": "twowheelenterprises@icloud.com",
+      "phone": "+1 (865) 244-0409",
+      "totalWon": 2,
+      "totalBids": 4,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "DANIEL MORGAN"
+      ]
+    },
+    {
+      "id": "0197a494-ea7c-75ea-91e2-4e6752b4670a",
+      "name": "Drew Side",
+      "email": "side.drew@gmail.com",
+      "phone": "+1 (856) 701-6462",
+      "totalWon": 2,
+      "totalBids": 5,
+      "ytdWon": 1,
+      "ytdBids": 3,
+      "entities": [
+        "CAMBRIDGE RE HOLDINGS LLC",
+        "TYPE TWO HOLDINGS LLC"
+      ]
+    },
+    {
+      "id": "0192bbaf-79ea-76b9-b137-4961fc1c70c9",
+      "name": "Yvonne Guillen",
+      "email": "yvonne.guillen18@hotmail.com",
+      "phone": "+1 (205) 382-2639",
+      "totalWon": 2,
+      "totalBids": 10,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "YVONNE GUILLEN"
+      ]
+    },
+    {
+      "id": "ef54a4ee-d1b5-4d55-9092-c0bbfb7d6d63",
+      "name": "Nate Hock",
+      "email": "natehock90@gmail.com",
+      "phone": "+1 (502) 296-2555",
+      "totalWon": 2,
+      "totalBids": 3,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "NATE HOCK ENTERPRISES LLC"
+      ]
+    },
+    {
+      "id": "03be23ca-895f-4bd4-9e36-298578fee3fc",
+      "name": "Cara Hermes",
+      "email": "carahermes.realtor@gmail.com",
+      "phone": "+1 (931) 334-3595",
+      "totalWon": 2,
+      "totalBids": 10,
+      "ytdWon": 0,
+      "ytdBids": 1,
+      "entities": [
+        "MUSIC CITY MANAGEMENT INVESTMENTS L"
       ]
     }
   ]
