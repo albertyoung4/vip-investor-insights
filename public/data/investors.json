@@ -717,6 +717,20 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": []
+    },
+    {
+      "id": "01964a24-b120-741e-817a-64424d5deb9f",
+      "name": "Wymon Brown",
+      "email": "wymonb@gmail.com",
+      "phone": "+1 (901) 319-4065",
+      "totalWon": 1,
+      "totalBids": 2,
+      "ytdWon": 0,
+      "ytdBids": 0,
+      "entities": [
+        "BBE ASSET HOLDINGS LLC",
+        "RBE ASSET HOLDINGS LLC"
+      ]
     }
   ]
 }

@@ -1,0 +1,82 @@
+{
+  "investor": {
+    "id": "01964a24-b120-741e-817a-64424d5deb9f",
+    "name": "Wymon Brown",
+    "email": "wymonb@gmail.com",
+    "phone": "+1 (901) 319-4065",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "BBE ASSET HOLDINGS LLC",
+      "RBE ASSET HOLDINGS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 2,
+    "quarterlyStats": {
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 53547311,
+      "offerDate": "2025-04-21",
+      "offerPrice": 90000,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "910 N EVERGREEN ST, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.162873,
+      "lng": -90.000429
+    },
+    {
+      "propertyId": null,
+      "attomId": 7049782,
+      "offerDate": "2019-09-17",
+      "offerPrice": 69000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "519 JOSEPHINE ST, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.117878,
+      "lng": -89.969851,
+      "entity": "BBE ASSET HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 964065,
+      "offerDate": "2023-02-27",
+      "offerPrice": 0,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "898 FAXON AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.156352,
+      "lng": -90.028946,
+      "entity": "RBE ASSET HOLDINGS LLC"
+    }
+  ]
+}
