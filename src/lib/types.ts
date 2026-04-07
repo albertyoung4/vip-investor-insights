@@ -27,6 +27,11 @@ export interface PropertyDetail {
   lat: number | null;
   lng: number | null;
   entity?: string;
+  omrMatch?: {
+    posterName: string | null;
+    askingPrice: number | null;
+    postedAt: string | null;
+  };
 }
 
 export interface QuarterlyStats {
@@ -42,6 +47,40 @@ export interface InvestorProfile {
     quarterlyStats: QuarterlyStats;
   };
   properties: PropertyDetail[];
+}
+
+export interface PurchaseBreakdown {
+  mls2025: number;
+  offMarket2025: number;
+  rebuilt2025: number;
+  mls2026: number;
+  offMarket2026: number;
+  rebuilt2026: number;
+}
+
+export interface CommissionData {
+  totalDeals2025: number;
+  mlsDeals2025: number;
+  offMarketDeals2025: number;
+  rebuiltDeals2025: number;
+  mlsRate: number;
+  recorderVolume2025: number;
+  estMlsVolume2025: number;
+  estCommission3pct: number;
+  opportunityType: "MLS-Heavy" | "Off-Market" | "Mixed";
+}
+
+export interface CommissionFile {
+  year: number;
+  generatedAt: string;
+  investors: Record<string, CommissionData>;
+  totals: {
+    totalDeals: number;
+    mlsDeals: number;
+    recorderVolume: number;
+    estMlsVolume: number;
+    estCommission: number;
+  };
 }
 
 export interface InvestorsData {

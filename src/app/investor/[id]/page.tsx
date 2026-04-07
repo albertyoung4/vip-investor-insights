@@ -16,6 +16,14 @@ function getDataDir() {
   return candidate;
 }
 
+export function generateStaticParams() {
+  const investorDir = path.join(getDataDir(), "investors");
+  if (!fs.existsSync(investorDir)) return [];
+  return fs.readdirSync(investorDir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => ({ id: f.replace(".json", "") }));
+}
+
 export default async function InvestorPage({
   params,
 }: {
@@ -43,6 +51,17 @@ export default async function InvestorPage({
   const raw = fs.readFileSync(filePath, "utf-8");
   const profile: InvestorProfile = JSON.parse(raw);
   const { investor: inv, stats, properties } = profile;
+
+  // Load MLS classification data
+  const mlsCsvPath = path.join(getDataDir(), "mls-check-results.csv");
+  const mlsInfo: Record<string, { category: string; exitStrategy: string }> = {};
+  if (fs.existsSync(mlsCsvPath)) {
+    const mlsLines = fs.readFileSync(mlsCsvPath, "utf-8").trim().split("\n").slice(1);
+    for (const line of mlsLines) {
+      const parts = line.split(",");
+      mlsInfo[parts[0]] = { category: parts[4] || "Off Market", exitStrategy: parts[5] || "" };
+    }
+  }
 
   const rebuiltShare =
     stats.rebuiltTransactions + stats.recorderTransactions > 0
@@ -108,7 +127,7 @@ export default async function InvestorPage({
         <InvestorMap properties={properties} />
       </div>
 
-      <PropertyTable properties={properties} />
+      <PropertyTable properties={properties} mlsInfo={mlsInfo} />
     </main>
   );
 }
