@@ -1,0 +1,147 @@
+{
+  "investor": {
+    "id": "0192c42e-d632-7bc2-9d11-c70f2d92ba63",
+    "name": "Khadisha Vlahos",
+    "email": "khadishavlahos@edringtonteam.com",
+    "phone": "+1 (423) 647-1614",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "JOHN E WATERS",
+      "MARK U LANGE"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
+    "quarterlyStats": {
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 10095604,
+      "offerDate": "2024-10-25",
+      "offerPrice": 288000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "7009 BARLEYFIELD DR, HARRISON tn",
+      "city": "HARRISON",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.125321,
+      "lng": -85.134045
+    },
+    {
+      "propertyId": null,
+      "attomId": 204325688,
+      "offerDate": "2025-08-21",
+      "offerPrice": 300000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "7738 PINEWOOD DR, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.043399,
+      "lng": -85.132061
+    },
+    {
+      "propertyId": null,
+      "attomId": 329568119,
+      "offerDate": "2025-10-20",
+      "offerPrice": 420000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1645 AUGUSTA DR, SEWARD NE",
+      "city": "SEWARD",
+      "state": "NE",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.922154,
+      "lng": -97.107302
+    },
+    {
+      "propertyId": null,
+      "attomId": 197764500,
+      "offerDate": "2025-10-09",
+      "offerPrice": 359000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "17 PARK ST, PROCTOR VT",
+      "city": "PROCTOR",
+      "state": "VT",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 43.654627,
+      "lng": -73.030328
+    },
+    {
+      "propertyId": null,
+      "attomId": 185180821,
+      "offerDate": "2025-02-18",
+      "offerPrice": 825000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5622 157TH PL SW, EDMONDS WA",
+      "city": "EDMONDS",
+      "state": "WA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 47.85571,
+      "lng": -122.309982
+    },
+    {
+      "propertyId": null,
+      "attomId": 225543480,
+      "offerDate": "2024-07-24",
+      "offerPrice": 925000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "11774 SW 61ST PLACE RD, OCALA FL",
+      "city": "OCALA",
+      "state": "FL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 29.142827,
+      "lng": -82.314368
+    }
+  ]
+}

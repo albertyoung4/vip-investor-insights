@@ -1,0 +1,256 @@
+{
+  "investor": {
+    "id": "0194ca53-6af7-78b2-84df-8b28f26c4866",
+    "name": "Amy Allen",
+    "email": "caseamy88@yahoo.com",
+    "phone": "+1 (205) 283-2603",
+    "totalWon": 1,
+    "totalBids": 3,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": [
+      "AMY ALLEN"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 9,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 11,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 3
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 221265846,
+      "offerDate": "2025-02-03",
+      "offerPrice": 25000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "267 MCGINNIS ST, SPRINGVILLE al",
+      "city": "SPRINGVILLE",
+      "state": "al",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.783101,
+      "lng": -86.467406
+    },
+    {
+      "propertyId": null,
+      "attomId": 231224913,
+      "offerDate": "2025-11-06",
+      "offerPrice": 20000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "439 CREAMERY BRIDGE RD, ENOSBURG FLS VT",
+      "city": "ENOSBURG FLS",
+      "state": "VT",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 20819846,
+      "offerDate": "2025-10-02",
+      "offerPrice": 335000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "7121 BRIARCLIFF RD, REYNOLDSBURG OH",
+      "city": "REYNOLDSBURG",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.962359,
+      "lng": -82.808545
+    },
+    {
+      "propertyId": null,
+      "attomId": 32610953,
+      "offerDate": "2025-09-10",
+      "offerPrice": 540000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "532 MAY FARM RD, PITTSBORO NC",
+      "city": "PITTSBORO",
+      "state": "NC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.709122,
+      "lng": -79.172865
+    },
+    {
+      "propertyId": null,
+      "attomId": 182690767,
+      "offerDate": "2025-07-16",
+      "offerPrice": 285000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1844 HARLAN RD, WAYNESVILLE OH",
+      "city": "WAYNESVILLE",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.552355,
+      "lng": -84.159325
+    },
+    {
+      "propertyId": null,
+      "attomId": 39322835,
+      "offerDate": "2025-05-16",
+      "offerPrice": 340000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1857 OCTAVIA DR, MANDEVILLE LA",
+      "city": "MANDEVILLE",
+      "state": "LA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 30.377159,
+      "lng": -90.029345
+    },
+    {
+      "propertyId": null,
+      "attomId": 20402524,
+      "offerDate": "2025-05-12",
+      "offerPrice": 243000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1207 HEIMAN ST, NASHVILLE TN",
+      "city": "NASHVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.173732,
+      "lng": -86.801815
+    },
+    {
+      "propertyId": null,
+      "attomId": 302173168,
+      "offerDate": "2025-02-19",
+      "offerPrice": 94000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "28134 400TH ST, BROWERVILLE MN",
+      "city": "BROWERVILLE",
+      "state": "MN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 46.210929,
+      "lng": -94.779724
+    },
+    {
+      "propertyId": null,
+      "attomId": 20745725,
+      "offerDate": "2025-01-17",
+      "offerPrice": 325000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "318 BROOKEDGE TER, SEBASTIAN FL",
+      "city": "SEBASTIAN",
+      "state": "FL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 27.771507,
+      "lng": -80.479579
+    },
+    {
+      "propertyId": null,
+      "attomId": 1001789493,
+      "offerDate": "2024-09-13",
+      "offerPrice": 519100,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4557 NAUTILUS CIR, VERO BEACH FL",
+      "city": "VERO BEACH",
+      "state": "FL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 54123430,
+      "offerDate": "2024-05-09",
+      "offerPrice": 495000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "8739 W ADAM AVE, PEORIA AZ",
+      "city": "PEORIA",
+      "state": "AZ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.677468,
+      "lng": -112.247456
+    },
+    {
+      "propertyId": null,
+      "attomId": 18489880,
+      "offerDate": "2024-02-16",
+      "offerPrice": 450000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3016 W BECK LN, PHOENIX AZ",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.626842,
+      "lng": -112.122007
+    }
+  ]
+}

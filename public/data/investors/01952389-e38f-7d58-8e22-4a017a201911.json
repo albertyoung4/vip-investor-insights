@@ -1,0 +1,181 @@
+{
+  "investor": {
+    "id": "01952389-e38f-7d58-8e22-4a017a201911",
+    "name": "April Wood",
+    "email": "realty@aprilwood.net",
+    "phone": "+1 (502) 644-1253",
+    "totalWon": 1,
+    "totalBids": 1,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "MICHAEL YARBROUGH",
+      "TYNISKI THAXTON"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 34333699,
+      "offerDate": "2025-02-20",
+      "offerPrice": 63000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "624 S 41ST ST, LOUISVILLE ky",
+      "city": "LOUISVILLE",
+      "state": "ky",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.254288,
+      "lng": -85.819686
+    },
+    {
+      "propertyId": null,
+      "attomId": 177101468,
+      "offerDate": "2026-02-13",
+      "offerPrice": 158000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "130 MARLIN DR, LEXINGTON NC",
+      "city": "LEXINGTON",
+      "state": "NC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.776576,
+      "lng": -80.316546
+    },
+    {
+      "propertyId": null,
+      "attomId": 236689537,
+      "offerDate": "2026-01-28",
+      "offerPrice": 1063,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "6421 HACKBERRY DR, FRENCH VILLAGE MO",
+      "city": "FRENCH VILLAGE",
+      "state": "MO",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.990973,
+      "lng": -90.342074
+    },
+    {
+      "propertyId": null,
+      "attomId": 158703177,
+      "offerDate": "2025-12-17",
+      "offerPrice": 685000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1770 W HAWK WAY, CHANDLER AZ",
+      "city": "CHANDLER",
+      "state": "AZ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.263656,
+      "lng": -111.87224
+    },
+    {
+      "propertyId": null,
+      "attomId": 230499407,
+      "offerDate": "2025-10-06",
+      "offerPrice": 693112,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2069 CHIPPOKES FARM RD, SURRY VA",
+      "city": "SURRY",
+      "state": "VA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 186477636,
+      "offerDate": "2025-06-23",
+      "offerPrice": 750000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "26056 NEPTUNES LNDG, TEGA CAY SC",
+      "city": "TEGA CAY",
+      "state": "SC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.038077,
+      "lng": -81.032331
+    },
+    {
+      "propertyId": null,
+      "attomId": 327125896,
+      "offerDate": "2025-02-12",
+      "offerPrice": 598500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "35184 N MAGNETTE WAY, SAN TAN VALLEY AZ",
+      "city": "SAN TAN VALLEY",
+      "state": "AZ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.198504,
+      "lng": -111.605535
+    },
+    {
+      "propertyId": null,
+      "attomId": 176542988,
+      "offerDate": "2024-02-15",
+      "offerPrice": 200000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "475 TURKEY POINT RD, SNEADS FERRY NC",
+      "city": "SNEADS FERRY",
+      "state": "NC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.502658,
+      "lng": -77.459724
+    }
+  ]
+}

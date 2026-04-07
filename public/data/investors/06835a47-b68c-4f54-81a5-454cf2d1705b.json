@@ -1,0 +1,222 @@
+{
+  "investor": {
+    "id": "06835a47-b68c-4f54-81a5-454cf2d1705b",
+    "name": "David Dean",
+    "email": "ddeanky@hotmail.com",
+    "phone": "+1 (502) 545-0654",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "LIMESTONE RENTALS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 9,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 295754913,
+      "offerDate": "2024-03-14",
+      "offerPrice": 125000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "708 WOODLAND AVE, FRANKFORT ky",
+      "city": "FRANKFORT",
+      "state": "ky",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.1882769,
+      "lng": -84.87839230000002
+    },
+    {
+      "propertyId": null,
+      "attomId": 142071663,
+      "offerDate": "2026-01-08",
+      "offerPrice": 110000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "905 VILLA AVE, INDIANAPOLIS IN",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.755006,
+      "lng": -86.126802
+    },
+    {
+      "propertyId": null,
+      "attomId": 197886308,
+      "offerDate": "2025-12-30",
+      "offerPrice": 86000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5426 BROOKVILLE RD, INDIANAPOLIS IN",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.760776,
+      "lng": -86.075839
+    },
+    {
+      "propertyId": null,
+      "attomId": 197172277,
+      "offerDate": "2025-12-30",
+      "offerPrice": 110000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5805 SOUTHEASTERN AVE, INDIANAPOLIS IN",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.73592,
+      "lng": -86.066939
+    },
+    {
+      "propertyId": null,
+      "attomId": 53254068,
+      "offerDate": "2025-10-20",
+      "offerPrice": 95000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4626 FARRINGTON AVE, INDIANAPOLIS IN",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.76597,
+      "lng": -86.090131
+    },
+    {
+      "propertyId": null,
+      "attomId": 295753259,
+      "offerDate": "2025-09-24",
+      "offerPrice": 155000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "212 PAYNE ST, FRANKFORT KY",
+      "city": "FRANKFORT",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.202604,
+      "lng": -84.88588
+    },
+    {
+      "propertyId": null,
+      "attomId": 17375054,
+      "offerDate": "2025-08-13",
+      "offerPrice": 105000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "159 N 9TH AVE, BEECH GROVE IN",
+      "city": "BEECH GROVE",
+      "state": "IN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.724537,
+      "lng": -86.091842
+    },
+    {
+      "propertyId": null,
+      "attomId": 295757349,
+      "offerDate": "2025-01-31",
+      "offerPrice": 70000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "90 HILLTOP DR, FRANKFORT KY",
+      "city": "FRANKFORT",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.261052,
+      "lng": -84.849589
+    },
+    {
+      "propertyId": null,
+      "attomId": 202466132,
+      "offerDate": "2024-10-25",
+      "offerPrice": 250000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "8510 E MCGREGOR RD, INDIANAPOLIS IN",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.659809,
+      "lng": -86.01727
+    },
+    {
+      "propertyId": null,
+      "attomId": 331972723,
+      "offerDate": "2024-05-02",
+      "offerPrice": 365000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "47625 COUNTY ROUTE 1, REDWOOD NY",
+      "city": "REDWOOD",
+      "state": "NY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 44.357136,
+      "lng": -75.852509
+    }
+  ]
+}

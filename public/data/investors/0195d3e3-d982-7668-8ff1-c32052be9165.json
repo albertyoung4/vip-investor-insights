@@ -1,0 +1,201 @@
+{
+  "investor": {
+    "id": "0195d3e3-d982-7668-8ff1-c32052be9165",
+    "name": "Adnan Trgo",
+    "email": "Adnant@diamondcutandcore.com",
+    "phone": "+1 (859) 553-3500",
+    "totalWon": 1,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "KAIZEN INVESTMENTS GROUP LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 8,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 3
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 296230875,
+      "offerDate": "2025-08-07",
+      "offerPrice": 220000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "119 BUCKWOOD DR, RICHMOND ky",
+      "city": "RICHMOND",
+      "state": "ky",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.745124,
+      "lng": -84.310572
+    },
+    {
+      "propertyId": null,
+      "attomId": 214598108,
+      "offerDate": "2026-03-12",
+      "offerPrice": 265000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "154 WABASH DR, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.016665,
+      "lng": -84.520353
+    },
+    {
+      "propertyId": null,
+      "attomId": 207684476,
+      "offerDate": "2025-12-17",
+      "offerPrice": 180000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3529 WINDGATE WAY, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.979454,
+      "lng": -84.502825
+    },
+    {
+      "propertyId": null,
+      "attomId": 211605614,
+      "offerDate": "2025-08-15",
+      "offerPrice": 260000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "235 DANTZLER CT, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.024811,
+      "lng": -84.517471
+    },
+    {
+      "propertyId": null,
+      "attomId": 145013397,
+      "offerDate": "2025-07-29",
+      "offerPrice": 191700,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1746 GETTYSBURG RD, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.038405,
+      "lng": -84.542005
+    },
+    {
+      "propertyId": null,
+      "attomId": 214338303,
+      "offerDate": "2025-05-21",
+      "offerPrice": 265000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "158 WABASH DR, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.016769,
+      "lng": -84.520646
+    },
+    {
+      "propertyId": null,
+      "attomId": 296207599,
+      "offerDate": "2025-05-12",
+      "offerPrice": 205000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1102 BRANDY LN, RICHMOND KY",
+      "city": "RICHMOND",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.772321,
+      "lng": -84.325093
+    },
+    {
+      "propertyId": null,
+      "attomId": 212320509,
+      "offerDate": "2024-07-25",
+      "offerPrice": 141000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "750 SANDPIPER CT, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.092504,
+      "lng": -84.454188
+    },
+    {
+      "propertyId": null,
+      "attomId": 206518874,
+      "offerDate": "2024-03-05",
+      "offerPrice": 255000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "317 HAYS BLVD, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.982932,
+      "lng": -84.414244
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "investor": {
+    "id": "b1ef0570-ef5e-4113-b9a1-a1eab0d4fbe7",
+    "name": "Michael Adly",
+    "email": "mike2010m@yahoo.com",
+    "phone": "+1 (615) 243-9139",
+    "totalWon": 1,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "SAFWAT NOUH",
+      "THUY MILY"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 13,
+    "quarterlyStats": {
+      "2023-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 8554114,
+      "offerDate": "2023-08-07",
+      "offerPrice": 207500.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "2132 12TH AVE N, NASHVILLE tn",
+      "city": "NASHVILLE",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.19,
+      "lng": -86.81
+    },
+    {
+      "propertyId": null,
+      "attomId": 188102727,
+      "offerDate": "2026-03-10",
+      "offerPrice": 268000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "361 CLEARLAKE DR W, NASHVILLE TN",
+      "city": "NASHVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.090061,
+      "lng": -86.613741
+    },
+    {
+      "propertyId": null,
+      "attomId": 190072999,
+      "offerDate": "2026-02-06",
+      "offerPrice": 199300,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1907 RUSSELL DR, MURFREESBORO TN",
+      "city": "MURFREESBORO",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.8168,
+      "lng": -86.361055
+    },
+    {
+      "propertyId": null,
+      "attomId": 143110763,
+      "offerDate": "2026-01-12",
+      "offerPrice": 196900,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "137 NELSON DR, LA VERGNE TN",
+      "city": "LA VERGNE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.997614,
+      "lng": -86.565589
+    },
+    {
+      "propertyId": null,
+      "attomId": 158141187,
+      "offerDate": "2025-10-13",
+      "offerPrice": 205000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "33 FAWN CREEK PASS, NASHVILLE TN",
+      "city": "NASHVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.121392,
+      "lng": -86.629836
+    },
+    {
+      "propertyId": null,
+      "attomId": 44469643,
+      "offerDate": "2025-10-08",
+      "offerPrice": 230000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "804 BISHOPSGATE RD, ANTIOCH TN",
+      "city": "ANTIOCH",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.080532,
+      "lng": -86.658704
+    },
+    {
+      "propertyId": null,
+      "attomId": 141649248,
+      "offerDate": "2025-08-05",
+      "offerPrice": 212000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "119 DAYTONA CT, CHRISTIANA TN",
+      "city": "CHRISTIANA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.732145,
+      "lng": -86.351758
+    },
+    {
+      "propertyId": null,
+      "attomId": 188656289,
+      "offerDate": "2025-05-27",
+      "offerPrice": 210000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1114 N ACADEMY ST # 1116, MURFREESBORO TN",
+      "city": "MURFREESBORO",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.859041,
+      "lng": -86.38655
+    },
+    {
+      "propertyId": null,
+      "attomId": 33332376,
+      "offerDate": "2025-05-20",
+      "offerPrice": 169950,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1902 MEADOWGREEN DR, MURFREESBORO TN",
+      "city": "MURFREESBORO",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.828292,
+      "lng": -86.362079
+    },
+    {
+      "propertyId": null,
+      "attomId": 4522789,
+      "offerDate": "2025-02-04",
+      "offerPrice": 268000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "308 WAREHAM CT, ANTIOCH TN",
+      "city": "ANTIOCH",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.087213,
+      "lng": -86.586548
+    },
+    {
+      "propertyId": null,
+      "attomId": 44093041,
+      "offerDate": "2024-11-19",
+      "offerPrice": 245000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "709 HERITAGE DR, MADISON TN",
+      "city": "MADISON",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.272642,
+      "lng": -86.721568
+    },
+    {
+      "propertyId": null,
+      "attomId": 2104274,
+      "offerDate": "2024-10-28",
+      "offerPrice": 163900,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "412 JAKES AVE, MURFREESBORO TN",
+      "city": "MURFREESBORO",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.841562,
+      "lng": -86.329983
+    },
+    {
+      "propertyId": null,
+      "attomId": 9739022,
+      "offerDate": "2024-04-05",
+      "offerPrice": 174500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "106 HIGHLAND CT, LA VERGNE TN",
+      "city": "LA VERGNE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.008347,
+      "lng": -86.56619
+    },
+    {
+      "propertyId": null,
+      "attomId": 198789883,
+      "offerDate": "2024-01-12",
+      "offerPrice": 275000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "410 WINFREY DR, MURFREESBORO TN",
+      "city": "MURFREESBORO",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.859732,
+      "lng": -86.382704
+    }
+  ]
+}

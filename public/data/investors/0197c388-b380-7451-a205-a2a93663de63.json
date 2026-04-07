@@ -1,0 +1,239 @@
+{
+  "investor": {
+    "id": "0197c388-b380-7451-a205-a2a93663de63",
+    "name": "Becky Tucker",
+    "email": "becky@exitjusticerealty.com",
+    "phone": "+1 (205) 527-8177",
+    "totalWon": 1,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": [
+      "GILBERT CONSTRUCTION LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 10,
+    "quarterlyStats": {
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 232467808,
+      "offerDate": "2025-07-01",
+      "offerPrice": 95000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "1056 SHARON BLVD, DORA al",
+      "city": "DORA",
+      "state": "al",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.744408,
+      "lng": -87.075186
+    },
+    {
+      "propertyId": null,
+      "attomId": 232471430,
+      "offerDate": "2026-02-09",
+      "offerPrice": 40000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "45 NOBLE ST, SUMITON AL",
+      "city": "SUMITON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.747909,
+      "lng": -87.027891
+    },
+    {
+      "propertyId": null,
+      "attomId": 232471144,
+      "offerDate": "2025-09-05",
+      "offerPrice": 35000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "208 MAPLE ST, SUMITON AL",
+      "city": "SUMITON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.749596,
+      "lng": -87.04442
+    },
+    {
+      "propertyId": null,
+      "attomId": 15757332,
+      "offerDate": "2025-06-12",
+      "offerPrice": 85000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "845 E PACIFIC ST, APPLETON WI",
+      "city": "APPLETON",
+      "state": "WI",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 44.266887,
+      "lng": -88.393134
+    },
+    {
+      "propertyId": null,
+      "attomId": 153160848,
+      "offerDate": "2025-03-20",
+      "offerPrice": 35000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "206 WHEELER AVE, CHICKAMAUGA GA",
+      "city": "CHICKAMAUGA",
+      "state": "GA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.879242,
+      "lng": -85.300023
+    },
+    {
+      "propertyId": null,
+      "attomId": 204889828,
+      "offerDate": "2025-03-20",
+      "offerPrice": 35000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "206 WHEELER AVE, CHICKAMAUGA GA",
+      "city": "CHICKAMAUGA",
+      "state": "GA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.87982177734375,
+      "lng": -85.300042
+    },
+    {
+      "propertyId": null,
+      "attomId": 197131476,
+      "offerDate": "2025-01-21",
+      "offerPrice": 120000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5457 SNOWVILLE BRENT RD, DORA AL",
+      "city": "DORA",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.699369,
+      "lng": -87.022169
+    },
+    {
+      "propertyId": null,
+      "attomId": 244886972,
+      "offerDate": "2024-10-17",
+      "offerPrice": 20000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4891 ROUND POND RD, LA FAYETTE GA",
+      "city": "LA FAYETTE",
+      "state": "GA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.71918869018555,
+      "lng": -85.258276
+    },
+    {
+      "propertyId": null,
+      "attomId": 40724501,
+      "offerDate": "2024-07-24",
+      "offerPrice": 15000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "7679 BANKHEAD HWY, DORA AL",
+      "city": "DORA",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.736138,
+      "lng": -86.996976
+    },
+    {
+      "propertyId": null,
+      "attomId": 1000076374,
+      "offerDate": "2024-06-14",
+      "offerPrice": 60000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1428 WOODWAY DR, OOLTEWAH TN",
+      "city": "OOLTEWAH",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.990281,
+      "lng": -85.110608
+    },
+    {
+      "propertyId": null,
+      "attomId": 171271258,
+      "offerDate": "2024-05-02",
+      "offerPrice": 7500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "319 SCRUGGS RD, RINGGOLD GA",
+      "city": "RINGGOLD",
+      "state": "GA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.968733,
+      "lng": -85.196779
+    }
+  ]
+}

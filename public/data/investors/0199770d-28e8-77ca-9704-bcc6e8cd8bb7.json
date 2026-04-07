@@ -1,0 +1,239 @@
+{
+  "investor": {
+    "id": "0199770d-28e8-77ca-9704-bcc6e8cd8bb7",
+    "name": "Ed Tekieli",
+    "email": "edt@rehabitinc.com",
+    "phone": "+1 (216) 218-4400",
+    "totalWon": 1,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "CORNERSTONE RENOVATIONS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 10,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 3
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 17137826,
+      "offerDate": "2025-09-24",
+      "offerPrice": 52500.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "3361 E 149TH ST, CLEVELAND oh",
+      "city": "CLEVELAND",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.468168,
+      "lng": -81.577074
+    },
+    {
+      "propertyId": null,
+      "attomId": 8919019,
+      "offerDate": "2026-03-11",
+      "offerPrice": 61100,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "17106 LOTUS DR, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.445491,
+      "lng": -81.560097
+    },
+    {
+      "propertyId": null,
+      "attomId": 140599857,
+      "offerDate": "2026-02-27",
+      "offerPrice": 72000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4089 E 175TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.448539,
+      "lng": -81.556779
+    },
+    {
+      "propertyId": null,
+      "attomId": 184870637,
+      "offerDate": "2026-02-13",
+      "offerPrice": 119000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3721 N ASH ST, SPOKANE WA",
+      "city": "SPOKANE",
+      "state": "WA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 47.692764,
+      "lng": -117.436731
+    },
+    {
+      "propertyId": null,
+      "attomId": 394049,
+      "offerDate": "2025-08-29",
+      "offerPrice": 74400,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "18108 INVERMERE AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.456525,
+      "lng": -81.552766
+    },
+    {
+      "propertyId": null,
+      "attomId": 140317228,
+      "offerDate": "2025-08-18",
+      "offerPrice": 80000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "17316 STOCKBRIDGE AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.451364,
+      "lng": -81.55832
+    },
+    {
+      "propertyId": null,
+      "attomId": 182304585,
+      "offerDate": "2025-05-07",
+      "offerPrice": 129000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1910 BEVERLY HILLS DR, EUCLID OH",
+      "city": "EUCLID",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.575108,
+      "lng": -81.50747
+    },
+    {
+      "propertyId": null,
+      "attomId": 21152680,
+      "offerDate": "2025-02-12",
+      "offerPrice": 70000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "17413 DEFOREST AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.444255,
+      "lng": -81.557278
+    },
+    {
+      "propertyId": null,
+      "attomId": 54755727,
+      "offerDate": "2024-09-12",
+      "offerPrice": 75000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "16409 S LOTUS DR, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.445469,
+      "lng": -81.565874
+    },
+    {
+      "propertyId": null,
+      "attomId": 147595725,
+      "offerDate": "2024-05-25",
+      "offerPrice": 94000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "553 E 101ST ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.542078,
+      "lng": -81.619159
+    },
+    {
+      "propertyId": null,
+      "attomId": 2056905,
+      "offerDate": "2024-03-18",
+      "offerPrice": 57250,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3842 E 190TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.455474,
+      "lng": -81.545952
+    }
+  ]
+}

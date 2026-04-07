@@ -1,0 +1,184 @@
+{
+  "investor": {
+    "id": "0195f166-3e4b-7281-8393-606e7768dee2",
+    "name": "William wadlington",
+    "email": "bill@wadlington.net",
+    "phone": "+1 (423) 581-8057",
+    "totalWon": 1,
+    "totalBids": 6,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "WADLINGTON LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 187292462,
+      "offerDate": "2025-04-01",
+      "offerPrice": 79000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "457 TRENTHAM RD, NEWPORT tn",
+      "city": "NEWPORT",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.956223,
+      "lng": -83.233241
+    },
+    {
+      "propertyId": null,
+      "attomId": 198074449,
+      "offerDate": "2025-10-31",
+      "offerPrice": 100000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1725 RUSSELL ST, MORRISTOWN TN",
+      "city": "MORRISTOWN",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.211226,
+      "lng": -83.270339
+    },
+    {
+      "propertyId": null,
+      "attomId": 33421468,
+      "offerDate": "2025-08-11",
+      "offerPrice": 70000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "208 MOUNTAIN RD, LUTTRELL TN",
+      "city": "LUTTRELL",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.156926,
+      "lng": -83.727445
+    },
+    {
+      "propertyId": null,
+      "attomId": 28990323,
+      "offerDate": "2025-07-02",
+      "offerPrice": 140000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "145 STATEM GAP RD # 147, MORRISTOWN TN",
+      "city": "MORRISTOWN",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.181311,
+      "lng": -83.284026
+    },
+    {
+      "propertyId": null,
+      "attomId": 243297311,
+      "offerDate": "2025-04-28",
+      "offerPrice": 30000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "228 BARNHILL LN, RUTLEDGE TN",
+      "city": "RUTLEDGE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.292822,
+      "lng": -83.533605
+    },
+    {
+      "propertyId": null,
+      "attomId": 50774179,
+      "offerDate": "2025-03-04",
+      "offerPrice": 53000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "6583 FISHERMAN DR, TALBOTT TN",
+      "city": "TALBOTT",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.193478,
+      "lng": -83.421963
+    },
+    {
+      "propertyId": null,
+      "attomId": 203709701,
+      "offerDate": "2024-12-04",
+      "offerPrice": 68000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4725 UNION GROVE RD, RUSSELLVILLE TN",
+      "city": "RUSSELLVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.195584,
+      "lng": -83.1732
+    },
+    {
+      "propertyId": null,
+      "attomId": 36174902,
+      "offerDate": "2024-05-29",
+      "offerPrice": 75000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "402 CARRIGER ST, MORRISTOWN TN",
+      "city": "MORRISTOWN",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.2249,
+      "lng": -83.295223
+    }
+  ]
+}

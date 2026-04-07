@@ -1,0 +1,184 @@
+{
+  "investor": {
+    "id": "04bec26d-88e9-4a94-bc0e-119e31b36f23",
+    "name": "Brian Tesar",
+    "email": "rocketstreams21@gmail.com",
+    "phone": "+1 (480) 236-3953",
+    "totalWon": 1,
+    "totalBids": 1,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "ROCKET STREAMS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2023-Q4": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 187924241,
+      "offerDate": "2023-12-30",
+      "offerPrice": 107500.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "209 GROVE AVE NW, HUNTSVILLE al",
+      "city": "HUNTSVILLE",
+      "state": "al",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.74,
+      "lng": -86.59
+    },
+    {
+      "propertyId": null,
+      "attomId": 9977603,
+      "offerDate": "2026-02-12",
+      "offerPrice": 142000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "9829 N 13TH PL, PHOENIX AZ",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.576003,
+      "lng": -112.053562
+    },
+    {
+      "propertyId": null,
+      "attomId": 199767564,
+      "offerDate": "2025-12-18",
+      "offerPrice": 126000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2103 LEE HIGH DR NE, HUNTSVILLE AL",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.751256,
+      "lng": -86.578077
+    },
+    {
+      "propertyId": null,
+      "attomId": 45826077,
+      "offerDate": "2025-12-01",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "10207 W ALABAMA AVE, SUN CITY AZ",
+      "city": "SUN CITY",
+      "state": "AZ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.594435,
+      "lng": -112.279513
+    },
+    {
+      "propertyId": null,
+      "attomId": 144853721,
+      "offerDate": "2025-11-21",
+      "offerPrice": 68000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3005 KIRKLAND DR NW, HUNTSVILLE AL",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.76469,
+      "lng": -86.601373
+    },
+    {
+      "propertyId": null,
+      "attomId": 196425391,
+      "offerDate": "2025-08-22",
+      "offerPrice": 75000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4113 BLUE SPRING RD NW, HUNTSVILLE AL",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.777566,
+      "lng": -86.599197
+    },
+    {
+      "propertyId": null,
+      "attomId": 148371937,
+      "offerDate": "2025-04-07",
+      "offerPrice": 105000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3801 VALLEYDALE RD NW, HUNTSVILLE AL",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.782942,
+      "lng": -86.62145
+    },
+    {
+      "propertyId": null,
+      "attomId": 187335335,
+      "offerDate": "2024-11-13",
+      "offerPrice": 157000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4202 CLOVERDALE DR NW, HUNTSVILLE AL",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.722485,
+      "lng": -86.630509
+    }
+  ]
+}

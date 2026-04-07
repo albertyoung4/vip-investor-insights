@@ -1,0 +1,190 @@
+{
+  "investor": {
+    "id": "0197273b-2a5c-73e5-81ac-ea74d353e8b3",
+    "name": "Angie Quebman",
+    "email": "aquebman@kw.com",
+    "phone": "+1 (812) 498-2379",
+    "totalWon": 1,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "CARL WOERNER",
+      "SCOTT L PLANCK"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 8,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 8,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 5
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 149482404,
+      "offerDate": "2025-07-14",
+      "offerPrice": 178000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "7601 FAIRPARK AVE, CINCINNATI oh",
+      "city": "CINCINNATI",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.200134,
+      "lng": -84.476099
+    },
+    {
+      "propertyId": null,
+      "attomId": 183483261,
+      "offerDate": "2025-09-29",
+      "offerPrice": 360000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2236 QUATMAN AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.174689,
+      "lng": -84.450425
+    },
+    {
+      "propertyId": null,
+      "attomId": 183483262,
+      "offerDate": "2025-09-29",
+      "offerPrice": 360000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2236 QUATMAN AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 242372140,
+      "offerDate": "2025-04-17",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1500 MANCHESTER AVE, MIDDLETOWN OH",
+      "city": "MIDDLETOWN",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 182057701,
+      "offerDate": "2025-04-17",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1504 MANCHESTER AVE, MIDDLETOWN OH",
+      "city": "MIDDLETOWN",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.515416,
+      "lng": -84.397008
+    },
+    {
+      "propertyId": null,
+      "attomId": 205020494,
+      "offerDate": "2025-04-17",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1500 MANCHESTER AVE, MIDDLETOWN OH",
+      "city": "MIDDLETOWN",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 26078271,
+      "offerDate": "2025-04-17",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1500 MANCHESTER AVE, MIDDLETOWN OH",
+      "city": "MIDDLETOWN",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.515452,
+      "lng": -84.397146
+    },
+    {
+      "propertyId": null,
+      "attomId": 45678233,
+      "offerDate": "2025-04-17",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1510 MANCHESTER AVE, MIDDLETOWN OH",
+      "city": "MIDDLETOWN",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.515345,
+      "lng": -84.396732
+    },
+    {
+      "propertyId": null,
+      "attomId": 33076165,
+      "offerDate": "2024-03-11",
+      "offerPrice": 50000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "7721 HAMILTON AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.234406,
+      "lng": -84.548395
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "investor": {
+    "id": "a5d0079d-766f-4f91-9f7e-8e8c54a913cc",
+    "name": "CRC Realty",
+    "email": "beckynewmanrealtor@gmail.com",
+    "phone": "+1 (256) 436-1238",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "MC SQUARES VENTURES LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 4,
+    "quarterlyStats": {
+      "2024-Q2": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 188675512,
+      "offerDate": "2024-06-14",
+      "offerPrice": 87500.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "10162 HIGHWAY 101, LEXINGTON al",
+      "city": "LEXINGTON",
+      "state": "al",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.9549423,
+      "lng": -87.37105079999999
+    },
+    {
+      "propertyId": null,
+      "attomId": 207290688,
+      "offerDate": "2026-02-04",
+      "offerPrice": 115700,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "10128 HIGHWAY 101, LEXINGTON AL",
+      "city": "LEXINGTON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.954519,
+      "lng": -87.370757
+    },
+    {
+      "propertyId": null,
+      "attomId": 331825012,
+      "offerDate": "2026-02-04",
+      "offerPrice": 115700,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "10275 HIGHWAY 101, LEXINGTON AL",
+      "city": "LEXINGTON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.955888,
+      "lng": -87.37333
+    },
+    {
+      "propertyId": null,
+      "attomId": 205909044,
+      "offerDate": "2026-02-04",
+      "offerPrice": 115700,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "10323 HIGHWAY 101, LEXINGTON AL",
+      "city": "LEXINGTON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.957409,
+      "lng": -87.371444
+    },
+    {
+      "propertyId": null,
+      "attomId": 210353397,
+      "offerDate": "2025-03-10",
+      "offerPrice": 145000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3621 W LOMBARD ST, DAVENPORT IA",
+      "city": "DAVENPORT",
+      "state": "IA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.541606,
+      "lng": -90.629463
+    }
+  ]
+}

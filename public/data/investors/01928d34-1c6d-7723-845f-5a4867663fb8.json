@@ -1,0 +1,201 @@
+{
+  "investor": {
+    "id": "01928d34-1c6d-7723-845f-5a4867663fb8",
+    "name": "Andrea Gatti",
+    "email": "promisepropertysolutions@gmail.com",
+    "phone": "+1 (731) 325-7621",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": [
+      "CORNERSTONE PROPERTY HOLDINGS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 8,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 47103479,
+      "offerDate": "2025-01-08",
+      "offerPrice": 20000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "1312 TODD AVE, DYERSBURG tn",
+      "city": "DYERSBURG",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.044796,
+      "lng": -89.380369
+    },
+    {
+      "propertyId": null,
+      "attomId": 183210959,
+      "offerDate": "2026-02-04",
+      "offerPrice": 989000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "811 HILLTOP LN, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.648691,
+      "lng": -83.656701
+    },
+    {
+      "propertyId": null,
+      "attomId": 183210960,
+      "offerDate": "2026-02-04",
+      "offerPrice": 989000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "801 HILLTOP LN, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.648503,
+      "lng": -83.656959
+    },
+    {
+      "propertyId": null,
+      "attomId": 196349549,
+      "offerDate": "2025-11-07",
+      "offerPrice": 52000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1320 TODD AVE, DYERSBURG TN",
+      "city": "DYERSBURG",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.045016,
+      "lng": -89.380378
+    },
+    {
+      "propertyId": null,
+      "attomId": 293335007,
+      "offerDate": "2025-10-10",
+      "offerPrice": 26000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "540 S 16TH ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.836824,
+      "lng": -88.935435
+    },
+    {
+      "propertyId": null,
+      "attomId": 176636317,
+      "offerDate": "2025-09-19",
+      "offerPrice": 1660000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1140 W BROAD ST, DUNN NC",
+      "city": "DUNN",
+      "state": "NC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.317708,
+      "lng": -78.624109
+    },
+    {
+      "propertyId": null,
+      "attomId": 293335841,
+      "offerDate": "2025-08-19",
+      "offerPrice": 31000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "160 N HILTON ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.842583,
+      "lng": -88.946038
+    },
+    {
+      "propertyId": null,
+      "attomId": 193885411,
+      "offerDate": "2024-11-22",
+      "offerPrice": 725000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "602 N WALDOCH DR, APPLETON WI",
+      "city": "APPLETON",
+      "state": "WI",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 44.266245,
+      "lng": -88.493812
+    },
+    {
+      "propertyId": null,
+      "attomId": 200444551,
+      "offerDate": "2024-03-28",
+      "offerPrice": 89000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "515 REYNOLDS AVE, DYERSBURG TN",
+      "city": "DYERSBURG",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.037163,
+      "lng": -89.374183
+    }
+  ]
+}

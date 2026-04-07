@@ -1,0 +1,180 @@
+{
+  "investor": {
+    "id": "01944c39-d2bd-7d1c-a1d5-5aa33f978335",
+    "name": "Jonathan Shockley",
+    "email": "jonshockley@cc.com",
+    "phone": "+1 (256) 577-1023",
+    "totalWon": 1,
+    "totalBids": 3,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "J & R PROPERTY LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 3
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 43815410,
+      "offerDate": "2025-01-09",
+      "offerPrice": 25000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "146 COUNTY ROAD 586, ROGERSVILLE al",
+      "city": "ROGERSVILLE",
+      "state": "al",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.856827,
+      "lng": -87.384035
+    },
+    {
+      "propertyId": null,
+      "attomId": 30346698,
+      "offerDate": "2025-11-05",
+      "offerPrice": 153100,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "311 OLD BROMPTON LN, KILLEN AL",
+      "city": "KILLEN",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.850201,
+      "lng": -87.507891
+    },
+    {
+      "propertyId": null,
+      "attomId": 192963213,
+      "offerDate": "2025-04-04",
+      "offerPrice": 160000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "15039 HIGHWAY 72, ROGERSVILLE AL",
+      "city": "ROGERSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.830475,
+      "lng": -87.315229
+    },
+    {
+      "propertyId": null,
+      "attomId": 199704589,
+      "offerDate": "2025-03-07",
+      "offerPrice": 115000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "40 FRANCIS CT, ROGERSVILLE AL",
+      "city": "ROGERSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.83033,
+      "lng": -87.295418
+    },
+    {
+      "propertyId": null,
+      "attomId": 201548534,
+      "offerDate": "2025-02-13",
+      "offerPrice": 110000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "96 N OAK PARK DR, LEXINGTON AL",
+      "city": "LEXINGTON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.974952,
+      "lng": -87.373678
+    },
+    {
+      "propertyId": null,
+      "attomId": 200662408,
+      "offerDate": "2024-10-22",
+      "offerPrice": 180000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1390 COUNTY ROAD 540, ROGERSVILLE AL",
+      "city": "ROGERSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.89665,
+      "lng": -87.334488
+    },
+    {
+      "propertyId": null,
+      "attomId": 189485833,
+      "offerDate": "2024-08-23",
+      "offerPrice": 80000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "12900 HIGHWAY 64, LEXINGTON AL",
+      "city": "LEXINGTON",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.972139,
+      "lng": -87.320668
+    },
+    {
+      "propertyId": null,
+      "attomId": 191383120,
+      "offerDate": "2024-08-12",
+      "offerPrice": 215250,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "392 COUNTY ROAD 584, ROGERSVILLE AL",
+      "city": "ROGERSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.82191,
+      "lng": -87.393358
+    }
+  ]
+}

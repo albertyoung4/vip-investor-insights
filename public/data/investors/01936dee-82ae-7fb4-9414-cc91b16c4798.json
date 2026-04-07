@@ -1,0 +1,142 @@
+{
+  "investor": {
+    "id": "01936dee-82ae-7fb4-9414-cc91b16c4798",
+    "name": "Jahan Investments LLC",
+    "email": "Jahankim@yahoo.com",
+    "phone": "+1 (954) 540-7665",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": [
+      "JAHAN INVESTMENTS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
+    "quarterlyStats": {
+      "2024-Q4": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 182459092,
+      "offerDate": "2024-11-27",
+      "offerPrice": 8000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "1313 N ERIE ST, TOLEDO oh",
+      "city": "TOLEDO",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.662546,
+      "lng": -83.52337
+    },
+    {
+      "propertyId": null,
+      "attomId": 182037731,
+      "offerDate": "2026-01-27",
+      "offerPrice": 25500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1207 NEVADA ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.640188,
+      "lng": -83.513042
+    },
+    {
+      "propertyId": null,
+      "attomId": 182454085,
+      "offerDate": "2025-12-18",
+      "offerPrice": 15000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3209 KIMBALL AVE, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.680316,
+      "lng": -83.558989
+    },
+    {
+      "propertyId": null,
+      "attomId": 27645931,
+      "offerDate": "2025-07-16",
+      "offerPrice": 55000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2435 WOODFORD ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.664308,
+      "lng": -83.489712
+    },
+    {
+      "propertyId": null,
+      "attomId": 27645930,
+      "offerDate": "2025-07-16",
+      "offerPrice": 55000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2433 WOODFORD ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.664218,
+      "lng": -83.489753
+    },
+    {
+      "propertyId": null,
+      "attomId": 16180373,
+      "offerDate": "2024-12-12",
+      "offerPrice": 8500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "438 3RD ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.645224,
+      "lng": -83.523314
+    }
+  ]
+}

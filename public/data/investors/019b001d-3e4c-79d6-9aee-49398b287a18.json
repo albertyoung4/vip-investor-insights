@@ -1,0 +1,253 @@
+{
+  "investor": {
+    "id": "019b001d-3e4c-79d6-9aee-49398b287a18",
+    "name": "Meik Properties Corp",
+    "email": "Meikpc20@gmail.com",
+    "phone": "+1 (347) 325-8921",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "MEIK PROPERTIES CORP",
+      "RH HOT LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 11,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 240826789,
+      "offerDate": "2025-12-09",
+      "offerPrice": 100000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "1686 MOONBEAM TER, TOBYHANNA pa",
+      "city": "TOBYHANNA",
+      "state": "pa",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.22173,
+      "lng": -75.345709
+    },
+    {
+      "propertyId": null,
+      "attomId": 3126215,
+      "offerDate": "2026-02-02",
+      "offerPrice": 63001,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1627 LAKE LN, POCONO LAKE PA",
+      "city": "POCONO LAKE",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.132379,
+      "lng": -75.540568
+    },
+    {
+      "propertyId": null,
+      "attomId": 240825811,
+      "offerDate": "2025-10-23",
+      "offerPrice": 125000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "9817 DEERWOOD DR, TOBYHANNA PA",
+      "city": "TOBYHANNA",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.220502,
+      "lng": -75.368285
+    },
+    {
+      "propertyId": null,
+      "attomId": 150766182,
+      "offerDate": "2025-06-23",
+      "offerPrice": 91200,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3270 FOREST INN RD, PALMERTON PA",
+      "city": "PALMERTON",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.820163,
+      "lng": -75.601374
+    },
+    {
+      "propertyId": null,
+      "attomId": 3126175,
+      "offerDate": "2024-12-26",
+      "offerPrice": 126100,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3546 HIGH HILL RD, EFFORT PA",
+      "city": "EFFORT",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.943746,
+      "lng": -75.464213
+    },
+    {
+      "propertyId": null,
+      "attomId": 149542661,
+      "offerDate": "2024-12-13",
+      "offerPrice": 140801,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "40 TOBYHANNA RD, GOULDSBORO PA",
+      "city": "GOULDSBORO",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.242042,
+      "lng": -75.448098
+    },
+    {
+      "propertyId": null,
+      "attomId": 178728345,
+      "offerDate": "2024-12-11",
+      "offerPrice": 94000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "207 MICHAEL ST, SAYLORSBURG PA",
+      "city": "SAYLORSBURG",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.900268,
+      "lng": -75.389146
+    },
+    {
+      "propertyId": null,
+      "attomId": 240844271,
+      "offerDate": "2024-09-09",
+      "offerPrice": 15000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "658 SCENIC DR, ALBRIGHTSVILLE PA",
+      "city": "ALBRIGHTSVILLE",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 240844305,
+      "offerDate": "2024-09-09",
+      "offerPrice": 15000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "658 SCENIC DR, ALBRIGHTSVILLE PA",
+      "city": "ALBRIGHTSVILLE",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 178718218,
+      "offerDate": "2024-03-06",
+      "offerPrice": 130000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "35 NATCHEZ RD, EFFORT PA",
+      "city": "EFFORT",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.950085,
+      "lng": -75.423179
+    },
+    {
+      "propertyId": null,
+      "attomId": 178709541,
+      "offerDate": "2024-02-05",
+      "offerPrice": 142000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4527 BRIARCLIFF TER, TOBYHANNA PA",
+      "city": "TOBYHANNA",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.189286,
+      "lng": -75.35895
+    },
+    {
+      "propertyId": null,
+      "attomId": 9047556,
+      "offerDate": "2026-01-07",
+      "offerPrice": 175000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1026 W 5TH ST, FLORENCE NJ",
+      "city": "FLORENCE",
+      "state": "NJ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.121341,
+      "lng": -74.817411
+    }
+  ]
+}

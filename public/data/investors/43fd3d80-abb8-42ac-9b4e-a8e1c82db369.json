@@ -1,0 +1,138 @@
+{
+  "investor": {
+    "id": "43fd3d80-abb8-42ac-9b4e-a8e1c82db369",
+    "name": "Haley Zapanta",
+    "email": "haley@bbhus.com",
+    "phone": "+1 (502) 956-3103",
+    "totalWon": 1,
+    "totalBids": 10,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "QUORSTONE LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
+    "quarterlyStats": {
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 3
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 9624492,
+      "offerDate": "2025-06-20",
+      "offerPrice": 115000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "429 E OAK ST, LOUISVILLE ky",
+      "city": "LOUISVILLE",
+      "state": "ky",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.234468,
+      "lng": -85.747785
+    },
+    {
+      "propertyId": null,
+      "attomId": 34318364,
+      "offerDate": "2025-10-09",
+      "offerPrice": 85000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4707 MARCY AVE, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.104971,
+      "lng": -85.85002
+    },
+    {
+      "propertyId": null,
+      "attomId": 34318283,
+      "offerDate": "2025-10-09",
+      "offerPrice": 85000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4705 MARCY AVE, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.104875,
+      "lng": -85.849806
+    },
+    {
+      "propertyId": null,
+      "attomId": 34315947,
+      "offerDate": "2025-09-02",
+      "offerPrice": 133000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "6109 PRINCESS WAY, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.132364,
+      "lng": -85.647192
+    },
+    {
+      "propertyId": null,
+      "attomId": 149604255,
+      "offerDate": "2025-05-14",
+      "offerPrice": 75000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4503 BONITA CT, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.174412,
+      "lng": -85.676847
+    },
+    {
+      "propertyId": null,
+      "attomId": 25168954,
+      "offerDate": "2025-05-14",
+      "offerPrice": 100000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5804 EMMALEE DR, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.164711,
+      "lng": -85.689303
+    }
+  ]
+}

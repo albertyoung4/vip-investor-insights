@@ -1,0 +1,142 @@
+{
+  "investor": {
+    "id": "0193e0d8-e7c4-7c5c-ad31-53067c4c0b99",
+    "name": "Ashley Chastain",
+    "email": "ashley.luxury615@gmail.com",
+    "phone": "+1 (615) 970-9632",
+    "totalWon": 1,
+    "totalBids": 1,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "W2 HOLDINGS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 36593693,
+      "offerDate": "2024-12-19",
+      "offerPrice": 179000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "692 CLEARVIEW RD, COTTONTOWN tn",
+      "city": "COTTONTOWN",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.545606,
+      "lng": -86.589323
+    },
+    {
+      "propertyId": null,
+      "attomId": 10662322,
+      "offerDate": "2025-07-09",
+      "offerPrice": 235550,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1605 RUTH AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.138759,
+      "lng": -84.475298
+    },
+    {
+      "propertyId": null,
+      "attomId": 23235057,
+      "offerDate": "2025-06-25",
+      "offerPrice": 280000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3645 RUSSELL AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.126597,
+      "lng": -84.414418
+    },
+    {
+      "propertyId": null,
+      "attomId": 182383530,
+      "offerDate": "2025-06-13",
+      "offerPrice": 215000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3541 LINWOOD AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.124472,
+      "lng": -84.42016
+    },
+    {
+      "propertyId": null,
+      "attomId": 46803881,
+      "offerDate": "2025-05-27",
+      "offerPrice": 332000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "8255 LAKE SHORE DR, WEST CHESTER OH",
+      "city": "WEST CHESTER",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.344045,
+      "lng": -84.376499
+    },
+    {
+      "propertyId": null,
+      "attomId": 2270610,
+      "offerDate": "2024-01-03",
+      "offerPrice": 1410000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "112 LAKESIDE DR, GOODLETTSVILLE TN",
+      "city": "GOODLETTSVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.350478,
+      "lng": -86.76395
+    }
+  ]
+}

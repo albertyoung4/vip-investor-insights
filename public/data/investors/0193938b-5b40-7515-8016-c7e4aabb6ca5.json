@@ -1,0 +1,232 @@
+{
+  "investor": {
+    "id": "0193938b-5b40-7515-8016-c7e4aabb6ca5",
+    "name": "Chris Pap",
+    "email": "chris@securealestate.com",
+    "phone": "+1 (330) 321-3502",
+    "totalWon": 1,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "PROJECT MADHOUSE LLC",
+      "SECUREALESTARE INVESTMENTS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 10,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 10,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 4
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 2782034,
+      "offerDate": "2025-08-28",
+      "offerPrice": 36500.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "7406 PARK AVE, CLEVELAND oh",
+      "city": "CLEVELAND",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.445577,
+      "lng": -81.636053
+    },
+    {
+      "propertyId": null,
+      "attomId": 17142443,
+      "offerDate": "2025-11-20",
+      "offerPrice": 39000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "10409 HARVARD AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.449113,
+      "lng": -81.611601
+    },
+    {
+      "propertyId": null,
+      "attomId": 1084225,
+      "offerDate": "2025-11-20",
+      "offerPrice": 40000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "13213 BENWOOD AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.450915,
+      "lng": -81.589865
+    },
+    {
+      "propertyId": null,
+      "attomId": 54491069,
+      "offerDate": "2025-04-17",
+      "offerPrice": 40000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3335 E 145TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.468824,
+      "lng": -81.580611
+    },
+    {
+      "propertyId": null,
+      "attomId": 53832605,
+      "offerDate": "2025-04-09",
+      "offerPrice": 40000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "7113 LOCKYEAR AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.521005,
+      "lng": -81.639078
+    },
+    {
+      "propertyId": null,
+      "attomId": 3569345,
+      "offerDate": "2025-04-05",
+      "offerPrice": 35000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "12531 LANCELOT AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.543205,
+      "lng": -81.596645
+    },
+    {
+      "propertyId": null,
+      "attomId": 20586937,
+      "offerDate": "2025-03-03",
+      "offerPrice": 40000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "731 E 127TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.537416,
+      "lng": -81.595221
+    },
+    {
+      "propertyId": null,
+      "attomId": 145845787,
+      "offerDate": "2025-03-03",
+      "offerPrice": 30000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "9616 EASTON AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.468331,
+      "lng": -81.618171
+    },
+    {
+      "propertyId": null,
+      "attomId": 41005187,
+      "offerDate": "2025-02-05",
+      "offerPrice": 30000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "629 E 125TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.540019,
+      "lng": -81.597333
+    },
+    {
+      "propertyId": null,
+      "attomId": 182177197,
+      "offerDate": "2026-03-06",
+      "offerPrice": 27000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2470 E 86TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.491408,
+      "lng": -81.627612
+    },
+    {
+      "propertyId": null,
+      "attomId": 21071056,
+      "offerDate": "2025-06-22",
+      "offerPrice": 35000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "12117 LENACRAVE AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.453298,
+      "lng": -81.597682
+    }
+  ]
+}

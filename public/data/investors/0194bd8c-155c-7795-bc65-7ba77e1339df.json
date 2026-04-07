@@ -1,0 +1,256 @@
+{
+  "investor": {
+    "id": "0194bd8c-155c-7795-bc65-7ba77e1339df",
+    "name": "Juan Torres",
+    "email": "Torresinvestmentsllc1@gmail.com",
+    "phone": "+1 (901) 620-1010",
+    "totalWon": 1,
+    "totalBids": 3,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "TORRES INVESTMENTS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 11,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 3
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 193165258,
+      "offerDate": "2025-02-04",
+      "offerPrice": 89200.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "3196 HARDIN AVE, MEMPHIS tn",
+      "city": "MEMPHIS",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.161759,
+      "lng": -89.954194
+    },
+    {
+      "propertyId": null,
+      "attomId": 146842269,
+      "offerDate": "2026-01-16",
+      "offerPrice": 142000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1371 PHILLIPS RD, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.162688,
+      "lng": -89.839034
+    },
+    {
+      "propertyId": null,
+      "attomId": 202856775,
+      "offerDate": "2026-01-02",
+      "offerPrice": 121500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4639 SEA ISLE RD, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.093307,
+      "lng": -89.907459
+    },
+    {
+      "propertyId": null,
+      "attomId": 23449086,
+      "offerDate": "2025-08-26",
+      "offerPrice": 135000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4917 JUANA DR, MILLINGTON TN",
+      "city": "MILLINGTON",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.325314,
+      "lng": -89.899321
+    },
+    {
+      "propertyId": null,
+      "attomId": 252819533,
+      "offerDate": "2025-07-31",
+      "offerPrice": 725000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "120 BANK ST, SANFORD NC",
+      "city": "SANFORD",
+      "state": "NC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.456011,
+      "lng": -79.143027
+    },
+    {
+      "propertyId": null,
+      "attomId": 220126678,
+      "offerDate": "2025-05-30",
+      "offerPrice": 349000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2902 INDUSTRIAL DR, SANFORD NC",
+      "city": "SANFORD",
+      "state": "NC",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.449633,
+      "lng": -79.147952
+    },
+    {
+      "propertyId": null,
+      "attomId": 20421185,
+      "offerDate": "2024-12-11",
+      "offerPrice": 93000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1257 NECTAR DR, SAINT LOUIS MO",
+      "city": "SAINT LOUIS",
+      "state": "MO",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.763516,
+      "lng": -90.229997
+    },
+    {
+      "propertyId": null,
+      "attomId": 150153646,
+      "offerDate": "2024-12-05",
+      "offerPrice": 97400,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1230 ROXTON DR, SAINT LOUIS MO",
+      "city": "SAINT LOUIS",
+      "state": "MO",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.759943,
+      "lng": -90.229087
+    },
+    {
+      "propertyId": null,
+      "attomId": 155315715,
+      "offerDate": "2024-11-12",
+      "offerPrice": 210000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "6156 MARY ELIZABETH CV, BARTLETT TN",
+      "city": "BARTLETT",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.208789,
+      "lng": -89.857761
+    },
+    {
+      "propertyId": null,
+      "attomId": 150618197,
+      "offerDate": "2024-05-02",
+      "offerPrice": 125000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2211 BOBOLINK TRL, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.185745,
+      "lng": -89.8425
+    },
+    {
+      "propertyId": null,
+      "attomId": 18200623,
+      "offerDate": "2024-04-24",
+      "offerPrice": 90000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "148 W ASHDALE ST, PHILADELPHIA PA",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.027284,
+      "lng": -75.124558
+    },
+    {
+      "propertyId": null,
+      "attomId": 20472329,
+      "offerDate": "2024-01-04",
+      "offerPrice": 30000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3083 TUTWILER AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.152764,
+      "lng": -89.958117
+    }
+  ]
+}

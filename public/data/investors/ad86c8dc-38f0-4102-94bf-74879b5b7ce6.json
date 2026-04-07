@@ -1,0 +1,205 @@
+{
+  "investor": {
+    "id": "ad86c8dc-38f0-4102-94bf-74879b5b7ce6",
+    "name": "M. Keith Adams",
+    "email": "mkadams383@gmail.com",
+    "phone": "+1 (765) 993-5918",
+    "totalWon": 1,
+    "totalBids": 1,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "KEITH ADAMS"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 8,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 183454804,
+      "offerDate": "2024-08-06",
+      "offerPrice": 48000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "364 W DAYTON YELLOW SPRINGS RD, FAIRBORN oh",
+      "city": "FAIRBORN",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.796577,
+      "lng": -84.034679
+    },
+    {
+      "propertyId": null,
+      "attomId": 47111806,
+      "offerDate": "2026-02-18",
+      "offerPrice": 165000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "132 KEENAN LN, SHELBYVILLE TN",
+      "city": "SHELBYVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.466602,
+      "lng": -86.470416
+    },
+    {
+      "propertyId": null,
+      "attomId": 219046502,
+      "offerDate": "2026-01-05",
+      "offerPrice": 220000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "22770 NORTH AVE, BATTLE CREEK MI",
+      "city": "BATTLE CREEK",
+      "state": "MI",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 42.403086,
+      "lng": -85.180643
+    },
+    {
+      "propertyId": null,
+      "attomId": 178885631,
+      "offerDate": "2025-11-20",
+      "offerPrice": 400000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "6966 FOWLER ST, PHILADELPHIA PA",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.041281,
+      "lng": -75.232601
+    },
+    {
+      "propertyId": null,
+      "attomId": 18772526,
+      "offerDate": "2025-06-09",
+      "offerPrice": 230000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "116 NORMANDY DR, SLIDELL LA",
+      "city": "SLIDELL",
+      "state": "LA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 30.296082,
+      "lng": -89.766341
+    },
+    {
+      "propertyId": null,
+      "attomId": 142125001,
+      "offerDate": "2025-02-25",
+      "offerPrice": 250000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3589 CALUMET ST, PHILADELPHIA PA",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.013159,
+      "lng": -75.193833
+    },
+    {
+      "propertyId": null,
+      "attomId": 171749554,
+      "offerDate": "2024-04-22",
+      "offerPrice": 335000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "911 RONA CIR, CHATSWORTH GA",
+      "city": "CHATSWORTH",
+      "state": "GA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.77836,
+      "lng": -84.776525
+    },
+    {
+      "propertyId": null,
+      "attomId": 178871938,
+      "offerDate": "2024-04-17",
+      "offerPrice": 250000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "406 DUPONT ST, PHILADELPHIA PA",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.032908,
+      "lng": -75.219596
+    },
+    {
+      "propertyId": null,
+      "attomId": 20436224,
+      "offerDate": "2024-01-26",
+      "offerPrice": 135000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "122 PARKER RD, SHELBYVILLE TN",
+      "city": "SHELBYVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.490026,
+      "lng": -86.487597
+    }
+  ]
+}

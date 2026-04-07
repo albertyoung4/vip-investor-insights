@@ -1,0 +1,146 @@
+{
+  "investor": {
+    "id": "f95b932c-9185-4348-b0dd-454b519adb5d",
+    "name": "Jose Pacheco",
+    "email": "pacjos@1802investmentsllc.com",
+    "phone": "+1 (305) 773-7267",
+    "totalWon": 1,
+    "totalBids": 4,
+    "ytdWon": 0,
+    "ytdBids": 1,
+    "entities": [
+      "1802 INVESTMENTS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
+    "quarterlyStats": {
+      "2023-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 199626604,
+      "offerDate": "2023-09-28",
+      "offerPrice": 76500.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "4513 LAMONT LN, CHATTANOOGA tn",
+      "city": "CHATTANOOGA",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.13,
+      "lng": -85.3
+    },
+    {
+      "propertyId": null,
+      "attomId": 198376042,
+      "offerDate": "2025-10-10",
+      "offerPrice": 71500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1603 S ORCHARD KNOB AVE, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.025126,
+      "lng": -85.280932
+    },
+    {
+      "propertyId": null,
+      "attomId": 244532354,
+      "offerDate": "2025-10-10",
+      "offerPrice": 71500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1603 S ORCHARD KNOB AVE, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.02522659301758,
+      "lng": -85.280875
+    },
+    {
+      "propertyId": null,
+      "attomId": 187336330,
+      "offerDate": "2025-09-08",
+      "offerPrice": 162000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3504 WAUCHULA ST, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.070447,
+      "lng": -85.232174
+    },
+    {
+      "propertyId": null,
+      "attomId": 190907799,
+      "offerDate": "2025-01-17",
+      "offerPrice": 109000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1712 CITICO AVE, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.046289,
+      "lng": -85.271131
+    },
+    {
+      "propertyId": null,
+      "attomId": 23752967,
+      "offerDate": "2024-04-16",
+      "offerPrice": 135136,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3546 COTTONWOOD LN, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.051724,
+      "lng": -85.231689
+    }
+  ]
+}

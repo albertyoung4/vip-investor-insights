@@ -1,0 +1,278 @@
+{
+  "investor": {
+    "id": "0194e131-53f3-745a-b263-9ba094123975",
+    "name": "Yelena Aliy",
+    "email": "yelenavaliy@gmail.com",
+    "phone": "",
+    "totalWon": 1,
+    "totalBids": 1,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "JIMMY PENROSE",
+      "MICHAEL DUGAN"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 12,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 18443317,
+      "offerDate": "2025-02-07",
+      "offerPrice": 93000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "1810 REYNOLDS ST, KNOXVILLE tn",
+      "city": "KNOXVILLE",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.968355,
+      "lng": -83.947597
+    },
+    {
+      "propertyId": null,
+      "attomId": 152473703,
+      "offerDate": "2026-01-30",
+      "offerPrice": 650000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "32 PATTERSON CT, SHREWSBURY NJ",
+      "city": "SHREWSBURY",
+      "state": "NJ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.335248,
+      "lng": -74.068107
+    },
+    {
+      "propertyId": null,
+      "attomId": 294283660,
+      "offerDate": "2026-01-29",
+      "offerPrice": 479000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2279 ROLLING MEADOWS RD, FAIRFIELD IA",
+      "city": "FAIRFIELD",
+      "state": "IA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.976035,
+      "lng": -91.91776
+    },
+    {
+      "propertyId": null,
+      "attomId": 39949284,
+      "offerDate": "2025-11-13",
+      "offerPrice": 499000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "432 N NEPTUNE DR, SATELLITE BEACH FL",
+      "city": "SATELLITE BEACH",
+      "state": "FL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 28.188909,
+      "lng": -80.608698
+    },
+    {
+      "propertyId": null,
+      "attomId": 157563197,
+      "offerDate": "2025-07-28",
+      "offerPrice": 230000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "13038 MUHLEBACH WAY, TRUCKEE CA",
+      "city": "TRUCKEE",
+      "state": "CA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.350637,
+      "lng": -120.224401
+    },
+    {
+      "propertyId": null,
+      "attomId": 54238894,
+      "offerDate": "2024-12-10",
+      "offerPrice": 289000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "6076 PEBBLESHIRE DR, GRAND BLANC MI",
+      "city": "GRAND BLANC",
+      "state": "MI",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 42.941987,
+      "lng": -83.685009
+    },
+    {
+      "propertyId": null,
+      "attomId": 48699472,
+      "offerDate": "2024-11-07",
+      "offerPrice": 450000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "161 VISTA DR, CEDAR KNOLLS NJ",
+      "city": "CEDAR KNOLLS",
+      "state": "NJ",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.814082,
+      "lng": -74.459244
+    },
+    {
+      "propertyId": null,
+      "attomId": 185366184,
+      "offerDate": "2024-08-16",
+      "offerPrice": 675000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1003 S 233RD PL, DES MOINES WA",
+      "city": "DES MOINES",
+      "state": "WA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 47.392262,
+      "lng": -122.320752
+    },
+    {
+      "propertyId": null,
+      "attomId": 241967102,
+      "offerDate": "2024-01-17",
+      "offerPrice": 249900,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "12 SET PT, PLATTSBURGH NY",
+      "city": "PLATTSBURGH",
+      "state": "NY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 37886044,
+      "offerDate": "2024-01-17",
+      "offerPrice": 249900,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "12 SET PT, PLATTSBURGH NY",
+      "city": "PLATTSBURGH",
+      "state": "NY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 44.716318,
+      "lng": -73.444626
+    },
+    {
+      "propertyId": null,
+      "attomId": 193278927,
+      "offerDate": "2025-08-04",
+      "offerPrice": 110000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "4309 BRUHIN RD, KNOXVILLE TN",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.009595,
+      "lng": -83.954339
+    },
+    {
+      "propertyId": null,
+      "attomId": 241086897,
+      "offerDate": "2024-05-15",
+      "offerPrice": 60000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "340 MINGO WAY, LOUDON TN",
+      "city": "LOUDON",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.712087,
+      "lng": -84.266794
+    },
+    {
+      "propertyId": null,
+      "attomId": 190910776,
+      "offerDate": "2024-04-04",
+      "offerPrice": 151000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3508 REAGAN AVE, KNOXVILLE TN",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.953225,
+      "lng": -83.965443
+    }
+  ]
+}

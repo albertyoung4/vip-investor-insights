@@ -1,0 +1,193 @@
+{
+  "investor": {
+    "id": "0199152e-f098-7173-af7d-799332363c12",
+    "name": "Helen Papazyan",
+    "email": "Helenpapazyan@gmail.com",
+    "phone": "+1 (513) 236-2924",
+    "totalWon": 1,
+    "totalBids": 3,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "AMARAS OHIO LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 9,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 8,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 4
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 141016325,
+      "offerDate": "2025-09-04",
+      "offerPrice": 85000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "1233 CONSIDINE AVE, CINCINNATI oh",
+      "city": "CINCINNATI",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.114579,
+      "lng": -84.562907
+    },
+    {
+      "propertyId": null,
+      "attomId": 20998295,
+      "offerDate": "2025-10-13",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "543 VIRGIL RD, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.101593,
+      "lng": -84.594724
+    },
+    {
+      "propertyId": null,
+      "attomId": 14343017,
+      "offerDate": "2025-09-09",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "578 CONSIDINE AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.103506,
+      "lng": -84.56343
+    },
+    {
+      "propertyId": null,
+      "attomId": 72613,
+      "offerDate": "2025-06-27",
+      "offerPrice": 149000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1217 PURCELL AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.114036,
+      "lng": -84.564125
+    },
+    {
+      "propertyId": null,
+      "attomId": 17670349,
+      "offerDate": "2025-04-29",
+      "offerPrice": 146000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2156 STAEBLER ST, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.103895,
+      "lng": -84.55287
+    },
+    {
+      "propertyId": null,
+      "attomId": 183146935,
+      "offerDate": "2025-03-25",
+      "offerPrice": 125000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "409 LINDEN ST, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.18637,
+      "lng": -84.490085
+    },
+    {
+      "propertyId": null,
+      "attomId": 13022891,
+      "offerDate": "2025-03-19",
+      "offerPrice": 150000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "279 RENNER ST, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.120977,
+      "lng": -84.523564
+    },
+    {
+      "propertyId": null,
+      "attomId": 47098450,
+      "offerDate": "2025-03-11",
+      "offerPrice": 120000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3116 BERNINGHAUS AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.141176,
+      "lng": -84.573161
+    },
+    {
+      "propertyId": null,
+      "attomId": 17707256,
+      "offerDate": "2025-03-11",
+      "offerPrice": 120000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3119 CAVANAUGH AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.141185,
+      "lng": -84.572751
+    }
+  ]
+}

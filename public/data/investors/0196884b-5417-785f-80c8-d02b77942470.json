@@ -1,0 +1,181 @@
+{
+  "investor": {
+    "id": "0196884b-5417-785f-80c8-d02b77942470",
+    "name": "Kenneth kandrac",
+    "email": "kentheboss926@yahoo.com",
+    "phone": "+1 (272) 772-6900",
+    "totalWon": 1,
+    "totalBids": 10,
+    "ytdWon": 0,
+    "ytdBids": 6,
+    "entities": [
+      "KENNETH KANDRAC",
+      "MICHAEL R EVANS"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 7,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 1,
+        "total": 3
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 150724864,
+      "offerDate": "2025-04-30",
+      "offerPrice": 24000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "926 HESLEP AVE, DONORA pa",
+      "city": "DONORA",
+      "state": "pa",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.182363,
+      "lng": -79.85747
+    },
+    {
+      "propertyId": null,
+      "attomId": 325099082,
+      "offerDate": "2025-08-05",
+      "offerPrice": 35000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "103 ANN ST, BROWNSVILLE PA",
+      "city": "BROWNSVILLE",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.020050048828125,
+      "lng": -79.877643
+    },
+    {
+      "propertyId": null,
+      "attomId": 178687853,
+      "offerDate": "2025-07-23",
+      "offerPrice": 10500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "219 DAVID ST # 221, JOHNSTOWN PA",
+      "city": "JOHNSTOWN",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.311217,
+      "lng": -78.904802
+    },
+    {
+      "propertyId": null,
+      "attomId": 178561215,
+      "offerDate": "2025-04-30",
+      "offerPrice": 19300,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "825 CYPRESS AVE # 827, JOHNSTOWN PA",
+      "city": "JOHNSTOWN",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.291605,
+      "lng": -78.912181
+    },
+    {
+      "propertyId": null,
+      "attomId": 211032170,
+      "offerDate": "2025-04-08",
+      "offerPrice": 42000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "407 PEARSON ST, NEW CASTLE PA",
+      "city": "NEW CASTLE",
+      "state": "PA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.99538,
+      "lng": -80.341006
+    },
+    {
+      "propertyId": null,
+      "attomId": 209003546,
+      "offerDate": "2025-12-23",
+      "offerPrice": 490000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1030 E OCEAN BLVD UNIT 206, LONG BEACH CA",
+      "city": "LONG BEACH",
+      "state": "CA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 33.765399,
+      "lng": -118.180446
+    },
+    {
+      "propertyId": null,
+      "attomId": 172304395,
+      "offerDate": "2025-01-29",
+      "offerPrice": 237000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1935 RIVER RD UNIT 2, SAINT CLAIR MI",
+      "city": "SAINT CLAIR",
+      "state": "MI",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 42.850499,
+      "lng": -82.474402
+    },
+    {
+      "propertyId": null,
+      "attomId": 304768271,
+      "offerDate": "2024-04-30",
+      "offerPrice": 293000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "14432 LINCOLN HWY, VAN WERT OH",
+      "city": "VAN WERT",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 40.873156,
+      "lng": -84.544281
+    }
+  ]
+}

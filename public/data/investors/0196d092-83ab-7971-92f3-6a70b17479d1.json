@@ -1,0 +1,142 @@
+{
+  "investor": {
+    "id": "0196d092-83ab-7971-92f3-6a70b17479d1",
+    "name": "Travis Brown",
+    "email": "tbrown059@hotmail.com",
+    "phone": "+1 (479) 651-4528",
+    "totalWon": 1,
+    "totalBids": 5,
+    "ytdWon": 0,
+    "ytdBids": 3,
+    "entities": [
+      "PORT CITY PROPERTIES LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 2
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 215500952,
+      "offerDate": "2025-07-16",
+      "offerPrice": 32000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "202 LURA LN, VAN BUREN ar",
+      "city": "VAN BUREN",
+      "state": "ar",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.433504,
+      "lng": -94.311181
+    },
+    {
+      "propertyId": null,
+      "attomId": 140717255,
+      "offerDate": "2026-02-18",
+      "offerPrice": 120000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3803 PEACEFUL VALLEY CIR, VAN BUREN AR",
+      "city": "VAN BUREN",
+      "state": "AR",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.419912,
+      "lng": -94.313344
+    },
+    {
+      "propertyId": null,
+      "attomId": 145915990,
+      "offerDate": "2026-01-16",
+      "offerPrice": 400000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2304 TURNPIKE RD, PORTSMOUTH VA",
+      "city": "PORTSMOUTH",
+      "state": "VA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.832288,
+      "lng": -76.327461
+    },
+    {
+      "propertyId": null,
+      "attomId": 218046772,
+      "offerDate": "2025-11-21",
+      "offerPrice": 160000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1670 JULIE LN, ALMA AR",
+      "city": "ALMA",
+      "state": "AR",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.464033,
+      "lng": -94.215988
+    },
+    {
+      "propertyId": null,
+      "attomId": 191307523,
+      "offerDate": "2025-10-01",
+      "offerPrice": 425000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "703 CONFEDERATE AVE, PORTSMOUTH VA",
+      "city": "PORTSMOUTH",
+      "state": "VA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.832856,
+      "lng": -76.328876
+    },
+    {
+      "propertyId": null,
+      "attomId": 213992086,
+      "offerDate": "2025-03-20",
+      "offerPrice": 157000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "820 SANDSTONE DR, VAN BUREN AR",
+      "city": "VAN BUREN",
+      "state": "AR",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.473737,
+      "lng": -94.373872
+    }
+  ]
+}

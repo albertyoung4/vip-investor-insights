@@ -1,0 +1,184 @@
+{
+  "investor": {
+    "id": "7b569d27-3ef1-4ac6-be2f-da06e7b9509f",
+    "name": "Grover Bevins",
+    "email": "grover@yhsllc.com",
+    "phone": "+1 (859) 361-4624",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "YOUR HOME SOLUTIONS LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2024-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 189427550,
+      "offerDate": "2025-03-23",
+      "offerPrice": 237000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "240 FARMINGDALE PL SE, CLEVELAND tn",
+      "city": "CLEVELAND",
+      "state": "tn",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.08215,
+      "lng": -84.892574
+    },
+    {
+      "propertyId": null,
+      "attomId": 198558303,
+      "offerDate": "2026-03-20",
+      "offerPrice": 260000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2309 BROOKHAVEN CIR, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.048946,
+      "lng": -85.169451
+    },
+    {
+      "propertyId": null,
+      "attomId": 211326915,
+      "offerDate": "2026-02-02",
+      "offerPrice": 147000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "374 GAWAINE DR, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.980771,
+      "lng": -84.510377
+    },
+    {
+      "propertyId": null,
+      "attomId": 188202706,
+      "offerDate": "2026-01-29",
+      "offerPrice": 240000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2307 BROOKHAVEN CIR, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.048697,
+      "lng": -85.169583
+    },
+    {
+      "propertyId": null,
+      "attomId": 9823932,
+      "offerDate": "2025-04-07",
+      "offerPrice": 196000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3610 STONE DR SE, CLEVELAND TN",
+      "city": "CLEVELAND",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.113865,
+      "lng": -84.887787
+    },
+    {
+      "propertyId": null,
+      "attomId": 142811828,
+      "offerDate": "2024-12-02",
+      "offerPrice": 100000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3241 BOWIE DR, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 37.992838,
+      "lng": -84.467652
+    },
+    {
+      "propertyId": null,
+      "attomId": 293338026,
+      "offerDate": "2024-07-10",
+      "offerPrice": 38000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "960 W WOOD ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.840457,
+      "lng": -88.969082
+    },
+    {
+      "propertyId": null,
+      "attomId": 149685666,
+      "offerDate": "2024-01-04",
+      "offerPrice": 277500,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "813 QUARTER HORSE CT, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 38.007137,
+      "lng": -84.558252
+    }
+  ]
+}

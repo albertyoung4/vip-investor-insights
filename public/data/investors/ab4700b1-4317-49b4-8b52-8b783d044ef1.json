@@ -1,0 +1,240 @@
+{
+  "investor": {
+    "id": "ab4700b1-4317-49b4-8b52-8b783d044ef1",
+    "name": "Cody Smith",
+    "email": "johncodysmith@gmail.com",
+    "phone": "+1 (615) 330-3860",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "ROOTED INVESTMENTS LLC",
+      "TLD PROPERTIES LLC"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 10,
+    "quarterlyStats": {
+      "2023-Q3": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2024-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2024-Q4": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 4
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 1
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 323985133,
+      "offerDate": "2023-07-13",
+      "offerPrice": 40000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "13471 BROWNSFERRY ROAD, ATHENS al",
+      "city": "ATHENS",
+      "state": "al",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.74,
+      "lng": -87.06
+    },
+    {
+      "propertyId": null,
+      "attomId": 294680363,
+      "offerDate": "2025-11-19",
+      "offerPrice": 15000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "1222 HAYES AVE, HULL IA",
+      "city": "HULL",
+      "state": "IA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 43.190138,
+      "lng": -96.147089
+    },
+    {
+      "propertyId": null,
+      "attomId": 28161936,
+      "offerDate": "2025-04-08",
+      "offerPrice": 385000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "309 W OAK AVE, VISALIA CA",
+      "city": "VISALIA",
+      "state": "CA",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 36.331785,
+      "lng": -119.295074
+    },
+    {
+      "propertyId": null,
+      "attomId": 290435699,
+      "offerDate": "2025-04-08",
+      "offerPrice": 33300,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "111 OLD MEMPHIS RD, TUSCUMBIA AL",
+      "city": "TUSCUMBIA",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.716707,
+      "lng": -87.726961
+    },
+    {
+      "propertyId": null,
+      "attomId": 199135338,
+      "offerDate": "2025-04-08",
+      "offerPrice": 116160,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "360 LEONA DR, FLORENCE AL",
+      "city": "FLORENCE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.87844,
+      "lng": -87.690133
+    },
+    {
+      "propertyId": null,
+      "attomId": 184205539,
+      "offerDate": "2024-11-05",
+      "offerPrice": 750000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2133 S PARFET DR, LAKEWOOD CO",
+      "city": "LAKEWOOD",
+      "state": "CO",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 39.679035,
+      "lng": -105.123598
+    },
+    {
+      "propertyId": null,
+      "attomId": 324039964,
+      "offerDate": "2026-01-15",
+      "offerPrice": 20000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "16834 BUCKSKIN DR, ATHENS AL",
+      "city": "ATHENS",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.80046,
+      "lng": -86.881819
+    },
+    {
+      "propertyId": null,
+      "attomId": 323997864,
+      "offerDate": "2025-10-16",
+      "offerPrice": 23000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "22433 PINE RD, ATHENS AL",
+      "city": "ATHENS",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.869511,
+      "lng": -86.921218
+    },
+    {
+      "propertyId": null,
+      "attomId": 1000127293,
+      "offerDate": "2025-06-24",
+      "offerPrice": 451230,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "446 E LONDON WAY, NEWBERG OR",
+      "city": "NEWBERG",
+      "state": "OR",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 45.285583,
+      "lng": -122.975513
+    },
+    {
+      "propertyId": null,
+      "attomId": 323987151,
+      "offerDate": "2024-07-18",
+      "offerPrice": 75000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "28203 SHANNON DR, ARDMORE AL",
+      "city": "ARDMORE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.979484,
+      "lng": -86.8165
+    },
+    {
+      "propertyId": null,
+      "attomId": 335681258,
+      "offerDate": "2024-05-01",
+      "offerPrice": 550000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "891 E WILSON ST, CARLTON OR",
+      "city": "CARLTON",
+      "state": "OR",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 45.288629,
+      "lng": -123.166296
+    }
+  ]
+}

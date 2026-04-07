@@ -1,0 +1,180 @@
+{
+  "investor": {
+    "id": "019523f4-5bef-71fb-8637-93e154758a93",
+    "name": "Saddie Vervoort",
+    "email": "fromSadie2Sold@gmail.com",
+    "phone": "+1 (419) 481-1433",
+    "totalWon": 1,
+    "totalBids": 2,
+    "ytdWon": 0,
+    "ytdBids": 0,
+    "entities": [
+      "ZACHARY WHITING"
+    ]
+  },
+  "stats": {
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
+    "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 1,
+        "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 3
+      }
+    }
+  },
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 182451831,
+      "offerDate": "2025-03-19",
+      "offerPrice": 65000.0,
+      "status": "won",
+      "isRebuilt": true,
+      "address": "3133 131ST ST, TOLEDO oh",
+      "city": "TOLEDO",
+      "state": "oh",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.720436,
+      "lng": -83.471035
+    },
+    {
+      "propertyId": null,
+      "attomId": 145518793,
+      "offerDate": "2026-02-04",
+      "offerPrice": 303000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2624 VALLEY BROOK DR NE, HUNTSVILLE AL",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 34.756651,
+      "lng": -86.56858
+    },
+    {
+      "propertyId": null,
+      "attomId": 182453722,
+      "offerDate": "2026-01-27",
+      "offerPrice": 300,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5941 319TH ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.726904,
+      "lng": -83.463091
+    },
+    {
+      "propertyId": null,
+      "attomId": 182453721,
+      "offerDate": "2026-01-27",
+      "offerPrice": 49900,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "5939 319TH ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.726835,
+      "lng": -83.46315
+    },
+    {
+      "propertyId": null,
+      "attomId": 83400,
+      "offerDate": "2025-10-21",
+      "offerPrice": 300,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3118 128TH ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.718231,
+      "lng": -83.471473
+    },
+    {
+      "propertyId": null,
+      "attomId": 183227302,
+      "offerDate": "2025-10-21",
+      "offerPrice": 300,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3120 128TH ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.718225,
+      "lng": -83.471364
+    },
+    {
+      "propertyId": null,
+      "attomId": 44091044,
+      "offerDate": "2025-09-05",
+      "offerPrice": 33000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "3124 128TH ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.718219,
+      "lng": -83.471254
+    },
+    {
+      "propertyId": null,
+      "attomId": 182453754,
+      "offerDate": "2025-06-12",
+      "offerPrice": 105000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "2947 131ST ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 41.720366,
+      "lng": -83.474835
+    }
+  ]
+}
