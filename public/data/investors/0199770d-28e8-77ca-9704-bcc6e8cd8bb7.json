@@ -14,8 +14,8 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 7,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -26,12 +26,12 @@
         "total": 1
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 2
+        "rebuilt": 1,
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01993f19-3a44-70ee-992c-c86b2d72b00a",
+      "attomId": 17137826,
+      "offerDate": "2025-09-24T05:00:00.000Z",
+      "offerPrice": 52500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3361 E 149TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1204,
+      "lotSize": 0.1285583,
+      "lat": 41.468168,
+      "lng": -81.577074
+    },
     {
       "propertyId": null,
       "attomId": 8919019,
@@ -92,24 +109,6 @@
       "lotSize": 0.2479339,
       "lat": 47.692764,
       "lng": -117.436731,
-      "entity": "CORNERSTONE RENOVATIONS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 17137826,
-      "offerDate": "2025-10-21T05:00:00.000Z",
-      "offerPrice": 40000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3361 E 149TH ST, CLEVELAND OH",
-      "city": "CLEVELAND",
-      "state": "OH",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 1204,
-      "lotSize": 0.1285583,
-      "lat": 41.468168,
-      "lng": -81.577074,
       "entity": "CORNERSTONE RENOVATIONS LLC"
     },
     {

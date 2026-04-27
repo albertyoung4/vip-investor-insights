@@ -16,7 +16,7 @@
   },
   "stats": {
     "totalTransactions2025": 12,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 16,
     "quarterlyStats": {
       "2025-Q1": {
@@ -42,6 +42,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "9fd3d49a-5cbf-4ef0-828b-c0b97f0e8fd1",
+      "attomId": null,
+      "offerDate": "2024-08-16T05:00:00.000Z",
+      "offerPrice": 64000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
     {
       "propertyId": null,
       "attomId": 37667343,

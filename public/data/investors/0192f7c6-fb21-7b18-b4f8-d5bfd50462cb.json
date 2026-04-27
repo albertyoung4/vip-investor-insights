@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0192f41b-aa9d-7522-80cc-b77aed93a613",
+      "attomId": 189936605,
+      "offerDate": "2024-11-04T06:00:00.000Z",
+      "offerPrice": 69900,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "203 MORTON CIR, GUNTERSVILLE AL",
+      "city": "GUNTERSVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 980,
+      "lotSize": 0.4132231,
+      "lat": 34.36065,
+      "lng": -86.390318
+    }
+  ]
 }

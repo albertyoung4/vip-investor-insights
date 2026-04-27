@@ -14,8 +14,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
     "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
@@ -31,8 +31,8 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -41,6 +41,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "8177349c-c44d-4b21-92e1-c9eef0bc99ef",
+      "attomId": null,
+      "offerDate": "2023-10-13T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "e5c5fff3-c584-4fee-a99a-ee88a5a9d57e",
+      "attomId": null,
+      "offerDate": "2024-02-01T06:00:00.000Z",
+      "offerPrice": 120000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01997289-f51f-7b6b-9bfa-d70a690896b5",
+      "attomId": 296513461,
+      "offerDate": "2025-10-27T05:00:00.000Z",
+      "offerPrice": 16000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "237 HEIGHTS AVE, MOREHEAD KY",
+      "city": "MOREHEAD",
+      "state": "KY",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 648,
+      "lotSize": 0,
+      "lat": 38.174722,
+      "lng": -83.444013
+    },
     {
       "propertyId": null,
       "attomId": 4844766,

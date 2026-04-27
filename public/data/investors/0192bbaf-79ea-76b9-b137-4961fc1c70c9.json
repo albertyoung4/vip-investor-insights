@@ -13,12 +13,12 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 1,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 2,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 1
       },
       "2025-Q2": {
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -41,12 +41,12 @@
   },
   "properties": [
     {
-      "propertyId": null,
+      "propertyId": "01941d6a-036b-7b0e-9617-b1d3a607bc88",
       "attomId": 312447066,
-      "offerDate": "2025-02-04T06:00:00.000Z",
-      "offerPrice": 6000,
-      "status": "recorded",
-      "isRebuilt": false,
+      "offerDate": "2025-01-03T06:00:00.000Z",
+      "offerPrice": 11000,
+      "status": "done",
+      "isRebuilt": true,
       "address": "186 CREST CIR, SPRINGVILLE AL",
       "city": "SPRINGVILLE",
       "state": "AL",
@@ -55,8 +55,24 @@
       "sqft": 1696,
       "lotSize": 0,
       "lat": 33.769624,
-      "lng": -86.491926,
-      "entity": "YVONNE GUILLEN"
+      "lng": -86.491926
+    },
+    {
+      "propertyId": "019939cf-85dc-727d-877a-c95062bb30f6",
+      "attomId": 215256063,
+      "offerDate": "2025-09-12T05:00:00.000Z",
+      "offerPrice": 6000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1109 JOHNSON AVE, ANNISTON AL",
+      "city": "ANNISTON",
+      "state": "AL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1070,
+      "lotSize": 0.2280073,
+      "lat": 33.634989,
+      "lng": -85.832527
     }
   ]
 }

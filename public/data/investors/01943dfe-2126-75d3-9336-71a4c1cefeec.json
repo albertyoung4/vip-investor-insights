@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 55,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 68,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 67,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 18
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0193a968-2660-70a2-86f2-cd44bb0f7394",
+      "attomId": 164736961,
+      "offerDate": "2025-01-06T06:00:00.000Z",
+      "offerPrice": 57000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2079 PERRY AVE, GROVES TX",
+      "city": "GROVES",
+      "state": "TX",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1116,
+      "lotSize": 0.1638889,
+      "lat": 29.931395,
+      "lng": -93.904274
+    },
     {
       "propertyId": null,
       "attomId": 18164871,
@@ -1172,24 +1189,6 @@
       "lotSize": 0.1492195,
       "lat": 25.804273,
       "lng": -80.216408,
-      "entity": "JESUS GARCIA"
-    },
-    {
-      "propertyId": null,
-      "attomId": 164736961,
-      "offerDate": "2025-02-03T06:00:00.000Z",
-      "offerPrice": 0,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2079 PERRY AVE, GROVES TX",
-      "city": "GROVES",
-      "state": "TX",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1116,
-      "lotSize": 0.1638889,
-      "lat": 29.931395,
-      "lng": -93.904274,
       "entity": "JESUS GARCIA"
     },
     {

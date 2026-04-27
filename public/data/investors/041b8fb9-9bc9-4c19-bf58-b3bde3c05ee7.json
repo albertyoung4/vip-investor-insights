@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0192786d-57ee-78fa-a1ac-ccf50ad7a510",
+      "attomId": 148872482,
+      "offerDate": "2024-11-20T06:00:00.000Z",
+      "offerPrice": 12500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2402 SHASTA AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1092,
+      "lotSize": 0.1010101,
+      "lat": 35.169046,
+      "lng": -89.977138
+    }
+  ]
 }

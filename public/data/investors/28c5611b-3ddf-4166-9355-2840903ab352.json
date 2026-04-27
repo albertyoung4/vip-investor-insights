@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 14,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 14,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 13,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 10
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q3": {
@@ -40,6 +40,74 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "e2aa8591-7602-4dd3-9034-4bb062b8b527",
+      "attomId": null,
+      "offerDate": "2024-01-22T06:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "bce3ce8e-c5f7-43db-880f-22bc80ffbd53",
+      "attomId": null,
+      "offerDate": "2024-02-06T06:00:00.000Z",
+      "offerPrice": 67000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01938db9-7e50-7271-9d13-c6e39d3d395a",
+      "attomId": 197540375,
+      "offerDate": "2024-12-11T06:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "6056 OREBANK RD, KINGSPORT TN",
+      "city": "KINGSPORT",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1020,
+      "lotSize": 1,
+      "lat": 36.560622,
+      "lng": -82.456549
+    },
+    {
+      "propertyId": "019567e0-98ae-7652-b35f-21bcbcb7b970",
+      "attomId": 4069642,
+      "offerDate": "2025-05-09T05:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1238 E 145TH ST, EAST CLEVELAND OH",
+      "city": "EAST CLEVELAND",
+      "state": "OH",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1992,
+      "lotSize": 0.0891873,
+      "lat": 41.544711,
+      "lng": -81.580718
+    },
     {
       "propertyId": null,
       "attomId": 218790741,
@@ -92,24 +160,6 @@
       "lotSize": 0.1652893,
       "lat": 40.883208,
       "lng": -85.486893,
-      "entity": "URBAN OASIS PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 197540375,
-      "offerDate": "2025-04-21T05:00:00.000Z",
-      "offerPrice": 50000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "6056 OREBANK RD, KINGSPORT TN",
-      "city": "KINGSPORT",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1020,
-      "lotSize": 1,
-      "lat": 36.560622,
-      "lng": -82.456549,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {

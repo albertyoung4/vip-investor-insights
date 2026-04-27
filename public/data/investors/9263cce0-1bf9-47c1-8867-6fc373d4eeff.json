@@ -18,15 +18,15 @@
   },
   "stats": {
     "totalTransactions2025": 16,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 21,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 18,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 3
+        "rebuilt": 2,
+        "total": 4
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 6
       },
       "2025-Q3": {
@@ -35,15 +35,83 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 6
+        "total": 5
       },
       "2026-Q1": {
-        "rebuilt": 0,
-        "total": 5
+        "rebuilt": 1,
+        "total": 6
       }
     }
   },
   "properties": [
+    {
+      "propertyId": "0194cdfe-a9c1-737c-86ec-d9b0a8b4d6e7",
+      "attomId": 208982420,
+      "offerDate": "2025-02-06T06:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "547 FOURTH ST, CROSSVILLE TN",
+      "city": "CROSSVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 728,
+      "lotSize": 0,
+      "lat": 35.94481,
+      "lng": -85.035211
+    },
+    {
+      "propertyId": "01952a79-af51-70c0-888a-2ec108f770c7",
+      "attomId": 194597562,
+      "offerDate": "2025-02-26T06:00:00.000Z",
+      "offerPrice": 70000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "259 S WALNUT AVE, COOKEVILLE TN",
+      "city": "COOKEVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 832,
+      "lotSize": 0,
+      "lat": 36.158851,
+      "lng": -85.507304
+    },
+    {
+      "propertyId": "0196756e-f523-7e42-815a-19c88252fcd0",
+      "attomId": 36315226,
+      "offerDate": "2025-05-16T05:00:00.000Z",
+      "offerPrice": 25000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2383 COUNTRY CLUB RD, SPARTA TN",
+      "city": "SPARTA",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1090,
+      "lotSize": 0.4800046,
+      "lat": 35.921896,
+      "lng": -85.419571
+    },
+    {
+      "propertyId": "019cd2f7-17cb-7751-87d4-53cf53f3f93b",
+      "attomId": 8620290,
+      "offerDate": "2026-03-10T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": null,
+      "sqft": 2052,
+      "lotSize": 0,
+      "lat": 35.859368,
+      "lng": -85.064204
+    },
     {
       "propertyId": null,
       "attomId": 29871763,
@@ -208,24 +276,6 @@
     },
     {
       "propertyId": null,
-      "attomId": 36315226,
-      "offerDate": "2025-12-02T06:00:00.000Z",
-      "offerPrice": 0,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2383 COUNTRY CLUB RD, SPARTA TN",
-      "city": "SPARTA",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1090,
-      "lotSize": 0.4800046,
-      "lat": 35.921896,
-      "lng": -85.419571,
-      "entity": "BARTLETT INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
       "attomId": 151150014,
       "offerDate": "2025-11-14T06:00:00.000Z",
       "offerPrice": 0,
@@ -334,24 +384,6 @@
     },
     {
       "propertyId": null,
-      "attomId": 194597562,
-      "offerDate": "2025-05-12T05:00:00.000Z",
-      "offerPrice": 50000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "259 S WALNUT AVE, COOKEVILLE TN",
-      "city": "COOKEVILLE",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 832,
-      "lotSize": 0,
-      "lat": 36.158851,
-      "lng": -85.507304,
-      "entity": "MICHAEL L BARTLETT"
-    },
-    {
-      "propertyId": null,
       "attomId": 182619773,
       "offerDate": "2025-05-07T05:00:00.000Z",
       "offerPrice": 0,
@@ -385,24 +417,6 @@
       "lat": 41.407095,
       "lng": -74.339538,
       "entity": "MICHAEL BARTLETT"
-    },
-    {
-      "propertyId": null,
-      "attomId": 208982420,
-      "offerDate": "2025-02-27T06:00:00.000Z",
-      "offerPrice": 30000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "547 FOURTH ST, CROSSVILLE TN",
-      "city": "CROSSVILLE",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 728,
-      "lotSize": 0,
-      "lat": 35.94481,
-      "lng": -85.035211,
-      "entity": "BARTLETT INVESTMENTS LLC"
     },
     {
       "propertyId": null,

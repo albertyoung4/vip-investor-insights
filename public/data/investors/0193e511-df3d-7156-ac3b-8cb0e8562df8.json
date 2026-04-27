@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "ca42a6c0-4173-4f01-b6f1-5ab2ab44ba60",
+      "attomId": 47347983,
+      "offerDate": "2024-12-20T06:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "10852 BACK PINEY RD, BON AQUA TN",
+      "city": "BON AQUA",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1050,
+      "lotSize": 0.9,
+      "lat": 35.956614,
+      "lng": -87.437181
+    },
     {
       "propertyId": null,
       "attomId": 36182251,

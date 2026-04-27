@@ -13,17 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 13,
+    "totalTransactions2025": 10,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 12,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -35,18 +35,18 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 4
+        "total": 3
       }
     }
   },
   "properties": [
     {
-      "propertyId": null,
+      "propertyId": "0195dd65-8d45-7878-bb95-3b011b81425e",
       "attomId": 171590701,
-      "offerDate": "2026-02-25T06:00:00.000Z",
-      "offerPrice": 0,
-      "status": "recorded",
-      "isRebuilt": false,
+      "offerDate": "2025-04-09T05:00:00.000Z",
+      "offerPrice": 50000,
+      "status": "done",
+      "isRebuilt": true,
       "address": "108 JESSICA DR, WARNER ROBINS GA",
       "city": "WARNER ROBINS",
       "state": "GA",
@@ -55,8 +55,7 @@
       "sqft": 1456,
       "lotSize": 0.5300046,
       "lat": 32.666729,
-      "lng": -83.647121,
-      "entity": "BILLINGS ENTERPRISES INC"
+      "lng": -83.647121
     },
     {
       "propertyId": null,

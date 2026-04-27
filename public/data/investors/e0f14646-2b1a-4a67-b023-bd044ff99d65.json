@@ -11,8 +11,8 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -20,8 +20,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -37,5 +37,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0196642a-a84f-7209-b9d8-7ae870fa6eac",
+      "attomId": 193955367,
+      "offerDate": "2025-04-25T05:00:00.000Z",
+      "offerPrice": 75000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "234 WISCONSIN AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1328,
+      "lotSize": 0.1859963,
+      "lat": 35.12032,
+      "lng": -90.070363
+    }
+  ]
 }

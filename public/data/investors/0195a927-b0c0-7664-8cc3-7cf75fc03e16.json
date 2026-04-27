@@ -13,21 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 3,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019590ed-bc50-713a-ab8e-c7c19b08821b",
+      "attomId": 179499614,
+      "offerDate": "2025-03-18T05:00:00.000Z",
+      "offerPrice": 105000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3743 BRISBAN ST, HARRISBURG PA",
+      "city": "HARRISBURG",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1100,
+      "lotSize": 0.1,
+      "lat": 40.259301,
+      "lng": -76.825578
+    },
+    {
+      "propertyId": "0197963f-f693-7e60-964a-1678ef6621ee",
+      "attomId": 178081034,
+      "offerDate": "2025-06-23T05:00:00.000Z",
+      "offerPrice": 115000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "355 BEAVER ST, LANCASTER PA",
+      "city": "LANCASTER",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1054,
+      "lotSize": 0.0300046,
+      "lat": 40.031707,
+      "lng": -76.30539
+    },
+    {
+      "propertyId": "0197c6cc-2873-7ed8-a74e-604d2f27e742",
+      "attomId": 140677610,
+      "offerDate": "2025-07-11T05:00:00.000Z",
+      "offerPrice": 143000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "828 PRANGLEY AVE, LANCASTER PA",
+      "city": "LANCASTER",
+      "state": "PA",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1259,
+      "lotSize": 0.0399908,
+      "lat": 40.032588,
+      "lng": -76.323419
+    },
     {
       "propertyId": null,
       "attomId": 7234269,

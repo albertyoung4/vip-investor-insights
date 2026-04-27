@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 15,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 18,
+    "totalTransactions2025": 14,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 17,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "690f78b3-8040-47e7-ab38-2fcbd7efda1c",
+      "attomId": 49982127,
+      "offerDate": "2024-09-13T05:00:00.000Z",
+      "offerPrice": 155000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "456 S NEW ORLEANS AVE, EGG HARBOR CITY NJ",
+      "city": "EGG HARBOR CITY",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1047,
+      "lotSize": 0.3960055,
+      "lat": 39.520598,
+      "lng": -74.641051
+    },
     {
       "propertyId": null,
       "attomId": 45524321,
@@ -344,24 +361,6 @@
       "lotSize": 0.1721993,
       "lat": 39.525636,
       "lng": -74.65379,
-      "entity": "435 XANTHUS AVE LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 49982127,
-      "offerDate": "2025-01-02T06:00:00.000Z",
-      "offerPrice": 140000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "456 S NEW ORLEANS AVE, EGG HARBOR CITY NJ",
-      "city": "EGG HARBOR CITY",
-      "state": "NJ",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1047,
-      "lotSize": 0.3960055,
-      "lat": 39.520598,
-      "lng": -74.641051,
       "entity": "435 XANTHUS AVE LLC"
     }
   ]

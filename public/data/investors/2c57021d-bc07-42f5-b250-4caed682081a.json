@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 7,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 7,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 7
       },
       "2025-Q2": {
@@ -41,6 +41,23 @@
   },
   "properties": [
     {
+      "propertyId": "01941dcb-0241-75b3-8aa6-d50207eec137",
+      "attomId": 2511982,
+      "offerDate": "2025-01-15T06:00:00.000Z",
+      "offerPrice": 50000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1712 W 11TH ST, CHESTER PA",
+      "city": "CHESTER",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 868,
+      "lotSize": 0.0280073,
+      "lat": 39.844381,
+      "lng": -75.385483
+    },
+    {
       "propertyId": null,
       "attomId": 4686105,
       "offerDate": "2025-03-13T05:00:00.000Z",
@@ -56,24 +73,6 @@
       "lotSize": 0.035101,
       "lat": 39.848652,
       "lng": -75.373736,
-      "entity": "JL HOLDINGS GROUP II LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 2511982,
-      "offerDate": "2025-03-13T05:00:00.000Z",
-      "offerPrice": 35000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1712 W 11TH ST, CHESTER PA",
-      "city": "CHESTER",
-      "state": "PA",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 868,
-      "lotSize": 0.0280073,
-      "lat": 39.844381,
-      "lng": -75.385483,
       "entity": "JL HOLDINGS GROUP II LLC"
     },
     {

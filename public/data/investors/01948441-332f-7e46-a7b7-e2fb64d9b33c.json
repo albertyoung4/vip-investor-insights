@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 4,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 3
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0194841f-f2e1-7d69-b6ca-af6f789937a1",
+      "attomId": 190889251,
+      "offerDate": "2025-01-21T06:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1050 KING EDWARD AVE SE, CLEVELAND TN",
+      "city": "CLEVELAND",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1189,
+      "lotSize": 0.1721763,
+      "lat": 35.150793,
+      "lng": -84.875577
+    },
     {
       "propertyId": null,
       "attomId": 196399516,
@@ -92,24 +109,6 @@
       "lotSize": 0.5165289,
       "lat": 35.206704,
       "lng": -84.85835,
-      "entity": "SAMM INVESTMENT LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 190889251,
-      "offerDate": "2025-03-13T05:00:00.000Z",
-      "offerPrice": 65000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1050 KING EDWARD AVE SE, CLEVELAND TN",
-      "city": "CLEVELAND",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1189,
-      "lotSize": 0.1721763,
-      "lat": 35.150793,
-      "lng": -84.875577,
       "entity": "SAMM INVESTMENT LLC"
     },
     {

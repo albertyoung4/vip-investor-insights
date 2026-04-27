@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "019494b0-c11b-7258-9502-768c4bea08ef",
+      "attomId": 18443317,
+      "offerDate": "2025-02-07T06:00:00.000Z",
+      "offerPrice": 93000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1810 REYNOLDS ST, KNOXVILLE TN",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1260,
+      "lotSize": 0.1690083,
+      "lat": 35.968355,
+      "lng": -83.947597
+    }
+  ]
 }

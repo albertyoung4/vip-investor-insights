@@ -14,8 +14,8 @@
   },
   "stats": {
     "totalTransactions2025": 15,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 15,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 14,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -26,7 +26,7 @@
         "total": 3
       },
       "2025-Q3": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 8
       },
       "2025-Q4": {
@@ -40,6 +40,74 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "633afcd8-7b34-4311-9262-2be04d13f85f",
+      "attomId": null,
+      "offerDate": "2024-04-05T05:00:00.000Z",
+      "offerPrice": 43000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "1588a7cb-18db-4535-858b-8c45ff5ec832",
+      "attomId": null,
+      "offerDate": "2024-04-05T05:00:00.000Z",
+      "offerPrice": 67000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0193190c-47e5-76dd-b3ab-a3f9022a8d39",
+      "attomId": 202479382,
+      "offerDate": "2024-12-04T06:00:00.000Z",
+      "offerPrice": 27500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1268 POWERLINE DR NE, CLEVELAND TN",
+      "city": "CLEVELAND",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 2052,
+      "lotSize": 1.1619999,
+      "lat": 35.158329,
+      "lng": -84.837399
+    },
+    {
+      "propertyId": "01978ded-7454-785b-9589-54299399c343",
+      "attomId": 18745914,
+      "offerDate": "2025-07-16T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "22 INGLESIDE AVE, ENGLEWOOD TN",
+      "city": "ENGLEWOOD",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1197,
+      "lotSize": 0.3,
+      "lat": 35.424698,
+      "lng": -84.492521
+    },
     {
       "propertyId": null,
       "attomId": 196740356,
@@ -182,24 +250,6 @@
       "lotSize": 1.08,
       "lat": 35.160651,
       "lng": -84.850941,
-      "entity": "EMBARK DEVELOPMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 18745914,
-      "offerDate": "2025-08-05T05:00:00.000Z",
-      "offerPrice": 18500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "22 INGLESIDE AVE, ENGLEWOOD TN",
-      "city": "ENGLEWOOD",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1197,
-      "lotSize": 0.3,
-      "lat": 35.424698,
-      "lng": -84.492521,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {

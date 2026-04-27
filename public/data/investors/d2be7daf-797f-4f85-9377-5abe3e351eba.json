@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 91,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 102,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "d05fb31a-02ea-4f32-b072-a492e980bae1",
+      "attomId": 189507929,
+      "offerDate": "2024-09-18T05:00:00.000Z",
+      "offerPrice": 48500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3674 WINDEMERE DR, MONTGOMERY AL",
+      "city": "MONTGOMERY",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1102,
+      "lotSize": 0.2438246,
+      "lat": 32.378419,
+      "lng": -86.251564
+    },
     {
       "propertyId": null,
       "attomId": 171723225,

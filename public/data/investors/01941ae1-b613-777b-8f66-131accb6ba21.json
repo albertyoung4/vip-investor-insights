@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0192a147-89a7-75ca-803a-ef969ffeba24",
+      "attomId": 194900685,
+      "offerDate": "2024-12-31T06:00:00.000Z",
+      "offerPrice": 190000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "6111 N COUNTY ROAD 100 E, PITTSBORO IN",
+      "city": "PITTSBORO",
+      "state": "IN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1280,
+      "lotSize": 0.6899908,
+      "lat": 39.850826,
+      "lng": -86.504937
+    }
+  ]
 }

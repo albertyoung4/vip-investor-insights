@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 7,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 8,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 8,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0194cdb1-dc41-7cea-ae16-d6e6415018a3",
+      "attomId": 186556846,
+      "offerDate": "2025-02-19T06:00:00.000Z",
+      "offerPrice": 125000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "77 18TH ST, NEWPORT KY",
+      "city": "NEWPORT",
+      "state": "KY",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1204,
+      "lotSize": 0.1033058,
+      "lat": 39.08032,
+      "lng": -84.485714
+    },
     {
       "propertyId": null,
       "attomId": 172246893,

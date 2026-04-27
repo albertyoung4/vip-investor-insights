@@ -13,20 +13,20 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 59,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 74,
+    "totalTransactions2025": 58,
+    "rebuiltTransactions": 5,
+    "recorderTransactions": 72,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 15
+        "total": 14
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 20
       },
       "2025-Q3": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 8
       },
       "2025-Q4": {
@@ -40,6 +40,91 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "c9075d5b-e5eb-48a5-98cc-a58f8f6c67c6",
+      "attomId": null,
+      "offerDate": "2023-06-28T05:00:00.000Z",
+      "offerPrice": 106000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "2e1bbad0-dbd8-4580-b3a1-1a922fec7118",
+      "attomId": null,
+      "offerDate": "2024-03-18T05:00:00.000Z",
+      "offerPrice": 80000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "311b8b2d-ac92-471b-8d9d-28cbdabe4256",
+      "attomId": null,
+      "offerDate": "2024-03-28T05:00:00.000Z",
+      "offerPrice": 135000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "01938e61-2f84-7f3c-ba1c-a1106f695f8c",
+      "attomId": 148718487,
+      "offerDate": "2024-12-04T06:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "829 CHILDRESS AVE, SWEETWATER TN",
+      "city": "SWEETWATER",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1056,
+      "lotSize": 0.3600092,
+      "lat": 35.60808,
+      "lng": -84.47357
+    },
+    {
+      "propertyId": "01978913-a894-762d-a1ca-82d0af3e636e",
+      "attomId": 1069093,
+      "offerDate": "2025-07-03T05:00:00.000Z",
+      "offerPrice": 180000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "300 C RODY RD, MCMINNVILLE TN",
+      "city": "MCMINNVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1728,
+      "lotSize": 1,
+      "lat": 35.712931,
+      "lng": -85.83507
+    },
     {
       "propertyId": null,
       "attomId": 54086127,
@@ -668,24 +753,6 @@
       "lotSize": 1.36,
       "lat": 36.564512,
       "lng": -86.264851,
-      "entity": "CHEYENNE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 1069093,
-      "offerDate": "2025-08-05T05:00:00.000Z",
-      "offerPrice": 173000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "300 C RODY RD, MCMINNVILLE TN",
-      "city": "MCMINNVILLE",
-      "state": "TN",
-      "beds": 0,
-      "baths": 2,
-      "sqft": 1728,
-      "lotSize": 1,
-      "lat": 35.712931,
-      "lng": -85.83507,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1352,24 +1419,6 @@
       "lotSize": 0.6,
       "lat": 35.838898,
       "lng": -85.784761,
-      "entity": "CHEYENNE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 148718487,
-      "offerDate": "2025-01-09T06:00:00.000Z",
-      "offerPrice": 47000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "829 CHILDRESS AVE, SWEETWATER TN",
-      "city": "SWEETWATER",
-      "state": "TN",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1056,
-      "lotSize": 0.3600092,
-      "lat": 35.60808,
-      "lng": -84.47357,
       "entity": "CHEYENNE INVESTMENTS LLC"
     }
   ]

@@ -13,31 +13,219 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 11,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 3,
+        "total": 3
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2026-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 4,
+        "total": 4
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0193cfdd-4db1-7a71-91ad-63f49c6111df",
+      "attomId": 194831088,
+      "offerDate": "2024-12-30T06:00:00.000Z",
+      "offerPrice": 109000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "97 BIG SPRING BROW RD, HORTON AL",
+      "city": "HORTON",
+      "state": "AL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1872,
+      "lotSize": 1.3,
+      "lat": 34.20556,
+      "lng": -86.390228
+    },
+    {
+      "propertyId": "01953194-b694-792b-8c05-6da8c3cc10c4",
+      "attomId": 7865394,
+      "offerDate": "2025-02-24T06:00:00.000Z",
+      "offerPrice": 110000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "145 EDMONDS RD, ALBERTVILLE AL",
+      "city": "ALBERTVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1975,
+      "lotSize": 0.4300046,
+      "lat": 34.269382,
+      "lng": -86.308957
+    },
+    {
+      "propertyId": "0195a564-fbab-7a37-961c-683b999db4e7",
+      "attomId": 290648672,
+      "offerDate": "2025-03-24T05:00:00.000Z",
+      "offerPrice": 85000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "506 CHERRY ST, GADSDEN AL",
+      "city": "GADSDEN",
+      "state": "AL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 2690,
+      "lotSize": 0.1664371,
+      "lat": 34.005627,
+      "lng": -86.008106
+    },
+    {
+      "propertyId": "0195aef9-992c-7f69-864b-db42c19f3c70",
+      "attomId": 290650814,
+      "offerDate": "2025-03-27T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.8067033886909485,
+      "lat": 33.99814224243164,
+      "lng": -86.026833
+    },
+    {
+      "propertyId": "01978915-63f7-7fae-b16a-69525069da09",
+      "attomId": 290541961,
+      "offerDate": "2025-06-24T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "194 CROFT CIR, CROSSVILLE AL",
+      "city": "CROSSVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1174,
+      "lotSize": 0.3699954,
+      "lat": 34.295995,
+      "lng": -85.985477
+    },
+    {
+      "propertyId": "0199c955-c0c6-7767-805a-45aa74a24135",
+      "attomId": 290637512,
+      "offerDate": "2025-10-23T05:00:00.000Z",
+      "offerPrice": 22500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1312,
+      "lotSize": 0.2066116,
+      "lat": 34.030563,
+      "lng": -86.046438
+    },
+    {
+      "propertyId": "019c7687-8a82-7cab-bb95-7ec39fd8a747",
+      "attomId": 53207106,
+      "offerDate": "2026-02-20T06:00:00.000Z",
+      "offerPrice": 95000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "168 DRUM CIR, ALBERTVILLE AL",
+      "city": "ALBERTVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1368,
+      "lotSize": 0.3642103,
+      "lat": 34.29876,
+      "lng": -86.225715
+    },
+    {
+      "propertyId": "019c5244-3838-7683-9c7d-dc92eb8eab15",
+      "attomId": 290598606,
+      "offerDate": "2026-03-10T05:00:00.000Z",
+      "offerPrice": 33000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1215,
+      "lotSize": 0.2186639,
+      "lat": 33.999328,
+      "lng": -86.04494
+    },
+    {
+      "propertyId": "019c53ad-b37a-7cea-986e-73ebd6d56f9a",
+      "attomId": 290607474,
+      "offerDate": "2026-03-19T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1708,
+      "lotSize": 0.3443526,
+      "lat": 33.964715,
+      "lng": -85.930951
+    },
+    {
+      "propertyId": "019d26ee-40c1-7a60-8a21-e361eb342594",
+      "attomId": 290646545,
+      "offerDate": "2026-03-31T05:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1384,
+      "lotSize": 0.0989118,
+      "lat": 34.004581,
+      "lng": -85.982069
+    },
+    {
+      "propertyId": "019d9245-d9c1-7062-88d1-d98165ae285c",
+      "attomId": 290603216,
+      "offerDate": "2026-04-22T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 675,
+      "lotSize": 0.5486685,
+      "lat": 33.994428,
+      "lng": -85.955442
+    }
+  ]
 }

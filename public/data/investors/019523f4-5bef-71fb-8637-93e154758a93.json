@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01944d2f-34aa-7a5b-bd22-cd45c75bb1d9",
+      "attomId": 182451831,
+      "offerDate": "2025-03-19T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3133 131ST ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1156,
+      "lotSize": 0.1147842,
+      "lat": 41.720436,
+      "lng": -83.471035
+    }
+  ]
 }

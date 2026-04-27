@@ -11,8 +11,8 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -20,8 +20,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -37,5 +37,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01977904-add9-78f2-8c72-f5a32f6e4c0c",
+      "attomId": 186384874,
+      "offerDate": "2025-06-19T05:00:00.000Z",
+      "offerPrice": 72500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "309 MILTON ST, ALBERTVILLE AL",
+      "city": "ALBERTVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1152,
+      "lotSize": 0.2295684,
+      "lat": 34.263878,
+      "lng": -86.213627
+    }
+  ]
 }

@@ -14,8 +14,8 @@
   },
   "stats": {
     "totalTransactions2025": 25,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 32,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 31,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -26,7 +26,7 @@
         "total": 9
       },
       "2025-Q3": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 7
       },
       "2025-Q4": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0197a7b9-3655-789e-957e-c3b1f3cbb3b4",
+      "attomId": 146467296,
+      "offerDate": "2025-07-22T05:00:00.000Z",
+      "offerPrice": 108000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3868 GRAYSON DR, WINSTON SALEM NC",
+      "city": "WINSTON SALEM",
+      "state": "NC",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1022,
+      "lotSize": 0.6899908,
+      "lat": 36.035063,
+      "lng": -80.147098
+    },
     {
       "propertyId": null,
       "attomId": 12033457,
@@ -236,24 +253,6 @@
       "lotSize": 0.1716942,
       "lat": 39.839351,
       "lng": -75.450761,
-      "entity": "BRIAN WEST"
-    },
-    {
-      "propertyId": null,
-      "attomId": 146467296,
-      "offerDate": "2025-09-02T05:00:00.000Z",
-      "offerPrice": 90000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3868 GRAYSON DR, WINSTON SALEM NC",
-      "city": "WINSTON SALEM",
-      "state": "NC",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 1022,
-      "lotSize": 0.6899908,
-      "lat": 36.035063,
-      "lng": -80.147098,
       "entity": "BRIAN WEST"
     },
     {

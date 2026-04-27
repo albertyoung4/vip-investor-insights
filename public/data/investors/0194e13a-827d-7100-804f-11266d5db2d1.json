@@ -14,16 +14,16 @@
   },
   "stats": {
     "totalTransactions2025": 63,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 85,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 84,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 13
+        "rebuilt": 1,
+        "total": 14
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 35
+        "total": 34
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0195afae-b6c7-77f3-8639-bf1af234c05f",
+      "attomId": 197855667,
+      "offerDate": "2025-03-24T05:00:00.000Z",
+      "offerPrice": 54000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1628 NE 46TH ST, OKLAHOMA CITY OK",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 943,
+      "lotSize": 0.1760101,
+      "lat": 35.517874,
+      "lng": -97.48191
+    },
     {
       "propertyId": null,
       "attomId": 186567622,
@@ -830,24 +847,6 @@
       "lotSize": 0.232989,
       "lat": 36.214431,
       "lng": -95.987045,
-      "entity": "SOUP TO NUTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 197855667,
-      "offerDate": "2025-05-07T05:00:00.000Z",
-      "offerPrice": 40000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1628 NE 46TH ST, OKLAHOMA CITY OK",
-      "city": "OKLAHOMA CITY",
-      "state": "OK",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 943,
-      "lotSize": 0.1760101,
-      "lat": 35.517874,
-      "lng": -97.48191,
       "entity": "SOUP TO NUTS LLC"
     },
     {

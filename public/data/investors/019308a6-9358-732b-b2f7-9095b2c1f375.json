@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 20,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 23,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0192f420-ea36-7df4-91cc-5ce829c471c5",
+      "attomId": 183573721,
+      "offerDate": "2024-11-08T06:00:00.000Z",
+      "offerPrice": 279000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "5737 WHITNEY AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1967,
+      "lotSize": 0.1609963,
+      "lat": 39.153865,
+      "lng": -84.396774
+    },
     {
       "propertyId": null,
       "attomId": 182049819,

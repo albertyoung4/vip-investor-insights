@@ -13,17 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 31,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 39,
+    "totalTransactions2025": 32,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 38,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 11
+        "rebuilt": 2,
+        "total": 13
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 7
+        "total": 6
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,6 +40,74 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "1f5061cf-9e64-4970-921c-10284be7c380",
+      "attomId": null,
+      "offerDate": "2024-05-01T05:00:00.000Z",
+      "offerPrice": 27500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "c06fcf1e-cba9-4673-9761-e96f15dc5119",
+      "attomId": 202074998,
+      "offerDate": "2024-09-17T05:00:00.000Z",
+      "offerPrice": 18000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3224 SPAULDING ST SW, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1076,
+      "lotSize": 0.1446281,
+      "lat": 33.445172,
+      "lng": -86.896136
+    },
+    {
+      "propertyId": "01940370-a04a-7f10-8669-e94793346c9c",
+      "attomId": 14491633,
+      "offerDate": "2025-02-08T06:00:00.000Z",
+      "offerPrice": 28000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2315 12TH CT N, BESSEMER AL",
+      "city": "BESSEMER",
+      "state": "AL",
+      "beds": 4,
+      "baths": 1,
+      "sqft": 1552,
+      "lotSize": 0.1606979,
+      "lat": 33.414276,
+      "lng": -86.961468
+    },
+    {
+      "propertyId": "0194f15e-e807-73ff-8ad2-02099efee012",
+      "attomId": 146950338,
+      "offerDate": "2025-02-18T06:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 2,
+      "baths": 1,
+      "sqft": 900,
+      "lotSize": 0.1239669,
+      "lat": 33.479513,
+      "lng": -86.905435
+    },
     {
       "propertyId": null,
       "attomId": 333869259,
@@ -506,24 +574,6 @@
       "lotSize": 0.1675849,
       "lat": 33.478865,
       "lng": -86.912084,
-      "entity": "SHIELD PROPERTY SOLUTIONS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 14491633,
-      "offerDate": "2025-04-16T05:00:00.000Z",
-      "offerPrice": 20000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2315 12TH CT N, BESSEMER AL",
-      "city": "BESSEMER",
-      "state": "AL",
-      "beds": 4,
-      "baths": 1,
-      "sqft": 1552,
-      "lotSize": 0.1606979,
-      "lat": 33.414276,
-      "lng": -86.961468,
       "entity": "SHIELD PROPERTY SOLUTIONS LLC"
     },
     {

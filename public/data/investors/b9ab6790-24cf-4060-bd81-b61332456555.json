@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 23,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 38,
+    "totalTransactions2025": 22,
+    "rebuiltTransactions": 2,
+    "recorderTransactions": 37,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 10
+        "total": 9
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,6 +40,40 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01c73e28-c8f8-4a5c-9c0c-2936c7b83991",
+      "attomId": 17148569,
+      "offerDate": "2024-09-22T05:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "925 PARKWAY RD, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 3359,
+      "lotSize": 0.1092746,
+      "lat": 41.532175,
+      "lng": -81.600407
+    },
+    {
+      "propertyId": "01934f15-b018-7561-af3b-d8bf27357927",
+      "attomId": 41005187,
+      "offerDate": "2024-12-05T06:00:00.000Z",
+      "offerPrice": 15000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "629 E 125TH ST, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1327,
+      "lotSize": 0.1157025,
+      "lat": 41.540019,
+      "lng": -81.597333
+    },
     {
       "propertyId": null,
       "attomId": 1331914,
@@ -704,24 +738,6 @@
       "lotSize": 0.2111341,
       "lat": 41.534557,
       "lng": -81.617526,
-      "entity": "SECUREALESTATE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 41005187,
-      "offerDate": "2025-01-02T06:00:00.000Z",
-      "offerPrice": 11500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "629 E 125TH ST, CLEVELAND OH",
-      "city": "CLEVELAND",
-      "state": "OH",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1327,
-      "lotSize": 0.1157025,
-      "lat": 41.540019,
-      "lng": -81.597333,
       "entity": "SECUREALESTATE INVESTMENTS LLC"
     }
   ]

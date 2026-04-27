@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 3,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 5,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 4,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 1
       },
       "2025-Q3": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0196d0f1-78bc-714c-99ac-8e56e21d87b5",
+      "attomId": 47420785,
+      "offerDate": "2025-05-20T05:00:00.000Z",
+      "offerPrice": 265000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "210 DAWN ST, SIGNAL MOUNTAIN TN",
+      "city": "SIGNAL MOUNTAIN",
+      "state": "TN",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1566,
+      "lotSize": 0.3043457,
+      "lat": 35.117506,
+      "lng": -85.336451
+    },
     {
       "propertyId": null,
       "attomId": 193365767,
@@ -92,24 +109,6 @@
       "lotSize": 0.276,
       "lat": 34.987876,
       "lng": -85.268219,
-      "entity": "CHANNEL TO CHANNEL LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 47420785,
-      "offerDate": "2025-06-27T05:00:00.000Z",
-      "offerPrice": 250000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "210 DAWN ST, SIGNAL MOUNTAIN TN",
-      "city": "SIGNAL MOUNTAIN",
-      "state": "TN",
-      "beds": 0,
-      "baths": 2,
-      "sqft": 1566,
-      "lotSize": 0.3043457,
-      "lat": 35.117506,
-      "lng": -85.336451,
       "entity": "CHANNEL TO CHANNEL LLC"
     },
     {

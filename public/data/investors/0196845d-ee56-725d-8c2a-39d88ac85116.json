@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 15,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 16,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 15,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 10
       },
       "2025-Q3": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019645e3-ab0a-76b8-91e4-18bda19fbb45",
+      "attomId": 294399542,
+      "offerDate": "2025-05-01T05:00:00.000Z",
+      "offerPrice": 89000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "103 S 3RD ST, WINTERSET IA",
+      "city": "WINTERSET",
+      "state": "IA",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 1093,
+      "lotSize": 0.1,
+      "lat": 41.334251,
+      "lng": -94.010704
+    },
     {
       "propertyId": null,
       "attomId": 192737823,
@@ -164,24 +181,6 @@
       "lotSize": 0.302112,
       "lat": 41.551528,
       "lng": -93.597246,
-      "entity": "ROSA PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 294399542,
-      "offerDate": "2025-06-12T05:00:00.000Z",
-      "offerPrice": 133000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "103 S 3RD ST, WINTERSET IA",
-      "city": "WINTERSET",
-      "state": "IA",
-      "beds": 4,
-      "baths": 3,
-      "sqft": 1093,
-      "lotSize": 0.1,
-      "lat": 41.334251,
-      "lng": -94.010704,
       "entity": "ROSA PROPERTIES LLC"
     },
     {

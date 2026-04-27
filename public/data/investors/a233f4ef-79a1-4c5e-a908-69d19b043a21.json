@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 3,
     "recorderTransactions": 4,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,8 +22,8 @@
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,6 +40,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01936e01-4e0c-74ed-ab4a-810f53a504ee",
+      "attomId": 324004812,
+      "offerDate": "2024-12-02T06:00:00.000Z",
+      "offerPrice": 181000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "14162 OVER CREEK CIR, MADISON AL",
+      "city": "MADISON",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1200,
+      "lotSize": 0,
+      "lat": 34.760423,
+      "lng": -86.788762
+    },
+    {
+      "propertyId": "01936ec8-f521-72d8-9673-e5323548a13e",
+      "attomId": 233163133,
+      "offerDate": "2024-12-03T06:00:00.000Z",
+      "offerPrice": 92500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "417 PEARL ST SW, HARTSELLE AL",
+      "city": "HARTSELLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1758,
+      "lotSize": 0,
+      "lat": 34.43853,
+      "lng": -86.936936
+    },
+    {
+      "propertyId": "0196b57d-19d4-723c-8e0a-61b8195e41b1",
+      "attomId": 324019350,
+      "offerDate": "2025-05-13T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "11742 COWFORD RD, ATHENS AL",
+      "city": "ATHENS",
+      "state": "AL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1540,
+      "lotSize": 4.7600002,
+      "lat": 34.729517,
+      "lng": -87.069618
+    },
     {
       "propertyId": null,
       "attomId": 36649823,

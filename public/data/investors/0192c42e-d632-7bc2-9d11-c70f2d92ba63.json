@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 4,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01923068-018c-7ea3-9a1c-f7e23e4c896d",
+      "attomId": 10095604,
+      "offerDate": "2024-10-25T05:00:00.000Z",
+      "offerPrice": 288000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "7009 BARLEYFIELD DR, HARRISON TN",
+      "city": "HARRISON",
+      "state": "TN",
+      "beds": 0,
+      "baths": 3,
+      "sqft": 1632,
+      "lotSize": 0.3315657,
+      "lat": 35.125321,
+      "lng": -85.134045
+    },
     {
       "propertyId": null,
       "attomId": 35984236,

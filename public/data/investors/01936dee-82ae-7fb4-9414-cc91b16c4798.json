@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 3,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01931901-676f-7c15-a97d-cf04c0147e15",
+      "attomId": 182459092,
+      "offerDate": "2024-11-27T06:00:00.000Z",
+      "offerPrice": 8000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1313 N ERIE ST, TOLEDO OH",
+      "city": "TOLEDO",
+      "state": "OH",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 886,
+      "lotSize": 0.0826446,
+      "lat": 41.662546,
+      "lng": -83.52337
+    },
     {
       "propertyId": null,
       "attomId": 183209020,

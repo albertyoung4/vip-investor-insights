@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 5,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,91 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "7a5707c0-9910-4560-be07-549149316593",
+      "attomId": null,
+      "offerDate": "2023-08-27T05:00:00.000Z",
+      "offerPrice": 67500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019253e9-c068-732d-b064-be3474242ba5",
+      "attomId": 34323903,
+      "offerDate": "2024-10-09T05:00:00.000Z",
+      "offerPrice": 48000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "104 N 46TH ST, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1083,
+      "lotSize": 0.1239669,
+      "lat": 38.266452,
+      "lng": -85.822753
+    },
+    {
+      "propertyId": "0192fd23-4710-7667-a543-f0851df9349a",
+      "attomId": 186948432,
+      "offerDate": "2024-11-13T06:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3411 W MUHAMMAD ALI BLVD, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1141,
+      "lotSize": 0.1033058,
+      "lat": 38.257076,
+      "lng": -85.808212
+    },
+    {
+      "propertyId": "0192df39-2d83-7b54-b175-1aef21e037ea",
+      "attomId": 22547294,
+      "offerDate": "2024-11-13T06:00:00.000Z",
+      "offerPrice": 75000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "4203 VERMONT AVE, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1525,
+      "lotSize": 0.1552342,
+      "lat": 38.257316,
+      "lng": -85.820338
+    },
+    {
+      "propertyId": "01931ae3-8b7c-73a0-9a73-a8448adadcaa",
+      "attomId": 193740126,
+      "offerDate": "2024-11-13T06:00:00.000Z",
+      "offerPrice": 30000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2312 S 36TH ST, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1304,
+      "lotSize": 0.1312902,
+      "lat": 38.223162,
+      "lng": -85.815732
+    }
+  ]
 }

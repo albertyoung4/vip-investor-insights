@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 5,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,8 +22,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0196c67c-35db-79f2-bbf0-aa5e2bcb4b91",
+      "attomId": 214624376,
+      "offerDate": "2025-05-15T05:00:00.000Z",
+      "offerPrice": 250000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2086 LAVERNE CT # 2087, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1672,
+      "lotSize": 0.3802112,
+      "lat": 38.095101,
+      "lng": -84.477502
+    },
     {
       "propertyId": null,
       "attomId": 36130803,

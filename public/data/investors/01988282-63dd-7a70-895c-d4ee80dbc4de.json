@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01975a38-17b7-7f83-81b6-0518c16e0dec",
+      "attomId": 293329940,
+      "offerDate": "2025-08-07T05:00:00.000Z",
+      "offerPrice": 15000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1311 E GARFIELD AVE, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 780,
+      "lotSize": 0.1195248,
+      "lat": 39.862233,
+      "lng": -88.939029
+    },
     {
       "propertyId": null,
       "attomId": 311582732,

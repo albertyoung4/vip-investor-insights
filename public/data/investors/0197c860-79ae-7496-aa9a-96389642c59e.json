@@ -13,9 +13,9 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 4,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 3
+        "rebuilt": 3,
+        "total": 5
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01975a1d-ebbd-71c6-910e-5f2a33d3524e",
+      "attomId": 213900305,
+      "offerDate": "2025-07-22T05:00:00.000Z",
+      "offerPrice": 5000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3024 C AVE, NEW CASTLE IN",
+      "city": "NEW CASTLE",
+      "state": "IN",
+      "beds": 4,
+      "baths": 1,
+      "sqft": 1728,
+      "lotSize": 0.242011,
+      "lat": 39.922524,
+      "lng": -85.347404
+    },
+    {
+      "propertyId": "0198a4b0-7068-72cf-9977-71bbc00ba1ea",
+      "attomId": 190554081,
+      "offerDate": "2025-08-26T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "518 N INDIANA ST, GREENCASTLE IN",
+      "city": "GREENCASTLE",
+      "state": "IN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1044,
+      "lotSize": 0.1480028,
+      "lat": 39.649226,
+      "lng": -86.864774
+    },
+    {
+      "propertyId": "01971c41-732a-7d0e-935f-6e0e4461b7e1",
+      "attomId": 215636764,
+      "offerDate": "2025-09-05T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1436 W SPENCER AVE, MARION IN",
+      "city": "MARION",
+      "state": "IN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1442,
+      "lotSize": 0.1,
+      "lat": 40.562999,
+      "lng": -85.677302
+    },
     {
       "propertyId": null,
       "attomId": 214988132,
@@ -92,24 +143,6 @@
       "lotSize": 0.0650826,
       "lat": 40.192536,
       "lng": -85.390328,
-      "entity": "DAVIDS GROUP 2 LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 213900305,
-      "offerDate": "2025-08-05T05:00:00.000Z",
-      "offerPrice": 2500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3024 C AVE, NEW CASTLE IN",
-      "city": "NEW CASTLE",
-      "state": "IN",
-      "beds": 4,
-      "baths": 1,
-      "sqft": 1728,
-      "lotSize": 0.242011,
-      "lat": 39.922524,
-      "lng": -85.347404,
       "entity": "DAVIDS GROUP 2 LLC"
     }
   ]

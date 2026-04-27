@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 2,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,7 +22,7 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q3": {
@@ -41,12 +41,12 @@
   },
   "properties": [
     {
-      "propertyId": null,
+      "propertyId": "01963450-8246-7ea8-8ac4-856e557e3b95",
       "attomId": 53547311,
-      "offerDate": "2025-06-30T05:00:00.000Z",
+      "offerDate": "2025-04-21T05:00:00.000Z",
       "offerPrice": 90000,
-      "status": "recorded",
-      "isRebuilt": false,
+      "status": "done",
+      "isRebuilt": true,
       "address": "910 N EVERGREEN ST, MEMPHIS TN",
       "city": "MEMPHIS",
       "state": "TN",
@@ -55,7 +55,24 @@
       "sqft": 1397,
       "lotSize": 0.1570018,
       "lat": 35.162873,
-      "lng": -90.000429,
+      "lng": -90.000429
+    },
+    {
+      "propertyId": null,
+      "attomId": 20475514,
+      "offerDate": "2026-04-15T05:00:00.000Z",
+      "offerPrice": 86250,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "4785 HALEVILLE RD, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1288,
+      "lotSize": 0.4609963,
+      "lat": 35.018186,
+      "lng": -90.011671,
       "entity": "BBE ASSET HOLDINGS LLC"
     },
     {

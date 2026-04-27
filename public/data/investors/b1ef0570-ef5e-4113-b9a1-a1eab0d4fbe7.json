@@ -18,8 +18,8 @@
   },
   "stats": {
     "totalTransactions2025": 18,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 27,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 28,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -39,11 +39,28 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 9
+        "total": 10
       }
     }
   },
   "properties": [
+    {
+      "propertyId": "56d26c64-84cb-4db3-8942-6c00e7a90f53",
+      "attomId": null,
+      "offerDate": "2023-08-07T05:00:00.000Z",
+      "offerPrice": 207500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
     {
       "propertyId": null,
       "attomId": 187392315,
@@ -61,6 +78,24 @@
       "lat": 35.852228,
       "lng": -86.387691,
       "entity": "MICHAEL ADLY"
+    },
+    {
+      "propertyId": null,
+      "attomId": 904424,
+      "offerDate": "2026-03-30T05:00:00.000Z",
+      "offerPrice": 196000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "115 WALNUT CREST DR, GALLATIN TN",
+      "city": "GALLATIN",
+      "state": "TN",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1326,
+      "lotSize": 0,
+      "lat": 36.389022,
+      "lng": -86.472397,
+      "entity": "NASH HOMES LLC"
     },
     {
       "propertyId": null,
@@ -334,24 +369,6 @@
     },
     {
       "propertyId": null,
-      "attomId": 200596495,
-      "offerDate": "2025-05-16T05:00:00.000Z",
-      "offerPrice": 299000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "545 OLD LEBANON DIRT RD, HERMITAGE TN",
-      "city": "HERMITAGE",
-      "state": "TN",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1710,
-      "lotSize": 0.35,
-      "lat": 36.187858,
-      "lng": -86.603162,
-      "entity": "NASH HOMES LLC"
-    },
-    {
-      "propertyId": null,
       "attomId": 189284240,
       "offerDate": "2025-05-16T05:00:00.000Z",
       "offerPrice": 0,
@@ -367,6 +384,24 @@
       "lat": 36.139044,
       "lng": -86.702392,
       "entity": "MM INVESTMENTS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 200596495,
+      "offerDate": "2025-05-16T05:00:00.000Z",
+      "offerPrice": 299000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "545 OLD LEBANON DIRT RD, HERMITAGE TN",
+      "city": "HERMITAGE",
+      "state": "TN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1710,
+      "lotSize": 0.35,
+      "lat": 36.187858,
+      "lng": -86.603162,
+      "entity": "NASH HOMES LLC"
     },
     {
       "propertyId": null,

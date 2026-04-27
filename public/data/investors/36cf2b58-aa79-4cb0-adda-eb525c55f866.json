@@ -13,33 +13,135 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 11,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 15,
+    "totalTransactions2025": 13,
+    "rebuiltTransactions": 6,
+    "recorderTransactions": 12,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 3
+        "rebuilt": 1,
+        "total": 4
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q3": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 4
+        "rebuilt": 1,
+        "total": 5
       },
       "2026-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 4
       }
     }
   },
   "properties": [
+    {
+      "propertyId": "0194b941-baaf-7987-8b44-9fba20f41dd1",
+      "attomId": 188300569,
+      "offerDate": "2025-02-19T06:00:00.000Z",
+      "offerPrice": 26500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3381 33RD PL N, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 912,
+      "lotSize": 0.1394628,
+      "lat": 33.55815,
+      "lng": -86.799184
+    },
+    {
+      "propertyId": "01958010-f0dd-727b-aee2-fddc75d805b0",
+      "attomId": 26421588,
+      "offerDate": "2025-04-22T05:00:00.000Z",
+      "offerPrice": 12000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1361 PROSCH AVE, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 796,
+      "lotSize": 0.2238292,
+      "lat": 33.576216,
+      "lng": -86.771517
+    },
+    {
+      "propertyId": "0197c1fe-587c-7462-aae4-7a0a4ee722b1",
+      "attomId": 153039406,
+      "offerDate": "2025-07-02T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3529 PARK AVE SW, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 784,
+      "lotSize": 0.1515152,
+      "lat": 33.457666,
+      "lng": -86.890338
+    },
+    {
+      "propertyId": "019a5b3b-71e4-72ed-b39a-c77ca6e8f3c5",
+      "attomId": 201834743,
+      "offerDate": "2025-12-29T06:00:00.000Z",
+      "offerPrice": 16000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "5508 LYBIA AVE, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1634,
+      "lotSize": 0.1721763,
+      "lat": 33.525207,
+      "lng": -86.935443
+    },
+    {
+      "propertyId": "019cb4ee-9683-7efb-a4da-e056c658c44d",
+      "attomId": 199904434,
+      "offerDate": "2026-03-19T05:00:00.000Z",
+      "offerPrice": 6000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1301,
+      "lotSize": 0.137741,
+      "lat": 33.44432,
+      "lng": -86.901028
+    },
+    {
+      "propertyId": "019d5571-4441-7235-b843-93ae48773e61",
+      "attomId": 54228489,
+      "offerDate": "2026-04-14T05:00:00.000Z",
+      "offerPrice": 4500,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": "4612 AVENUE S, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1610,
+      "lotSize": 0.1606979,
+      "lat": 33.490476,
+      "lng": -86.884081
+    },
     {
       "propertyId": null,
       "attomId": 148120455,
@@ -92,24 +194,6 @@
       "lotSize": 0.1721763,
       "lat": 33.525205,
       "lng": -86.935278,
-      "entity": "COLFAX PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 201834743,
-      "offerDate": "2026-01-09T06:00:00.000Z",
-      "offerPrice": 14000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "5508 LYBIA AVE, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1634,
-      "lotSize": 0.1721763,
-      "lat": 33.525207,
-      "lng": -86.935443,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -200,42 +284,6 @@
       "lotSize": 0.1522039,
       "lat": 33.484338,
       "lng": -86.83633,
-      "entity": "COLFAX PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 153039406,
-      "offerDate": "2025-09-23T05:00:00.000Z",
-      "offerPrice": 5000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3529 PARK AVE SW, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 784,
-      "lotSize": 0.1515152,
-      "lat": 33.457666,
-      "lng": -86.890338,
-      "entity": "COLFAX PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 26421588,
-      "offerDate": "2025-05-07T05:00:00.000Z",
-      "offerPrice": 9000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1361 PROSCH AVE, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 796,
-      "lotSize": 0.2238292,
-      "lat": 33.576216,
-      "lng": -86.771517,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {

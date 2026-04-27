@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0192e309-9e50-7c36-9a4c-df24eb60b581",
+      "attomId": 198790004,
+      "offerDate": "2024-12-05T06:00:00.000Z",
+      "offerPrice": 170500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "126 SPRING ST, TRENTON NJ",
+      "city": "TRENTON",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1944,
+      "lotSize": 0.043618,
+      "lat": 40.224785,
+      "lng": -74.771974
+    }
+  ]
 }

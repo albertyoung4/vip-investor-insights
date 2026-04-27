@@ -13,9 +13,9 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 4,
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -30,16 +30,33 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 1
       }
     }
   },
   "properties": [
+    {
+      "propertyId": "019ab6c6-cbe2-70d7-8f5f-815ab486aa48",
+      "attomId": 240826789,
+      "offerDate": "2025-12-09T06:00:00.000Z",
+      "offerPrice": 100000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1686 MOONBEAM TER, TOBYHANNA PA",
+      "city": "TOBYHANNA",
+      "state": "PA",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1512,
+      "lotSize": 0.25,
+      "lat": 41.22173,
+      "lng": -75.345709
+    },
     {
       "propertyId": null,
       "attomId": 3126215,
@@ -56,24 +73,6 @@
       "lotSize": 0.35,
       "lat": 41.132379,
       "lng": -75.540568,
-      "entity": "MEIK PROPERTIES CORP"
-    },
-    {
-      "propertyId": null,
-      "attomId": 240826789,
-      "offerDate": "2026-01-05T06:00:00.000Z",
-      "offerPrice": 80000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1686 MOONBEAM TER, TOBYHANNA PA",
-      "city": "TOBYHANNA",
-      "state": "PA",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1512,
-      "lotSize": 0.25,
-      "lat": 41.22173,
-      "lng": -75.345709,
       "entity": "MEIK PROPERTIES CORP"
     },
     {

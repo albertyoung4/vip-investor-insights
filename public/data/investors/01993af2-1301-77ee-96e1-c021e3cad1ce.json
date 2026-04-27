@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01992faa-da15-7541-916d-3c7b5af92ae8",
+      "attomId": 215586381,
+      "offerDate": "2025-09-12T05:00:00.000Z",
+      "offerPrice": 160000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "978 SPRING ST, MACON GA",
+      "city": "MACON",
+      "state": "GA",
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2308,
+      "lotSize": 0.2100092,
+      "lat": 32.832374,
+      "lng": -83.639804
+    }
+  ]
 }

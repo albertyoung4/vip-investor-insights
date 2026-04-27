@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 3,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 3,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 1
       },
       "2025-Q3": {
@@ -41,6 +41,23 @@
   },
   "properties": [
     {
+      "propertyId": "0196abec-d203-70b8-9828-8bb1591d761c",
+      "attomId": 296126751,
+      "offerDate": "2025-06-02T05:00:00.000Z",
+      "offerPrice": 29900,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "230 D MORGAN RD, RUSSELLVILLE KY",
+      "city": "RUSSELLVILLE",
+      "state": "KY",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 700,
+      "lotSize": 0,
+      "lat": 36.917733,
+      "lng": -86.930014
+    },
+    {
       "propertyId": null,
       "attomId": 296131496,
       "offerDate": "2025-07-28T05:00:00.000Z",
@@ -56,24 +73,6 @@
       "lotSize": 0.7910009,
       "lat": 36.833131,
       "lng": -86.914393,
-      "entity": "BARRY APPLING"
-    },
-    {
-      "propertyId": null,
-      "attomId": 296126751,
-      "offerDate": "2025-06-17T05:00:00.000Z",
-      "offerPrice": 20000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "230 D MORGAN RD, RUSSELLVILLE KY",
-      "city": "RUSSELLVILLE",
-      "state": "KY",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 700,
-      "lotSize": 0,
-      "lat": 36.917733,
-      "lng": -86.930014,
       "entity": "BARRY APPLING"
     },
     {

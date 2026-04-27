@@ -15,16 +15,16 @@
   },
   "stats": {
     "totalTransactions2025": 19,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 20,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 19,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 6
+        "rebuilt": 1,
+        "total": 7
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 8
+        "total": 7
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -41,6 +41,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01958007-81ae-7e75-9851-b7df30991836",
+      "attomId": 7577454,
+      "offerDate": "2025-03-31T05:00:00.000Z",
+      "offerPrice": 7000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2204 HERNANDO RD, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 840,
+      "lotSize": 0.4129936,
+      "lat": 35.085148,
+      "lng": -90.024657
+    },
     {
       "propertyId": null,
       "attomId": 1004998781,
@@ -237,24 +254,6 @@
       "lotSize": 0.2649908,
       "lat": 43.185952,
       "lng": -88.743971,
-      "entity": "RANDALL JOHNSON"
-    },
-    {
-      "propertyId": null,
-      "attomId": 7577454,
-      "offerDate": "2025-04-22T05:00:00.000Z",
-      "offerPrice": 2500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2204 HERNANDO RD, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 840,
-      "lotSize": 0.4129936,
-      "lat": 35.085148,
-      "lng": -90.024657,
       "entity": "RANDALL JOHNSON"
     },
     {

@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 25,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 29,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 28,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 7
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01941d7b-5c60-7100-b3d3-35181960a511",
+      "attomId": 295912991,
+      "offerDate": "2025-02-13T06:00:00.000Z",
+      "offerPrice": 47500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "206 ELM ST, EMINENCE KY",
+      "city": "EMINENCE",
+      "state": "KY",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1081,
+      "lotSize": 0.4800046,
+      "lat": 38.36984,
+      "lng": -85.176101
+    },
     {
       "propertyId": null,
       "attomId": 158679622,
@@ -506,24 +523,6 @@
       "lotSize": 0.1463039,
       "lat": 26.121546,
       "lng": -98.185596,
-      "entity": "OSCAR PEREZ"
-    },
-    {
-      "propertyId": null,
-      "attomId": 295912991,
-      "offerDate": "2025-03-05T06:00:00.000Z",
-      "offerPrice": 40000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "206 ELM ST, EMINENCE KY",
-      "city": "EMINENCE",
-      "state": "KY",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1081,
-      "lotSize": 0.4800046,
-      "lat": 38.36984,
-      "lng": -85.176101,
       "entity": "OSCAR PEREZ"
     },
     {

@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 9,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 8,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01956c10-1d3a-757c-911f-6f27b254fb38",
+      "attomId": 9612258,
+      "offerDate": "2025-03-09T06:00:00.000Z",
+      "offerPrice": 115000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "445 HIGH POINT RD, CLARKSVILLE TN",
+      "city": "CLARKSVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1169,
+      "lotSize": 0.2600092,
+      "lat": 36.546437,
+      "lng": -87.419319
+    },
     {
       "propertyId": null,
       "attomId": 147810111,

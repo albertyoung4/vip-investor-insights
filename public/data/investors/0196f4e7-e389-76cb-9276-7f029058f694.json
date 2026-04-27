@@ -14,16 +14,16 @@
   },
   "stats": {
     "totalTransactions2025": 30,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 34,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 33,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 8
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 7
+        "rebuilt": 1,
+        "total": 8
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -31,7 +31,7 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 8
+        "total": 7
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0196ee18-3517-7b65-b34c-2cac992df41f",
+      "attomId": 144787652,
+      "offerDate": "2025-05-22T05:00:00.000Z",
+      "offerPrice": 56500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "507 BROAD ST, EAST CHICAGO IN",
+      "city": "EAST CHICAGO",
+      "state": "IN",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1550,
+      "lotSize": 0.1000918,
+      "lat": 41.660145,
+      "lng": -87.468197
+    },
     {
       "propertyId": null,
       "attomId": 198143195,
@@ -218,24 +235,6 @@
       "lotSize": 0.1789945,
       "lat": 41.568839,
       "lng": -87.266807,
-      "entity": "FAVELA HOMES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 144787652,
-      "offerDate": "2025-10-02T05:00:00.000Z",
-      "offerPrice": 97000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "507 BROAD ST, EAST CHICAGO IN",
-      "city": "EAST CHICAGO",
-      "state": "IN",
-      "beds": 2,
-      "baths": 2,
-      "sqft": 1550,
-      "lotSize": 0.1000918,
-      "lat": 41.660145,
-      "lng": -87.468197,
       "entity": "FAVELA HOMES LLC"
     },
     {

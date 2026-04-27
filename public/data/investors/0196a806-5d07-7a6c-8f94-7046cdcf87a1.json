@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,8 +22,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01960e68-cf2f-7ce4-9308-821cafaf785f",
+      "attomId": 33133666,
+      "offerDate": "2025-05-06T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3242 SLOPE ST, PITTSBURGH PA",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1008,
+      "lotSize": 0.0573921,
+      "lat": 40.458699,
+      "lng": -80.057092
+    }
+  ]
 }

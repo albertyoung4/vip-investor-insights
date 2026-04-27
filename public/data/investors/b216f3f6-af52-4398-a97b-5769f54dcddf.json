@@ -11,8 +11,8 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 2,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -20,8 +20,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -37,5 +37,40 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01965a4b-e8ae-769c-87fe-14dc3e1bf19e",
+      "attomId": 290435810,
+      "offerDate": "2025-05-07T05:00:00.000Z",
+      "offerPrice": 25000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "711 S HOOK ST, TUSCUMBIA AL",
+      "city": "TUSCUMBIA",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 884,
+      "lotSize": 0.2199954,
+      "lat": 34.725151,
+      "lng": -87.710419
+    },
+    {
+      "propertyId": "019d3fa5-2b9e-709a-81f1-0103d7d018f8",
+      "attomId": 290427253,
+      "offerDate": "2026-04-06T05:00:00.000Z",
+      "offerPrice": 9500,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1162,
+      "lotSize": 0.6199954,
+      "lat": 34.679342,
+      "lng": -87.527444
+    }
+  ]
 }

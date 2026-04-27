@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 23,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 24,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 38,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 3
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 2
+        "rebuilt": 1,
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0198cd15-32f1-7ed0-9984-d474c50b8067",
+      "attomId": 2782034,
+      "offerDate": "2025-08-28T05:00:00.000Z",
+      "offerPrice": 36500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "7406 PARK AVE, CLEVELAND OH",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "beds": 4,
+      "baths": 1,
+      "sqft": 1329,
+      "lotSize": 0.1101928,
+      "lat": 41.445577,
+      "lng": -81.636053
+    },
     {
       "propertyId": null,
       "attomId": 1331914,

@@ -14,25 +14,25 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 16,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 18,
+    "totalTransactions2025": 17,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 17,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 2
+        "rebuilt": 1,
+        "total": 3
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 11
+        "rebuilt": 1,
+        "total": 12
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -41,6 +41,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "3a7c8ae3-5070-4a96-b329-7a4fac7f2b90",
+      "attomId": null,
+      "offerDate": "2024-05-05T05:00:00.000Z",
+      "offerPrice": 68500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0197a7c3-ff7f-783d-8158-0c99f3293206",
+      "attomId": null,
+      "offerDate": "2025-06-28T05:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019837e0-57b4-7c91-be7d-e5a921f70acf",
+      "attomId": 194542665,
+      "offerDate": "2025-07-28T05:00:00.000Z",
+      "offerPrice": 41000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "355 DELLER ST, LAWRENCEBURG TN",
+      "city": "LAWRENCEBURG",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 848,
+      "lotSize": 0.1893939,
+      "lat": 35.24447,
+      "lng": -87.339236
+    },
     {
       "propertyId": null,
       "attomId": 17678694,
@@ -75,24 +126,6 @@
       "lotSize": 0.2995868,
       "lat": 35.246318,
       "lng": -87.341905,
-      "entity": "BLACK LIGHT PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 194542665,
-      "offerDate": "2025-12-09T06:00:00.000Z",
-      "offerPrice": 35000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "355 DELLER ST, LAWRENCEBURG TN",
-      "city": "LAWRENCEBURG",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 848,
-      "lotSize": 0.1893939,
-      "lat": 35.24447,
-      "lng": -87.339236,
       "entity": "BLACK LIGHT PROPERTIES LLC"
     },
     {

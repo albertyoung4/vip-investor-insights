@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 7,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 1
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0194aa63-173f-7ddb-a564-700ec601cd98",
+      "attomId": 193165258,
+      "offerDate": "2025-02-04T06:00:00.000Z",
+      "offerPrice": 89200,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3196 HARDIN AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 5,
+      "baths": 2,
+      "sqft": 1890,
+      "lotSize": 0.2149908,
+      "lat": 35.161759,
+      "lng": -89.954194
+    },
     {
       "propertyId": null,
       "attomId": 146842269,
@@ -146,24 +163,6 @@
       "lotSize": 0.4061983,
       "lat": 35.449633,
       "lng": -79.147952,
-      "entity": "TORRES INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 193165258,
-      "offerDate": "2025-03-07T06:00:00.000Z",
-      "offerPrice": 76000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3196 HARDIN AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 5,
-      "baths": 2,
-      "sqft": 1890,
-      "lotSize": 0.2149908,
-      "lat": 35.161759,
-      "lng": -89.954194,
       "entity": "TORRES INVESTMENTS LLC"
     }
   ]

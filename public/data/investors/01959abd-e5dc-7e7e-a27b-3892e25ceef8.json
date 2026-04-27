@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01958132-7319-7a60-a209-67ca3c796756",
+      "attomId": 296498906,
+      "offerDate": "2025-03-15T05:00:00.000Z",
+      "offerPrice": 120000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "137 STRAIGHT LN, BRODHEAD KY",
+      "city": "BRODHEAD",
+      "state": "KY",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.7980028,
+      "lat": 37.293853,
+      "lng": -84.457126
+    }
+  ]
 }

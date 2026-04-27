@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 10,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 15,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 14,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 4
       },
       "2025-Q3": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01962090-9e0e-7476-b549-fea885859645",
+      "attomId": 218739317,
+      "offerDate": "2025-05-15T05:00:00.000Z",
+      "offerPrice": 50000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "199 OLNEY AVE, MARION OH",
+      "city": "MARION",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 2536,
+      "lotSize": 0,
+      "lat": 40.586419,
+      "lng": -83.138377
+    },
     {
       "propertyId": null,
       "attomId": 143177660,
@@ -236,24 +253,6 @@
       "lotSize": 0.2130395,
       "lat": 41.674962,
       "lng": -86.180469,
-      "entity": "SLAP SHOT TRANSACTIONS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 218739317,
-      "offerDate": "2025-06-24T05:00:00.000Z",
-      "offerPrice": 47500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "199 OLNEY AVE, MARION OH",
-      "city": "MARION",
-      "state": "OH",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 2536,
-      "lotSize": 0,
-      "lat": 40.586419,
-      "lng": -83.138377,
       "entity": "SLAP SHOT TRANSACTIONS LLC"
     },
     {

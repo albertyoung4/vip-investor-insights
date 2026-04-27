@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 3,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 2,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -39,5 +39,57 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0192f51c-7f56-7121-b441-b2d2add7f5c5",
+      "attomId": 147314610,
+      "offerDate": "2024-11-14T06:00:00.000Z",
+      "offerPrice": 33000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 3,
+      "sqft": 2010,
+      "lotSize": 0.2899908,
+      "lat": 33.178659,
+      "lng": -86.255141
+    },
+    {
+      "propertyId": "0194ad8f-0931-7a1e-968b-4ba044b03ba4",
+      "attomId": 40723674,
+      "offerDate": "2025-02-04T06:00:00.000Z",
+      "offerPrice": 92500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "4417 CAMPBELL LN, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1479,
+      "lotSize": 0.4152893,
+      "lat": 33.57046,
+      "lng": -86.830456
+    },
+    {
+      "propertyId": "0192f826-cb3e-739d-b8cf-66d5b97cca54",
+      "attomId": 232516766,
+      "offerDate": "2025-02-20T06:00:00.000Z",
+      "offerPrice": 23500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1836,
+      "lotSize": 2,
+      "lat": 33.886105,
+      "lng": -87.444011
+    }
+  ]
 }

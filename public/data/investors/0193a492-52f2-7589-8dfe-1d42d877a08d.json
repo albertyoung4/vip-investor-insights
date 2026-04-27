@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0192e84e-6634-78d7-8713-7bbbeaf9936c",
+      "attomId": 43585362,
+      "offerDate": "2024-12-08T06:00:00.000Z",
+      "offerPrice": 141000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2484 DODSON DR, ATLANTA GA",
+      "city": "ATLANTA",
+      "state": "GA",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1182,
+      "lotSize": 0.3719927,
+      "lat": 33.687724,
+      "lng": -84.474881
+    }
+  ]
 }

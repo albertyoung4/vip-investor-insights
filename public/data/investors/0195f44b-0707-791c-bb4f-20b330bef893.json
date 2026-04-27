@@ -14,20 +14,20 @@
   },
   "stats": {
     "totalTransactions2025": 6,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 2,
+        "total": 2
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 3
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0196edde-3b08-788d-8b2d-538b6ef4ebdc",
+      "attomId": 172278286,
+      "offerDate": "2025-05-27T05:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "14577 WHITCOMB ST, DETROIT MI",
+      "city": "DETROIT",
+      "state": "MI",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1235,
+      "lotSize": 0.1100092,
+      "lat": 42.395491,
+      "lng": -83.196435
+    },
+    {
+      "propertyId": "01973b93-8b4d-7cd0-9caf-ba6d138c877d",
+      "attomId": 48251263,
+      "offerDate": "2025-06-20T05:00:00.000Z",
+      "offerPrice": 25500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "111 BURKE ST, RIVER ROUGE MI",
+      "city": "RIVER ROUGE",
+      "state": "MI",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 832,
+      "lotSize": 0.0600092,
+      "lat": 42.276579,
+      "lng": -83.129802
+    },
+    {
+      "propertyId": "01986607-dd12-7162-ac9e-856fd9e7a200",
+      "attomId": 147828764,
+      "offerDate": "2025-08-28T05:00:00.000Z",
+      "offerPrice": 48500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "11658 SOMERSET AVE, DETROIT MI",
+      "city": "DETROIT",
+      "state": "MI",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1492,
+      "lotSize": 0.15,
+      "lat": 42.428347,
+      "lng": -82.939569
+    },
     {
       "propertyId": null,
       "attomId": 24934449,
@@ -60,42 +111,6 @@
     },
     {
       "propertyId": null,
-      "attomId": 147828764,
-      "offerDate": "2025-09-30T05:00:00.000Z",
-      "offerPrice": 40000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "11658 SOMERSET AVE, DETROIT MI",
-      "city": "DETROIT",
-      "state": "MI",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1492,
-      "lotSize": 0.15,
-      "lat": 42.428347,
-      "lng": -82.939569,
-      "entity": "MDPM HOLDINGS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 48251263,
-      "offerDate": "2025-09-17T05:00:00.000Z",
-      "offerPrice": 23000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "111 BURKE ST, RIVER ROUGE MI",
-      "city": "RIVER ROUGE",
-      "state": "MI",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 832,
-      "lotSize": 0.0600092,
-      "lat": 42.276579,
-      "lng": -83.129802,
-      "entity": "MDPM HOLDINGS LLC"
-    },
-    {
-      "propertyId": null,
       "attomId": 24448667,
       "offerDate": "2025-07-11T05:00:00.000Z",
       "offerPrice": 36000,
@@ -110,24 +125,6 @@
       "lotSize": 0.0899908,
       "lat": 42.42693,
       "lng": -82.967248,
-      "entity": "MDPM HOLDINGS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 172278286,
-      "offerDate": "2025-06-17T05:00:00.000Z",
-      "offerPrice": 36000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "14577 WHITCOMB ST, DETROIT MI",
-      "city": "DETROIT",
-      "state": "MI",
-      "beds": 0,
-      "baths": 2,
-      "sqft": 1235,
-      "lotSize": 0.1100092,
-      "lat": 42.395491,
-      "lng": -83.196435,
       "entity": "MDPM HOLDINGS LLC"
     },
     {

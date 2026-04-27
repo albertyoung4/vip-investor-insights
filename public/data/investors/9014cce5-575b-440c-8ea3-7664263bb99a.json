@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 4,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,8 +22,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -39,5 +39,74 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "d8ff0e68-ba97-4423-b52d-081f3de94f94",
+      "attomId": null,
+      "offerDate": "2024-02-26T06:00:00.000Z",
+      "offerPrice": 135000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "7292a26d-c39c-4fb2-8be8-c4bb98465b49",
+      "attomId": null,
+      "offerDate": "2024-02-26T06:00:00.000Z",
+      "offerPrice": 135000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0192b9b8-9cc2-7ab6-9496-dd4f87467603",
+      "attomId": 203292068,
+      "offerDate": "2024-11-03T05:00:00.000Z",
+      "offerPrice": 175000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "545 BUFFALO AVE, EGG HARBOR CITY NJ",
+      "city": "EGG HARBOR CITY",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1764,
+      "lotSize": 0.2755051,
+      "lat": 39.533794,
+      "lng": -74.638425
+    },
+    {
+      "propertyId": "019753cc-9a3a-770f-8daf-bff22546f4fe",
+      "attomId": 48582523,
+      "offerDate": "2025-06-18T05:00:00.000Z",
+      "offerPrice": 185000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "50 PINE ST, BEVERLY NJ",
+      "city": "BEVERLY",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1468,
+      "lotSize": 0.0651056,
+      "lat": 40.063087,
+      "lng": -74.913341
+    }
+  ]
 }

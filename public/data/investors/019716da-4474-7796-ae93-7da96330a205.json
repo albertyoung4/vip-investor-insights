@@ -14,20 +14,20 @@
   },
   "stats": {
     "totalTransactions2025": 9,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 10,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 9,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 5
+        "rebuilt": 1,
+        "total": 6
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01963992-63e3-726a-a460-bcc2343196d3",
+      "attomId": 16565146,
+      "offerDate": "2025-05-28T05:00:00.000Z",
+      "offerPrice": 59000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "837 W PLEASANT ST, SPRINGFIELD OH",
+      "city": "SPRINGFIELD",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1456,
+      "lotSize": 0.1904959,
+      "lat": 39.919476,
+      "lng": -83.826512
+    },
     {
       "propertyId": null,
       "attomId": 155300823,
@@ -74,24 +91,6 @@
       "lotSize": 0.1491965,
       "lat": 39.999138,
       "lng": -83.623176,
-      "entity": "CBMM PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 16565146,
-      "offerDate": "2025-08-18T05:00:00.000Z",
-      "offerPrice": 31500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "837 W PLEASANT ST, SPRINGFIELD OH",
-      "city": "SPRINGFIELD",
-      "state": "OH",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1456,
-      "lotSize": 0.1904959,
-      "lat": 39.919476,
-      "lng": -83.826512,
       "entity": "CBMM PROPERTIES LLC"
     },
     {

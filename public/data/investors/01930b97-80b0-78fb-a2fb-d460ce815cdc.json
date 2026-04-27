@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01927d1d-04c2-79a5-8123-a330b4e29fb2",
+      "attomId": 29495825,
+      "offerDate": "2024-11-08T06:00:00.000Z",
+      "offerPrice": 82500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1394 ROSS ST, MACON GA",
+      "city": "MACON",
+      "state": "GA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 2322,
+      "lotSize": 0.0800046,
+      "lat": 32.829102,
+      "lng": -83.645362
+    }
+  ]
 }

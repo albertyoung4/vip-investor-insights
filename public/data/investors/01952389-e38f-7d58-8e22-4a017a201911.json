@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 7,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 9,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 8,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019514b6-73d3-7bb3-8ef4-8c680a7edc49",
+      "attomId": 34333699,
+      "offerDate": "2025-02-20T06:00:00.000Z",
+      "offerPrice": 63000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "624 S 41ST ST, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 2,
+      "sqft": 1875,
+      "lotSize": 0.1598944,
+      "lat": 38.254288,
+      "lng": -85.819686
+    },
     {
       "propertyId": null,
       "attomId": 177101468,
@@ -164,24 +181,6 @@
       "lotSize": 1.1900001,
       "lat": 33.255675,
       "lng": -86.781374,
-      "entity": "MICHAEL YARBROUGH"
-    },
-    {
-      "propertyId": null,
-      "attomId": 34333699,
-      "offerDate": "2025-03-25T05:00:00.000Z",
-      "offerPrice": 63000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "624 S 41ST ST, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": 1,
-      "baths": 2,
-      "sqft": 1875,
-      "lotSize": 0.1598944,
-      "lat": 38.254288,
-      "lng": -85.819686,
       "entity": "MICHAEL YARBROUGH"
     },
     {

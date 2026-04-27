@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,8 +22,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0195a617-b225-7f81-809c-ff3c56e45149",
+      "attomId": 150724864,
+      "offerDate": "2025-04-30T05:00:00.000Z",
+      "offerPrice": 24000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "926 HESLEP AVE, DONORA PA",
+      "city": "DONORA",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1332,
+      "lotSize": 0.0609963,
+      "lat": 40.182363,
+      "lng": -79.85747
+    }
+  ]
 }

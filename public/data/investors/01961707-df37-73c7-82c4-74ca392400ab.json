@@ -13,21 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "totalTransactions2025": 9,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 3,
+        "total": 4
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 5
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01967544-06d1-79a1-b520-8cd6c92abfa7",
+      "attomId": 174315135,
+      "offerDate": "2025-04-30T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1314 W BUTLER ST, PEORIA IL",
+      "city": "PEORIA",
+      "state": "IL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1390,
+      "lotSize": 0,
+      "lat": 40.683802,
+      "lng": -89.614258
+    },
+    {
+      "propertyId": "01967562-713f-7202-9156-30c5ef153553",
+      "attomId": 293335476,
+      "offerDate": "2025-05-01T05:00:00.000Z",
+      "offerPrice": 28500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2330 E JOHNS AVE, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.0918274,
+      "lat": 39.839731,
+      "lng": -88.923349
+    },
+    {
+      "propertyId": "01968c66-a62c-7f9e-9ef2-d87ad1c59de5",
+      "attomId": 293327235,
+      "offerDate": "2025-05-05T05:00:00.000Z",
+      "offerPrice": 20000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "842 N MONROE ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 652,
+      "lotSize": 0.1579431,
+      "lat": 39.849215,
+      "lng": -88.963235
+    },
     {
       "propertyId": null,
       "attomId": 309215695,
@@ -96,24 +147,6 @@
     },
     {
       "propertyId": null,
-      "attomId": 293327235,
-      "offerDate": "2025-09-15T05:00:00.000Z",
-      "offerPrice": 12000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "842 N MONROE ST, DECATUR IL",
-      "city": "DECATUR",
-      "state": "IL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 652,
-      "lotSize": 0.1579431,
-      "lat": 39.849215,
-      "lng": -88.963235,
-      "entity": "AC WALLACE HOLDINGS LLC"
-    },
-    {
-      "propertyId": null,
       "attomId": 293334113,
       "offerDate": "2025-09-15T05:00:00.000Z",
       "offerPrice": 25000,
@@ -128,24 +161,6 @@
       "lotSize": 0.1285583,
       "lat": 39.842992,
       "lng": -88.920672,
-      "entity": "AC WALLACE HOLDINGS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 293335476,
-      "offerDate": "2025-09-15T05:00:00.000Z",
-      "offerPrice": 26500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2330 E JOHNS AVE, DECATUR IL",
-      "city": "DECATUR",
-      "state": "IL",
-      "beds": 0,
-      "baths": null,
-      "sqft": 0,
-      "lotSize": 0.0918274,
-      "lat": 39.839731,
-      "lng": -88.923349,
       "entity": "AC WALLACE HOLDINGS LLC"
     },
     {

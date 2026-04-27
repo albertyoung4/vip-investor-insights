@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 4,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0194d1b8-3ab7-7da5-b7cc-528d1d7810d8",
+      "attomId": 334041347,
+      "offerDate": "2025-02-06T06:00:00.000Z",
+      "offerPrice": 53000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2062 MARTLING GAP RD, ALBERTVILLE AL",
+      "city": "ALBERTVILLE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1944,
+      "lotSize": 0.9300046,
+      "lat": 34.366888,
+      "lng": -86.176302
+    },
     {
       "propertyId": null,
       "attomId": 2340173,

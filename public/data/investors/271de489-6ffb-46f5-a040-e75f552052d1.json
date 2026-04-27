@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 22,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 3,
     "recorderTransactions": 26,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,12 +22,12 @@
         "total": 2
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 5
+        "rebuilt": 1,
+        "total": 6
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 10
+        "total": 9
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,75 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "c74053c7-6911-4206-9dc7-4da325a08293",
+      "attomId": null,
+      "offerDate": "2024-03-17T05:00:00.000Z",
+      "offerPrice": 53000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "5bb958b0-9b10-4af4-850b-372e0da86b7b",
+      "attomId": null,
+      "offerDate": "2024-06-10T05:00:00.000Z",
+      "offerPrice": 90000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "0196ee27-3544-791f-a60e-6bb71107a838",
+      "attomId": 146026516,
+      "offerDate": "2025-05-23T05:00:00.000Z",
+      "offerPrice": 86000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1331 ARLINGTON RD, ARAB AL",
+      "city": "ARAB",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1164,
+      "lotSize": 0.5,
+      "lat": 34.35229,
+      "lng": -86.415562
+    },
+    {
+      "propertyId": null,
+      "attomId": 19999031,
+      "offerDate": "2026-04-08T05:00:00.000Z",
+      "offerPrice": 675000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "9623 LARAWAY AVE, INGLEWOOD CA",
+      "city": "INGLEWOOD",
+      "state": "CA",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1186,
+      "lotSize": 0.1318411,
+      "lat": 33.948811,
+      "lng": -118.364949,
+      "entity": "WILLIAM GONZALEZ"
+    },
     {
       "propertyId": null,
       "attomId": 141343704,
@@ -272,24 +341,6 @@
       "lotSize": 0.1447429,
       "lat": 25.914891,
       "lng": -80.303312,
-      "entity": "WILLIAM GONZALEZ"
-    },
-    {
-      "propertyId": null,
-      "attomId": 146026516,
-      "offerDate": "2025-08-06T05:00:00.000Z",
-      "offerPrice": 0,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1331 ARLINGTON RD, ARAB AL",
-      "city": "ARAB",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1164,
-      "lotSize": 0.5,
-      "lat": 34.35229,
-      "lng": -86.415562,
       "entity": "WILLIAM GONZALEZ"
     },
     {

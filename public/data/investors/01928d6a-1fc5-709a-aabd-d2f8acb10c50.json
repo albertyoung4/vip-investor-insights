@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "a9124157-79c0-4bda-860f-d2af964520d2",
+      "attomId": 141092619,
+      "offerDate": "2024-10-14T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "612 20TH AVE, MIDDLETOWN OH",
+      "city": "MIDDLETOWN",
+      "state": "OH",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 864,
+      "lotSize": 0.1699954,
+      "lat": 39.494805,
+      "lng": -84.415944
+    }
+  ]
 }

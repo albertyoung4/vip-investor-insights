@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -30,8 +30,8 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "019ab6c8-c0cc-75b6-a90c-162be8b5d5f5",
+      "attomId": 205058543,
+      "offerDate": "2025-12-03T06:00:00.000Z",
+      "offerPrice": 23500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "4629 QUEENS AVE, DAYTON OH",
+      "city": "DAYTON",
+      "state": "OH",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.030302999541163445,
+      "lat": 39.78435516357422,
+      "lng": -84.260544
+    }
+  ]
 }

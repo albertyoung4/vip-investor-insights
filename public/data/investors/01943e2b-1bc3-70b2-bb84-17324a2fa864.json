@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 10,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 12,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 11,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 5
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0193e4c2-9d78-79b3-a7e7-80c084925f64",
+      "attomId": 33037008,
+      "offerDate": "2025-01-07T06:00:00.000Z",
+      "offerPrice": 95000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "5569 S YORK HWY, GRIMSLEY TN",
+      "city": "GRIMSLEY",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 936,
+      "lotSize": 0.4899908,
+      "lat": 36.249763,
+      "lng": -84.995649
+    },
     {
       "propertyId": null,
       "attomId": 244531656,
@@ -200,24 +217,6 @@
       "lotSize": 0.2938476,
       "lat": 36.170124,
       "lng": -85.515335,
-      "entity": "GL PARTNERS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 33037008,
-      "offerDate": "2025-01-27T06:00:00.000Z",
-      "offerPrice": 90000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "5569 S YORK HWY, GRIMSLEY TN",
-      "city": "GRIMSLEY",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 936,
-      "lotSize": 0.4899908,
-      "lat": 36.249763,
-      "lng": -84.995649,
       "entity": "GL PARTNERS LLC"
     },
     {

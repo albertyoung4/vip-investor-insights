@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -30,8 +30,8 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "019b3ea3-28a5-7ed5-b1e8-f621a99a8ff0",
+      "attomId": 212271225,
+      "offerDate": "2025-12-22T06:00:00.000Z",
+      "offerPrice": 55500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1321 WESLEYAN DR, MACON GA",
+      "city": "MACON",
+      "state": "GA",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1316,
+      "lotSize": 1.2,
+      "lat": 32.908911,
+      "lng": -83.715843
+    }
+  ]
 }

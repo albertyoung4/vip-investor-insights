@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019349ec-1546-7400-9efa-cdfa03d91b7a",
+      "attomId": 148179903,
+      "offerDate": "2024-12-17T06:00:00.000Z",
+      "offerPrice": 255000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "6010 WOODLAND DR NW, KENNESAW GA",
+      "city": "KENNESAW",
+      "state": "GA",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1274,
+      "lotSize": 0,
+      "lat": 34.005911,
+      "lng": -84.628516
+    },
     {
       "propertyId": null,
       "attomId": 171619709,

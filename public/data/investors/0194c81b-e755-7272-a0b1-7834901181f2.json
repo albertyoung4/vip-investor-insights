@@ -14,8 +14,8 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 5,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -26,7 +26,7 @@
         "total": 2
       },
       "2025-Q3": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 1
       },
       "2025-Q4": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019818f1-1347-7ee2-8188-600484d3b784",
+      "attomId": 213107352,
+      "offerDate": "2025-09-11T05:00:00.000Z",
+      "offerPrice": 32000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1004 W MAIN ST, NEW ALBANY IN",
+      "city": "NEW ALBANY",
+      "state": "IN",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1044,
+      "lotSize": 0.1600092,
+      "lat": 38.278946,
+      "lng": -85.833653
+    },
     {
       "propertyId": null,
       "attomId": 144041860,
@@ -74,24 +91,6 @@
       "lotSize": 0.5,
       "lat": 38.485435,
       "lng": -86.166874,
-      "entity": "KLA PROPERTY INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 213107352,
-      "offerDate": "2025-09-17T05:00:00.000Z",
-      "offerPrice": 28000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1004 W MAIN ST, NEW ALBANY IN",
-      "city": "NEW ALBANY",
-      "state": "IN",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 1044,
-      "lotSize": 0.1600092,
-      "lat": 38.278946,
-      "lng": -85.833653,
       "entity": "KLA PROPERTY INVESTMENTS LLC"
     },
     {

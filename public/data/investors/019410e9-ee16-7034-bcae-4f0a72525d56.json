@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 3,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "2c2a5bfb-2a2a-4bd6-a242-cf449457fd90",
+      "attomId": 54705132,
+      "offerDate": "2024-12-29T06:00:00.000Z",
+      "offerPrice": 28000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "168 BIG SPRINGS LN, JACKSBORO TN",
+      "city": "JACKSBORO",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 910,
+      "lotSize": 0.3,
+      "lat": 36.355578,
+      "lng": -84.164684
+    },
     {
       "propertyId": null,
       "attomId": 301087684,
@@ -74,24 +91,6 @@
       "lotSize": 0.3,
       "lat": 36.351306,
       "lng": -84.162675,
-      "entity": "JUSTIN SPAULDING"
-    },
-    {
-      "propertyId": null,
-      "attomId": 54705132,
-      "offerDate": "2025-01-08T06:00:00.000Z",
-      "offerPrice": 15000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "168 BIG SPRINGS LN, JACKSBORO TN",
-      "city": "JACKSBORO",
-      "state": "TN",
-      "beds": 0,
-      "baths": null,
-      "sqft": 910,
-      "lotSize": 0.3,
-      "lat": 36.355578,
-      "lng": -84.164684,
       "entity": "JUSTIN SPAULDING"
     }
   ]

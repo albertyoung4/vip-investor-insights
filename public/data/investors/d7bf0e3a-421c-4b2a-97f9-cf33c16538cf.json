@@ -13,9 +13,9 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 13,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 16,
+    "totalTransactions2025": 12,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 15,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,7 +23,7 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 4
+        "total": 3
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "ced4adbb-2c0d-4207-ad70-804f24955fce",
+      "attomId": 52955008,
+      "offerDate": "2024-09-24T05:00:00.000Z",
+      "offerPrice": 59000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2809 E 47TH ST, CHATTANOOGA TN",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 832,
+      "lotSize": 0.1632691,
+      "lat": 34.988871,
+      "lng": -85.286869
+    },
     {
       "propertyId": null,
       "attomId": 1004570676,
@@ -218,24 +235,6 @@
       "lotSize": 0.240404,
       "lat": 35.037989,
       "lng": -85.282218,
-      "entity": "CASTLE ROCK PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 52955008,
-      "offerDate": "2025-04-04T05:00:00.000Z",
-      "offerPrice": 0,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2809 E 47TH ST, CHATTANOOGA TN",
-      "city": "CHATTANOOGA",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 832,
-      "lotSize": 0.1632691,
-      "lat": 34.988871,
-      "lng": -85.286869,
       "entity": "CASTLE ROCK PROPERTIES LLC"
     },
     {

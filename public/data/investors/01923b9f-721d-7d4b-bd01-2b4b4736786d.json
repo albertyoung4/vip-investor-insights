@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "92707f74-afc4-49e7-9b44-a891485d6014",
+      "attomId": 8736916,
+      "offerDate": "2024-09-29T05:00:00.000Z",
+      "offerPrice": 14000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "102 S 43RD ST, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1075,
+      "lotSize": 0.0874656,
+      "lat": 38.265131,
+      "lng": -85.819105
+    },
     {
       "propertyId": null,
       "attomId": 20684845,

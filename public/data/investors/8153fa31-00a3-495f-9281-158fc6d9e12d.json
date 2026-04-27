@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 11,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 11,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "e1a267f9-dc45-4e7c-bf3f-bf297480eaed",
+      "attomId": 183525992,
+      "offerDate": "2024-09-23T05:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "10 TOWNSHIP AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1125,
+      "lotSize": 0.0780073,
+      "lat": 39.184006,
+      "lng": -84.484621
+    },
     {
       "propertyId": null,
       "attomId": 183132643,

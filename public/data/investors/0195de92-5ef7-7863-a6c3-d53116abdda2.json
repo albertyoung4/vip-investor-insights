@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 10,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 10,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 9,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 6
       },
       "2025-Q3": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01959124-2d33-7bbc-bec0-04021b5e7c77",
+      "attomId": 17697800,
+      "offerDate": "2025-05-19T05:00:00.000Z",
+      "offerPrice": 65000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3744 W EUCLID ST, DETROIT MI",
+      "city": "DETROIT",
+      "state": "MI",
+      "beds": 0,
+      "baths": 3,
+      "sqft": 2424,
+      "lotSize": 0.0800046,
+      "lat": 42.363818,
+      "lng": -83.11446
+    },
     {
       "propertyId": null,
       "attomId": 172975137,
@@ -74,24 +91,6 @@
       "lotSize": 0.1,
       "lat": 42.380544,
       "lng": -83.123247,
-      "entity": "CITY WIDE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 17697800,
-      "offerDate": "2025-06-03T05:00:00.000Z",
-      "offerPrice": 58000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3744 W EUCLID ST, DETROIT MI",
-      "city": "DETROIT",
-      "state": "MI",
-      "beds": 0,
-      "baths": 3,
-      "sqft": 2424,
-      "lotSize": 0.0800046,
-      "lat": 42.363818,
-      "lng": -83.11446,
       "entity": "CITY WIDE INVESTMENTS LLC"
     },
     {

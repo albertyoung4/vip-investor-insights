@@ -14,12 +14,12 @@
   },
   "stats": {
     "totalTransactions2025": 2,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 3,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -27,7 +27,7 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 2
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01947165-3167-71b0-9b13-838e16670e81",
+      "attomId": 304451649,
+      "offerDate": "2025-03-12T05:00:00.000Z",
+      "offerPrice": 12000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "9816 STATE ROUTE 785, HILLSBORO OH",
+      "city": "HILLSBORO",
+      "state": "OH",
+      "beds": 2,
+      "baths": null,
+      "sqft": 850,
+      "lotSize": 0.1730028,
+      "lat": 39.062739,
+      "lng": -83.532597
+    },
     {
       "propertyId": null,
       "attomId": 239588057,
@@ -74,24 +91,6 @@
       "lotSize": 0.1390037,
       "lat": 39.356351,
       "lng": -83.389672,
-      "entity": "KIRK MACE"
-    },
-    {
-      "propertyId": null,
-      "attomId": 304451649,
-      "offerDate": "2025-07-21T05:00:00.000Z",
-      "offerPrice": 8000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "9816 STATE ROUTE 785, HILLSBORO OH",
-      "city": "HILLSBORO",
-      "state": "OH",
-      "beds": 2,
-      "baths": null,
-      "sqft": 850,
-      "lotSize": 0.1730028,
-      "lat": 39.062739,
-      "lng": -83.532597,
       "entity": "KIRK MACE"
     }
   ]

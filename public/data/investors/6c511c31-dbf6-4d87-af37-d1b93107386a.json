@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 12,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 12,
+    "rebuiltTransactions": 3,
+    "recorderTransactions": 11,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 7
       },
       "2025-Q2": {
@@ -40,6 +40,57 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "96efce53-430e-4f77-a192-cc97f6aa5cf3",
+      "attomId": 21861562,
+      "offerDate": "2024-09-12T05:00:00.000Z",
+      "offerPrice": 35000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "802 BOSTON ST, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1080,
+      "lotSize": 0.0910009,
+      "lat": 35.11022,
+      "lng": -89.97346
+    },
+    {
+      "propertyId": "019271c0-0cb6-7640-b7ce-eeb0d3cc4c78",
+      "attomId": 153149536,
+      "offerDate": "2024-10-16T05:00:00.000Z",
+      "offerPrice": 15000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2238 CURRY AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1075,
+      "lotSize": 0.1100092,
+      "lat": 35.18024,
+      "lng": -89.982227
+    },
+    {
+      "propertyId": "0195a55c-d8c6-7b23-a518-2c59a747583c",
+      "attomId": 18952952,
+      "offerDate": "2025-03-20T05:00:00.000Z",
+      "offerPrice": 35000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "861 PENDLETON ST, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1447,
+      "lotSize": 0.1370064,
+      "lat": 35.108502,
+      "lng": -89.969983
+    },
     {
       "propertyId": null,
       "attomId": 53022290,
@@ -164,24 +215,6 @@
       "lotSize": 0.1789945,
       "lat": 35.098603,
       "lng": -89.968774,
-      "entity": "PASSIVE SUNSHINE 1 LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 21861562,
-      "offerDate": "2025-02-03T06:00:00.000Z",
-      "offerPrice": 35000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "802 BOSTON ST, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 2,
-      "baths": 2,
-      "sqft": 1080,
-      "lotSize": 0.0910009,
-      "lat": 35.11022,
-      "lng": -89.97346,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {

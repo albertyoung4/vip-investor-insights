@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 1
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019971ff-db2c-70bf-8e90-5eb02be51ccc",
+      "attomId": 209982682,
+      "offerDate": "2025-09-28T05:00:00.000Z",
+      "offerPrice": 111000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "608 N TIMBERLY LN, BURGAW NC",
+      "city": "BURGAW",
+      "state": "NC",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1325,
+      "lotSize": 0.4,
+      "lat": 34.559997,
+      "lng": -77.921641
+    },
     {
       "propertyId": null,
       "attomId": 176938243,

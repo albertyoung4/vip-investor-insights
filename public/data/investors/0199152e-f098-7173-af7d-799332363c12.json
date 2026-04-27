@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "01951a82-3d8f-72c4-8c7b-24e06c84cba7",
+      "attomId": 141016325,
+      "offerDate": "2025-09-04T05:00:00.000Z",
+      "offerPrice": 85000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1233 CONSIDINE AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 2074,
+      "lotSize": 0.1309917,
+      "lat": 39.114579,
+      "lng": -84.562907
+    }
+  ]
 }

@@ -14,9 +14,9 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 16,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 18,
+    "totalTransactions2025": 17,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 19,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -24,7 +24,7 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 3
+        "total": 4
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -41,6 +41,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "294b2a17-958c-4496-9cde-b533fdb41255",
+      "attomId": null,
+      "offerDate": "2024-03-14T05:00:00.000Z",
+      "offerPrice": 125000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
     {
       "propertyId": null,
       "attomId": 23471312,
@@ -255,6 +272,24 @@
       "lotSize": 0.1399908,
       "lat": 32.339588,
       "lng": -96.193464,
+      "entity": "DAVID DEAN"
+    },
+    {
+      "propertyId": null,
+      "attomId": 217055836,
+      "offerDate": "2025-06-20T05:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "7419 89TH AVE SE, SKYKOMISH WA",
+      "city": "SKYKOMISH",
+      "state": "WA",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.2231405,
+      "lat": 47.768061,
+      "lng": -121.485618,
       "entity": "DAVID DEAN"
     },
     {

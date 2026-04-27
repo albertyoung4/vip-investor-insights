@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 2
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 2
+        "rebuilt": 1,
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019860ba-6ef7-7472-bf87-70ac305d796a",
+      "attomId": 52297702,
+      "offerDate": "2025-08-05T05:00:00.000Z",
+      "offerPrice": 34000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "10 ARTHUR HOPPERS RD, TRENTON TN",
+      "city": "TRENTON",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1120,
+      "lotSize": 1.5,
+      "lat": 36.005382,
+      "lng": -88.923168
+    },
     {
       "propertyId": null,
       "attomId": 1003773457,

@@ -12,7 +12,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -32,10 +32,28 @@
         "total": 0
       },
       "2026-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "019c248b-0002-7cb1-a974-42650f9f8077",
+      "attomId": 22486730,
+      "offerDate": "2026-03-20T05:00:00.000Z",
+      "offerPrice": 132000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "23 HANFORD PL, TRENTON NJ",
+      "city": "TRENTON",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1224,
+      "lotSize": 0.037741,
+      "lat": 40.217776,
+      "lng": -74.748172
+    }
+  ]
 }

@@ -11,8 +11,8 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 3,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -24,8 +24,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -37,5 +37,57 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "42c67bbf-5bcf-459f-891e-b534ba5a77a0",
+      "attomId": null,
+      "offerDate": "2024-06-06T05:00:00.000Z",
+      "offerPrice": 120000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "6ecdc2ec-0517-4146-aae1-d5aebc461bad",
+      "attomId": null,
+      "offerDate": "2024-08-04T05:00:00.000Z",
+      "offerPrice": 120000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019833ad-83b6-7652-bedd-cf6e73184c54",
+      "attomId": 150304333,
+      "offerDate": "2025-08-29T05:00:00.000Z",
+      "offerPrice": 76500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "1922 AUTH ST, PHILADELPHIA PA",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 840,
+      "lotSize": 0.0176768,
+      "lat": 40.007679,
+      "lng": -75.086635
+    }
+  ]
 }

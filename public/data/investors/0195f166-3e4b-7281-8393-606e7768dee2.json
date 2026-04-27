@@ -14,15 +14,15 @@
   },
   "stats": {
     "totalTransactions2025": 6,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 7,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q3": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01955e22-f8c7-79e9-bab5-b70ce2e0458c",
+      "attomId": 187292462,
+      "offerDate": "2025-04-01T05:00:00.000Z",
+      "offerPrice": 79000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "457 TRENTHAM RD, NEWPORT TN",
+      "city": "NEWPORT",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 844,
+      "lotSize": 0.3199954,
+      "lat": 35.956223,
+      "lng": -83.233241
+    },
     {
       "propertyId": null,
       "attomId": 205230093,
@@ -110,24 +127,6 @@
       "lotSize": 1.58,
       "lat": 36.181311,
       "lng": -83.284026,
-      "entity": "WADLINGTON LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 187292462,
-      "offerDate": "2025-04-29T05:00:00.000Z",
-      "offerPrice": 65000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "457 TRENTHAM RD, NEWPORT TN",
-      "city": "NEWPORT",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 844,
-      "lotSize": 0.3199954,
-      "lat": 35.956223,
-      "lng": -83.233241,
       "entity": "WADLINGTON LLC"
     },
     {

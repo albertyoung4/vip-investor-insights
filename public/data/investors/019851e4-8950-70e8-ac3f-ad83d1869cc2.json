@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -30,8 +30,8 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019b053e-785c-72f4-9367-10e3ec4dc186",
+      "attomId": 172276674,
+      "offerDate": "2025-12-15T06:00:00.000Z",
+      "offerPrice": 14000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "4141 FULTON ST, SAGINAW MI",
+      "city": "SAGINAW",
+      "state": "MI",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1324,
+      "lotSize": 0.3300046,
+      "lat": 43.408449,
+      "lng": -83.907387
+    },
     {
       "propertyId": null,
       "attomId": 1044962,

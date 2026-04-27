@@ -11,13 +11,13 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 2,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 2,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -37,5 +37,40 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0194ce03-6315-737d-9a14-a3193a479691",
+      "attomId": 198052283,
+      "offerDate": "2025-02-06T06:00:00.000Z",
+      "offerPrice": 60000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "108 GREENBRIAR RD, SWEETWATER TN",
+      "city": "SWEETWATER",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1568,
+      "lotSize": 0.2800046,
+      "lat": 35.571575,
+      "lng": -84.459883
+    },
+    {
+      "propertyId": "01958566-3cac-72ab-8bee-79769028bac1",
+      "attomId": 199042302,
+      "offerDate": "2025-03-17T05:00:00.000Z",
+      "offerPrice": 50000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 0,
+      "baths": 1,
+      "sqft": 960,
+      "lotSize": 0,
+      "lat": 35.538555,
+      "lng": -84.522915
+    }
+  ]
 }

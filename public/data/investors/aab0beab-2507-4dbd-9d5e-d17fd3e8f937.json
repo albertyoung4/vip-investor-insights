@@ -17,8 +17,8 @@
   },
   "stats": {
     "totalTransactions2025": 20,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 26,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 27,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -43,6 +43,41 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "cd2679df-7a7a-46dc-ac64-4c3056832b05",
+      "attomId": null,
+      "offerDate": "2024-03-20T05:00:00.000Z",
+      "offerPrice": 75000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": null,
+      "attomId": 189669129,
+      "offerDate": "2026-04-13T05:00:00.000Z",
+      "offerPrice": 23000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "310 HIGHLAND AVE, OLIVER SPRINGS TN",
+      "city": "OLIVER SPRINGS",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 720,
+      "lotSize": 0.2300046,
+      "lat": 36.044643,
+      "lng": -84.336501,
+      "entity": "BHB PROPERTIES LLC"
+    },
     {
       "propertyId": null,
       "attomId": 195152383,

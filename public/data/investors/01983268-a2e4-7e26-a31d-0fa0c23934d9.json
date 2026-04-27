@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 5,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 3
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01981451-3649-7b28-838c-3c7da7ccb6c1",
+      "attomId": 38074114,
+      "offerDate": "2025-07-30T05:00:00.000Z",
+      "offerPrice": 47000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "17 N WATER ST, GLOVERSVILLE NY",
+      "city": "GLOVERSVILLE",
+      "state": "NY",
+      "beds": 1,
+      "baths": 1,
+      "sqft": 1512,
+      "lotSize": 0.1818182,
+      "lat": 43.054088,
+      "lng": -74.34947
+    },
     {
       "propertyId": null,
       "attomId": 250037119,

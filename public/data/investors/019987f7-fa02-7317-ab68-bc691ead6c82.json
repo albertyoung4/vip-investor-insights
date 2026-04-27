@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 1,
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0199823f-66b0-76b0-af1a-72c45c2539ea",
+      "attomId": 250455400,
+      "offerDate": "2025-09-26T05:00:00.000Z",
+      "offerPrice": 8000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "617 KENILWORTH CT, CLINTON IA",
+      "city": "CLINTON",
+      "state": "IA",
+      "beds": 6,
+      "baths": 3,
+      "sqft": 2054,
+      "lotSize": 0.1285583,
+      "lat": 41.839217,
+      "lng": -90.209387
+    },
     {
       "propertyId": null,
       "attomId": 18290925,

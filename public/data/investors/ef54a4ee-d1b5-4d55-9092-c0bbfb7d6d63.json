@@ -17,7 +17,7 @@
   },
   "stats": {
     "totalTransactions2025": 15,
-    "rebuiltTransactions": 0,
+    "rebuiltTransactions": 2,
     "recorderTransactions": 17,
     "quarterlyStats": {
       "2025-Q1": {
@@ -43,6 +43,40 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "142cb250-e1d7-4640-983e-30c8714edc37",
+      "attomId": null,
+      "offerDate": "2023-08-11T05:00:00.000Z",
+      "offerPrice": 122500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "78fcdda2-6b90-42f5-bb5a-194e8e0f3c94",
+      "attomId": null,
+      "offerDate": "2024-03-11T05:00:00.000Z",
+      "offerPrice": 15000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
     {
       "propertyId": null,
       "attomId": 218454320,
@@ -135,12 +169,12 @@
     },
     {
       "propertyId": null,
-      "attomId": 1002052821,
+      "attomId": 1002052823,
       "offerDate": "2025-10-03T05:00:00.000Z",
       "offerPrice": 264900,
       "status": "recorded",
       "isRebuilt": false,
-      "address": "1 CEDARGROVE LN, JEFFERSONVILLE IN",
+      "address": "5 CEDARGROVE LN, JEFFERSONVILLE IN",
       "city": "JEFFERSONVILLE",
       "state": "IN",
       "beds": null,
@@ -153,12 +187,12 @@
     },
     {
       "propertyId": null,
-      "attomId": 1002052823,
+      "attomId": 1002052821,
       "offerDate": "2025-10-03T05:00:00.000Z",
       "offerPrice": 264900,
       "status": "recorded",
       "isRebuilt": false,
-      "address": "5 CEDARGROVE LN, JEFFERSONVILLE IN",
+      "address": "1 CEDARGROVE LN, JEFFERSONVILLE IN",
       "city": "JEFFERSONVILLE",
       "state": "IN",
       "beds": null,
@@ -245,7 +279,7 @@
       "propertyId": null,
       "attomId": 218808565,
       "offerDate": "2025-06-24T05:00:00.000Z",
-      "offerPrice": 150000,
+      "offerPrice": 0,
       "status": "recorded",
       "isRebuilt": false,
       "address": "1515 BLACKISTON MILL RD, CLARKSVILLE IN",

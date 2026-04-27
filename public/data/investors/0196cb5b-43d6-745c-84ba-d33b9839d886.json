@@ -14,20 +14,20 @@
   },
   "stats": {
     "totalTransactions2025": 14,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 15,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 14,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 4
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 2
+        "rebuilt": 1,
+        "total": 3
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 3
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0196fd7f-6559-75fd-9ed5-c1151bc44091",
+      "attomId": 193589749,
+      "offerDate": "2025-05-23T05:00:00.000Z",
+      "offerPrice": 75000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "4818 GREENVIEW DR, TUSCALOOSA AL",
+      "city": "TUSCALOOSA",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 936,
+      "lotSize": 0.6060606,
+      "lat": 33.189377,
+      "lng": -87.598834
+    },
     {
       "propertyId": null,
       "attomId": 193589721,
@@ -164,24 +181,6 @@
       "lotSize": 0.1790634,
       "lat": 33.196973,
       "lng": -87.559483,
-      "entity": "GRAVEL ROAD INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 193589749,
-      "offerDate": "2025-07-09T05:00:00.000Z",
-      "offerPrice": 60000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "4818 GREENVIEW DR, TUSCALOOSA AL",
-      "city": "TUSCALOOSA",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 936,
-      "lotSize": 0.6060606,
-      "lat": 33.189377,
-      "lng": -87.598834,
       "entity": "GRAVEL ROAD INVESTMENTS LLC"
     },
     {

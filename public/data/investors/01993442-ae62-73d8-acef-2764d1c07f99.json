@@ -15,8 +15,8 @@
   },
   "stats": {
     "totalTransactions2025": 16,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 17,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 16,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -31,7 +31,7 @@
         "total": 2
       },
       "2025-Q4": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 5
       },
       "2026-Q1": {
@@ -41,6 +41,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0198ec4f-3552-7d69-acff-e3baa8dace40",
+      "attomId": 233997507,
+      "offerDate": "2025-10-03T05:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "904 GARFIELD AVE, MARIETTA OH",
+      "city": "MARIETTA",
+      "state": "OH",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1129,
+      "lotSize": 0.0918044,
+      "lat": 39.430041,
+      "lng": -81.461741
+    },
     {
       "propertyId": null,
       "attomId": 18900739,
@@ -112,24 +129,6 @@
       "lat": 39.696282,
       "lng": -81.886967,
       "entity": "PREFERRED-PROPERTIES 740 LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 233997507,
-      "offerDate": "2025-10-23T05:00:00.000Z",
-      "offerPrice": 35000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "904 GARFIELD AVE, MARIETTA OH",
-      "city": "MARIETTA",
-      "state": "OH",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1129,
-      "lotSize": 0.0918044,
-      "lat": 39.430041,
-      "lng": -81.461741,
-      "entity": "PREFERRED PROPERTIES 740 LLC"
     },
     {
       "propertyId": null,

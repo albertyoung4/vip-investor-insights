@@ -14,20 +14,20 @@
   },
   "stats": {
     "totalTransactions2025": 89,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 103,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 102,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
         "total": 17
       },
       "2025-Q2": {
-        "rebuilt": 0,
-        "total": 13
+        "rebuilt": 1,
+        "total": 14
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 25
+        "total": 24
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "01977e6e-b23d-750b-9bfb-57383823ac86",
+      "attomId": 27292798,
+      "offerDate": "2025-06-23T05:00:00.000Z",
+      "offerPrice": 37500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "3601 W HILLCREST AVE, DAYTON OH",
+      "city": "DAYTON",
+      "state": "OH",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1024,
+      "lotSize": 0.1446051,
+      "lat": 39.790909,
+      "lng": -84.246841
+    },
     {
       "propertyId": null,
       "attomId": 182432667,
@@ -1208,24 +1225,6 @@
       "lotSize": 0.1148072,
       "lat": 39.706356,
       "lng": -84.144328,
-      "entity": "J MAPLE HOMES LIMITED"
-    },
-    {
-      "propertyId": null,
-      "attomId": 27292798,
-      "offerDate": "2025-08-14T05:00:00.000Z",
-      "offerPrice": 30000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3601 W HILLCREST AVE, DAYTON OH",
-      "city": "DAYTON",
-      "state": "OH",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1024,
-      "lotSize": 0.1446051,
-      "lat": 39.790909,
-      "lng": -84.246841,
       "entity": "J MAPLE HOMES LIMITED"
     },
     {

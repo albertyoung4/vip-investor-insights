@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 2,
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 4,
+    "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
-        "total": 1
+        "rebuilt": 2,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -41,6 +41,74 @@
   },
   "properties": [
     {
+      "propertyId": "f90bb3a0-cf03-4992-bc5c-cb39f4c15ebf",
+      "attomId": null,
+      "offerDate": "2024-03-27T05:00:00.000Z",
+      "offerPrice": 72500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "propertyId": "019461d5-cd52-79d9-a2bb-a915e313d7a3",
+      "attomId": 27458723,
+      "offerDate": "2025-01-17T06:00:00.000Z",
+      "offerPrice": 137000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "2231 LIVERPOOL LN, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 925,
+      "lotSize": 0.1353994,
+      "lat": 38.203224,
+      "lng": -85.659764
+    },
+    {
+      "propertyId": "01943e39-4b8e-7ea1-a6d4-b243f46a6686",
+      "attomId": 214282412,
+      "offerDate": "2025-02-13T06:00:00.000Z",
+      "offerPrice": 55000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "612 N COLLEGE AVE, SALEM IN",
+      "city": "SALEM",
+      "state": "IN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 816,
+      "lotSize": 0.1800046,
+      "lat": 38.611752,
+      "lng": -86.098621
+    },
+    {
+      "propertyId": "019d8735-98bc-7bb1-be1f-6c488124fb10",
+      "attomId": 14500684,
+      "offerDate": "2026-04-16T05:00:00.000Z",
+      "offerPrice": 66000,
+      "status": "accepted",
+      "isRebuilt": true,
+      "address": null,
+      "city": null,
+      "state": null,
+      "beds": 1,
+      "baths": 1,
+      "sqft": 744,
+      "lotSize": 0.116506,
+      "lat": 38.195363,
+      "lng": -85.787936
+    },
+    {
       "propertyId": null,
       "attomId": 143002141,
       "offerDate": "2025-05-15T05:00:00.000Z",
@@ -56,24 +124,6 @@
       "lotSize": 0.263315,
       "lat": 38.22571,
       "lng": -85.800605,
-      "entity": "MIDNIGHT BUFFALO LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 27458723,
-      "offerDate": "2025-02-14T06:00:00.000Z",
-      "offerPrice": 127000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2231 LIVERPOOL LN, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 925,
-      "lotSize": 0.1353994,
-      "lat": 38.203224,
-      "lng": -85.659764,
       "entity": "MIDNIGHT BUFFALO LLC"
     }
   ]

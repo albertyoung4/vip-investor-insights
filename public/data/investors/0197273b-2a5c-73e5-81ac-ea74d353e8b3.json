@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -26,8 +26,8 @@
         "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 0,
-        "total": 0
+        "rebuilt": 1,
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,5 +39,23 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": "0196f360-4343-7070-8a7a-ae90dbeab02e",
+      "attomId": 149482404,
+      "offerDate": "2025-07-14T05:00:00.000Z",
+      "offerPrice": 178000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "7601 FAIRPARK AVE, CINCINNATI OH",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1465,
+      "lotSize": 0.1399908,
+      "lat": 39.200134,
+      "lng": -84.476099
+    }
+  ]
 }

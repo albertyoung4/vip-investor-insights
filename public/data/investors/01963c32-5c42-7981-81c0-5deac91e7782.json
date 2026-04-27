@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 13,
-    "rebuiltTransactions": 0,
+    "totalTransactions2025": 14,
+    "rebuiltTransactions": 1,
     "recorderTransactions": 14,
     "quarterlyStats": {
       "2025-Q1": {
@@ -30,8 +30,8 @@
         "total": 3
       },
       "2025-Q4": {
-        "rebuilt": 0,
-        "total": 3
+        "rebuilt": 1,
+        "total": 4
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "019a9244-a2e9-7099-a764-1ad58c0f6591",
+      "attomId": 36123233,
+      "offerDate": "2025-11-21T06:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "514 HAMILTON ST, MC KENZIE TN",
+      "city": "MC KENZIE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1026,
+      "lotSize": 0.2571166,
+      "lat": 36.124605,
+      "lng": -88.524055
+    },
     {
       "propertyId": null,
       "attomId": 50557210,

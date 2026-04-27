@@ -14,11 +14,11 @@
   },
   "stats": {
     "totalTransactions2025": 12,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 15,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 14,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 0,
+        "rebuilt": 1,
         "total": 2
       },
       "2025-Q2": {
@@ -40,6 +40,23 @@
     }
   },
   "properties": [
+    {
+      "propertyId": "0194480c-e1f2-74c4-beca-9d66e4f189e1",
+      "attomId": 50531283,
+      "offerDate": "2025-01-15T06:00:00.000Z",
+      "offerPrice": 72500,
+      "status": "done",
+      "isRebuilt": true,
+      "address": "101 E MAIN ST, ENGLEWOOD TN",
+      "city": "ENGLEWOOD",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 964,
+      "lotSize": 0.1,
+      "lat": 35.426976,
+      "lng": -84.485332
+    },
     {
       "propertyId": null,
       "attomId": 198051961,
@@ -272,24 +289,6 @@
       "lotSize": 0.1609963,
       "lat": 35.9576,
       "lng": -83.899874,
-      "entity": "HELPING HOUSES OF KNOXVILLE LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 50531283,
-      "offerDate": "2025-01-30T06:00:00.000Z",
-      "offerPrice": 62500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "101 E MAIN ST, ENGLEWOOD TN",
-      "city": "ENGLEWOOD",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 964,
-      "lotSize": 0.1,
-      "lat": 35.426976,
-      "lng": -84.485332,
       "entity": "HELPING HOUSES OF KNOXVILLE LLC"
     },
     {
