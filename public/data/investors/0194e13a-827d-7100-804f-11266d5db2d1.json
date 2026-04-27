@@ -14,37 +14,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 66,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 65,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 173,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 13
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 25
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 20
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 33
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 14
+        "rebuilt": 0,
+        "total": 38
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 34
+        "total": 10
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 5
+        "total": 4
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 197855667,
-      "offerDate": "2025-03-24",
-      "offerPrice": 54000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1628 NE 46TH ST, OKLAHOMA CITY ok",
-      "city": "OKLAHOMA CITY",
-      "state": "ok",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.517874,
-      "lng": -97.48191
-    },
     {
       "propertyId": null,
       "attomId": 11650747,

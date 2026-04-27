@@ -13,33 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 7,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 32,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 13
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 3
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 171590701,
-      "offerDate": "2025-04-09",
-      "offerPrice": 50000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "108 JESSICA DR, WARNER ROBINS ga",
-      "city": "WARNER ROBINS",
-      "state": "ga",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.666729,
-      "lng": -83.647121
-    },
     {
       "propertyId": null,
       "attomId": 171606264,

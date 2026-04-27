@@ -15,21 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 12,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 4
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
@@ -38,6 +26,14 @@
         "rebuilt": 0,
         "total": 2
       },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2026-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -45,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 24735353,
-      "offerDate": "2024-06-27",
-      "offerPrice": 33000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "95 DEBERRY ST, SAVANNAH tn",
-      "city": "SAVANNAH",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.2241997,
-      "lng": -88.23754210000001
-    },
     {
       "propertyId": null,
       "attomId": 193277149,

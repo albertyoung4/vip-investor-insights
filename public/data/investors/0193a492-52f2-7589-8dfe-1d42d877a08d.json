@@ -14,16 +14,12 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
-      "2024-Q3": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 43585362,
-      "offerDate": "2024-12-08",
-      "offerPrice": 141000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2484 DODSON DR, EAST POINT ga",
-      "city": "EAST POINT",
-      "state": "ga",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.68773,
-      "lng": -84.474886
-    },
     {
       "propertyId": null,
       "attomId": 17573469,

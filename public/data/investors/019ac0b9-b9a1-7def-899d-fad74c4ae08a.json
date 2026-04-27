@@ -13,26 +13,10 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 29,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 28,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 68,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 11
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 11
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 11
@@ -46,8 +30,8 @@
         "total": 7
       },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 8
+        "rebuilt": 0,
+        "total": 7
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 201893365,
-      "offerDate": "2025-11-26",
-      "offerPrice": 137500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "105 ELIZABETH ST, HAGERSTOWN md",
-      "city": "HAGERSTOWN",
-      "state": "md",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.644636,
-      "lng": -77.73312
-    },
     {
       "propertyId": null,
       "attomId": 168473644,

@@ -13,54 +13,33 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 8,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 16,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q4": {
+      "2025-Q1": {
         "rebuilt": 0,
         "total": 2
-      },
-      "2025-Q1": {
-        "rebuilt": 1,
-        "total": 3
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 5
       },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q4": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 7577454,
-      "offerDate": "2025-03-31",
-      "offerPrice": 7000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2204 HERNANDO RD, MEMPHIS tn",
-      "city": "MEMPHIS",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.085148,
-      "lng": -90.024657
-    },
     {
       "propertyId": null,
       "attomId": 217380956,

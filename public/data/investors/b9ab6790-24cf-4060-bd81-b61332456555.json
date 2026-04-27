@@ -16,25 +16,9 @@
   },
   "stats": {
     "totalTransactions2025": 32,
-    "rebuiltTransactions": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 86,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 10
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 11
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 13
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 13
@@ -58,40 +42,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "01934f15-b018-7561-af3b-d8bf27357927",
-      "attomId": 41005187,
-      "offerDate": "2024-12-05T05:00:00.000Z",
-      "offerPrice": 15000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "629 E 125TH ST",
-      "city": "CLEVELAND",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.540019,
-      "lng": -81.597333
-    },
-    {
-      "propertyId": "01c73e28-c8f8-4a5c-9c0c-2936c7b83991",
-      "attomId": 17148569,
-      "offerDate": "2024-09-22T05:00:00.000Z",
-      "offerPrice": 40000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "925 PARKWAY RD",
-      "city": "CLEVELAND",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.532175,
-      "lng": -81.600407
-    },
     {
       "propertyId": null,
       "attomId": 1331914,

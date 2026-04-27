@@ -14,21 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 11,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 17,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 4
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 5
@@ -44,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 1623642,
-      "offerDate": "2024-03-27",
-      "offerPrice": 75000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "3172 QUEEN CITY AVE, CINCINNATI oh",
-      "city": "CINCINNATI",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.13755889999999,
-      "lng": -84.6072923
-    },
     {
       "propertyId": null,
       "attomId": 50223967,

@@ -13,22 +13,10 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 10,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -38,8 +26,12 @@
         "total": 1
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 3
+        "rebuilt": 0,
+        "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -48,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 17137826,
-      "offerDate": "2025-09-24",
-      "offerPrice": 52500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "3361 E 149TH ST, CLEVELAND oh",
-      "city": "CLEVELAND",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.468168,
-      "lng": -81.577074
-    },
     {
       "propertyId": null,
       "attomId": 8919019,

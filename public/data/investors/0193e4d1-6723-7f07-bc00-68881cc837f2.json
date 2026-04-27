@@ -15,29 +15,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 122,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 121,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 241,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 18
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 23
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 34
-      },
-      "2024-Q4": {
+      "2025-Q1": {
         "rebuilt": 0,
         "total": 31
-      },
-      "2025-Q1": {
-        "rebuilt": 1,
-        "total": 32
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -58,23 +42,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 200344060,
-      "offerDate": "2025-01-16",
-      "offerPrice": 80000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "725 40TH PL, FAIRFIELD al",
-      "city": "FAIRFIELD",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.493099,
-      "lng": -86.907371
-    },
     {
       "propertyId": null,
       "attomId": 189205924,

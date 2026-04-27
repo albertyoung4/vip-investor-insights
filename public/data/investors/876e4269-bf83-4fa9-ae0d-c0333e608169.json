@@ -11,8 +11,8 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 3,
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -28,8 +28,8 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -37,57 +37,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "71257d0e-e6cd-4881-8e06-58d50f425fc3",
-      "attomId": null,
-      "offerDate": "2024-07-17T05:00:00.000Z",
-      "offerPrice": 32500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "14ccedbb-48fc-4142-bfb6-a0f88ca4807f",
-      "attomId": null,
-      "offerDate": "2024-08-12T05:00:00.000Z",
-      "offerPrice": 27000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0199b9d7-b541-7846-b899-93413567fc81",
-      "attomId": 34328710,
-      "offerDate": "2025-10-15T05:00:00.000Z",
-      "offerPrice": 21000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1914 OWEN ST, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": 1,
-      "baths": 1,
-      "sqft": 1079,
-      "lotSize": 0.0545225,
-      "lat": 38.2626519,
-      "lng": -85.7815918
-    }
-  ]
+  "properties": []
 }

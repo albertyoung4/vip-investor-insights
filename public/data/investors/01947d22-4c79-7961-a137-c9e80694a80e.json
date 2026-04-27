@@ -13,25 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 7,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 15,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 218107154,
-      "offerDate": "2025-01-19",
-      "offerPrice": 165000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "214 S MAIN ST, WAYNESBORO tn",
-      "city": "WAYNESBORO",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.318497,
-      "lng": -87.762812
-    },
     {
       "propertyId": null,
       "attomId": 296020250,

@@ -18,26 +18,10 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 24,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 23,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 46,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 6
@@ -47,8 +31,8 @@
         "total": 4
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 11
+        "rebuilt": 0,
+        "total": 10
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -61,23 +45,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 25361398,
-      "offerDate": "2025-07-25",
-      "offerPrice": 47000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "413 CAITHNESS RD, SAINT LOUIS mo",
-      "city": "SAINT LOUIS",
-      "state": "mo",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.753215,
-      "lng": -90.204193
-    },
     {
       "propertyId": null,
       "attomId": 3831846,

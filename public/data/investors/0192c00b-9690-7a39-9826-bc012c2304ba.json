@@ -14,50 +14,33 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 11,
     "quarterlyStats": {
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 4
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
         "total": 3
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 226029143,
-      "offerDate": "2025-05-19",
-      "offerPrice": 5000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "98 5TH ST, MARIANNA pa",
-      "city": "MARIANNA",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.02329635620117,
-      "lng": -80.098103
-    },
     {
       "propertyId": null,
       "attomId": 186164377,

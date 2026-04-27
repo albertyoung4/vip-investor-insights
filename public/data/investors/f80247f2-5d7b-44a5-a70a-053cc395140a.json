@@ -14,32 +14,16 @@
   },
   "stats": {
     "totalTransactions2025": 11,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 15,
     "quarterlyStats": {
-      "2023-Q2": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -48,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 8
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 200469846,
-      "offerDate": "2023-05-23",
-      "offerPrice": 80000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "626 MARTHA AVE, FLORENCE al",
-      "city": "FLORENCE",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.83,
-      "lng": -87.67
-    },
     {
       "propertyId": null,
       "attomId": 1000257428,

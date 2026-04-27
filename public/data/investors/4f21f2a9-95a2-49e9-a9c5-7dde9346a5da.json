@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 17,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 41,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 10
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 3
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 819294,
-      "offerDate": "2024-06-20",
-      "offerPrice": 62500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "105 FORT HILL RD, WAVERLY tn",
-      "city": "WAVERLY",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.079398,
-      "lng": -87.7938874
-    },
     {
       "propertyId": null,
       "attomId": 155161670,

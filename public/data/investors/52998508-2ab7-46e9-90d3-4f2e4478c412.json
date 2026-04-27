@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 31,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 78,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 18
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 13
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 7
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 11
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 171608269,
-      "offerDate": "2024-07-28",
-      "offerPrice": 163000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "20 LINDA LN, RINGGOLD ga",
-      "city": "RINGGOLD",
-      "state": "ga",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.954334,
-      "lng": -85.198588
-    },
     {
       "propertyId": null,
       "attomId": 199588272,

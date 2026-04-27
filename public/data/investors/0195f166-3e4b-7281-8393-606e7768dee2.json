@@ -13,25 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 7,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 187292462,
-      "offerDate": "2025-04-01",
-      "offerPrice": 79000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "457 TRENTHAM RD, NEWPORT tn",
-      "city": "NEWPORT",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.956223,
-      "lng": -83.233241
-    },
     {
       "propertyId": null,
       "attomId": 198074449,

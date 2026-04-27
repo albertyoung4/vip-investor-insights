@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
-    "rebuiltTransactions": 3,
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,12 +22,12 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 2,
-        "total": 2
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,57 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "0197171d-c2d0-7495-bfc2-0b31ce5b9157",
-      "attomId": 49932247,
-      "offerDate": "2025-05-30T05:00:00.000Z",
-      "offerPrice": 92000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "3313 KENYON AVE, BALTIMORE MD",
-      "city": "BALTIMORE",
-      "state": "MD",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1200,
-      "lotSize": 0,
-      "lat": 39.3225918,
-      "lng": -76.5657434
-    },
-    {
-      "propertyId": "0198f139-6298-7613-8e37-95900b08fb3d",
-      "attomId": 144260800,
-      "offerDate": "2025-09-04T05:00:00.000Z",
-      "offerPrice": 68000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1338 SARGEANT ST, BALTIMORE MD",
-      "city": "BALTIMORE",
-      "state": "MD",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1008,
-      "lotSize": 0,
-      "lat": 39.2804217,
-      "lng": -76.636837
-    },
-    {
-      "propertyId": "01990340-c720-7139-8926-bda059c5e6f4",
-      "attomId": 149544067,
-      "offerDate": "2025-09-12T05:00:00.000Z",
-      "offerPrice": 90000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1159 W HAMBURG ST, BALTIMORE MD",
-      "city": "BALTIMORE",
-      "state": "MD",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1008,
-      "lotSize": 0,
-      "lat": 39.2795597,
-      "lng": -76.6305137
-    }
-  ]
+  "properties": []
 }

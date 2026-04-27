@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 29,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 57,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 9
@@ -48,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 6
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 179907096,
-      "offerDate": "2024-11-20",
-      "offerPrice": 165000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "106 FIRST AVE, LINCOLN UNIVERSITY pa",
-      "city": "LINCOLN UNIVERSITY",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.80189,
-      "lng": -75.921925
-    },
     {
       "propertyId": null,
       "attomId": 178094246,

@@ -13,21 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 10,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 8,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,91 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "9cccdafb-e579-42a6-b08d-fbcdef348602",
-      "attomId": null,
-      "offerDate": "2024-03-05T06:00:00.000Z",
-      "offerPrice": 25000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "aa8f977c-ad63-430d-85f1-56a9a767ca9a",
-      "attomId": null,
-      "offerDate": "2024-07-22T05:00:00.000Z",
-      "offerPrice": 32000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01939d39-f157-78e6-b1b8-038c7320dffc",
-      "attomId": 30346690,
-      "offerDate": "2024-12-19T06:00:00.000Z",
-      "offerPrice": 22000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "311 NORWOOD AVE, BESSEMER AL",
-      "city": "BESSEMER",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1312,
-      "lotSize": 0.1606979,
-      "lat": 33.3813905,
-      "lng": -86.9623935
-    },
-    {
-      "propertyId": "0193da33-fcd8-791e-9c67-e3cd220a6b78",
-      "attomId": 198021466,
-      "offerDate": "2025-01-02T06:00:00.000Z",
-      "offerPrice": 32000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1840 PRINCETON CT SW, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1636,
-      "lotSize": 0.1538108,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01968ca8-8c5c-71d8-be9f-4798f519048f",
-      "attomId": 195567042,
-      "offerDate": "2025-07-07T05:00:00.000Z",
-      "offerPrice": 41000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "2221 SHORT 14TH ST N, BESSEMER AL",
-      "city": "BESSEMER",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1075,
-      "lotSize": 0.2086318,
-      "lat": 33.4010129,
-      "lng": -86.9653519
-    },
     {
       "propertyId": null,
       "attomId": 201804395,

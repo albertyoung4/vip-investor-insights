@@ -15,17 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 13,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 17,
     "quarterlyStats": {
-      "2023-Q2": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 3
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
@@ -49,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 188653060,
-      "offerDate": "2023-06-28",
-      "offerPrice": 215000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "733 E SPRING ST, COOKEVILLE tn",
-      "city": "COOKEVILLE",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.16,
-      "lng": -85.49
-    },
     {
       "propertyId": null,
       "attomId": 184153314,

@@ -14,33 +14,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 39,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 38,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 83,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 12
-      },
       "2025-Q1": {
-        "rebuilt": 1,
+        "rebuilt": 0,
         "total": 5
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 14
+        "total": 13
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 304451649,
-      "offerDate": "2025-03-12",
-      "offerPrice": 12000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "9816 STATE ROUTE 785, HILLSBORO oh",
-      "city": "HILLSBORO",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.062739,
-      "lng": -83.532597
-    },
     {
       "propertyId": null,
       "attomId": 304459058,

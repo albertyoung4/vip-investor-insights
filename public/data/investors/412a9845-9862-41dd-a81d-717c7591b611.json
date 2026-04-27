@@ -15,17 +15,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 35,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 30,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 30,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 3,
-        "total": 6
+        "rebuilt": 0,
+        "total": 3
       },
       "2025-Q2": {
-        "rebuilt": 2,
-        "total": 13
+        "rebuilt": 0,
+        "total": 11
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -42,91 +42,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "0194b487-7e00-799c-bd1f-c1c95f0e915d",
-      "attomId": 188508924,
-      "offerDate": "2025-02-06T06:00:00.000Z",
-      "offerPrice": 14000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1479 E MALLORY AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1120,
-      "lotSize": 0.25,
-      "lat": 35.1451667,
-      "lng": -90.0385105
-    },
-    {
-      "propertyId": "01948ec3-6343-768d-a10b-4bec36cb9202",
-      "attomId": 20398807,
-      "offerDate": "2025-02-06T06:00:00.000Z",
-      "offerPrice": 73000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1847 DRIFTWOOD AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1633,
-      "lotSize": 0.3230028,
-      "lat": 35.2100998,
-      "lng": -89.9990332
-    },
-    {
-      "propertyId": "01953856-4d42-77f2-bba7-9c1cc2e0bb69",
-      "attomId": 19696946,
-      "offerDate": "2025-03-04T06:00:00.000Z",
-      "offerPrice": 23500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1585 HUMBER ST, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1156,
-      "lotSize": 0.1890037,
-      "lat": 35.108764,
-      "lng": -90.0448936
-    },
-    {
-      "propertyId": "359fcdfa-3d87-4281-a373-b4a49aeccbf5",
-      "attomId": null,
-      "offerDate": "2025-04-01T05:00:00.000Z",
-      "offerPrice": 26000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01952a98-1eff-7f7b-a3f0-a425be13782e",
-      "attomId": 195839400,
-      "offerDate": "2025-04-17T05:00:00.000Z",
-      "offerPrice": 75000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "800 WOODLAWN ST, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1232,
-      "lotSize": 0.1480028,
-      "lat": 35.2041477,
-      "lng": -89.9965933
-    },
     {
       "propertyId": null,
       "attomId": 8867258,

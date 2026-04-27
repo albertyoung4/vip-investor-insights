@@ -104,7 +104,9 @@ async function main() {
     ytdWon: parseInt(r.ytd_won),
     ytdBids: parseInt(r.ytd_bids),
     entities: r.entities
-      ? r.entities.split(" | ").filter((e) => e.trim())
+      ? r.entities
+          .split(" | ")
+          .filter((e) => e.trim() && !e.toUpperCase().includes("REBUILT"))
       : [],
   }));
 
@@ -323,8 +325,83 @@ async function main() {
       }
     }
 
-    // Geocode all properties
-    const allProps = [...properties, ...recorderTransactions];
+    // Step 3: Check raw.taxassessor for properties owned but not in recorder
+    // Catches properties owned longer than recorder history
+    let taxassessorTransactions = [];
+    const existingAttomIds = new Set(
+      [...properties, ...recorderTransactions]
+        .filter((p) => p.attomId)
+        .map((p) => p.attomId)
+    );
+
+    // Build search names: entity names + investor personal name (uppercased)
+    const taxSearchNames = [...entityNames];
+    const personalName = inv.name.toUpperCase();
+    // Also add "LAST FIRST" format
+    const nameParts = personalName.split(/\s+/);
+    if (nameParts.length >= 2) {
+      taxSearchNames.push(personalName); // FIRST LAST
+      taxSearchNames.push(nameParts[nameParts.length - 1] + " " + nameParts.slice(0, -1).join(" ")); // LAST FIRST
+    }
+
+    if (taxSearchNames.length > 0) {
+      for (const searchName of taxSearchNames) {
+        try {
+          const taxResult = await client.query(
+            `
+            SELECT propertyaddressfull, propertyaddresscity, propertyaddressstate,
+                   propertyaddresszip, attom_id, partyowner1namefull,
+                   deedlastsaledate, deedlastsaleprice,
+                   bedroomscount, bathcount, areabuildingsqft, lotsizeacres
+            FROM raw.taxassessor
+            WHERE partyowner1namefull = $1 OR partyowner2namefull = $1
+          `,
+            [searchName]
+          );
+          for (const rec of taxResult.rows) {
+            const attomId = rec.attom_id ? parseInt(rec.attom_id) : null;
+            if (attomId && existingAttomIds.has(attomId)) continue;
+            if (attomId) existingAttomIds.add(attomId);
+
+            taxassessorTransactions.push({
+              propertyId: null,
+              attomId,
+              offerDate: rec.deedlastsaledate || null,
+              offerPrice: parseFloat(rec.deedlastsaleprice) || 0,
+              status: "recorder",
+              isRebuilt: false,
+              address:
+                rec.propertyaddressfull +
+                ", " +
+                rec.propertyaddresscity +
+                " " +
+                rec.propertyaddressstate,
+              city: rec.propertyaddresscity,
+              state: rec.propertyaddressstate,
+              beds: rec.bedroomscount ? parseInt(rec.bedroomscount) : null,
+              baths: rec.bathcount ? parseFloat(rec.bathcount) : null,
+              sqft: rec.areabuildingsqft ? parseInt(rec.areabuildingsqft) : null,
+              lotSize: rec.lotsizeacres ? parseFloat(rec.lotsizeacres) : null,
+              lat: null,
+              lng: null,
+              entity: rec.partyowner1namefull,
+            });
+          }
+          console.log(
+            `  Taxassessor: ${taxResult.rows.length} records for "${searchName}" (${taxassessorTransactions.length} new)`
+          );
+        } catch (e) {
+          console.error(
+            `  Error querying taxassessor for ${searchName}: ${e.message}`
+          );
+        }
+      }
+    }
+
+    // Geocode all properties (excluding Rebuilt-platform and REBUILT-LLC transactions)
+    const allProps = [...properties, ...recorderTransactions, ...taxassessorTransactions].filter(
+      (p) => !p.isRebuilt && !(p.entity && p.entity.toUpperCase().includes("REBUILT"))
+    );
     let geocoded = 0;
     for (const prop of allProps) {
       if (prop.address) {
@@ -367,6 +444,14 @@ async function main() {
       }
     }
 
+    // Add personal name to entities if taxassessor found properties under it
+    const personalNameProps = taxassessorTransactions.filter(
+      (t) => t.entity === personalName || t.entity === (nameParts.length >= 2 ? nameParts[nameParts.length - 1] + " " + nameParts.slice(0, -1).join(" ") : "")
+    );
+    if (personalNameProps.length > 0 && !inv.entities.includes(personalName)) {
+      inv.entities.push(personalName);
+    }
+
     const profile = {
       investor: inv,
       stats: {
@@ -374,8 +459,8 @@ async function main() {
           const d = new Date(p.offerDate);
           return d.getFullYear() === 2025;
         }).length,
-        rebuiltTransactions: properties.length,
-        recorderTransactions: recorderTransactions.length,
+        rebuiltTransactions: 0,
+        recorderTransactions: allProps.length,
         quarterlyStats,
       },
       properties: allProps,

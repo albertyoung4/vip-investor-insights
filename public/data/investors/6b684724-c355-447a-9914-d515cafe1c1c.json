@@ -14,17 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 10,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 16,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -37,6 +29,10 @@
         "rebuilt": 0,
         "total": 5
       },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2026-Q1": {
         "rebuilt": 0,
         "total": 4
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 34344332,
-      "offerDate": "2024-05-30",
-      "offerPrice": 45500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "3366 PEACHTREE AVE, LOUISVILLE ky",
-      "city": "LOUISVILLE",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.1992688,
-      "lng": -85.7788928
-    },
     {
       "propertyId": null,
       "attomId": 140657835,

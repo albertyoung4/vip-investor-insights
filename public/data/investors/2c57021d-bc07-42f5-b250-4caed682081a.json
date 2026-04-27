@@ -13,50 +13,33 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 7,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 30,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 7
+        "rebuilt": 0,
+        "total": 6
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 2511982,
-      "offerDate": "2025-01-15",
-      "offerPrice": 50000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1712 W 11TH ST, CHESTER pa",
-      "city": "CHESTER",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.844381,
-      "lng": -75.385483
-    },
     {
       "propertyId": null,
       "attomId": 4686105,

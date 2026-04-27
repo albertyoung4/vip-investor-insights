@@ -14,29 +14,25 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 11,
     "quarterlyStats": {
-      "2024-Q1": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 1
       },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -45,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 240826789,
-      "offerDate": "2025-12-09",
-      "offerPrice": 100000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1686 MOONBEAM TER, TOBYHANNA pa",
-      "city": "TOBYHANNA",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.22173,
-      "lng": -75.345709
-    },
     {
       "propertyId": null,
       "attomId": 3126215,

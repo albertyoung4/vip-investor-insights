@@ -14,16 +14,12 @@
   },
   "stats": {
     "totalTransactions2025": 4,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 5,
     "quarterlyStats": {
-      "2024-Q1": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -32,27 +28,18 @@
       "2025-Q3": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 36593693,
-      "offerDate": "2024-12-19",
-      "offerPrice": 179000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "692 CLEARVIEW RD, COTTONTOWN tn",
-      "city": "COTTONTOWN",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.545606,
-      "lng": -86.589323
-    },
     {
       "propertyId": null,
       "attomId": 10662322,

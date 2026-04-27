@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 34,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 64,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 8
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 6
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 6
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 323987246,
-      "offerDate": "2024-04-22",
-      "offerPrice": 80000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "29922 2ND AVE E, ARDMORE al",
-      "city": "ARDMORE",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.9906503,
-      "lng": -86.8428575
-    },
     {
       "propertyId": null,
       "attomId": 156223199,

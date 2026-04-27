@@ -11,8 +11,8 @@
     "entities": []
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 3,
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -20,8 +20,8 @@
         "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -37,57 +37,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "c74053c7-6911-4206-9dc7-4da325a08293",
-      "attomId": null,
-      "offerDate": "2024-03-17T05:00:00.000Z",
-      "offerPrice": 53000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "5bb958b0-9b10-4af4-850b-372e0da86b7b",
-      "attomId": null,
-      "offerDate": "2024-06-10T05:00:00.000Z",
-      "offerPrice": 90000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0196ee27-3544-791f-a60e-6bb71107a838",
-      "attomId": 146026516,
-      "offerDate": "2025-05-23T05:00:00.000Z",
-      "offerPrice": 86000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1331 ARLINGTON RD, ARAB AL",
-      "city": "ARAB",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1164,
-      "lotSize": 0.5,
-      "lat": 24.7740749,
-      "lng": 46.6773585
-    }
-  ]
+  "properties": []
 }

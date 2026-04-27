@@ -14,20 +14,12 @@
   },
   "stats": {
     "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 19,
     "quarterlyStats": {
-      "2024-Q2": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 10
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 213032392,
-      "offerDate": "2024-10-20",
-      "offerPrice": 46000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "249 WOODPECKER LN, NICHOLSON ga",
-      "city": "NICHOLSON",
-      "state": "ga",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.118432,
-      "lng": -83.419049
-    },
     {
       "propertyId": null,
       "attomId": 30733394,

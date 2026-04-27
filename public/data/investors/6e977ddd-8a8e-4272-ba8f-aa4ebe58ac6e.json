@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 32,
-    "rebuiltTransactions": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 58,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 5
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 9
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 14
@@ -57,40 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "01934f14-abc1-7e5f-81e5-e75fe6f77365",
-      "attomId": 189186632,
-      "offerDate": "2024-11-21T05:00:00.000Z",
-      "offerPrice": 125000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1408 ADONA LN",
-      "city": "CHATTANOOGA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.991057,
-      "lng": -85.218587
-    },
-    {
-      "propertyId": "604f55e6-1a91-4f75-b3e7-74b075956008",
-      "attomId": 171642195,
-      "offerDate": "2024-08-07T05:00:00.000Z",
-      "offerPrice": 23000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1504 LEE ST",
-      "city": "CHICKAMAUGA",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.865821,
-      "lng": -85.291298
-    },
     {
       "propertyId": null,
       "attomId": 2611055,

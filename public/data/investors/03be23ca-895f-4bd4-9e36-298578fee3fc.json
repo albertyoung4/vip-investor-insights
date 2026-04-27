@@ -14,24 +14,24 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
-      "2023-Q4": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 5
-      },
-      "2024-Q2": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
-      "2024-Q3": {
+      "2025-Q2": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,40 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "575908a2-cc23-4386-9207-04988450cf51",
-      "attomId": 197528528,
-      "offerDate": "2024-01-02T05:00:00.000Z",
-      "offerPrice": 52000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1007 MCDONALD ST",
-      "city": "FAYETTEVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.150143,
-      "lng": -86.58374
-    },
-    {
-      "propertyId": "f70b29c7-ba63-4f58-b725-4bebc1570083",
-      "attomId": 203445401,
-      "offerDate": "2023-12-29T05:00:00.000Z",
-      "offerPrice": 80000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1367 HAWKERSMITH RD",
-      "city": "TULLAHOMA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.391304,
-      "lng": -86.126587
-    },
     {
       "propertyId": null,
       "attomId": 36283662,

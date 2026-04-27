@@ -16,25 +16,9 @@
   },
   "stats": {
     "totalTransactions2025": 12,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 21,
     "quarterlyStats": {
-      "2023-Q4": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
@@ -58,23 +42,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 21027602,
-      "offerDate": "2023-11-15",
-      "offerPrice": 83000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "202 PEARL ST, NORRISTOWN pa",
-      "city": "NORRISTOWN",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.12,
-      "lng": -75.35
-    },
     {
       "propertyId": null,
       "attomId": 324400287,

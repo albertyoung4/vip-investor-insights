@@ -13,26 +13,10 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 21,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 20,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 46,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 6
@@ -46,8 +30,8 @@
         "total": 6
       },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 5
+        "rebuilt": 0,
+        "total": 4
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 295908054,
-      "offerDate": "2025-12-31",
-      "offerPrice": 100000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "5829 SMITHFIELD RD, SMITHFIELD ky",
-      "city": "SMITHFIELD",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.384711,
-      "lng": -85.259574
-    },
     {
       "propertyId": null,
       "attomId": 295908733,

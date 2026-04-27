@@ -17,20 +17,12 @@
   },
   "stats": {
     "totalTransactions2025": 7,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 12,
     "quarterlyStats": {
-      "2024-Q1": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -39,27 +31,18 @@
       "2025-Q3": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 183084564,
-      "offerDate": "2024-05-29",
-      "offerPrice": 40000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1712 DENHAM ST, CINCINNATI oh",
-      "city": "CINCINNATI",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.135708,
-      "lng": -84.5509398
-    },
     {
       "propertyId": null,
       "attomId": 182388526,

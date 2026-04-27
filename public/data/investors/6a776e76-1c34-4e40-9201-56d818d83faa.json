@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
-    "rebuiltTransactions": 3,
+    "totalTransactions2025": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,57 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "66450a39-3174-4051-b7ed-09fe603fdd85",
-      "attomId": null,
-      "offerDate": "2023-06-28T05:00:00.000Z",
-      "offerPrice": 95000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "522a122d-34e6-4346-b4bf-b00b23de0c03",
-      "attomId": null,
-      "offerDate": "2023-06-28T05:00:00.000Z",
-      "offerPrice": 95000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01944b76-4ce2-76ee-9e08-0b0d56eb6f3c",
-      "attomId": 212150400,
-      "offerDate": "2025-01-15T06:00:00.000Z",
-      "offerPrice": 97000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "306 THOMPSON RD, LEXINGTON KY",
-      "city": "LEXINGTON",
-      "state": "KY",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1100,
-      "lotSize": 0.1719927,
-      "lat": 38.0585745,
-      "lng": -84.5177221
-    },
     {
       "propertyId": null,
       "attomId": 211939812,

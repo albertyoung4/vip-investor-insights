@@ -13,33 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 89,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 88,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 183,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 21
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 18
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 23
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 23
-      },
       "2025-Q1": {
-        "rebuilt": 1,
+        "rebuilt": 0,
         "total": 17
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 21
+        "total": 20
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 183333489,
-      "offerDate": "2025-03-13",
-      "offerPrice": 58000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2024 YANCEY AVE, MONTGOMERY al",
-      "city": "MONTGOMERY",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.383602,
-      "lng": -86.278797
-    },
     {
       "propertyId": null,
       "attomId": 220123055,

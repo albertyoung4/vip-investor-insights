@@ -14,21 +14,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 7,
     "quarterlyStats": {
-      "2024-Q1": {
+      "2025-Q1": {
         "rebuilt": 0,
         "total": 1
-      },
-      "2025-Q1": {
-        "rebuilt": 1,
-        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -41,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 34333699,
-      "offerDate": "2025-02-20",
-      "offerPrice": 63000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "624 S 41ST ST, LOUISVILLE ky",
-      "city": "LOUISVILLE",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.254288,
-      "lng": -85.819686
-    },
     {
       "propertyId": null,
       "attomId": 177101468,

@@ -15,28 +15,12 @@
   },
   "stats": {
     "totalTransactions2025": 106,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 227,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 16
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 32
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 35
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 23
-      },
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 26
+        "total": 27
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -44,7 +28,7 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 35
+        "total": 34
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 34367761,
-      "offerDate": "2024-01-23",
-      "offerPrice": 130000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "10905 WAYCROSS AVE, LOUISVILLE ky",
-      "city": "LOUISVILLE",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.09,
-      "lng": -85.66
-    },
     {
       "propertyId": null,
       "attomId": 16702074,

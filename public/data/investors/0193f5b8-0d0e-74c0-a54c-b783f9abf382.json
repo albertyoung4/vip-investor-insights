@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 5,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,91 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "0193ac6d-635e-7734-b3af-a62497720f23",
-      "attomId": 326797622,
-      "offerDate": "2024-12-23T06:00:00.000Z",
-      "offerPrice": 39900,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "510 MARTIN LUTHER KING JR DR, ROCKWOOD TN",
-      "city": "ROCKWOOD",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 946,
-      "lotSize": 0.25,
-      "lat": 35.1365579,
-      "lng": -90.0431321
-    },
-    {
-      "propertyId": "0193abfc-fdff-7aa1-a9a1-9cfffdba0a07",
-      "attomId": 202983857,
-      "offerDate": "2024-12-23T06:00:00.000Z",
-      "offerPrice": 19900,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "508 MARTIN LUTHER KING JR DR, ROCKWOOD TN",
-      "city": "ROCKWOOD",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 272,
-      "lotSize": 0.2800046,
-      "lat": 32.3830316,
-      "lng": -96.8420225
-    },
-    {
-      "propertyId": "0193abf4-b063-75ea-86fe-1188b8720886",
-      "attomId": 189022277,
-      "offerDate": "2024-12-23T06:00:00.000Z",
-      "offerPrice": 32400,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "506 MARTIN LUTHER KING JR DR, ROCKWOOD TN",
-      "city": "ROCKWOOD",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 960,
-      "lotSize": 0.2699954,
-      "lat": 28.0149025,
-      "lng": -82.1201975
-    },
-    {
-      "propertyId": "0193f559-ad85-71a8-a67d-e50ad9a36e3b",
-      "attomId": null,
-      "offerDate": "2024-12-23T06:00:00.000Z",
-      "offerPrice": 19900,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0193f557-5e63-74d2-b6e9-d8ce58eaf65a",
-      "attomId": null,
-      "offerDate": "2024-12-23T06:00:00.000Z",
-      "offerPrice": 19900,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    }
-  ]
+  "properties": []
 }

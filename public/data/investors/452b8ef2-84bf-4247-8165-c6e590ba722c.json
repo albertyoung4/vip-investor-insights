@@ -14,24 +14,12 @@
   },
   "stats": {
     "totalTransactions2025": 9,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 15,
     "quarterlyStats": {
-      "2024-Q1": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 189008682,
-      "offerDate": "2024-07-19",
-      "offerPrice": 55000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "119 FENNER LN, MOUNTAIN CITY tn",
-      "city": "MOUNTAIN CITY",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.4617336,
-      "lng": -81.8421272
-    },
     {
       "propertyId": null,
       "attomId": 209168165,

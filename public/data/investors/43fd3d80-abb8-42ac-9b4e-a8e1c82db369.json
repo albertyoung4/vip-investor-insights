@@ -13,13 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 5,
     "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 3
+        "rebuilt": 0,
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -28,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 9624492,
-      "offerDate": "2025-06-20",
-      "offerPrice": 115000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "429 E OAK ST, LOUISVILLE ky",
-      "city": "LOUISVILLE",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.234468,
-      "lng": -85.747785
-    },
     {
       "propertyId": null,
       "attomId": 34318364,

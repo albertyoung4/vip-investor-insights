@@ -14,21 +14,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 17,
-    "rebuiltTransactions": 2,
+    "totalTransactions2025": 16,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 21,
     "quarterlyStats": {
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 6
+        "rebuilt": 0,
+        "total": 5
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -39,46 +35,12 @@
         "total": 4
       },
       "2026-Q1": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       }
     }
   },
   "properties": [
-    {
-      "propertyId": "019b291b-696e-7e04-8b70-c9b37f49a1d6",
-      "attomId": 214940653,
-      "offerDate": "2026-01-16T05:00:00.000Z",
-      "offerPrice": 22500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "405 E WALLACE AVE",
-      "city": "NEW CASTLE",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.006996,
-      "lng": -80.336985
-    },
-    {
-      "propertyId": "0197647b-b688-7dcb-8f83-1dbf9f726367",
-      "attomId": 211916417,
-      "offerDate": "2025-06-25T05:00:00.000Z",
-      "offerPrice": 30000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "926 MORTON ST",
-      "city": "NEW CASTLE",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.990572,
-      "lng": -80.32812
-    },
     {
       "propertyId": null,
       "attomId": 211134408,

@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 1,
-    "rebuiltTransactions": 3,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,57 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "12e8f194-49f6-4811-a317-2a849469f4ef",
-      "attomId": null,
-      "offerDate": "2024-07-22T05:00:00.000Z",
-      "offerPrice": 73000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "466f1a9b-f520-4196-bb34-2d7c907da485",
-      "attomId": null,
-      "offerDate": "2024-07-22T05:00:00.000Z",
-      "offerPrice": 73000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0192921d-0803-7897-bd3f-def4d7a90606",
-      "attomId": 164906254,
-      "offerDate": "2024-10-31T05:00:00.000Z",
-      "offerPrice": 36000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "516 GOULD ST, SAN ANTONIO TX",
-      "city": "SAN ANTONIO",
-      "state": "TX",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 660,
-      "lotSize": 0.1170799,
-      "lat": 29.4319949,
-      "lng": -98.5334054
-    },
     {
       "propertyId": null,
       "attomId": 183248447,

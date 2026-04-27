@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 3,
-    "rebuiltTransactions": 3,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,57 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "3d822f46-24c8-46d2-80f4-7b36aaa0adb1",
-      "attomId": null,
-      "offerDate": "2023-09-22T05:00:00.000Z",
-      "offerPrice": 93000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0dc7fb32-96ce-4c15-bfa1-9463267b1700",
-      "attomId": null,
-      "offerDate": "2024-04-28T05:00:00.000Z",
-      "offerPrice": 122000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01927164-1c52-7614-93de-45bb073cd0dd",
-      "attomId": 36232136,
-      "offerDate": "2024-10-10T05:00:00.000Z",
-      "offerPrice": 53000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "308 3RD AVE, FAYETTEVILLE TN",
-      "city": "FAYETTEVILLE",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 754,
-      "lotSize": 0.2582645,
-      "lat": 35.154678,
-      "lng": -86.5692687
-    },
     {
       "propertyId": null,
       "attomId": 152198349,

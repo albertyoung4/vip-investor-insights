@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 111,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 188,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 11
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 16
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 21
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 28
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 28
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 201635782,
-      "offerDate": "2024-05-16",
-      "offerPrice": 55000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1800 MATTHEWS AVE, BESSEMER al",
-      "city": "BESSEMER",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.4353669,
-      "lng": -86.9169217
-    },
     {
       "propertyId": null,
       "attomId": 190087172,

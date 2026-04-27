@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 27,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 67,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 11
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 11
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 11
@@ -51,29 +35,12 @@
         "total": 7
       },
       "2026-Q1": {
-        "rebuilt": 1,
-        "total": 5
+        "rebuilt": 0,
+        "total": 4
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 172931475,
-      "offerDate": "2026-02-07",
-      "offerPrice": 23900.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "3671 HENDRICKS ST, DETROIT mi",
-      "city": "DETROIT",
-      "state": "mi",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.355412,
-      "lng": -83.019272
-    },
     {
       "propertyId": null,
       "attomId": 168473644,

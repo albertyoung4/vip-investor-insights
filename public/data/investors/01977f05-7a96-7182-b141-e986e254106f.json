@@ -14,25 +14,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 23,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 22,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 46,
     "quarterlyStats": {
-      "2024-Q2": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 12
+        "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 9
+        "rebuilt": 0,
+        "total": 8
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -49,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 303218881,
-      "offerDate": "2025-06-17",
-      "offerPrice": 30000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1906 DANIEL ST, ROANOKE RAPIDS nc",
-      "city": "ROANOKE RAPIDS",
-      "state": "nc",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.444669,
-      "lng": -77.669166
-    },
     {
       "propertyId": null,
       "attomId": 303214127,

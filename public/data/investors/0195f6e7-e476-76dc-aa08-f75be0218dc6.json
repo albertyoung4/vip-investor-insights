@@ -13,33 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 13,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 12,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 27,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 6
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 6
+        "rebuilt": 0,
+        "total": 5
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -48,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 1409494,
-      "offerDate": "2025-04-15",
-      "offerPrice": 78000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1304 PERA DR, MEMPHIS tn",
-      "city": "MEMPHIS",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.22238,
-      "lng": -90.020476
-    },
     {
       "propertyId": null,
       "attomId": 1063264,

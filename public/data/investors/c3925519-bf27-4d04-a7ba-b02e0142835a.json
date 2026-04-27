@@ -15,29 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 24,
-    "rebuiltTransactions": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 114,
     "quarterlyStats": {
-      "2023-Q4": {
-        "rebuilt": 2,
-        "total": 2
-      },
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 23
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 44
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 18
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 9
@@ -53,44 +33,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": "e06a4abf-867f-4286-bac7-65a0c7721607",
-      "attomId": 32318485,
-      "offerDate": "2023-12-28T05:00:00.000Z",
-      "offerPrice": 125000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "411 2ND ST",
-      "city": "SWEDESBORO",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.749121,
-      "lng": -75.311301
-    },
-    {
-      "propertyId": "2a225745-1fbd-496f-a682-5e4b04849f3d",
-      "attomId": 45310576,
-      "offerDate": "2023-11-26T05:00:00.000Z",
-      "offerPrice": 120000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "101 RAILROAD AVE",
-      "city": "SWEDESBORO",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.749188,
-      "lng": -75.31137
-    },
     {
       "propertyId": null,
       "attomId": 171681958,

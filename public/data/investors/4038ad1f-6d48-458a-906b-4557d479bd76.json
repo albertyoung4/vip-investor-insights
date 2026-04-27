@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 7,
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 4,
     "quarterlyStats": {
       "2025-Q1": {
@@ -30,8 +30,8 @@
         "total": 0
       },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,125 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "e7c1f34b-0676-49d4-ae4b-d1d65168ed2b",
-      "attomId": null,
-      "offerDate": "2023-07-17T05:00:00.000Z",
-      "offerPrice": 90000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "d3d63dad-7a3d-47f4-b33d-afb20b115f0b",
-      "attomId": null,
-      "offerDate": "2024-01-27T06:00:00.000Z",
-      "offerPrice": 72000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "9e9a4ac3-42ba-4c23-96b0-415aee7d79ba",
-      "attomId": null,
-      "offerDate": "2024-02-05T06:00:00.000Z",
-      "offerPrice": 105000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "505be6b6-f255-40ee-9cbf-f30290e10019",
-      "attomId": null,
-      "offerDate": "2024-05-10T05:00:00.000Z",
-      "offerPrice": 75000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "dcc75751-a438-445c-84db-31af53251d1f",
-      "attomId": null,
-      "offerDate": "2024-06-09T05:00:00.000Z",
-      "offerPrice": 35000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01935f56-7573-72ef-be2f-493471c655fd",
-      "attomId": 187350168,
-      "offerDate": "2024-12-09T06:00:00.000Z",
-      "offerPrice": 41000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "310 S HILL ST, ATHENS TN",
-      "city": "ATHENS",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 840,
-      "lotSize": 0.2,
-      "lat": 35.4514624,
-      "lng": -84.5785446
-    },
-    {
-      "propertyId": "019958fc-a54a-7251-9fd3-eb8aaa951662",
-      "attomId": 188508927,
-      "offerDate": "2025-10-10T05:00:00.000Z",
-      "offerPrice": 63000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "203 ENGLEWOOD AVE, ENGLEWOOD TN",
-      "city": "ENGLEWOOD",
-      "state": "TN",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1200,
-      "lotSize": 0.6,
-      "lat": 41.2124491,
-      "lng": -73.2150652
-    },
     {
       "propertyId": null,
       "attomId": 149051106,

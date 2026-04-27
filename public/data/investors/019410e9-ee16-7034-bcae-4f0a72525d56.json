@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 49,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 126,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 15
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 19
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 20
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 14
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 6
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 54705132,
-      "offerDate": "2024-12-29",
-      "offerPrice": 28000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "168 BIG SPRINGS LN, JACKSBORO tn",
-      "city": "JACKSBORO",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.3556214,
-      "lng": -84.1647204
-    },
     {
       "propertyId": null,
       "attomId": 1574384,

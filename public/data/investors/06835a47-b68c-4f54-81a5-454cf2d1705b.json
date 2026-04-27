@@ -14,24 +14,16 @@
   },
   "stats": {
     "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 9,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -48,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 295754913,
-      "offerDate": "2024-03-14",
-      "offerPrice": 125000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "708 WOODLAND AVE, FRANKFORT ky",
-      "city": "FRANKFORT",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.1882769,
-      "lng": -84.87839230000002
-    },
     {
       "propertyId": null,
       "attomId": 142071663,

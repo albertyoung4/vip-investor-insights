@@ -13,8 +13,8 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
-    "rebuiltTransactions": 3,
+    "totalTransactions2025": 6,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
@@ -22,8 +22,8 @@
         "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 3,
-        "total": 4
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,57 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "01967544-06d1-79a1-b520-8cd6c92abfa7",
-      "attomId": 174315135,
-      "offerDate": "2025-04-30T05:00:00.000Z",
-      "offerPrice": 20000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1314 W BUTLER ST, PEORIA IL",
-      "city": "PEORIA",
-      "state": "IL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1390,
-      "lotSize": 0,
-      "lat": 40.6840533,
-      "lng": -89.6104012
-    },
-    {
-      "propertyId": "01967562-713f-7202-9156-30c5ef153553",
-      "attomId": 293335476,
-      "offerDate": "2025-05-01T05:00:00.000Z",
-      "offerPrice": 28500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "2330 E JOHNS AVE, DECATUR IL",
-      "city": "DECATUR",
-      "state": "IL",
-      "beds": 0,
-      "baths": null,
-      "sqft": 0,
-      "lotSize": 0.0918274,
-      "lat": 39.8380059,
-      "lng": -88.946365
-    },
-    {
-      "propertyId": "01968c66-a62c-7f9e-9ef2-d87ad1c59de5",
-      "attomId": 293327235,
-      "offerDate": "2025-05-05T05:00:00.000Z",
-      "offerPrice": 20000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "842 N MONROE ST, DECATUR IL",
-      "city": "DECATUR",
-      "state": "IL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 652,
-      "lotSize": 0.1579431,
-      "lat": 39.8657249,
-      "lng": -88.9637948
-    },
     {
       "propertyId": null,
       "attomId": 309215695,

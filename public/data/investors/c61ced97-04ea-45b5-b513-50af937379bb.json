@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 10,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 20,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 148609279,
-      "offerDate": "2024-03-24",
-      "offerPrice": 59000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "5777 LONDONDERRY CV, SOUTHAVEN ms",
-      "city": "SOUTHAVEN",
-      "state": "ms",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.9452574,
-      "lng": -90.0019489
-    },
     {
       "propertyId": null,
       "attomId": 140125136,

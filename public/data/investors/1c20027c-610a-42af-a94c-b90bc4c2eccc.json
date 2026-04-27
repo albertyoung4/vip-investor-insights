@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 0,
-    "rebuiltTransactions": 3,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
@@ -39,57 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "5f50f543-e07a-45f1-82a6-53216e404409",
-      "attomId": null,
-      "offerDate": "2024-05-04T05:00:00.000Z",
-      "offerPrice": 40000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "9551ecb9-a049-41b9-b57d-5de76a7b9e39",
-      "attomId": 150387737,
-      "offerDate": "2024-09-24T05:00:00.000Z",
-      "offerPrice": 80000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "123 BENNETT DR, LA FAYETTE GA",
-      "city": "LA FAYETTE",
-      "state": "GA",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1108,
-      "lotSize": 0.2899908,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "01938e51-4824-79ff-9ef0-64181894393e",
-      "attomId": 171140215,
-      "offerDate": "2024-12-06T06:00:00.000Z",
-      "offerPrice": 140000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "348 MARTIN WARD RD, TUNNEL HILL GA",
-      "city": "TUNNEL HILL",
-      "state": "GA",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1050,
-      "lotSize": 5.2399998,
-      "lat": null,
-      "lng": null
-    }
-  ]
+  "properties": []
 }

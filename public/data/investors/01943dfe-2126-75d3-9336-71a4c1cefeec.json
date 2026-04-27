@@ -14,29 +14,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 19,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 18,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 50,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 8
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 6
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 5
+        "rebuilt": 0,
+        "total": 4
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 164736961,
-      "offerDate": "2025-01-06",
-      "offerPrice": 57000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2079 PERRY AVE, GROVES tx",
-      "city": "GROVES",
-      "state": "tx",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 29.931395,
-      "lng": -93.904274
-    },
     {
       "propertyId": null,
       "attomId": 39511238,

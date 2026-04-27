@@ -13,26 +13,10 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 14,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 13,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 38,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 8
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 3
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
@@ -42,8 +26,8 @@
         "total": 4
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 3
+        "rebuilt": 0,
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 200758076,
-      "offerDate": "2025-08-17",
-      "offerPrice": 65000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "335 ENO RD, DICKSON tn",
-      "city": "DICKSON",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.062058,
-      "lng": -87.422777
-    },
     {
       "propertyId": null,
       "attomId": 161169465,

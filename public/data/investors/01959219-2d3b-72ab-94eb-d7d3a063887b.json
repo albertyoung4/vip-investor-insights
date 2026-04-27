@@ -13,21 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 3,
-        "total": 3
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,91 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "01955a6f-346e-7c5b-82ce-94ee4463f027",
-      "attomId": 17598858,
-      "offerDate": "2025-03-15T05:00:00.000Z",
-      "offerPrice": 100000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "12814 TEAKWOOD DR, BAKER LA",
-      "city": "BAKER",
-      "state": "LA",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1189,
-      "lotSize": 0,
-      "lat": 30.5630729,
-      "lng": -91.1505261
-    },
-    {
-      "propertyId": "01958b8f-73a6-7d6b-bf93-04b1744106fc",
-      "attomId": 212084791,
-      "offerDate": "2025-03-25T05:00:00.000Z",
-      "offerPrice": 50000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "820 COLEMAN ST, MARLIN TX",
-      "city": "MARLIN",
-      "state": "TX",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1240,
-      "lotSize": 0.1949954,
-      "lat": 31.3074554,
-      "lng": -96.893997
-    },
-    {
-      "propertyId": "01953dba-9d98-7f4e-b636-434fe0bb04d8",
-      "attomId": 167210174,
-      "offerDate": "2025-03-25T05:00:00.000Z",
-      "offerPrice": 93000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "2507 11TH ST, GALENA PARK TX",
-      "city": "GALENA PARK",
-      "state": "TX",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1043,
-      "lotSize": 0.1387052,
-      "lat": 29.7405017,
-      "lng": -95.2314503
-    },
-    {
-      "propertyId": "0196a0f2-6faa-764d-b4fc-f09ec6f1195d",
-      "attomId": 165379492,
-      "offerDate": "2025-05-09T05:00:00.000Z",
-      "offerPrice": 68000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "806 HOLT ST, BRYAN TX",
-      "city": "BRYAN",
-      "state": "TX",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1306,
-      "lotSize": 0.1606979,
-      "lat": 30.669131,
-      "lng": -96.3819484
-    },
-    {
-      "propertyId": "019783b8-4fd2-7cf2-960b-2e5bc9df8b64",
-      "attomId": 18042756,
-      "offerDate": "2025-08-12T05:00:00.000Z",
-      "offerPrice": 68000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "3568 N 11TH ST, MILWAUKEE WI",
-      "city": "MILWAUKEE",
-      "state": "WI",
-      "beds": 4,
-      "baths": 2,
-      "sqft": 1802,
-      "lotSize": 0.0860882,
-      "lat": 43.0832062,
-      "lng": -87.9245582
-    }
-  ]
+  "properties": []
 }

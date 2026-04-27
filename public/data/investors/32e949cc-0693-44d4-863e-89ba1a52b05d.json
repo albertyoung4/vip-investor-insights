@@ -14,29 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 17,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 37,
     "quarterlyStats": {
-      "2023-Q4": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
@@ -60,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 290477,
-      "offerDate": "2023-12-19",
-      "offerPrice": 121500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "608 CHOCTAW ST, MORRISTOWN tn",
-      "city": "MORRISTOWN",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.21,
-      "lng": -83.28
-    },
     {
       "propertyId": null,
       "attomId": 47461826,

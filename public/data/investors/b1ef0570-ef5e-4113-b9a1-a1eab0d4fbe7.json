@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 13,
     "quarterlyStats": {
-      "2023-Q3": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 8554114,
-      "offerDate": "2023-08-07",
-      "offerPrice": 207500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2132 12TH AVE N, NASHVILLE tn",
-      "city": "NASHVILLE",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.19,
-      "lng": -86.81
-    },
     {
       "propertyId": null,
       "attomId": 188102727,

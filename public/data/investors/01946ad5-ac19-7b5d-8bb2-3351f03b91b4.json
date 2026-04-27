@@ -14,37 +14,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 31,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 30,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 62,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 9
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 7
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 10
       },
       "2025-Q2": {
-        "rebuilt": 1,
+        "rebuilt": 0,
         "total": 7
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 7
+        "total": 6
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 296126751,
-      "offerDate": "2025-06-02",
-      "offerPrice": 29900.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "230 D MORGAN RD, RUSSELLVILLE ky",
-      "city": "RUSSELLVILLE",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.917733,
-      "lng": -86.930014
-    },
     {
       "propertyId": null,
       "attomId": 296124899,

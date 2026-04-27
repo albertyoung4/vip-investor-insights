@@ -13,29 +13,25 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 7,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 189427550,
-      "offerDate": "2025-03-23",
-      "offerPrice": 237000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "240 FARMINGDALE PL SE, CLEVELAND tn",
-      "city": "CLEVELAND",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.08215,
-      "lng": -84.892574
-    },
     {
       "propertyId": null,
       "attomId": 198558303,

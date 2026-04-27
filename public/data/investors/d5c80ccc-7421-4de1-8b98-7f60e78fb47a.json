@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 12,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 28,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 4
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 4
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 190392996,
-      "offerDate": "2024-01-11",
-      "offerPrice": 207000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "35 TEMPLE AVE, STRATFORD nj",
-      "city": "STRATFORD",
-      "state": "nj",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.83,
-      "lng": -75.02
-    },
     {
       "propertyId": null,
       "attomId": 2953293,

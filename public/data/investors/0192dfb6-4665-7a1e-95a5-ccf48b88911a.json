@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
-    "rebuiltTransactions": 3,
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 2,
-        "total": 2
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -39,57 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "0192f51c-7f56-7121-b441-b2d2add7f5c5",
-      "attomId": 147314610,
-      "offerDate": "2024-11-14T06:00:00.000Z",
-      "offerPrice": 33000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "2 SEMINOLE AVE SYLACAUGA TALLADEGA AL USA 35150",
-      "city": "SYLACAUGA",
-      "state": "AL",
-      "beds": 0,
-      "baths": 3,
-      "sqft": 2010,
-      "lotSize": 0.2899908,
-      "lat": 33.1799308,
-      "lng": -86.2575179
-    },
-    {
-      "propertyId": "0194ad8f-0931-7a1e-968b-4ba044b03ba4",
-      "attomId": 40723674,
-      "offerDate": "2025-02-04T06:00:00.000Z",
-      "offerPrice": 92500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "4417 CAMPBELL LN, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1479,
-      "lotSize": 0.4152893,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0192f826-cb3e-739d-b8cf-66d5b97cca54",
-      "attomId": 232516766,
-      "offerDate": "2025-02-20T06:00:00.000Z",
-      "offerPrice": 23500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1042 RIPLEY RD CARBON HILL WALKER AL USA 35549",
-      "city": "CARBON HILL",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1836,
-      "lotSize": 2,
-      "lat": 33.8893991,
-      "lng": -87.5249892
-    }
-  ]
+  "properties": []
 }

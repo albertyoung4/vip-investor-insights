@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 4,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 15,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 4
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 3
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -45,6 +29,10 @@
         "rebuilt": 0,
         "total": 1
       },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2026-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 155117678,
-      "offerDate": "2024-08-21",
-      "offerPrice": 16500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2727 DUNN AVE, MEMPHIS tn",
-      "city": "MEMPHIS",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.090897,
-      "lng": -89.972158
-    },
     {
       "propertyId": null,
       "attomId": 51167516,

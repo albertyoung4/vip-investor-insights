@@ -13,118 +13,33 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 13,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 9,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 10,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 5
+        "rebuilt": 0,
+        "total": 4
       },
       "2026-Q1": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       }
     }
   },
   "properties": [
-    {
-      "propertyId": "0194b941-baaf-7987-8b44-9fba20f41dd1",
-      "attomId": 188300569,
-      "offerDate": "2025-02-19T06:00:00.000Z",
-      "offerPrice": 26500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "3381 33RD PL N, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 912,
-      "lotSize": 0.1394628,
-      "lat": 33.5597853,
-      "lng": -86.8002738
-    },
-    {
-      "propertyId": "01958010-f0dd-727b-aee2-fddc75d805b0",
-      "attomId": 26421588,
-      "offerDate": "2025-04-22T05:00:00.000Z",
-      "offerPrice": 12000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1361 PROSCH AVE, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 796,
-      "lotSize": 0.2238292,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0197c1fe-587c-7462-aae4-7a0a4ee722b1",
-      "attomId": 153039406,
-      "offerDate": "2025-07-02T05:00:00.000Z",
-      "offerPrice": 10000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "3529 PARK AVE SW, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 784,
-      "lotSize": 0.1515152,
-      "lat": 33.5574728,
-      "lng": -86.8172794
-    },
-    {
-      "propertyId": "019a5b3b-71e4-72ed-b39a-c77ca6e8f3c5",
-      "attomId": 201834743,
-      "offerDate": "2025-12-29T06:00:00.000Z",
-      "offerPrice": 16000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "5508 LYBIA AVE, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1634,
-      "lotSize": 0.1721763,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "019cb4ee-9683-7efb-a4da-e056c658c44d",
-      "attomId": 199904434,
-      "offerDate": "2026-03-19T05:00:00.000Z",
-      "offerPrice": 6000,
-      "status": "accepted",
-      "isRebuilt": true,
-      "address": "3317 46TH ST BIRMINGHAM JEFFERSON AL USA 35221",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1301,
-      "lotSize": 0.137741,
-      "lat": 33.4444327,
-      "lng": -86.9013397
-    },
     {
       "propertyId": null,
       "attomId": 194046448,

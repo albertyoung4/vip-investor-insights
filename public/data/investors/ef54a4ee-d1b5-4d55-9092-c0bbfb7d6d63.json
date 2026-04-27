@@ -14,29 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 15,
-    "rebuiltTransactions": 2,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 32,
     "quarterlyStats": {
-      "2023-Q3": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 3
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 7
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 5
@@ -60,40 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "78fcdda2-6b90-42f5-bb5a-194e8e0f3c94",
-      "attomId": 214437311,
-      "offerDate": "2024-03-11T05:00:00.000Z",
-      "offerPrice": 15000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "4488 QUARRY RD",
-      "city": "NEW ALBANY",
-      "state": "IN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.2931919,
-      "lng": -85.89173269999999
-    },
-    {
-      "propertyId": "142cb250-e1d7-4640-983e-30c8714edc37",
-      "attomId": 218461669,
-      "offerDate": "2023-08-11T05:00:00.000Z",
-      "offerPrice": 122500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "925 WASHINGTON WAY",
-      "city": "JEFFERSONVILLE",
-      "state": "IN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.32,
-      "lng": -85.7
-    },
     {
       "propertyId": null,
       "attomId": 218356421,

@@ -16,17 +16,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 26,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 24,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 26,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 10
+        "rebuilt": 0,
+        "total": 9
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -43,91 +43,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "1d7dfbdf-ca21-460d-bc63-2434623031f0",
-      "attomId": null,
-      "offerDate": "2024-01-13T06:00:00.000Z",
-      "offerPrice": 19000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "3ed8bca0-6785-440b-9436-4cc74e5e5861",
-      "attomId": null,
-      "offerDate": "2024-08-06T05:00:00.000Z",
-      "offerPrice": 46000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "ab967ce7-294b-4806-8f99-9e26ee8c011a",
-      "attomId": null,
-      "offerDate": "2024-08-09T05:00:00.000Z",
-      "offerPrice": 60000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "019474c1-3f0b-7596-9679-6045dc2810d7",
-      "attomId": 232475487,
-      "offerDate": "2025-01-22T06:00:00.000Z",
-      "offerPrice": 17500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "6624 CURRY HWY, JASPER AL",
-      "city": "JASPER",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 941,
-      "lotSize": 0.4,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0196dacf-5a33-729f-83d1-f65d4709aa80",
-      "attomId": 198008845,
-      "offerDate": "2025-06-13T05:00:00.000Z",
-      "offerPrice": 55000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1239 BLAINE DR, ADAMSVILLE AL",
-      "city": "ADAMSVILLE",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1150,
-      "lotSize": 0.5,
-      "lat": null,
-      "lng": null
-    },
     {
       "propertyId": null,
       "attomId": 53956379,

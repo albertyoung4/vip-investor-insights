@@ -10,37 +10,109 @@
     "ytdBids": 0,
     "entities": [
       "BBE ASSET HOLDINGS LLC",
-      "RBE ASSET HOLDINGS LLC"
+      "RBE ASSET HOLDINGS LLC",
+      "WYMON BROWN"
     ]
   },
   "stats": {
     "totalTransactions2025": 1,
-    "rebuiltTransactions": 1,
-    "recorderTransactions": 2,
+    "rebuiltTransactions": 0,
+    "recorderTransactions": 9,
     "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q2": {
-        "rebuilt": 1,
+        "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
     {
       "propertyId": null,
-      "attomId": 53547311,
-      "offerDate": "2025-04-21",
-      "offerPrice": 90000,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "910 N EVERGREEN ST, MEMPHIS TN",
+      "attomId": 140663588,
+      "offerDate": "2025-05-08",
+      "offerPrice": 75000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "725 E MCKELLAR AVE, MEMPHIS TN",
       "city": "MEMPHIS",
       "state": "TN",
       "beds": null,
       "baths": null,
       "sqft": null,
       "lotSize": null,
-      "lat": 35.162873,
-      "lng": -90.000429
+      "lat": 35.089252,
+      "lng": -90.041387,
+      "entity": "WYMON BROWN"
+    },
+    {
+      "propertyId": null,
+      "attomId": 964065,
+      "offerDate": "2023-02-27",
+      "offerPrice": 0,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "898 FAXON AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.156352,
+      "lng": -90.028946,
+      "entity": "RBE ASSET HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 147487556,
+      "offerDate": "2021-04-29",
+      "offerPrice": 7849,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "183 1ST AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.093539,
+      "lng": -90.070058,
+      "entity": "WYMON BROWN"
+    },
+    {
+      "propertyId": null,
+      "attomId": 196286766,
+      "offerDate": "2020-10-08",
+      "offerPrice": 11616,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "200 1ST AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.093539,
+      "lng": -90.070058,
+      "entity": "WYMON BROWN"
     },
     {
       "propertyId": null,
@@ -62,21 +134,75 @@
     },
     {
       "propertyId": null,
-      "attomId": 964065,
-      "offerDate": "2023-02-27",
-      "offerPrice": 0,
+      "attomId": 1016733,
+      "offerDate": "2014-02-12",
+      "offerPrice": 19000,
       "status": "recorder",
       "isRebuilt": false,
-      "address": "898 FAXON AVE, MEMPHIS TN",
+      "address": "1215 CHARTER OAK DR, MEMPHIS TN",
       "city": "MEMPHIS",
       "state": "TN",
       "beds": null,
       "baths": null,
       "sqft": null,
       "lotSize": null,
-      "lat": 35.156352,
-      "lng": -90.028946,
-      "entity": "RBE ASSET HOLDINGS LLC"
+      "lat": 35.027127,
+      "lng": -90.102763,
+      "entity": "WYMON BROWN"
+    },
+    {
+      "propertyId": null,
+      "attomId": 198055810,
+      "offerDate": "2012-04-29",
+      "offerPrice": 0,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "97 EASTVIEW DR, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.135326,
+      "lng": -89.95672,
+      "entity": "WYMON BROWN"
+    },
+    {
+      "propertyId": null,
+      "attomId": 36963373,
+      "offerDate": "1998-06-17",
+      "offerPrice": 6400,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "726 E DEMPSTER AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.084364,
+      "lng": -90.0176,
+      "entity": "WYMON BROWN"
+    },
+    {
+      "propertyId": null,
+      "attomId": 190955166,
+      "offerDate": "1994-07-28",
+      "offerPrice": 30000,
+      "status": "recorder",
+      "isRebuilt": false,
+      "address": "209 1ST AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "lotSize": null,
+      "lat": 35.093539,
+      "lng": -90.070058,
+      "entity": "WYMON BROWN"
     }
   ]
 }

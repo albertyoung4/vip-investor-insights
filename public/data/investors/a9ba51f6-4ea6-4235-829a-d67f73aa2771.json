@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 13,
     "quarterlyStats": {
-      "2023-Q4": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 2
@@ -45,6 +29,10 @@
         "rebuilt": 0,
         "total": 2
       },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2026-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 177832109,
-      "offerDate": "2023-12-28",
-      "offerPrice": 62000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2327 N CLEVELAND ST, PHILADELPHIA pa",
-      "city": "PHILADELPHIA",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.99,
-      "lng": -75.16
-    },
     {
       "propertyId": null,
       "attomId": 24934561,

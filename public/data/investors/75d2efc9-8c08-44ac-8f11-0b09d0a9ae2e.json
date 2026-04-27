@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 7,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 22,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 7
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 3
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 26236358,
-      "offerDate": "2024-08-16",
-      "offerPrice": 64000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2529 CECELIA AVE, MARYVILLE tn",
-      "city": "MARYVILLE",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.78983,
-      "lng": -83.948278
-    },
     {
       "propertyId": null,
       "attomId": 186932680,

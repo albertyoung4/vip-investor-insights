@@ -13,50 +13,33 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 15,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 14,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 24,
     "quarterlyStats": {
-      "2024-Q3": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
+        "total": 1
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 10
+        "rebuilt": 0,
+        "total": 9
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
         "total": 4
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 294399542,
-      "offerDate": "2025-05-01",
-      "offerPrice": 89000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "103 S 3RD ST, WINTERSET ia",
-      "city": "WINTERSET",
-      "state": "ia",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.334251,
-      "lng": -94.010704
-    },
     {
       "propertyId": null,
       "attomId": 23955836,

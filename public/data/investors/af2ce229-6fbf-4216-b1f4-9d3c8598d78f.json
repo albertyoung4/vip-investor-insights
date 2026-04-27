@@ -14,28 +14,20 @@
   },
   "stats": {
     "totalTransactions2025": 156,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 313,
     "quarterlyStats": {
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 48
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 45
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 9
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 20
+        "total": 21
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 46
+        "total": 45
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -48,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 166334455,
-      "offerDate": "2024-09-09",
-      "offerPrice": 370000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "5504 AMESWOOD DR, AUSTIN tx",
-      "city": "AUSTIN",
-      "state": "tx",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 30.300721,
-      "lng": -97.678579
-    },
     {
       "propertyId": null,
       "attomId": 327145681,

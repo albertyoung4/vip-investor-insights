@@ -16,7 +16,7 @@ export default function InvestorTable({
   commissions?: Record<string, CommissionData>;
 }) {
   const [search, setSearch] = useState("");
-  const [sortKey, setSortKey] = useState<SortKey>("totalWon");
+  const [sortKey, setSortKey] = useState<SortKey>("total2025");
   const [sortAsc, setSortAsc] = useState(false);
 
   const filtered = useMemo(() => {

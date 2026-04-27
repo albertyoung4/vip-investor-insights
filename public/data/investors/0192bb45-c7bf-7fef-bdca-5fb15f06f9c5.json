@@ -13,29 +13,25 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 3,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 6,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
         "total": 1
       },
       "2025-Q4": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 178174967,
-      "offerDate": "2025-10-22",
-      "offerPrice": 125000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2609 DICKINSON ST, PHILADELPHIA pa",
-      "city": "PHILADELPHIA",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.934456,
-      "lng": -75.188145
-    },
     {
       "propertyId": null,
       "attomId": 54416175,

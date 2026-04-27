@@ -13,13 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 2
+        "rebuilt": 0,
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -34,97 +34,12 @@
         "total": 0
       },
       "2026-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": "f54413c1-6822-4ea1-b313-491dd978e253",
-      "attomId": null,
-      "offerDate": "2024-08-12T05:00:00.000Z",
-      "offerPrice": 14000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "acec0efb-ff0e-4697-944e-4a9fcc1703b8",
-      "attomId": 1876358,
-      "offerDate": "2024-09-25T05:00:00.000Z",
-      "offerPrice": 38000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1348 AUSTIN ST, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1008,
-      "lotSize": 0.1190083,
-      "lat": 35.2119543,
-      "lng": -89.9214775
-    },
-    {
-      "propertyId": "0193aca7-e247-745c-9b82-0b8123b323de",
-      "attomId": 142092511,
-      "offerDate": "2024-12-29T06:00:00.000Z",
-      "offerPrice": 45000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1536 MERLIN AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 986,
-      "lotSize": 0.1679982,
-      "lat": 35.0900981,
-      "lng": -90.0124203
-    },
-    {
-      "propertyId": "01954de3-5934-7211-ad20-eb3032f7c7fb",
-      "attomId": 201112681,
-      "offerDate": "2025-03-13T05:00:00.000Z",
-      "offerPrice": 17500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "212 BANKHEAD HWY W, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1612,
-      "lotSize": 0.137741,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "019b7127-9272-7c37-b5b5-29155bab9c0b",
-      "attomId": 52545626,
-      "offerDate": "2026-01-21T06:00:00.000Z",
-      "offerPrice": 205000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1258 AGNES PL, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": 5,
-      "baths": 2,
-      "sqft": 3746,
-      "lotSize": 0.1719927,
-      "lat": 35.1253814,
-      "lng": -90.025187
-    },
     {
       "propertyId": null,
       "attomId": 191014763,

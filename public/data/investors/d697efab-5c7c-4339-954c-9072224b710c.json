@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 27,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 4
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
@@ -57,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 199634339,
-      "offerDate": "2024-05-15",
-      "offerPrice": 22000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "206 APPLETREE ST, MOUNT PLEASANT tn",
-      "city": "MOUNT PLEASANT",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.535613,
-      "lng": -87.20383059999999
-    },
     {
       "propertyId": null,
       "attomId": 140088783,

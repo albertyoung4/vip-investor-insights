@@ -14,17 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -48,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 21559778,
-      "offerDate": "2024-04-18",
-      "offerPrice": 95000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "3012 N CHAMBERLAIN AVE, CHATTANOOGA tn",
-      "city": "CHATTANOOGA",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.0710562,
-      "lng": -85.2456646
-    },
     {
       "propertyId": null,
       "attomId": 199778076,

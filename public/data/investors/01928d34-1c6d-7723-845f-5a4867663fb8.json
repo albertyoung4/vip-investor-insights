@@ -13,21 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 47103479,
-      "offerDate": "2025-01-08",
-      "offerPrice": 20000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1312 TODD AVE, DYERSBURG tn",
-      "city": "DYERSBURG",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.044796,
-      "lng": -89.380369
-    },
     {
       "propertyId": null,
       "attomId": 183210959,

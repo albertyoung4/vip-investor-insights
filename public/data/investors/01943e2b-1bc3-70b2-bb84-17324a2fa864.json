@@ -13,29 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 13,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 12,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 23,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 4
-      },
       "2025-Q1": {
-        "rebuilt": 1,
+        "rebuilt": 0,
         "total": 5
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 3
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 33037008,
-      "offerDate": "2025-01-07",
-      "offerPrice": 95000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "5569 S YORK HWY, GRIMSLEY tn",
-      "city": "GRIMSLEY",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.249763,
-      "lng": -84.995649
-    },
     {
       "propertyId": null,
       "attomId": 244531656,

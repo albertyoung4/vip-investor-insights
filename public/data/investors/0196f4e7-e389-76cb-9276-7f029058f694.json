@@ -15,41 +15,25 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 131,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 130,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 281,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 33
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 42
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 35
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 27
-      },
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 18
+        "total": 19
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 32
+        "rebuilt": 0,
+        "total": 30
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 39
+        "total": 40
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 42
+        "total": 41
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -58,23 +42,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 144787652,
-      "offerDate": "2025-05-22",
-      "offerPrice": 56500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "507 BROAD ST, EAST CHICAGO in",
-      "city": "EAST CHICAGO",
-      "state": "in",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.660145,
-      "lng": -87.468197
-    },
     {
       "propertyId": null,
       "attomId": 202521163,

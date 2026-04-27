@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 9,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 19,
     "quarterlyStats": {
-      "2023-Q3": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 7
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 4
@@ -41,30 +25,21 @@
         "rebuilt": 0,
         "total": 2
       },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q4": {
         "rebuilt": 0,
         "total": 3
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 22380732,
-      "offerDate": "2023-07-15",
-      "offerPrice": 54000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "5227 BURTON ST, PHILADELPHIA pa",
-      "city": "PHILADELPHIA",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.0148811340332,
-      "lng": -75.070253
-    },
     {
       "propertyId": null,
       "attomId": 39562818,

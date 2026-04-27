@@ -16,33 +16,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 43,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 42,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 96,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 7
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 10
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 13
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 18
-      },
       "2025-Q1": {
-        "rebuilt": 1,
+        "rebuilt": 0,
         "total": 10
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 12
+        "total": 11
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -59,23 +43,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 10534755,
-      "offerDate": "2025-01-16",
-      "offerPrice": 95000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "9405 BOHNING DR, GARFIELD HEIGHTS oh",
-      "city": "GARFIELD HEIGHTS",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.432555,
-      "lng": -81.620175
-    },
     {
       "propertyId": null,
       "attomId": 170624547,

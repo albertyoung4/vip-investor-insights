@@ -14,7 +14,7 @@
   },
   "stats": {
     "totalTransactions2025": 2,
-    "rebuiltTransactions": 3,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
@@ -40,57 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "665a2d76-01b9-4223-ad33-339ea7ad8376",
-      "attomId": null,
-      "offerDate": "2024-08-18T05:00:00.000Z",
-      "offerPrice": 52000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "28c39623-fdf1-4e13-b00a-021d17ce365f",
-      "attomId": null,
-      "offerDate": "2024-08-18T05:00:00.000Z",
-      "offerPrice": 148000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0192b48c-ea7f-7319-9dad-db9c9ef5e400",
-      "attomId": 182455249,
-      "offerDate": "2024-10-29T05:00:00.000Z",
-      "offerPrice": 70000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "1739 GONDERT AVE, DAYTON OH",
-      "city": "DAYTON",
-      "state": "OH",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 940,
-      "lotSize": 0.0975895,
-      "lat": 39.7544974,
-      "lng": -84.1306206
-    },
     {
       "propertyId": null,
       "attomId": 183061566,

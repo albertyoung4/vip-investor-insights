@@ -15,25 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 7,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 17,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -49,27 +33,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 4
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 194540230,
-      "offerDate": "2024-06-25",
-      "offerPrice": 172500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1720 HIGHWAY 64 W, SHELBYVILLE tn",
-      "city": "SHELBYVILLE",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.4579696,
-      "lng": -86.5620769
-    },
     {
       "propertyId": null,
       "attomId": 333993856,

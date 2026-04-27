@@ -14,16 +14,16 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 6,
     "quarterlyStats": {
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -40,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 207921259,
-      "offerDate": "2024-07-24",
-      "offerPrice": 10000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "24693 N LAKEVIEW DR, SPLENDORA tx",
-      "city": "SPLENDORA",
-      "state": "tx",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 30.1984154,
-      "lng": -95.1830134
-    },
     {
       "propertyId": null,
       "attomId": 166386382,

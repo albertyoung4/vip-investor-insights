@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 18,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 32,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 4
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 4
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 5
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 296322334,
-      "offerDate": "2024-08-27",
-      "offerPrice": 13500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "316 W MILL ST, HARRODSBURG ky",
-      "city": "HARRODSBURG",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 37.752231,
-      "lng": -84.771375
-    },
     {
       "propertyId": null,
       "attomId": 295772343,

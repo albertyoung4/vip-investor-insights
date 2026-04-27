@@ -14,36 +14,20 @@
   },
   "stats": {
     "totalTransactions2025": 64,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 171,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 13
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 26
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 21
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 32
-      },
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 13
+        "total": 38
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 35
+        "total": 11
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 5
+        "total": 4
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 151690423,
-      "offerDate": "2024-09-13",
-      "offerPrice": 110000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "420 S XANTHUS AVE, TULSA ok",
-      "city": "TULSA",
-      "state": "ok",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.154404,
-      "lng": -95.96385
-    },
     {
       "propertyId": null,
       "attomId": 13195130,

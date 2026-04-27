@@ -14,13 +14,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 7,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 10,
     "quarterlyStats": {
+      "2025-Q1": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -37,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 218739317,
-      "offerDate": "2025-05-15",
-      "offerPrice": 50000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "199 OLNEY AVE, MARION oh",
-      "city": "MARION",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.586419,
-      "lng": -83.138377
-    },
     {
       "propertyId": null,
       "attomId": 9274138,

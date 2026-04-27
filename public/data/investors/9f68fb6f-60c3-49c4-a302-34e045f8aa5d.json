@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 10,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 18,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 2
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 4
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 202271449,
-      "offerDate": "2024-02-15",
-      "offerPrice": 67500.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "4504 TWIN LAKE CT, NORTHPORT al",
-      "city": "NORTHPORT",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.2506344,
-      "lng": -87.57528789999999
-    },
     {
       "propertyId": null,
       "attomId": 189015634,

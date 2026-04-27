@@ -15,28 +15,20 @@
   },
   "stats": {
     "totalTransactions2025": 2,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 12,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 3
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -49,23 +41,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 53656133,
-      "offerDate": "2024-11-04",
-      "offerPrice": 135000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "529 W GREEN ST, ALLENTOWN pa",
-      "city": "ALLENTOWN",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.613629,
-      "lng": -75.473934
-    },
     {
       "propertyId": null,
       "attomId": 179837507,

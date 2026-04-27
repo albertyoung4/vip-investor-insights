@@ -15,17 +15,9 @@
   },
   "stats": {
     "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 6,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -41,27 +33,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 188959792,
-      "offerDate": "2024-06-05",
-      "offerPrice": 6000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "188 WHITE OAK LN, CARYVILLE tn",
-      "city": "CARYVILLE",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.2762529,
-      "lng": -84.17656099999999
-    },
     {
       "propertyId": null,
       "attomId": 141485033,

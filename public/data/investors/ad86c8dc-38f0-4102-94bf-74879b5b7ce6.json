@@ -14,21 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 3,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 1,
-        "total": 1
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
@@ -36,6 +24,10 @@
       "2025-Q2": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -48,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 183454804,
-      "offerDate": "2024-08-06",
-      "offerPrice": 48000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "364 W DAYTON YELLOW SPRINGS RD, FAIRBORN oh",
-      "city": "FAIRBORN",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.796577,
-      "lng": -84.034679
-    },
     {
       "propertyId": null,
       "attomId": 47111806,

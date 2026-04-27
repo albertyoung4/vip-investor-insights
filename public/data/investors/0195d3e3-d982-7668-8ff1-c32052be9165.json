@@ -13,25 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 6,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 8,
     "quarterlyStats": {
-      "2024-Q1": {
+      "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 2
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 3
+        "rebuilt": 0,
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 296230875,
-      "offerDate": "2025-08-07",
-      "offerPrice": 220000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "119 BUCKWOOD DR, RICHMOND ky",
-      "city": "RICHMOND",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 37.745124,
-      "lng": -84.310572
-    },
     {
       "propertyId": null,
       "attomId": 214598108,

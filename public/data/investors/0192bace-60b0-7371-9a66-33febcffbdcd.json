@@ -14,21 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 22,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 4
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 4
@@ -40,27 +28,18 @@
       "2025-Q3": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 188504444,
-      "offerDate": "2024-10-23",
-      "offerPrice": 70000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "610 OLD HIGHWAY 27 RD, LANCING tn",
-      "city": "LANCING",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.124865,
-      "lng": -84.614095
-    },
     {
       "propertyId": null,
       "attomId": 335135824,

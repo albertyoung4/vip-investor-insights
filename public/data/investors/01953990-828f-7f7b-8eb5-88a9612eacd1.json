@@ -13,25 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 7,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 13,
     "quarterlyStats": {
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 2
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 5
+        "rebuilt": 0,
+        "total": 4
       },
       "2025-Q2": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2025-Q3": {
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -44,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 34322855,
-      "offerDate": "2025-03-27",
-      "offerPrice": 95000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "1909 OWEN ST, LOUISVILLE ky",
-      "city": "LOUISVILLE",
-      "state": "ky",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.26291,
-      "lng": -85.781279
-    },
     {
       "propertyId": null,
       "attomId": 144943602,

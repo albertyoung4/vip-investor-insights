@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 24,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 58,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q2": {
-        "rebuilt": 1,
-        "total": 12
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 8
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 9
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 5
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 211852923,
-      "offerDate": "2024-04-29",
-      "offerPrice": 117595.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "2006 LINDBERGH CT, NEW ALBANY in",
-      "city": "NEW ALBANY",
-      "state": "in",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.3011624,
-      "lng": -85.80655949999999
-    },
     {
       "propertyId": null,
       "attomId": 160256629,

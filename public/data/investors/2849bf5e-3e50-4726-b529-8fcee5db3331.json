@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 234,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 763,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 102
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 132
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 99
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 156
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 72
@@ -43,11 +27,11 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 60
+        "total": 61
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 44
+        "total": 43
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 1095162,
-      "offerDate": "2024-03-01",
-      "offerPrice": 63000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "507 MARLOWE AVE, MEMPHIS tn",
-      "city": "MEMPHIS",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.0434142,
-      "lng": -90.0810463
-    },
     {
       "propertyId": null,
       "attomId": 16870372,

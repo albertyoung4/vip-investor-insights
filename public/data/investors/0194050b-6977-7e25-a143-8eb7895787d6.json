@@ -13,29 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 4,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 13,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -44,27 +28,18 @@
       "2025-Q3": {
         "rebuilt": 0,
         "total": 1
+      },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 9612258,
-      "offerDate": "2025-03-09",
-      "offerPrice": 115000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "445 HIGH POINT RD, CLARKSVILLE tn",
-      "city": "CLARKSVILLE",
-      "state": "tn",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.546437,
-      "lng": -87.419319
-    },
     {
       "propertyId": null,
       "attomId": 8723747,

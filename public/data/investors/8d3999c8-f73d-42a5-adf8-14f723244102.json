@@ -13,33 +13,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 62,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 61,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 85,
     "quarterlyStats": {
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 12
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 6
-      },
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 18
+        "total": 19
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 14
+        "total": 13
       },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 17
+        "rebuilt": 0,
+        "total": 16
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 26908510,
-      "offerDate": "2025-08-27",
-      "offerPrice": 40000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "15100 LESURE ST, DETROIT mi",
-      "city": "DETROIT",
-      "state": "mi",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.40129,
-      "lng": -83.180887
-    },
     {
       "propertyId": null,
       "attomId": 21363287,

@@ -17,25 +17,21 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 6,
-    "rebuiltTransactions": 2,
+    "totalTransactions2025": 5,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 10,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q4": {
-        "rebuilt": 1,
-        "total": 2
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 1
       },
+      "2025-Q2": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2025-Q3": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -48,40 +44,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": "0198521c-e82a-71bb-827a-0eb706a91406",
-      "attomId": 22271024,
-      "offerDate": "2025-09-23T05:00:00.000Z",
-      "offerPrice": 73000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "3612 MACON RD",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.161377,
-      "lng": -89.940134
-    },
-    {
-      "propertyId": "0192b11d-4667-7422-a1fe-c3b6e32aa415",
-      "attomId": 144070406,
-      "offerDate": "2024-10-30T05:00:00.000Z",
-      "offerPrice": 21000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "515 N 16TH ST",
-      "city": "WEST MEMPHIS",
-      "state": "AR",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.151332,
-      "lng": -90.165288
-    },
     {
       "propertyId": null,
       "attomId": 198789239,

@@ -13,25 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 8,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 11,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 3
+        "rebuilt": 0,
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -44,27 +32,14 @@
       "2025-Q4": {
         "rebuilt": 0,
         "total": 2
+      },
+      "2026-Q1": {
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 221265846,
-      "offerDate": "2025-02-03",
-      "offerPrice": 25000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "267 MCGINNIS ST, SPRINGVILLE al",
-      "city": "SPRINGVILLE",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.783101,
-      "lng": -86.467406
-    },
     {
       "propertyId": null,
       "attomId": 231224913,

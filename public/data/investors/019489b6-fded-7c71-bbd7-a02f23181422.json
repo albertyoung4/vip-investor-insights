@@ -13,29 +13,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 7,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 17,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 3
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -45,6 +29,10 @@
         "rebuilt": 0,
         "total": 1
       },
+      "2025-Q4": {
+        "rebuilt": 0,
+        "total": 0
+      },
       "2026-Q1": {
         "rebuilt": 0,
         "total": 2
@@ -52,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 149823347,
-      "offerDate": "2025-01-24",
-      "offerPrice": 92000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "201 N STATE RD, OTISVILLE mi",
-      "city": "OTISVILLE",
-      "state": "mi",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 43.167255,
-      "lng": -83.52487
-    },
     {
       "propertyId": null,
       "attomId": 163154773,

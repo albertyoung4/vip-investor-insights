@@ -13,33 +13,17 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 18,
-    "rebuiltTransactions": 1,
+    "totalTransactions2025": 17,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 39,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 5
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 2
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 5
-      },
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 4
+        "total": 5
       },
       "2025-Q2": {
-        "rebuilt": 1,
-        "total": 4
+        "rebuilt": 0,
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 44175138,
-      "offerDate": "2025-05-01",
-      "offerPrice": 145000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "7649 MALVERN AVE, PHILADELPHIA pa",
-      "city": "PHILADELPHIA",
-      "state": "pa",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.972144,
-      "lng": -75.267354
-    },
     {
       "propertyId": null,
       "attomId": 1238085,

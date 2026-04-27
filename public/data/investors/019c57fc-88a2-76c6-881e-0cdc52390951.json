@@ -14,65 +14,32 @@
   },
   "stats": {
     "totalTransactions2025": 13,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 26,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 0,
-        "total": 1
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 4
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 3
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 4
+        "total": 5
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 5
+        "total": 4
       },
       "2025-Q4": {
         "rebuilt": 0,
         "total": 1
       },
       "2026-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       }
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 232470538,
-      "offerDate": "2026-02-13",
-      "offerPrice": 25000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "282 EVANS CIR, JASPER al",
-      "city": "JASPER",
-      "state": "al",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.824919,
-      "lng": -87.213713
-    },
     {
       "propertyId": null,
       "attomId": 216307638,

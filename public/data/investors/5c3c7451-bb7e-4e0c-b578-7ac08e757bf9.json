@@ -14,25 +14,9 @@
   },
   "stats": {
     "totalTransactions2025": 32,
-    "rebuiltTransactions": 1,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 57,
     "quarterlyStats": {
-      "2024-Q1": {
-        "rebuilt": 1,
-        "total": 3
-      },
-      "2024-Q2": {
-        "rebuilt": 0,
-        "total": 6
-      },
-      "2024-Q3": {
-        "rebuilt": 0,
-        "total": 4
-      },
-      "2024-Q4": {
-        "rebuilt": 0,
-        "total": 6
-      },
       "2025-Q1": {
         "rebuilt": 0,
         "total": 7
@@ -56,23 +40,6 @@
     }
   },
   "properties": [
-    {
-      "propertyId": null,
-      "attomId": 151533232,
-      "offerDate": "2024-03-18",
-      "offerPrice": 96000.0,
-      "status": "won",
-      "isRebuilt": true,
-      "address": "102 3RD ST, TRENTON oh",
-      "city": "TRENTON",
-      "state": "oh",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.4803839,
-      "lng": -84.4519504
-    },
     {
       "propertyId": null,
       "attomId": 182748229,

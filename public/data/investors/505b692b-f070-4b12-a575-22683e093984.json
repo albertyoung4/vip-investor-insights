@@ -14,13 +14,13 @@
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
-    "rebuiltTransactions": 5,
+    "totalTransactions2025": 0,
+    "rebuiltTransactions": 0,
     "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
-        "rebuilt": 1,
-        "total": 1
+        "rebuilt": 0,
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -40,91 +40,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": "7f0a80e4-80c1-4075-a4f8-dd04a79a276e",
-      "attomId": null,
-      "offerDate": "2024-04-23T05:00:00.000Z",
-      "offerPrice": 43500,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "1e6eb1bd-2134-41ae-baec-d5db70db75be",
-      "attomId": null,
-      "offerDate": "2024-05-09T05:00:00.000Z",
-      "offerPrice": 20000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "dc56deab-a20a-4b7b-ad9f-32650a9f6f5d",
-      "attomId": null,
-      "offerDate": "2024-07-10T05:00:00.000Z",
-      "offerPrice": 20000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": null,
-      "city": null,
-      "state": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": "0193b76f-5451-750f-8c80-839659e7c09d",
-      "attomId": 40825289,
-      "offerDate": "2024-12-23T06:00:00.000Z",
-      "offerPrice": 35000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "116 WHITE ST, FLORENCE AL",
-      "city": "FLORENCE",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 960,
-      "lotSize": 0.1399908,
-      "lat": 34.7953318,
-      "lng": -87.6880569
-    },
-    {
-      "propertyId": "01953fc3-8156-72ed-ae64-fa44e6504a1e",
-      "attomId": 186761926,
-      "offerDate": "2025-03-04T06:00:00.000Z",
-      "offerPrice": 60000,
-      "status": "done",
-      "isRebuilt": true,
-      "address": "175 RAINBOW CITY DR, FLORENCE AL",
-      "city": "FLORENCE",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 984,
-      "lotSize": 0.3443526,
-      "lat": 34.8254704,
-      "lng": -87.7553792
-    }
-  ]
+  "properties": []
 }
