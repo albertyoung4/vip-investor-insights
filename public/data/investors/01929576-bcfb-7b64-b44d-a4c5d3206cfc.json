@@ -8,12 +8,15 @@
     "totalBids": 18,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": []
+    "entities": [
+      "CLIFFORD JONES",
+      "LAURA AMBLER"
+    ]
   },
   "stats": {
-    "totalTransactions2025": 0,
+    "totalTransactions2025": 7,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 9,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -21,21 +24,184 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 0
+        "total": 4
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 2132870,
+      "offerDate": "2026-03-26T05:00:00.000Z",
+      "offerPrice": 7000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3502 BEATTY ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1042,
+      "lotSize": 0.1699954,
+      "lat": 35.148401,
+      "lng": -90.142337,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 160477581,
+      "offerDate": "2026-01-22T06:00:00.000Z",
+      "offerPrice": 245000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2896 HAMPTON MEADOW DR, TALLAHASSEE FL",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1231,
+      "lotSize": 0.0800046,
+      "lat": 30.421384,
+      "lng": -84.184408,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 193626850,
+      "offerDate": "2025-11-12T06:00:00.000Z",
+      "offerPrice": 1000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "318 S 15TH ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 514,
+      "lotSize": 0.1699954,
+      "lat": 35.142611,
+      "lng": -90.166118,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 1001840055,
+      "offerDate": "2025-10-08T05:00:00.000Z",
+      "offerPrice": 81000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1425 SW 161ST ST, OKLAHOMA CITY OK",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.1320018,
+      "lat": null,
+      "lng": null,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 189544182,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 27500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "206 N BOND ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1877,
+      "lotSize": 0.2,
+      "lat": 35.148518,
+      "lng": -90.195023,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 3547440,
+      "offerDate": "2025-08-19T05:00:00.000Z",
+      "offerPrice": 22500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "519 N 16TH ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1152,
+      "lotSize": 0.1899908,
+      "lat": 35.151706,
+      "lng": -90.165281,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 211326171,
+      "offerDate": "2025-08-04T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "501 W 2ND ST, ALBANY IN",
+      "city": "ALBANY",
+      "state": "IN",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1118,
+      "lotSize": 0.4,
+      "lat": 40.297531,
+      "lng": -85.242257,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 173007927,
+      "offerDate": "2025-07-09T05:00:00.000Z",
+      "offerPrice": 25000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3787 FISCHER ST, DETROIT MI",
+      "city": "DETROIT",
+      "state": "MI",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1296,
+      "lotSize": 0.1,
+      "lat": 42.370773,
+      "lng": -83.00038,
+      "entity": "CLIFFORD JONES"
+    },
+    {
+      "propertyId": null,
+      "attomId": 200138867,
+      "offerDate": "2025-06-26T05:00:00.000Z",
+      "offerPrice": 1100000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5010 PINE HILL RD, NASHVILLE TN",
+      "city": "NASHVILLE",
+      "state": "TN",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2521,
+      "lotSize": 5,
+      "lat": 36.049041,
+      "lng": -87.003448,
+      "entity": "LAURA AMBLER"
+    }
+  ]
 }

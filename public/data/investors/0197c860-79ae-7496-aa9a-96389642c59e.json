@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 1,
     "entities": [
-      "davids group 2 llc"
+      "DAVIDS GROUP 2 LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
+    "totalTransactions2025": 3,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 3,
+    "recorderTransactions": 4,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -27,7 +27,7 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 2
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -54,8 +54,8 @@
       "baths": 1,
       "sqft": 960,
       "lotSize": 0.1100092,
-      "lat": 40.1770881,
-      "lng": -85.4321572,
+      "lat": 40.179173,
+      "lng": -85.432226,
       "entity": "DAVIDS GROUP 2 LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 5,
       "sqft": 2928,
       "lotSize": 0.0640496,
-      "lat": 40.1934871,
-      "lng": -85.3300125,
+      "lat": 40.192532,
+      "lng": -85.390103,
       "entity": "DAVIDS GROUP 2 LLC"
     },
     {
@@ -90,8 +90,26 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.0650826,
-      "lat": 40.1929901,
-      "lng": -85.3997322,
+      "lat": 40.192536,
+      "lng": -85.390328,
+      "entity": "DAVIDS GROUP 2 LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 213900305,
+      "offerDate": "2025-08-05T05:00:00.000Z",
+      "offerPrice": 2500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3024 C AVE, NEW CASTLE IN",
+      "city": "NEW CASTLE",
+      "state": "IN",
+      "beds": 4,
+      "baths": 1,
+      "sqft": 1728,
+      "lotSize": 0.242011,
+      "lat": 39.922524,
+      "lng": -85.347404,
       "entity": "DAVIDS GROUP 2 LLC"
     }
   ]

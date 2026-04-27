@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "ac wallace holdings llc"
+      "AC WALLACE HOLDINGS LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 6,
+    "totalTransactions2025": 8,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "recorderTransactions": 8,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -27,7 +27,7 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 3
+        "total": 5
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -54,8 +54,8 @@
       "baths": 1,
       "sqft": 0,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 36.678653,
+      "lng": -77.544863,
       "entity": "AC WALLACE HOLDINGS LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 1,
       "sqft": 1020,
       "lotSize": 0.1086777,
-      "lat": 39.8468099,
-      "lng": -88.8852163,
+      "lat": 39.84787,
+      "lng": -88.974872,
       "entity": "AC WALLACE HOLDINGS LLC"
     },
     {
@@ -90,8 +90,26 @@
       "baths": 1,
       "sqft": 945,
       "lotSize": 0.067034,
-      "lat": 39.8608268,
-      "lng": -88.9647402,
+      "lat": 39.86103,
+      "lng": -88.962073,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293327235,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 12000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "842 N MONROE ST, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 652,
+      "lotSize": 0.1579431,
+      "lat": 39.849215,
+      "lng": -88.963235,
       "entity": "AC WALLACE HOLDINGS LLC"
     },
     {
@@ -108,8 +126,26 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.1285583,
-      "lat": 39.8478242,
-      "lng": -88.9215251,
+      "lat": 39.842992,
+      "lng": -88.920672,
+      "entity": "AC WALLACE HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 293335476,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 26500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2330 E JOHNS AVE, DECATUR IL",
+      "city": "DECATUR",
+      "state": "IL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 0,
+      "lotSize": 0.0918274,
+      "lat": 39.839731,
+      "lng": -88.923349,
       "entity": "AC WALLACE HOLDINGS LLC"
     },
     {
@@ -126,8 +162,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.1199954,
-      "lat": 39.7313115,
-      "lng": -90.2295475,
+      "lat": 39.731534,
+      "lng": -90.237206,
       "entity": "AC WALLACE HOLDINGS LLC"
     },
     {
@@ -144,8 +180,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.137741,
-      "lat": 39.8034143,
-      "lng": -88.9817821,
+      "lat": 39.858719,
+      "lng": -88.935525,
       "entity": "AC WALLACE HOLDINGS LLC"
     }
   ]

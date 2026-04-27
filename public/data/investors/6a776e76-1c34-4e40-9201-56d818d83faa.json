@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "twin willows properties llc"
+      "TWIN WILLOWS PROPERTIES LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 2,
+    "totalTransactions2025": 3,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 3,
+    "recorderTransactions": 4,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -54,8 +54,8 @@
       "baths": 1,
       "sqft": 732,
       "lotSize": 0.1542929,
-      "lat": 38.0371381,
-      "lng": -84.4740586,
+      "lat": 38.037192,
+      "lng": -84.473952,
       "entity": "TWIN WILLOWS PROPERTIES LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 2,
       "sqft": 1483,
       "lotSize": 0.1791093,
-      "lat": 38.0599031,
-      "lng": -84.4583149,
+      "lat": 38.059868,
+      "lng": -84.458378,
       "entity": "TWIN WILLOWS PROPERTIES LLC"
     },
     {
@@ -90,8 +90,26 @@
       "baths": 1,
       "sqft": 874,
       "lotSize": 0.1514922,
-      "lat": 38.060682,
-      "lng": -84.5169965,
+      "lat": 38.060704,
+      "lng": -84.517034,
+      "entity": "TWIN WILLOWS PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 212150400,
+      "offerDate": "2025-03-26T05:00:00.000Z",
+      "offerPrice": 90000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "306 THOMPSON RD, LEXINGTON KY",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1100,
+      "lotSize": 0.1719927,
+      "lat": 38.058524,
+      "lng": -84.517678,
       "entity": "TWIN WILLOWS PROPERTIES LLC"
     }
   ]

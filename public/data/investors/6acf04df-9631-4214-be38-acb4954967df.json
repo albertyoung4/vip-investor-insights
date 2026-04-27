@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "COPELAND HOLDINGS LLC"
+      "KEITH FOLLESE"
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 4,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,11 +23,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,74 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 149089677,
-      "offerDate": "2025-08-19",
-      "offerPrice": 760000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "236 LITTLE CANAL DR, SANTA ROSA BEACH FL",
-      "city": "SANTA ROSA BEACH",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 30.37434,
-      "lng": -86.15762
-    },
-    {
-      "propertyId": null,
-      "attomId": 331604801,
-      "offerDate": "2025-04-11",
-      "offerPrice": 197000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "108 LAKESIDE PARK DR, HENDERSONVILLE TN",
-      "city": "HENDERSONVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.26188278198242,
-      "lng": -86.618093
-    },
-    {
-      "propertyId": null,
-      "attomId": 149910303,
-      "offerDate": "2025-04-11",
-      "offerPrice": 310000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "184 VULCO DR, HENDERSONVILLE TN",
-      "city": "HENDERSONVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.262065,
-      "lng": -86.620891
-    },
-    {
-      "propertyId": null,
-      "attomId": 331604802,
-      "offerDate": "2025-04-11",
-      "offerPrice": 197000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "108 LAKESIDE PARK DR, HENDERSONVILLE TN",
-      "city": "HENDERSONVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.26152801513672,
-      "lng": -86.618089
-    }
-  ]
+  "properties": []
 }

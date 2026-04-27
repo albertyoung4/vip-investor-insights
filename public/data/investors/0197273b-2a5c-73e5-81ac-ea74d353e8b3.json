@@ -9,14 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "CARL WOERNER",
-      "SCOTT L PLANCK"
+      "ANGIE QUEBMAN"
     ]
   },
   "stats": {
-    "totalTransactions2025": 7,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -24,11 +23,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 5
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -40,142 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 183483261,
-      "offerDate": "2025-09-29",
-      "offerPrice": 360000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2236 QUATMAN AVE, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.174689,
-      "lng": -84.450425
-    },
-    {
-      "propertyId": null,
-      "attomId": 183483262,
-      "offerDate": "2025-09-29",
-      "offerPrice": 360000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2236 QUATMAN AVE, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": null,
-      "attomId": 242372140,
-      "offerDate": "2025-04-17",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1500 MANCHESTER AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": null,
-      "attomId": 182057701,
-      "offerDate": "2025-04-17",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1504 MANCHESTER AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.515416,
-      "lng": -84.397008
-    },
-    {
-      "propertyId": null,
-      "attomId": 205020494,
-      "offerDate": "2025-04-17",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1500 MANCHESTER AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": null,
-      "attomId": 26078271,
-      "offerDate": "2025-04-17",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1500 MANCHESTER AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.515452,
-      "lng": -84.397146
-    },
-    {
-      "propertyId": null,
-      "attomId": 45678233,
-      "offerDate": "2025-04-17",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1510 MANCHESTER AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.515345,
-      "lng": -84.396732
-    },
-    {
-      "propertyId": null,
-      "attomId": 33076165,
-      "offerDate": "2024-03-11",
-      "offerPrice": 50000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "7721 HAMILTON AVE, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.234406,
-      "lng": -84.548395
-    }
-  ]
+  "properties": []
 }

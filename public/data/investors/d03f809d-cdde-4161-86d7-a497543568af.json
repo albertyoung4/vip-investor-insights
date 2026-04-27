@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "barrel creek investments llp"
+      "BARREL CREEK INVESTMENTS LLP"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.1262626,
-      "lat": 38.205559,
-      "lng": -84.8595689,
+      "lat": 38.206068,
+      "lng": -84.859783,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -72,14 +72,9 @@
       "baths": 2,
       "sqft": 1422,
       "lotSize": 0,
-      "lat": 37.5869179,
-      "lng": -84.8006924,
-      "entity": "BARREL CREEK INVESTMENTS LLP",
-      "omrMatch": {
-        "posterName": "Andy Streamline",
-        "askingPrice": 185000,
-        "postedAt": "2026-04-02T20:29:49.175553+00:00"
-      }
+      "lat": 37.587917,
+      "lng": -84.801095,
+      "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
       "propertyId": null,
@@ -95,14 +90,9 @@
       "baths": 1,
       "sqft": 1103,
       "lotSize": 0.2100092,
-      "lat": 37.6347776,
-      "lng": -84.7691434,
-      "entity": "BARREL CREEK INVESTMENTS LLP",
-      "omrMatch": {
-        "posterName": "Andy Unknown",
-        "askingPrice": 92000,
-        "postedAt": "2026-04-02T20:29:39.711038+00:00"
-      }
+      "lat": 37.650603,
+      "lng": -84.775499,
+      "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
       "propertyId": null,
@@ -118,8 +108,8 @@
       "baths": 2,
       "sqft": 1122,
       "lotSize": 0.0437098,
-      "lat": 38.0366592,
-      "lng": -84.5101414,
+      "lat": 37.982945,
+      "lng": -84.506418,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -136,8 +126,8 @@
       "baths": null,
       "sqft": 1052,
       "lotSize": 0,
-      "lat": 38.005973,
-      "lng": -84.5700575,
+      "lat": 38.005841,
+      "lng": -84.569915,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -154,8 +144,8 @@
       "baths": 1,
       "sqft": 816,
       "lotSize": 0.2204086,
-      "lat": 38.0542194,
-      "lng": -84.4734554,
+      "lat": 38.054157,
+      "lng": -84.473431,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -172,8 +162,8 @@
       "baths": null,
       "sqft": 1025,
       "lotSize": 0,
-      "lat": 37.8654391,
-      "lng": -84.5900638,
+      "lat": 37.86556,
+      "lng": -84.589515,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -190,8 +180,8 @@
       "baths": 1,
       "sqft": 1064,
       "lotSize": 0.3300046,
-      "lat": 37.5834102,
-      "lng": -84.7791148,
+      "lat": 37.581307,
+      "lng": -84.783619,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -208,8 +198,8 @@
       "baths": 1,
       "sqft": 986,
       "lotSize": 0.3199954,
-      "lat": 36.7346215,
-      "lng": -86.5780496,
+      "lat": 37.579855,
+      "lng": -84.780137,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -226,8 +216,8 @@
       "baths": 1,
       "sqft": 1274,
       "lotSize": 0.3443526,
-      "lat": 37.7685111,
-      "lng": -84.8438099,
+      "lat": 37.768393,
+      "lng": -84.843314,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -244,8 +234,8 @@
       "baths": 1,
       "sqft": 832,
       "lotSize": 0,
-      "lat": 37.8821881,
-      "lng": -84.5605072,
+      "lat": 37.882531,
+      "lng": -84.566002,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -262,8 +252,8 @@
       "baths": 1,
       "sqft": 1043,
       "lotSize": 0,
-      "lat": 38.0364526,
-      "lng": -84.8847551,
+      "lat": 38.03484,
+      "lng": -84.889939,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -280,8 +270,8 @@
       "baths": 1,
       "sqft": 1216,
       "lotSize": 0.1,
-      "lat": 37.64635,
-      "lng": -84.7733614,
+      "lat": 37.650719,
+      "lng": -84.774215,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -298,8 +288,8 @@
       "baths": 2,
       "sqft": 1147,
       "lotSize": 0,
-      "lat": 37.6285531,
-      "lng": -84.7634584,
+      "lat": 37.62879,
+      "lng": -84.77187,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -316,8 +306,8 @@
       "baths": 2,
       "sqft": 993,
       "lotSize": 0.1699954,
-      "lat": null,
-      "lng": null,
+      "lat": 37.645971,
+      "lng": -84.757555,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -334,8 +324,8 @@
       "baths": 1,
       "sqft": 836,
       "lotSize": 0.2100092,
-      "lat": 37.63115,
-      "lng": -84.7703338,
+      "lat": 37.630835,
+      "lng": -84.770511,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     },
     {
@@ -352,8 +342,8 @@
       "baths": 1,
       "sqft": 1040,
       "lotSize": 0,
-      "lat": 38.2158978,
-      "lng": -84.5557062,
+      "lat": 38.217329,
+      "lng": -84.553815,
       "entity": "BARREL CREEK INVESTMENTS LLP"
     }
   ]

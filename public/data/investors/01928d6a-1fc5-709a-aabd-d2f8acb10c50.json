@@ -9,14 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "GM ORTIZ LLC",
-      "M&J ORTIZ LLC"
+      "M & J ORTIZ LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 12,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -24,15 +23,15 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 5
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,210 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 3334203,
-      "offerDate": "2025-07-29",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1219 CALUMET AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.50364,
-      "lng": -84.40242
-    },
-    {
-      "propertyId": null,
-      "attomId": 16984297,
-      "offerDate": "2025-07-21",
-      "offerPrice": 72500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1616 MEADOW AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.490887,
-      "lng": -84.398772
-    },
-    {
-      "propertyId": null,
-      "attomId": 23102384,
-      "offerDate": "2025-07-03",
-      "offerPrice": 88000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "701 15TH AVE, MIDDLETOWN OH",
-      "city": "MIDDLETOWN",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.501095,
-      "lng": -84.414263
-    },
-    {
-      "propertyId": null,
-      "attomId": 329966116,
-      "offerDate": "2025-12-19",
-      "offerPrice": 810000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "47 ALTA CASCATA PL, HENDERSON NV",
-      "city": "HENDERSON",
-      "state": "NV",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.086903,
-      "lng": -114.92497
-    },
-    {
-      "propertyId": null,
-      "attomId": 218172296,
-      "offerDate": "2025-10-16",
-      "offerPrice": 1220000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1157 WESSINGTON MANOR LN, FORT MILL SC",
-      "city": "FORT MILL",
-      "state": "SC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.037205,
-      "lng": -80.905706
-    },
-    {
-      "propertyId": null,
-      "attomId": 1004194500,
-      "offerDate": "2025-10-09",
-      "offerPrice": 320000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "329 LANTANNA AVE, LEXINGTON NC",
-      "city": "LEXINGTON",
-      "state": "NC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": null,
-      "attomId": 143247106,
-      "offerDate": "2025-08-11",
-      "offerPrice": 1380000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "278 ANTIGUA DR, COCOA BEACH FL",
-      "city": "COCOA BEACH",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 28.33778,
-      "lng": -80.616127
-    },
-    {
-      "propertyId": null,
-      "attomId": 191279440,
-      "offerDate": "2025-07-24",
-      "offerPrice": 650000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "32 HIDDEN COVE RD, RAYMOND ME",
-      "city": "RAYMOND",
-      "state": "ME",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 43.883587,
-      "lng": -70.512081
-    },
-    {
-      "propertyId": null,
-      "attomId": 209097211,
-      "offerDate": "2025-04-02",
-      "offerPrice": 439900,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "452 MISTY OAKS RUN, CASSELBERRY FL",
-      "city": "CASSELBERRY",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 28.679734,
-      "lng": -81.343477
-    },
-    {
-      "propertyId": null,
-      "attomId": 1003851894,
-      "offerDate": "2024-11-06",
-      "offerPrice": 571000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "205 KITTY BRANCH WAY, SMITHFIELD NC",
-      "city": "SMITHFIELD",
-      "state": "NC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": null,
-      "attomId": 229398187,
-      "offerDate": "2024-10-31",
-      "offerPrice": 192000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "317 BINGHAM AVE, OLANTA SC",
-      "city": "OLANTA",
-      "state": "SC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.931595,
-      "lng": -79.934042
-    },
-    {
-      "propertyId": null,
-      "attomId": 48623172,
-      "offerDate": "2024-09-30",
-      "offerPrice": 999000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "353 LINCOLN AVE, GLEN ROCK NJ",
-      "city": "GLEN ROCK",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.971666,
-      "lng": -74.136279
-    }
-  ]
+  "properties": []
 }

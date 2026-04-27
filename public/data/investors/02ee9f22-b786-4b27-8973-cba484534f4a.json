@@ -8,12 +8,15 @@
     "totalBids": 6,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": []
+    "entities": [
+      "JASON DAVID HOSKINS",
+      "JASON HOSKINS"
+    ]
   },
   "stats": {
-    "totalTransactions2025": 0,
+    "totalTransactions2025": 1,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -21,7 +24,7 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -33,9 +36,46 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 4844766,
+      "offerDate": "2026-02-19T06:00:00.000Z",
+      "offerPrice": 370000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3621 W EL CAMPO GRANDE AVE, NORTH LAS VEGAS NV",
+      "city": "NORTH LAS VEGAS",
+      "state": "NV",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1528,
+      "lotSize": 0.1600092,
+      "lat": 36.26494,
+      "lng": -115.188603,
+      "entity": "JASON HOSKINS"
+    },
+    {
+      "propertyId": null,
+      "attomId": 333738149,
+      "offerDate": "2025-05-27T05:00:00.000Z",
+      "offerPrice": 420000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5246 PARKHURST XING, MCCORDSVILLE IN",
+      "city": "MCCORDSVILLE",
+      "state": "IN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 2032,
+      "lotSize": 0.2010101,
+      "lat": 39.924038,
+      "lng": -85.902747,
+      "entity": "JASON HOSKINS"
+    }
+  ]
 }

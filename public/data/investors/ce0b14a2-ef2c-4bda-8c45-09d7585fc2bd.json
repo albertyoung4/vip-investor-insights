@@ -8,18 +8,16 @@
     "totalBids": 1,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "SHEFFIELD PROPERTIES INC"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -27,120 +25,17 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 166386382,
-      "offerDate": "2026-01-20",
-      "offerPrice": 68000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "812 E LIMESTONE AVE, MART TX",
-      "city": "MART",
-      "state": "TX",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 31.543281,
-      "lng": -96.827734
-    },
-    {
-      "propertyId": null,
-      "attomId": 36641756,
-      "offerDate": "2025-12-11",
-      "offerPrice": 97080,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "103 WHEELER DR, POTTSBORO TX",
-      "city": "POTTSBORO",
-      "state": "TX",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.885743,
-      "lng": -96.643938
-    },
-    {
-      "propertyId": null,
-      "attomId": 33429810,
-      "offerDate": "2025-11-20",
-      "offerPrice": 64722,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "901 DOYLE ST, LONGVIEW TX",
-      "city": "LONGVIEW",
-      "state": "TX",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.512071,
-      "lng": -94.707207
-    },
-    {
-      "propertyId": null,
-      "attomId": 335221490,
-      "offerDate": "2025-11-17",
-      "offerPrice": 111010,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "149 VIRIDIAN VW, PLEASANTON TX",
-      "city": "PLEASANTON",
-      "state": "TX",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 29.073794,
-      "lng": -98.424534
-    },
-    {
-      "propertyId": null,
-      "attomId": 47797329,
-      "offerDate": "2025-08-06",
-      "offerPrice": 122000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "904 W 18TH ST, GEORGETOWN TX",
-      "city": "GEORGETOWN",
-      "state": "TX",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 30.628369,
-      "lng": -97.684717
-    },
-    {
-      "propertyId": null,
-      "attomId": 166094940,
-      "offerDate": "2025-01-17",
-      "offerPrice": 52000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "402 E YOUNG ST, LONGVIEW TX",
-      "city": "LONGVIEW",
-      "state": "TX",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.484432,
-      "lng": -94.729779
-    }
-  ]
+  "properties": []
 }

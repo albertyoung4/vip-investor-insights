@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "passive sunshine 1 llc"
+      "PASSIVE SUNSHINE 1 LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 11,
+    "totalTransactions2025": 12,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 11,
+    "recorderTransactions": 12,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 6
+        "total": 7
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -54,8 +54,8 @@
       "baths": 2,
       "sqft": 1300,
       "lotSize": 0.1719927,
-      "lat": 35.086447,
-      "lng": -89.9694576,
+      "lat": 35.086044,
+      "lng": -89.969751,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 2,
       "sqft": 1300,
       "lotSize": 0.2309917,
-      "lat": null,
-      "lng": null,
+      "lat": 35.025509,
+      "lng": -90.094501,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -90,8 +90,8 @@
       "baths": 2,
       "sqft": 1300,
       "lotSize": 0.2370064,
-      "lat": null,
-      "lng": null,
+      "lat": 34.996572,
+      "lng": -90.008763,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -108,8 +108,8 @@
       "baths": 1,
       "sqft": 1440,
       "lotSize": 0.1609963,
-      "lat": 35.0846037,
-      "lng": -89.9414506,
+      "lat": 35.085262,
+      "lng": -89.941354,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -126,8 +126,8 @@
       "baths": 2,
       "sqft": 1300,
       "lotSize": 0.1789945,
-      "lat": 35.1388177,
-      "lng": -89.9565942,
+      "lat": 35.13881,
+      "lng": -89.956569,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -144,8 +144,8 @@
       "baths": 2,
       "sqft": 1956,
       "lotSize": 0.2660009,
-      "lat": 35.0415726,
-      "lng": -90.0219282,
+      "lat": 35.041815,
+      "lng": -90.017256,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -162,8 +162,26 @@
       "baths": 1,
       "sqft": 810,
       "lotSize": 0.1789945,
-      "lat": 35.1021235,
-      "lng": -89.9861174,
+      "lat": 35.098603,
+      "lng": -89.968774,
+      "entity": "PASSIVE SUNSHINE 1 LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 21861562,
+      "offerDate": "2025-02-03T06:00:00.000Z",
+      "offerPrice": 35000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "802 BOSTON ST, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1080,
+      "lotSize": 0.0910009,
+      "lat": 35.11022,
+      "lng": -89.97346,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -180,8 +198,8 @@
       "baths": 2,
       "sqft": 1270,
       "lotSize": 0.2850092,
-      "lat": 35.1610973,
-      "lng": -89.9544061,
+      "lat": 35.160287,
+      "lng": -89.95407,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -198,8 +216,8 @@
       "baths": 1,
       "sqft": 1134,
       "lotSize": 0.182989,
-      "lat": 35.1094409,
-      "lng": -89.9756322,
+      "lat": 35.110161,
+      "lng": -89.975049,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -216,8 +234,8 @@
       "baths": 1,
       "sqft": 949,
       "lotSize": 0.1489899,
-      "lat": 35.0379026,
-      "lng": -90.1056668,
+      "lat": 35.037829,
+      "lng": -90.105391,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     },
     {
@@ -234,8 +252,8 @@
       "baths": 2,
       "sqft": 1184,
       "lotSize": 0.1710055,
-      "lat": null,
-      "lng": null,
+      "lat": 35.102707,
+      "lng": -89.969204,
       "entity": "PASSIVE SUNSHINE 1 LLC"
     }
   ]

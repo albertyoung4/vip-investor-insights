@@ -9,22 +9,22 @@
     "ytdWon": 0,
     "ytdBids": 1,
     "entities": [
-      "michael davis pendergrast",
-      "michael pendergrast"
+      "MICHAEL DAVIS PENDERGRAST",
+      "MICHAEL PENDERGRAST"
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
+    "totalTransactions2025": 7,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 7,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 0
+        "total": 3
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -32,7 +32,7 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,5 +40,132 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 290433989,
+      "offerDate": "2025-10-17T05:00:00.000Z",
+      "offerPrice": 42500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1124 SHIRLEY DR, TUSCUMBIA AL",
+      "city": "TUSCUMBIA",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1015,
+      "lotSize": 0.1399908,
+      "lat": 34.727354,
+      "lng": -87.685722,
+      "entity": "MICHAEL DAVIS PENDERGRAST"
+    },
+    {
+      "propertyId": null,
+      "attomId": 290433982,
+      "offerDate": "2025-10-17T05:00:00.000Z",
+      "offerPrice": 42500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1110 SHIRLEY DR, TUSCUMBIA AL",
+      "city": "TUSCUMBIA",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 984,
+      "lotSize": 0.1399908,
+      "lat": 34.727371,
+      "lng": -87.687087,
+      "entity": "MICHAEL DAVIS PENDERGRAST"
+    },
+    {
+      "propertyId": null,
+      "attomId": 227283922,
+      "offerDate": "2025-05-27T05:00:00.000Z",
+      "offerPrice": 145000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "12040 COUNTY ROAD 47, FLORENCE AL",
+      "city": "FLORENCE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 2656,
+      "lotSize": 6.5999999,
+      "lat": 34.938448,
+      "lng": -87.533565,
+      "entity": "MICHAEL DAVIS PENDERGRAST"
+    },
+    {
+      "propertyId": null,
+      "attomId": 186761926,
+      "offerDate": "2025-05-21T05:00:00.000Z",
+      "offerPrice": 45000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "175 RAINBOW CITY DR, FLORENCE AL",
+      "city": "FLORENCE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 984,
+      "lotSize": 0.3443526,
+      "lat": 34.825453,
+      "lng": -87.755532,
+      "entity": "MICHAEL DAVIS PENDERGRAST"
+    },
+    {
+      "propertyId": null,
+      "attomId": 186761934,
+      "offerDate": "2025-04-16T05:00:00.000Z",
+      "offerPrice": 30000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "708 PARK ST, FLORENCE AL",
+      "city": "FLORENCE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1233,
+      "lotSize": 0.2100092,
+      "lat": 34.797306,
+      "lng": -87.663662,
+      "entity": "MICHAEL PENDERGRAST"
+    },
+    {
+      "propertyId": null,
+      "attomId": 336072300,
+      "offerDate": "2025-03-03T06:00:00.000Z",
+      "offerPrice": 450000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3115 BOOTKNIFE DR, BELL BUCKLE TN",
+      "city": "BELL BUCKLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1991,
+      "lotSize": 0,
+      "lat": 35.660962,
+      "lng": -86.473424,
+      "entity": "MICHAEL PENDERGRAST"
+    },
+    {
+      "propertyId": null,
+      "attomId": 40825289,
+      "offerDate": "2025-01-09T06:00:00.000Z",
+      "offerPrice": 20500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "116 WHITE ST, FLORENCE AL",
+      "city": "FLORENCE",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 960,
+      "lotSize": 0.1399908,
+      "lat": 34.795387,
+      "lng": -87.688067,
+      "entity": "MICHAEL PENDERGRAST"
+    }
+  ]
 }

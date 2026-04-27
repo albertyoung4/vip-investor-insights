@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 1,
     "entities": [
-      "rrr investment group llc"
+      "RRR INVESTMENT GROUP LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 8,
+    "totalTransactions2025": 10,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "recorderTransactions": 11,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 3
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -35,11 +35,29 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       }
     }
   },
   "properties": [
+    {
+      "propertyId": null,
+      "attomId": 195567042,
+      "offerDate": "2026-01-12T06:00:00.000Z",
+      "offerPrice": 44000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2221 SHORT 14TH ST N, BESSEMER AL",
+      "city": "BESSEMER",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1075,
+      "lotSize": 0.2086318,
+      "lat": 33.411236,
+      "lng": -86.983217,
+      "entity": "RRR INVESTMENT GROUP LLC"
+    },
     {
       "propertyId": null,
       "attomId": 201804395,
@@ -54,8 +72,8 @@
       "baths": 1,
       "sqft": 818,
       "lotSize": 0.1101928,
-      "lat": null,
-      "lng": null,
+      "lat": 33.455665,
+      "lng": -86.873144,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -72,8 +90,8 @@
       "baths": 1,
       "sqft": 1449,
       "lotSize": 0.4,
-      "lat": 33.7677809,
-      "lng": -87.0377026,
+      "lat": 33.76743,
+      "lng": -87.037657,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -90,8 +108,8 @@
       "baths": 1,
       "sqft": 848,
       "lotSize": 0.1997245,
-      "lat": 33.522454,
-      "lng": -86.8075919,
+      "lat": 33.481921,
+      "lng": -86.872976,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -108,8 +126,8 @@
       "baths": 2,
       "sqft": 1993,
       "lotSize": 1.1,
-      "lat": null,
-      "lng": null,
+      "lat": 33.978849,
+      "lng": -87.393383,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -126,8 +144,8 @@
       "baths": 1,
       "sqft": 1792,
       "lotSize": 0.3,
-      "lat": 33.7333324,
-      "lng": -87.2724509,
+      "lat": 33.734253,
+      "lng": -87.27065,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -144,8 +162,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.7346189,
-      "lat": 28.5366015,
-      "lng": -81.192321,
+      "lat": 28.425673,
+      "lng": -81.381146,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -162,8 +180,26 @@
       "baths": 1,
       "sqft": 1396,
       "lotSize": 0.4924242,
-      "lat": 33.7334418,
-      "lng": -87.2800029,
+      "lat": 33.735615,
+      "lng": -87.280668,
+      "entity": "RRR INVESTMENT GROUP LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 198021466,
+      "offerDate": "2025-03-03T06:00:00.000Z",
+      "offerPrice": 26000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1840 PRINCETON CT SW, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1636,
+      "lotSize": 0.1538108,
+      "lat": 33.487795,
+      "lng": -86.867574,
       "entity": "RRR INVESTMENT GROUP LLC"
     },
     {
@@ -180,8 +216,26 @@
       "baths": 1,
       "sqft": 1117,
       "lotSize": 0.152663,
-      "lat": 33.4785547,
-      "lng": -86.9133737,
+      "lat": 33.478353,
+      "lng": -86.914489,
+      "entity": "RRR INVESTMENT GROUP LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 30346690,
+      "offerDate": "2025-01-21T06:00:00.000Z",
+      "offerPrice": 17000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "311 NORWOOD AVE, BESSEMER AL",
+      "city": "BESSEMER",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1312,
+      "lotSize": 0.1606979,
+      "lat": 33.381452,
+      "lng": -86.962124,
       "entity": "RRR INVESTMENT GROUP LLC"
     }
   ]

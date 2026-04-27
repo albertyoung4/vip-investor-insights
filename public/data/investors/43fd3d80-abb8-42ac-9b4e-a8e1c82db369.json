@@ -8,14 +8,12 @@
     "totalBids": 10,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "QUORSTONE LLC"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 5,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,15 +21,15 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -39,91 +37,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 34318364,
-      "offerDate": "2025-10-09",
-      "offerPrice": 85000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "4707 MARCY AVE, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.104971,
-      "lng": -85.85002
-    },
-    {
-      "propertyId": null,
-      "attomId": 34318283,
-      "offerDate": "2025-10-09",
-      "offerPrice": 85000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "4705 MARCY AVE, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.104875,
-      "lng": -85.849806
-    },
-    {
-      "propertyId": null,
-      "attomId": 34315947,
-      "offerDate": "2025-09-02",
-      "offerPrice": 133000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "6109 PRINCESS WAY, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.132364,
-      "lng": -85.647192
-    },
-    {
-      "propertyId": null,
-      "attomId": 149604255,
-      "offerDate": "2025-05-14",
-      "offerPrice": 75000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "4503 BONITA CT, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.174412,
-      "lng": -85.676847
-    },
-    {
-      "propertyId": null,
-      "attomId": 25168954,
-      "offerDate": "2025-05-14",
-      "offerPrice": 100000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5804 EMMALEE DR, LOUISVILLE KY",
-      "city": "LOUISVILLE",
-      "state": "KY",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.164711,
-      "lng": -85.689303
-    }
-  ]
+  "properties": []
 }

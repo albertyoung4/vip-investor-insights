@@ -8,26 +8,24 @@
     "totalBids": 1,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "YANG TAO"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 6,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 13,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -35,231 +33,9 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 24934561,
-      "offerDate": "2026-02-03",
-      "offerPrice": 1120000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2503 REGENCY LAKE DR, MARIETTA GA",
-      "city": "MARIETTA",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.00958,
-      "lng": -84.432209
-    },
-    {
-      "propertyId": null,
-      "attomId": 42500731,
-      "offerDate": "2025-07-28",
-      "offerPrice": 580000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2683 BLOOMFIELD DR, LISLE IL",
-      "city": "LISLE",
-      "state": "IL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.76697,
-      "lng": -88.102932
-    },
-    {
-      "propertyId": null,
-      "attomId": 197622667,
-      "offerDate": "2025-07-07",
-      "offerPrice": 1230000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "6 HUTCHINS WAY, WESTFORD MA",
-      "city": "WESTFORD",
-      "state": "MA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.569931,
-      "lng": -71.456439
-    },
-    {
-      "propertyId": null,
-      "attomId": 23340782,
-      "offerDate": "2025-06-23",
-      "offerPrice": 1935000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "12 DOVER, TRABUCO CANYON CA",
-      "city": "TRABUCO CANYON",
-      "state": "CA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.629853,
-      "lng": -117.569753
-    },
-    {
-      "propertyId": null,
-      "attomId": 26756554,
-      "offerDate": "2025-05-27",
-      "offerPrice": 1070000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1124 VIA GRANADA, LIVERMORE CA",
-      "city": "LIVERMORE",
-      "state": "CA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 37.668751,
-      "lng": -121.78074
-    },
-    {
-      "propertyId": null,
-      "attomId": 8566064,
-      "offerDate": "2025-02-05",
-      "offerPrice": 1199000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "7116 CORAL GABLES CIR, SAN JOSE CA",
-      "city": "SAN JOSE",
-      "state": "CA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 37.224388,
-      "lng": -121.776961
-    },
-    {
-      "propertyId": null,
-      "attomId": 214759316,
-      "offerDate": "2025-01-16",
-      "offerPrice": 265000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "523 DELONE AVE, MC SHERRYSTOWN PA",
-      "city": "MC SHERRYSTOWN",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.804384,
-      "lng": -77.013337
-    },
-    {
-      "propertyId": null,
-      "attomId": 334767026,
-      "offerDate": "2024-12-23",
-      "offerPrice": 560000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5157 ROWEL ST, HEMET CA",
-      "city": "HEMET",
-      "state": "CA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.716876,
-      "lng": -117.027505
-    },
-    {
-      "propertyId": null,
-      "attomId": 43035723,
-      "offerDate": "2024-10-23",
-      "offerPrice": 750000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "106 MINERS LN, NEWARK DE",
-      "city": "NEWARK",
-      "state": "DE",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.654143,
-      "lng": -75.773441
-    },
-    {
-      "propertyId": null,
-      "attomId": 205627046,
-      "offerDate": "2024-07-03",
-      "offerPrice": 419000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "111 S MORGAN ST APT 511, CHICAGO IL",
-      "city": "CHICAGO",
-      "state": "IL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "propertyId": null,
-      "attomId": 175952623,
-      "offerDate": "2024-07-03",
-      "offerPrice": 419000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "111 S MORGAN ST APT 511, CHICAGO IL",
-      "city": "CHICAGO",
-      "state": "IL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.879684,
-      "lng": -87.651633
-    },
-    {
-      "propertyId": null,
-      "attomId": 185160241,
-      "offerDate": "2024-03-06",
-      "offerPrice": 430000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "12618 64TH AVE E, PUYALLUP WA",
-      "city": "PUYALLUP",
-      "state": "WA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 47.141459,
-      "lng": -122.344517
-    },
-    {
-      "propertyId": null,
-      "attomId": 148274432,
-      "offerDate": "2024-01-02",
-      "offerPrice": 1805000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "11367 WILLS CREEK RD, SAN DIEGO CA",
-      "city": "SAN DIEGO",
-      "state": "CA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.925657,
-      "lng": -117.083711
-    }
-  ]
+  "properties": []
 }

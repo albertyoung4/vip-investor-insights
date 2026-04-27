@@ -9,9 +9,9 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "901 home buyers, llc",
-      "cash end buyers llc",
-      "immobiliare international llc"
+      "901 HOME BUYERS LLC",
+      "CASH END BUYERS LLC",
+      "IMMOBILIARE INTERNATIONAL LLC"
     ]
   },
   "stats": {
@@ -25,11 +25,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 11
+        "total": 12
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 15
+        "total": 14
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -56,8 +56,8 @@
       "baths": 1,
       "sqft": 1106,
       "lotSize": 0.0989899,
-      "lat": 35.1717629,
-      "lng": -89.9985875,
+      "lat": 35.171494,
+      "lng": -89.985169,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -74,8 +74,8 @@
       "baths": 1,
       "sqft": 952,
       "lotSize": 0.1100092,
-      "lat": 35.091011,
-      "lng": -89.8908364,
+      "lat": 35.102767,
+      "lng": -90.012867,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -92,8 +92,8 @@
       "baths": 1,
       "sqft": 2122,
       "lotSize": 0.1679982,
-      "lat": 35.1775555,
-      "lng": -90.0222302,
+      "lat": 35.16801,
+      "lng": -90.023234,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -110,8 +110,8 @@
       "baths": 1,
       "sqft": 1323,
       "lotSize": 0.1600092,
-      "lat": 35.1619983,
-      "lng": -89.95211,
+      "lat": 35.152745,
+      "lng": -89.952743,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -128,8 +128,8 @@
       "baths": 1,
       "sqft": 624,
       "lotSize": 0.0896694,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028879,
+      "lng": -89.376954,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -146,8 +146,8 @@
       "baths": 1,
       "sqft": 714,
       "lotSize": 0.2123508,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.027951,
+      "lng": -89.376924,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -164,8 +164,8 @@
       "baths": 1,
       "sqft": 705,
       "lotSize": 0.1129477,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028135,
+      "lng": -89.376932,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -182,8 +182,8 @@
       "baths": 1,
       "sqft": 876,
       "lotSize": 0.1205234,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028755,
+      "lng": -89.376952,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -200,8 +200,8 @@
       "baths": 1,
       "sqft": 833,
       "lotSize": 0.0909091,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028495,
+      "lng": -89.376949,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -218,8 +218,8 @@
       "baths": 1,
       "sqft": 865,
       "lotSize": 0.1285583,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.029195,
+      "lng": -89.376937,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -236,8 +236,8 @@
       "baths": 1,
       "sqft": 725,
       "lotSize": 0.1181129,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028618,
+      "lng": -89.376952,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -254,26 +254,8 @@
       "baths": null,
       "sqft": 910,
       "lotSize": 0.165404,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
-      "entity": "CASH END BUYERS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 201634286,
-      "offerDate": "2025-07-10T05:00:00.000Z",
-      "offerPrice": 175000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "121 HARTON ROW, DYERSBURG TN",
-      "city": "DYERSBURG",
-      "state": "TN",
-      "beds": 0,
-      "baths": null,
-      "sqft": 910,
-      "lotSize": 0.165404,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028747,
+      "lng": -89.376471,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -290,8 +272,8 @@
       "baths": 1,
       "sqft": 550,
       "lotSize": 0.1504821,
-      "lat": 36.0284417,
-      "lng": -89.3767418,
+      "lat": 36.028267,
+      "lng": -89.376938,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -308,8 +290,8 @@
       "baths": 1,
       "sqft": 2400,
       "lotSize": 0.1370064,
-      "lat": 35.1034439,
-      "lng": -90.0517624,
+      "lat": 35.113531,
+      "lng": -90.052659,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -326,8 +308,8 @@
       "baths": 2,
       "sqft": 1991,
       "lotSize": 0.1390037,
-      "lat": 35.1243542,
-      "lng": -89.9983639,
+      "lat": 35.092462,
+      "lng": -90.000361,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -344,8 +326,8 @@
       "baths": 2,
       "sqft": 2550,
       "lotSize": 0.1719927,
-      "lat": 35.1450947,
-      "lng": -89.9721339,
+      "lat": 35.145148,
+      "lng": -89.972117,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -362,8 +344,26 @@
       "baths": 1,
       "sqft": 1036,
       "lotSize": 0.1449954,
-      "lat": 35.1044895,
-      "lng": -90.0335507,
+      "lat": 35.106297,
+      "lng": -90.033707,
+      "entity": "CASH END BUYERS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 19696946,
+      "offerDate": "2025-06-13T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1585 HUMBER ST, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1156,
+      "lotSize": 0.1890037,
+      "lat": 35.103821,
+      "lng": -90.045736,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -380,8 +380,8 @@
       "baths": 1,
       "sqft": 750,
       "lotSize": 0.2019972,
-      "lat": 35.2045213,
-      "lng": -90.0016095,
+      "lat": 35.204202,
+      "lng": -90.001153,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -398,8 +398,8 @@
       "baths": 1,
       "sqft": 1335,
       "lotSize": 0.2300046,
-      "lat": 35.1764781,
-      "lng": -90.0173124,
+      "lat": 35.171823,
+      "lng": -90.016809,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -416,8 +416,8 @@
       "baths": 1,
       "sqft": 1044,
       "lotSize": 0.1739899,
-      "lat": 35.1177651,
-      "lng": -90.0338729,
+      "lat": 35.118015,
+      "lng": -90.031056,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -434,8 +434,8 @@
       "baths": 2,
       "sqft": 1145,
       "lotSize": 0.1030073,
-      "lat": 35.1765194,
-      "lng": -89.9583115,
+      "lat": 35.17586,
+      "lng": -89.958071,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -452,8 +452,8 @@
       "baths": 1,
       "sqft": 840,
       "lotSize": 0.0710055,
-      "lat": 35.1076338,
-      "lng": -90.0524986,
+      "lat": 35.104406,
+      "lng": -90.052313,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -470,8 +470,8 @@
       "baths": 1,
       "sqft": 1075,
       "lotSize": 0.1370064,
-      "lat": 35.1575315,
-      "lng": -89.9802499,
+      "lat": 35.177342,
+      "lng": -89.979705,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -488,8 +488,8 @@
       "baths": 1,
       "sqft": 2031,
       "lotSize": 0.2460055,
-      "lat": 35.172942,
-      "lng": -90.0086892,
+      "lat": 35.164125,
+      "lng": -90.034736,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -506,8 +506,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.2629936,
-      "lat": 35.172942,
-      "lng": -90.0086892,
+      "lat": 35.164075,
+      "lng": -90.034567,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -524,8 +524,8 @@
       "baths": 1,
       "sqft": 795,
       "lotSize": 0.1600092,
-      "lat": 35.1059497,
-      "lng": -89.9969591,
+      "lat": 35.108619,
+      "lng": -90.016573,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -542,8 +542,8 @@
       "baths": 1,
       "sqft": 898,
       "lotSize": 0.1280073,
-      "lat": 35.210639,
-      "lng": -89.924526,
+      "lat": 35.158634,
+      "lng": -89.976218,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -560,8 +560,8 @@
       "baths": 1,
       "sqft": 854,
       "lotSize": 0.0449954,
-      "lat": 35.1122624,
-      "lng": -90.0492967,
+      "lat": 35.112243,
+      "lng": -90.058387,
       "entity": "CASH END BUYERS LLC"
     },
     {
@@ -578,8 +578,8 @@
       "baths": 1,
       "sqft": 1344,
       "lotSize": 0.2120064,
-      "lat": null,
-      "lng": null,
+      "lat": 35.054678,
+      "lng": -90.077513,
       "entity": "CASH END BUYERS LLC"
     }
   ]

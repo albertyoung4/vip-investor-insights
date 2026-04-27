@@ -8,24 +8,30 @@
     "totalBids": 4,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": []
+    "entities": [
+      "ANN VESCO",
+      "ANNA MARIE VESCO",
+      "ANNA VESCO",
+      "MASTER ST PROPERTIES UNLIMITED LLC",
+      "MASTER STREET PROPERTIES UNLIMITED"
+    ]
   },
   "stats": {
-    "totalTransactions2025": 0,
+    "totalTransactions2025": 6,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 7,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 0
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -33,9 +39,136 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 140168229,
+      "offerDate": "2026-01-14T06:00:00.000Z",
+      "offerPrice": 135000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "423 BONSALL AVE, LANSDOWNE PA",
+      "city": "LANSDOWNE",
+      "state": "PA",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1304,
+      "lotSize": 0.0708907,
+      "lat": 39.93847,
+      "lng": -75.256339,
+      "entity": "MASTER ST PROPERTIES UNLIMITED LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 146061573,
+      "offerDate": "2025-09-15T05:00:00.000Z",
+      "offerPrice": 100000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "245 COPLEY RD, UPPER DARBY PA",
+      "city": "UPPER DARBY",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1336,
+      "lotSize": 0.0286961,
+      "lat": 39.956381,
+      "lng": -75.265659,
+      "entity": "ANNA VESCO"
+    },
+    {
+      "propertyId": null,
+      "attomId": 178931357,
+      "offerDate": "2025-08-08T05:00:00.000Z",
+      "offerPrice": 275000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "447 S 48TH ST, PHILADELPHIA PA",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "beds": 4,
+      "baths": 1,
+      "sqft": 1664,
+      "lotSize": 0.0407713,
+      "lat": 39.951281,
+      "lng": -75.218281,
+      "entity": "ANNA VESCO"
+    },
+    {
+      "propertyId": null,
+      "attomId": 178010231,
+      "offerDate": "2025-08-05T05:00:00.000Z",
+      "offerPrice": 150000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "274 N OAK AVE, CLIFTON HEIGHTS PA",
+      "city": "CLIFTON HEIGHTS",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1152,
+      "lotSize": 0.0457071,
+      "lat": 39.933224,
+      "lng": -75.306399,
+      "entity": "MASTER STREET PROPERTIES UNLIMITED"
+    },
+    {
+      "propertyId": null,
+      "attomId": 193175251,
+      "offerDate": "2025-05-14T05:00:00.000Z",
+      "offerPrice": 85000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "248 BLACK HORSE PIKE, GLENDORA NJ",
+      "city": "GLENDORA",
+      "state": "NJ",
+      "beds": 0,
+      "baths": null,
+      "sqft": 960,
+      "lotSize": 0.1073921,
+      "lat": 39.836172,
+      "lng": -75.06756,
+      "entity": "ANNA VESCO"
+    },
+    {
+      "propertyId": null,
+      "attomId": 47025645,
+      "offerDate": "2025-04-14T05:00:00.000Z",
+      "offerPrice": 164000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "204 OAK ST, POTTSTOWN PA",
+      "city": "POTTSTOWN",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1702,
+      "lotSize": 0.1060836,
+      "lat": 40.253716,
+      "lng": -75.64573,
+      "entity": "ANNA VESCO"
+    },
+    {
+      "propertyId": null,
+      "attomId": 150282858,
+      "offerDate": "2025-01-08T06:00:00.000Z",
+      "offerPrice": 100000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "214 WABASH AVE, LANSDOWNE PA",
+      "city": "LANSDOWNE",
+      "state": "PA",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1188,
+      "lotSize": 0.038292,
+      "lat": 39.946684,
+      "lng": -75.270146,
+      "entity": "MASTER STREET PROPERTIES UNLIMITED"
+    }
+  ]
 }

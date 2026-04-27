@@ -9,25 +9,25 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "MW PRIME HOLDINGS LLC"
+      "MIKE VALENZA"
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 9,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 4
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,159 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 44656939,
-      "offerDate": "2025-09-16",
-      "offerPrice": 92500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3967 SILVERLEAF RD, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.041066,
-      "lng": -89.858424
-    },
-    {
-      "propertyId": null,
-      "attomId": 149596910,
-      "offerDate": "2025-09-10",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5335 ROCK RIDGE CV, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.184336,
-      "lng": -89.885588
-    },
-    {
-      "propertyId": null,
-      "attomId": 24035017,
-      "offerDate": "2025-08-26",
-      "offerPrice": 130000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "6043 TALL WILLOW DR, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.024181,
-      "lng": -89.861941
-    },
-    {
-      "propertyId": null,
-      "attomId": 52707258,
-      "offerDate": "2025-07-07",
-      "offerPrice": 80000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "4376 COLEMAN RD, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.222097,
-      "lng": -89.91752
-    },
-    {
-      "propertyId": null,
-      "attomId": 140473387,
-      "offerDate": "2025-06-26",
-      "offerPrice": 170000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2589 VAN EATON LN, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.196154,
-      "lng": -89.799581
-    },
-    {
-      "propertyId": null,
-      "attomId": 13932065,
-      "offerDate": "2025-05-20",
-      "offerPrice": 52000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5094 CHANTILLY DR, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.264799,
-      "lng": -90.031123
-    },
-    {
-      "propertyId": null,
-      "attomId": 194611459,
-      "offerDate": "2025-05-20",
-      "offerPrice": 65000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1145 TANGLEWOOD ST, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.114544,
-      "lng": -89.99344
-    },
-    {
-      "propertyId": null,
-      "attomId": 199791532,
-      "offerDate": "2025-02-25",
-      "offerPrice": 30000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2601 JACKSON AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.157749,
-      "lng": -89.971168
-    },
-    {
-      "propertyId": null,
-      "attomId": 25246088,
-      "offerDate": "2025-01-15",
-      "offerPrice": 100000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3034 S GOODLETT ST, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.065997,
-      "lng": -89.921028
-    }
-  ]
+  "properties": []
 }

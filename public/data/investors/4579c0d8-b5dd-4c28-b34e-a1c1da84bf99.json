@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "prime estate holdings llc"
+      "PRIME ESTATE HOLDINGS LLC"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": 2,
       "sqft": 1680,
       "lotSize": 0.3779614,
-      "lat": 41.6636179,
-      "lng": -83.5741065,
+      "lat": 41.660927,
+      "lng": -83.6987,
       "entity": "PRIME ESTATE HOLDINGS LLC"
     }
   ]

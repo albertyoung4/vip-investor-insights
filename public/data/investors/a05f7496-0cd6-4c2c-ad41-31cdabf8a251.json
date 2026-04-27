@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "urban oasis properties llc"
+      "URBAN OASIS PROPERTIES LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 13,
+    "totalTransactions2025": 14,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 13,
+    "recorderTransactions": 14,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 9
+        "total": 10
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -54,8 +54,8 @@
       "baths": 1,
       "sqft": 1075,
       "lotSize": 0.1721763,
-      "lat": 41.4418061,
-      "lng": -82.7322312,
+      "lat": 41.125139,
+      "lng": -83.163852,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 1,
       "sqft": 1788,
       "lotSize": 0.1550046,
-      "lat": 41.8963046,
-      "lng": -80.8110034,
+      "lat": 41.89577,
+      "lng": -80.811387,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -90,8 +90,8 @@
       "baths": 1,
       "sqft": 1640,
       "lotSize": 0.1652893,
-      "lat": 40.8834209,
-      "lng": -85.4878855,
+      "lat": 40.883208,
+      "lng": -85.486893,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -108,8 +108,8 @@
       "baths": 1,
       "sqft": 1020,
       "lotSize": 1,
-      "lat": null,
-      "lng": null,
+      "lat": 36.560622,
+      "lng": -82.456549,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -126,8 +126,26 @@
       "baths": 2,
       "sqft": 1621,
       "lotSize": 0.3357438,
-      "lat": 41.5335837,
-      "lng": -81.5472341,
+      "lat": 41.533546,
+      "lng": -81.547183,
+      "entity": "URBAN OASIS PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 192978653,
+      "offerDate": "2025-03-03T06:00:00.000Z",
+      "offerPrice": 30000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "6321 3RD CT S, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1798,
+      "lotSize": 0.1767677,
+      "lat": 33.542974,
+      "lng": -86.73995,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -144,8 +162,8 @@
       "baths": 2,
       "sqft": 1610,
       "lotSize": 0.1649908,
-      "lat": 40.730352,
-      "lng": -84.0981285,
+      "lat": 40.730078,
+      "lng": -84.095615,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -162,8 +180,8 @@
       "baths": 4,
       "sqft": 4344,
       "lotSize": 0.1224059,
-      "lat": 39.7574872,
-      "lng": -84.1657306,
+      "lat": 39.757485,
+      "lng": -84.165676,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -180,8 +198,8 @@
       "baths": 1,
       "sqft": 1500,
       "lotSize": 0.2975895,
-      "lat": 40.923239,
-      "lng": -81.0907595,
+      "lat": 40.923007,
+      "lng": -81.093898,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -198,8 +216,8 @@
       "baths": null,
       "sqft": 1107,
       "lotSize": 0.1780073,
-      "lat": 39.8211916,
-      "lng": -85.9986293,
+      "lat": 39.82051,
+      "lng": -86.00186,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -216,26 +234,8 @@
       "baths": 1,
       "sqft": 1161,
       "lotSize": 0.2731864,
-      "lat": 41.6277421,
-      "lng": -83.6240032,
-      "entity": "URBAN OASIS PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 24935526,
-      "offerDate": "2025-01-15T06:00:00.000Z",
-      "offerPrice": 85000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "5755 BALFOUR RD, SYLVANIA OH",
-      "city": "SYLVANIA",
-      "state": "OH",
-      "beds": 4,
-      "baths": 2,
-      "sqft": 2120,
-      "lotSize": 0.3443526,
-      "lat": null,
-      "lng": null,
+      "lat": 41.628404,
+      "lng": -83.623572,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -252,8 +252,26 @@
       "baths": 2,
       "sqft": 2016,
       "lotSize": 0.1432966,
-      "lat": 39.7639756,
-      "lng": -84.1925587,
+      "lat": 39.782311,
+      "lng": -84.209115,
+      "entity": "URBAN OASIS PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 24935526,
+      "offerDate": "2025-01-15T06:00:00.000Z",
+      "offerPrice": 85000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5755 BALFOUR RD, SYLVANIA OH",
+      "city": "SYLVANIA",
+      "state": "OH",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 2120,
+      "lotSize": 0.3443526,
+      "lat": 41.719341,
+      "lng": -83.686742,
       "entity": "URBAN OASIS PROPERTIES LLC"
     },
     {
@@ -270,8 +288,8 @@
       "baths": 1,
       "sqft": 891,
       "lotSize": 0.145202,
-      "lat": 37.941713,
-      "lng": -87.5102555,
+      "lat": 37.941952,
+      "lng": -87.510495,
       "entity": "URBAN OASIS PROPERTIES LLC"
     }
   ]

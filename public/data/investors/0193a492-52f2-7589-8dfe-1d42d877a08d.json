@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "STARLIGHT REALITY EMPIRE LLC"
+      "STARLIGHT REALITY GROUP"
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,158 +23,21 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 17573469,
-      "offerDate": "2026-03-02",
-      "offerPrice": 400000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "272 W MASSACHUSETTS ST, HERNANDO FL",
-      "city": "HERNANDO",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 28.876981,
-      "lng": -82.439205
-    },
-    {
-      "propertyId": null,
-      "attomId": 44368519,
-      "offerDate": "2026-01-16",
-      "offerPrice": 2300000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3040 MARSH HVN, SEABROOK ISLAND SC",
-      "city": "SEABROOK ISLAND",
-      "state": "SC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.580561,
-      "lng": -80.154415
-    },
-    {
-      "propertyId": null,
-      "attomId": 185988946,
-      "offerDate": "2025-10-06",
-      "offerPrice": 1355000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2900 W NEWTON ST, SEATTLE WA",
-      "city": "SEATTLE",
-      "state": "WA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 47.636913,
-      "lng": -122.394456
-    },
-    {
-      "propertyId": null,
-      "attomId": 338887,
-      "offerDate": "2025-09-03",
-      "offerPrice": 925000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1043 GREYSTONE MANOR PKWY, CHESTERFIELD MO",
-      "city": "CHESTERFIELD",
-      "state": "MO",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 38.649855,
-      "lng": -90.635896
-    },
-    {
-      "propertyId": null,
-      "attomId": 156886947,
-      "offerDate": "2025-07-11",
-      "offerPrice": 11000000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "515 1ST ST, CORONADO CA",
-      "city": "CORONADO",
-      "state": "CA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 32.701474,
-      "lng": -117.17795
-    },
-    {
-      "propertyId": null,
-      "attomId": 40817882,
-      "offerDate": "2025-06-27",
-      "offerPrice": 510000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2907 S ELM ST, TEMPE AZ",
-      "city": "TEMPE",
-      "state": "AZ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.397402,
-      "lng": -111.912905
-    },
-    {
-      "propertyId": null,
-      "attomId": 194560546,
-      "offerDate": "2025-05-22",
-      "offerPrice": 250000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3294 VINBURN RD, SUN PRAIRIE WI",
-      "city": "SUN PRAIRIE",
-      "state": "WI",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 43.239442,
-      "lng": -89.253866
-    },
-    {
-      "propertyId": null,
-      "attomId": 288490549,
-      "offerDate": "2024-07-30",
-      "offerPrice": 1054500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3039 SUNDANCE PATH, STEVENSVILLE MI",
-      "city": "STEVENSVILLE",
-      "state": "MI",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.036007,
-      "lng": -86.527242
-    }
-  ]
+  "properties": []
 }

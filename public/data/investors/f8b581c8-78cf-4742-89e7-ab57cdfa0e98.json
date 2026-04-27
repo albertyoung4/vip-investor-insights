@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "rowdon holdings llc"
+      "ROWDON HOLDINGS LLC"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": null,
       "sqft": 3300,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 36.020464,
+      "lng": -83.797647,
       "entity": "ROWDON HOLDINGS LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 1,
       "sqft": 1600,
       "lotSize": 0.6969697,
-      "lat": null,
-      "lng": null,
+      "lat": 35.01335,
+      "lng": -86.555609,
       "entity": "ROWDON HOLDINGS LLC"
     },
     {
@@ -90,8 +90,8 @@
       "baths": 1,
       "sqft": 1721,
       "lotSize": 1.27,
-      "lat": null,
-      "lng": null,
+      "lat": 35.315158,
+      "lng": -86.76055,
       "entity": "ROWDON HOLDINGS LLC"
     }
   ]

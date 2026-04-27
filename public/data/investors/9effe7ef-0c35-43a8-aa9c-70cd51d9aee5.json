@@ -9,8 +9,8 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "prodigy marketing llc",
-      "talent boost llc"
+      "PRODIGY MARKETING LLC",
+      "TALENT BOOST LLC"
     ]
   },
   "stats": {
@@ -43,24 +43,6 @@
   "properties": [
     {
       "propertyId": null,
-      "attomId": 183488499,
-      "offerDate": "2025-04-23T05:00:00.000Z",
-      "offerPrice": 10000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3232 SOUTHMONT DR, MONTGOMERY AL",
-      "city": "MONTGOMERY",
-      "state": "AL",
-      "beds": 0,
-      "baths": 1,
-      "sqft": 1218,
-      "lotSize": 0.2984389,
-      "lat": 32.3361235,
-      "lng": -86.3049954,
-      "entity": "PRODIGY MARKETING LLC"
-    },
-    {
-      "propertyId": null,
       "attomId": 290580231,
       "offerDate": "2025-12-04T06:00:00.000Z",
       "offerPrice": 0,
@@ -73,9 +55,27 @@
       "baths": 1,
       "sqft": 1624,
       "lotSize": 0,
-      "lat": 29.9764785,
-      "lng": 30.9521651,
+      "lat": 33.692556,
+      "lng": -87.826909,
       "entity": "TALENT BOOST LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 183488499,
+      "offerDate": "2025-04-23T05:00:00.000Z",
+      "offerPrice": 10000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3232 SOUTHMONT DR, MONTGOMERY AL",
+      "city": "MONTGOMERY",
+      "state": "AL",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1218,
+      "lotSize": 0.2984389,
+      "lat": 32.348426,
+      "lng": -86.305519,
+      "entity": "PRODIGY MARKETING LLC"
     }
   ]
 }

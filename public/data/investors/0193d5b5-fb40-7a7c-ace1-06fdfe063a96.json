@@ -9,189 +9,54 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "GLR PROFESSIONALS 2024 LLC"
+      "GARRETT LOWERY"
     ]
   },
   "stats": {
-    "totalTransactions2025": 7,
+    "totalTransactions2025": 1,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 9,
+    "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
   "properties": [
     {
       "propertyId": null,
-      "attomId": 24931894,
-      "offerDate": "2026-02-04",
-      "offerPrice": 194000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2415 WALES DR, AUSTELL GA",
-      "city": "AUSTELL",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.839886,
-      "lng": -84.62502
-    },
-    {
-      "propertyId": null,
-      "attomId": 171236953,
-      "offerDate": "2025-12-12",
-      "offerPrice": 170000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "440 PROMETHEOUS WAY, ROCKMART GA",
-      "city": "ROCKMART",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.898595,
-      "lng": -85.019386
-    },
-    {
-      "propertyId": null,
-      "attomId": 171236322,
-      "offerDate": "2025-11-05",
-      "offerPrice": 61136,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "592 MULLINAX RD, JASPER GA",
-      "city": "JASPER",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.470969,
-      "lng": -84.540382
-    },
-    {
-      "propertyId": null,
-      "attomId": 171615396,
-      "offerDate": "2025-08-26",
-      "offerPrice": 233500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1527 KEETER RD, CANTON GA",
-      "city": "CANTON",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.191148,
-      "lng": -84.521236
-    },
-    {
-      "propertyId": null,
-      "attomId": 170970025,
-      "offerDate": "2025-08-12",
-      "offerPrice": 267000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2007 MEADOWS DR, WOODSTOCK GA",
-      "city": "WOODSTOCK",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.130885,
-      "lng": -84.482392
-    },
-    {
-      "propertyId": null,
-      "attomId": 171145301,
-      "offerDate": "2025-07-21",
-      "offerPrice": 240000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "245 JESSE MCCOLLUM DR, CANTON GA",
-      "city": "CANTON",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.196793,
-      "lng": -84.504615
-    },
-    {
-      "propertyId": null,
-      "attomId": 24785654,
-      "offerDate": "2025-06-09",
-      "offerPrice": 265000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "865 CHERRYDALE LN, WOODSTOCK GA",
-      "city": "WOODSTOCK",
-      "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.092288,
-      "lng": -84.543115
-    },
-    {
-      "propertyId": null,
-      "attomId": 171610389,
-      "offerDate": "2025-04-18",
+      "attomId": 171619709,
+      "offerDate": "2025-02-12T06:00:00.000Z",
       "offerPrice": 250000,
-      "status": "recorder",
+      "status": "recorded",
       "isRebuilt": false,
-      "address": "336 SHADY LANE CIR, CANTON GA",
+      "address": "1315 RANCHWOOD TRL, CANTON GA",
       "city": "CANTON",
       "state": "GA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.246952,
-      "lng": -84.392686
-    },
-    {
-      "propertyId": null,
-      "attomId": 335907416,
-      "offerDate": "2024-06-17",
-      "offerPrice": 473990,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1877 LAWLEY COVE PL, NORTH LAS VEGAS NV",
-      "city": "NORTH LAS VEGAS",
-      "state": "NV",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.301591,
-      "lng": -115.166582
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2480,
+      "lotSize": 3.53,
+      "lat": 34.154254,
+      "lng": -84.46858,
+      "entity": "GARRETT LOWERY"
     }
   ]
 }

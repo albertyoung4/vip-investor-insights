@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 1,
     "entities": [
-      "brooks brothers properties llc"
+      "BROOKS BROTHERS PROPERTIES LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
+    "totalTransactions2025": 5,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 4,
+    "recorderTransactions": 5,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -31,7 +31,7 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 3
+        "total": 4
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -54,8 +54,8 @@
       "baths": null,
       "sqft": 1216,
       "lotSize": 0.85,
-      "lat": null,
-      "lng": null,
+      "lat": 35.460764,
+      "lng": -85.015394,
       "entity": "BROOKS BROTHERS PROPERTIES LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 2,
       "sqft": 960,
       "lotSize": 0.3100092,
-      "lat": 35.4555752,
-      "lng": -84.610276,
+      "lat": 35.454875,
+      "lng": -84.610955,
       "entity": "BROOKS BROTHERS PROPERTIES LLC"
     },
     {
@@ -90,8 +90,26 @@
       "baths": 1,
       "sqft": 1444,
       "lotSize": 0.2100092,
-      "lat": 35.6959061,
-      "lng": -84.8682115,
+      "lat": 35.696994,
+      "lng": -84.867556,
+      "entity": "BROOKS BROTHERS PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 188508927,
+      "offerDate": "2025-11-03T06:00:00.000Z",
+      "offerPrice": 58000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "203 ENGLEWOOD AVE, ENGLEWOOD TN",
+      "city": "ENGLEWOOD",
+      "state": "TN",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1200,
+      "lotSize": 0.6,
+      "lat": 35.422019,
+      "lng": -84.488445,
       "entity": "BROOKS BROTHERS PROPERTIES LLC"
     },
     {
@@ -108,8 +126,8 @@
       "baths": 1,
       "sqft": 660,
       "lotSize": 0.3300046,
-      "lat": 35.4428527,
-      "lng": -84.5963446,
+      "lat": 35.444081,
+      "lng": -84.597299,
       "entity": "BROOKS BROTHERS PROPERTIES LLC"
     }
   ]

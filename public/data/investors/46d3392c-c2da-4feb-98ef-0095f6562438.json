@@ -9,20 +9,20 @@
     "ytdWon": 0,
     "ytdBids": 1,
     "entities": [
-      "wehby investment properties ll",
-      "wehby investment properties llc",
-      "wehby investment property llc",
-      "wehby investments llc"
+      "WEHBY INVESTMENT PROPERTIES LL",
+      "WEHBY INVESTMENT PROPERTIES LLC",
+      "WEHBY INVESTMENT PROPERTY LLC",
+      "WEHBY INVESTMENTS LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 24,
+    "totalTransactions2025": 23,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 26,
+    "recorderTransactions": 27,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 9
+        "total": 8
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -38,11 +38,29 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 4
       }
     }
   },
   "properties": [
+    {
+      "propertyId": null,
+      "attomId": 192767857,
+      "offerDate": "2026-02-27T06:00:00.000Z",
+      "offerPrice": 76500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1805 CIRCLEWOOD DR, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 924,
+      "lotSize": 1.04,
+      "lat": 33.576115,
+      "lng": -86.883323,
+      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
+    },
     {
       "propertyId": null,
       "attomId": 53956379,
@@ -57,8 +75,8 @@
       "baths": 2,
       "sqft": 1232,
       "lotSize": 0.1606979,
-      "lat": 33.6053733,
-      "lng": -86.8017101,
+      "lat": 33.605413,
+      "lng": -86.801685,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -75,26 +93,26 @@
       "baths": 1,
       "sqft": 791,
       "lotSize": 0.1434803,
-      "lat": null,
-      "lng": null,
+      "lat": 33.576854,
+      "lng": -86.883951,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
       "propertyId": null,
-      "attomId": 30345231,
-      "offerDate": "2025-10-20T05:00:00.000Z",
-      "offerPrice": 155000,
+      "attomId": 198008845,
+      "offerDate": "2026-01-09T06:00:00.000Z",
+      "offerPrice": 0,
       "status": "recorded",
       "isRebuilt": false,
-      "address": "5985 OVERLOOK RD, MOUNT OLIVE AL",
-      "city": "MOUNT OLIVE",
+      "address": "1239 BLAINE DR, ADAMSVILLE AL",
+      "city": "ADAMSVILLE",
       "state": "AL",
-      "beds": 2,
+      "beds": 3,
       "baths": 1,
-      "sqft": 1132,
-      "lotSize": 0.4,
-      "lat": null,
-      "lng": null,
+      "sqft": 1150,
+      "lotSize": 0.5,
+      "lat": 33.568393,
+      "lng": -86.950055,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -111,8 +129,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.4699954,
-      "lat": 33.7641022,
-      "lng": -86.8136338,
+      "lat": 33.766646,
+      "lng": -86.814152,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -129,8 +147,26 @@
       "baths": 1,
       "sqft": 1316,
       "lotSize": 0.3300046,
-      "lat": 33.7641022,
-      "lng": -86.8136338,
+      "lat": 33.76665,
+      "lng": -86.813742,
+      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 30345231,
+      "offerDate": "2025-10-20T05:00:00.000Z",
+      "offerPrice": 155000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5985 OVERLOOK RD, MOUNT OLIVE AL",
+      "city": "MOUNT OLIVE",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1132,
+      "lotSize": 0.4,
+      "lat": 33.682638,
+      "lng": -86.86708,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -147,8 +183,8 @@
       "baths": 1,
       "sqft": 1616,
       "lotSize": 0.4591368,
-      "lat": null,
-      "lng": null,
+      "lat": 33.620497,
+      "lng": -86.979522,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -165,44 +201,8 @@
       "baths": 1,
       "sqft": 980,
       "lotSize": 0.3099174,
-      "lat": 33.5592666,
-      "lng": -86.8977888,
-      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 201717779,
-      "offerDate": "2025-09-12T05:00:00.000Z",
-      "offerPrice": 130000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3737 MAIN ST, ADAMSVILLE AL",
-      "city": "ADAMSVILLE",
-      "state": "AL",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 1008,
-      "lotSize": 0.3199954,
-      "lat": 33.6005258,
-      "lng": -86.9539853,
-      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 188312342,
-      "offerDate": "2025-09-12T05:00:00.000Z",
-      "offerPrice": 130000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3733 MAIN ST, ADAMSVILLE AL",
-      "city": "ADAMSVILLE",
-      "state": "AL",
-      "beds": 3,
-      "baths": 1,
-      "sqft": 1853,
-      "lotSize": 0.1,
-      "lat": 33.6005258,
-      "lng": -86.9539853,
+      "lat": 33.551468,
+      "lng": -86.898148,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -219,8 +219,44 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.14944900572299957,
-      "lat": 33.6005258,
-      "lng": -86.9539853,
+      "lat": 33.589263916015625,
+      "lng": -86.939687,
+      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 201717779,
+      "offerDate": "2025-09-12T05:00:00.000Z",
+      "offerPrice": 130000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3737 MAIN ST, ADAMSVILLE AL",
+      "city": "ADAMSVILLE",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1008,
+      "lotSize": 0.3199954,
+      "lat": 33.589553,
+      "lng": -86.939728,
+      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 188312342,
+      "offerDate": "2025-09-12T05:00:00.000Z",
+      "offerPrice": 130000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3733 MAIN ST, ADAMSVILLE AL",
+      "city": "ADAMSVILLE",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1853,
+      "lotSize": 0.1,
+      "lat": 33.589462,
+      "lng": -86.939488,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -237,8 +273,8 @@
       "baths": 1,
       "sqft": 1133,
       "lotSize": 0.4,
-      "lat": null,
-      "lng": null,
+      "lat": 33.76061,
+      "lng": -87.032978,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -255,8 +291,8 @@
       "baths": 1,
       "sqft": 1351,
       "lotSize": 0.894169,
-      "lat": 33.4972512,
-      "lng": -86.8765517,
+      "lat": 33.559911,
+      "lng": -86.889945,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -273,8 +309,8 @@
       "baths": 1,
       "sqft": 2287,
       "lotSize": 1.022,
-      "lat": null,
-      "lng": null,
+      "lat": 33.560225,
+      "lng": -86.889385,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -291,8 +327,8 @@
       "baths": 1,
       "sqft": 1008,
       "lotSize": 0.1777319,
-      "lat": null,
-      "lng": null,
+      "lat": 33.374284,
+      "lng": -86.959716,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -309,8 +345,8 @@
       "baths": 1,
       "sqft": 960,
       "lotSize": 0.5,
-      "lat": null,
-      "lng": null,
+      "lat": 33.740607,
+      "lng": -86.91009,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -327,8 +363,8 @@
       "baths": 3,
       "sqft": 2456,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 33.654712,
+      "lng": -86.661735,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -345,8 +381,8 @@
       "baths": 3,
       "sqft": 570,
       "lotSize": 0,
-      "lat": 33.5924441,
-      "lng": -86.686838,
+      "lat": 33.592112,
+      "lng": -86.684837,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -363,8 +399,8 @@
       "baths": 1,
       "sqft": 1116,
       "lotSize": 0.06999540328979492,
-      "lat": 53.5409446,
-      "lng": -113.5047076,
+      "lat": 33.8267822265625,
+      "lng": -87.272123,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -381,8 +417,8 @@
       "baths": 1,
       "sqft": 1162,
       "lotSize": 0.2410468,
-      "lat": null,
-      "lng": null,
+      "lat": 33.602155,
+      "lng": -86.957751,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -399,8 +435,8 @@
       "baths": 2,
       "sqft": 1350,
       "lotSize": 0.4370983,
-      "lat": 33.5592666,
-      "lng": -86.8977888,
+      "lat": 33.574066,
+      "lng": -86.889109,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -417,8 +453,8 @@
       "baths": 2,
       "sqft": 1250,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 30.267153,
+      "lng": -87.593147,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -435,8 +471,8 @@
       "baths": 2,
       "sqft": 1624,
       "lotSize": 0.5,
-      "lat": null,
-      "lng": null,
+      "lat": 33.589037,
+      "lng": -86.945744,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -453,8 +489,8 @@
       "baths": 2,
       "sqft": 1376,
       "lotSize": 0.486685,
-      "lat": 33.6653063,
-      "lng": -86.8723823,
+      "lat": 33.665246,
+      "lng": -86.872586,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -471,26 +507,8 @@
       "baths": 3,
       "sqft": 4218,
       "lotSize": 0.4132231,
-      "lat": 33.6016657,
-      "lng": -86.8876833,
-      "entity": "WEHBY INVESTMENT PROPERTIES LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 192642207,
-      "offerDate": "2025-02-03T06:00:00.000Z",
-      "offerPrice": 52400,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1957 BRACKETT LOOP RD, BIRMINGHAM AL",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "beds": 0,
-      "baths": 3,
-      "sqft": 4218,
-      "lotSize": 0.4132231,
-      "lat": 33.6016657,
-      "lng": -86.8876833,
+      "lat": 33.601628,
+      "lng": -86.887508,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     },
     {
@@ -507,8 +525,8 @@
       "baths": 1,
       "sqft": 1216,
       "lotSize": 0.6333333,
-      "lat": null,
-      "lng": null,
+      "lat": 33.556087,
+      "lng": -86.909059,
       "entity": "WEHBY INVESTMENT PROPERTIES LLC"
     }
   ]

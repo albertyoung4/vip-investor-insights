@@ -8,23 +8,20 @@
     "totalBids": 4,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "BENNY NEILL",
-      "CRISTAL D PRICE"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 12,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -36,214 +33,9 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 193277149,
-      "offerDate": "2026-01-15",
-      "offerPrice": 145000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "155 GREENWOOD AVE, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.209722,
-      "lng": -88.228305
-    },
-    {
-      "propertyId": null,
-      "attomId": 243247671,
-      "offerDate": "2025-05-08",
-      "offerPrice": 425000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "173 MCILLWAIN RD N, HOLLADAY TN",
-      "city": "HOLLADAY",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.837856,
-      "lng": -88.082164
-    },
-    {
-      "propertyId": null,
-      "attomId": 197523442,
-      "offerDate": "2025-04-21",
-      "offerPrice": 10000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "75 AKER CIR, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.208454,
-      "lng": -88.242674
-    },
-    {
-      "propertyId": null,
-      "attomId": 196278427,
-      "offerDate": "2025-02-18",
-      "offerPrice": 80000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "135 SOUTHERLAND LN, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.186209,
-      "lng": -88.239977
-    },
-    {
-      "propertyId": null,
-      "attomId": 205226371,
-      "offerDate": "2025-01-31",
-      "offerPrice": 225000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "6800 GLENDALE RD, MORRIS CHAPEL TN",
-      "city": "MORRIS CHAPEL",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.299186,
-      "lng": -88.25922
-    },
-    {
-      "propertyId": null,
-      "attomId": 243313263,
-      "offerDate": "2025-01-24",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "695 ARNOLD LN, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.067778,
-      "lng": -88.282227
-    },
-    {
-      "propertyId": null,
-      "attomId": 188618638,
-      "offerDate": "2024-10-29",
-      "offerPrice": 247715,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "775 BOWEN DR, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.239021,
-      "lng": -88.249891
-    },
-    {
-      "propertyId": null,
-      "attomId": 143621740,
-      "offerDate": "2024-10-15",
-      "offerPrice": 20000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "335 DEBERRY ST, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.220952,
-      "lng": -88.239115
-    },
-    {
-      "propertyId": null,
-      "attomId": 198816261,
-      "offerDate": "2024-07-01",
-      "offerPrice": 59000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "204 CARROLL ST, ADAMSVILLE TN",
-      "city": "ADAMSVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.230918,
-      "lng": -88.398811
-    },
-    {
-      "propertyId": null,
-      "attomId": 20345419,
-      "offerDate": "2024-05-09",
-      "offerPrice": 8000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "196 MACON ST, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.20455,
-      "lng": -88.235827
-    },
-    {
-      "propertyId": null,
-      "attomId": 199060247,
-      "offerDate": "2024-05-09",
-      "offerPrice": 25000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1292 HURLEY LN, SAVANNAH TN",
-      "city": "SAVANNAH",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.113882,
-      "lng": -88.19429
-    },
-    {
-      "propertyId": null,
-      "attomId": 143946485,
-      "offerDate": "2024-04-16",
-      "offerPrice": 50000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "322 MIMOSA ST, ADAMSVILLE TN",
-      "city": "ADAMSVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.242597,
-      "lng": -88.386904
-    }
-  ]
+  "properties": []
 }

@@ -8,18 +8,16 @@
     "totalBids": 2,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "MC SQUARES VENTURES LLC"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 1,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 4,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -35,78 +33,9 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 3
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 207290688,
-      "offerDate": "2026-02-04",
-      "offerPrice": 115700,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "10128 HIGHWAY 101, LEXINGTON AL",
-      "city": "LEXINGTON",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.954519,
-      "lng": -87.370757
-    },
-    {
-      "propertyId": null,
-      "attomId": 331825012,
-      "offerDate": "2026-02-04",
-      "offerPrice": 115700,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "10275 HIGHWAY 101, LEXINGTON AL",
-      "city": "LEXINGTON",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.955888,
-      "lng": -87.37333
-    },
-    {
-      "propertyId": null,
-      "attomId": 205909044,
-      "offerDate": "2026-02-04",
-      "offerPrice": 115700,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "10323 HIGHWAY 101, LEXINGTON AL",
-      "city": "LEXINGTON",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.957409,
-      "lng": -87.371444
-    },
-    {
-      "propertyId": null,
-      "attomId": 210353397,
-      "offerDate": "2025-03-10",
-      "offerPrice": 145000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3621 W LOMBARD ST, DAVENPORT IA",
-      "city": "DAVENPORT",
-      "state": "IA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.541606,
-      "lng": -90.629463
-    }
-  ]
+  "properties": []
 }

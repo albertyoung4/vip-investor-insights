@@ -9,13 +9,13 @@
     "ytdWon": 1,
     "ytdBids": 5,
     "entities": [
-      "colfax properties llc"
+      "COLFAX PROPERTIES LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 9,
+    "totalTransactions2025": 11,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 10,
+    "recorderTransactions": 15,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,11 +23,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 1
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 2
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -35,11 +35,47 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 4
       }
     }
   },
   "properties": [
+    {
+      "propertyId": null,
+      "attomId": 148120455,
+      "offerDate": "2026-02-26T06:00:00.000Z",
+      "offerPrice": 8000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1872 WOODLAND AVE SW, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1229,
+      "lotSize": 0.1975895,
+      "lat": 33.492395,
+      "lng": -86.869013,
+      "entity": "COLFAX PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 45809107,
+      "offerDate": "2026-02-26T06:00:00.000Z",
+      "offerPrice": 5250,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1007 7TH ST, MIDFIELD AL",
+      "city": "MIDFIELD",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1220,
+      "lotSize": 0.2992195,
+      "lat": 33.451949,
+      "lng": -86.942098,
+      "entity": "COLFAX PROPERTIES LLC"
+    },
     {
       "propertyId": null,
       "attomId": 194046448,
@@ -54,8 +90,26 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.1721763,
-      "lat": null,
-      "lng": null,
+      "lat": 33.525205,
+      "lng": -86.935278,
+      "entity": "COLFAX PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 201834743,
+      "offerDate": "2026-01-09T06:00:00.000Z",
+      "offerPrice": 14000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5508 LYBIA AVE, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 3,
+      "baths": 1,
+      "sqft": 1634,
+      "lotSize": 0.1721763,
+      "lat": 33.525207,
+      "lng": -86.935443,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -72,8 +126,8 @@
       "baths": 1,
       "sqft": 572,
       "lotSize": 0.1721763,
-      "lat": 33.5153233,
-      "lng": -86.9139669,
+      "lat": 33.515052,
+      "lng": -86.913601,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -90,8 +144,8 @@
       "baths": 1,
       "sqft": 1018,
       "lotSize": 0.1641414,
-      "lat": 33.5302532,
-      "lng": -86.7721208,
+      "lat": 33.544447,
+      "lng": -86.773759,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -108,8 +162,8 @@
       "baths": 1,
       "sqft": 1112,
       "lotSize": 0.1606979,
-      "lat": 33.5221966,
-      "lng": -86.8099516,
+      "lat": 33.491199,
+      "lng": -86.880278,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -126,8 +180,8 @@
       "baths": 1,
       "sqft": 903,
       "lotSize": 0.094123,
-      "lat": 41.9888189,
-      "lng": -87.6984265,
+      "lat": 33.479278,
+      "lng": -86.915384,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -144,8 +198,44 @@
       "baths": 1,
       "sqft": 1516,
       "lotSize": 0.1522039,
-      "lat": 33.4841754,
-      "lng": -86.8350444,
+      "lat": 33.484338,
+      "lng": -86.83633,
+      "entity": "COLFAX PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 153039406,
+      "offerDate": "2025-09-23T05:00:00.000Z",
+      "offerPrice": 5000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "3529 PARK AVE SW, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 784,
+      "lotSize": 0.1515152,
+      "lat": 33.457666,
+      "lng": -86.890338,
+      "entity": "COLFAX PROPERTIES LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 26421588,
+      "offerDate": "2025-05-07T05:00:00.000Z",
+      "offerPrice": 9000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1361 PROSCH AVE, BIRMINGHAM AL",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 796,
+      "lotSize": 0.2238292,
+      "lat": 33.576216,
+      "lng": -86.771517,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -162,8 +252,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.2771579,
-      "lat": null,
-      "lng": null,
+      "lat": 42.10706,
+      "lng": -88.034259,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -180,8 +270,8 @@
       "baths": 1,
       "sqft": 1040,
       "lotSize": 0.1262626,
-      "lat": 33.528621,
-      "lng": -86.7957747,
+      "lat": 33.554283,
+      "lng": -86.801985,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -198,8 +288,8 @@
       "baths": 1,
       "sqft": 744,
       "lotSize": 0.0674472,
-      "lat": 33.4995646,
-      "lng": -86.8300316,
+      "lat": 33.499631,
+      "lng": -86.830028,
       "entity": "COLFAX PROPERTIES LLC"
     },
     {
@@ -216,8 +306,8 @@
       "baths": 1,
       "sqft": 1152,
       "lotSize": 0.1618457,
-      "lat": 33.5015057,
-      "lng": -86.8037449,
+      "lat": 33.453649,
+      "lng": -86.951477,
       "entity": "COLFAX PROPERTIES LLC"
     }
   ]

@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 2,
     "entities": [
-      "mdpm holdings llc"
+      "MDPM HOLDINGS LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
+    "totalTransactions2025": 6,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 3,
+    "recorderTransactions": 6,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,11 +23,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 3
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -54,8 +54,44 @@
       "baths": 1,
       "sqft": 975,
       "lotSize": 0.1199954,
-      "lat": 42.4306426,
-      "lng": -83.0117315,
+      "lat": 42.433365,
+      "lng": -83.01144,
+      "entity": "MDPM HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 147828764,
+      "offerDate": "2025-09-30T05:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "11658 SOMERSET AVE, DETROIT MI",
+      "city": "DETROIT",
+      "state": "MI",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1492,
+      "lotSize": 0.15,
+      "lat": 42.428347,
+      "lng": -82.939569,
+      "entity": "MDPM HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 48251263,
+      "offerDate": "2025-09-17T05:00:00.000Z",
+      "offerPrice": 23000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "111 BURKE ST, RIVER ROUGE MI",
+      "city": "RIVER ROUGE",
+      "state": "MI",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 832,
+      "lotSize": 0.0600092,
+      "lat": 42.276579,
+      "lng": -83.129802,
       "entity": "MDPM HOLDINGS LLC"
     },
     {
@@ -72,8 +108,26 @@
       "baths": 1,
       "sqft": 1094,
       "lotSize": 0.0899908,
-      "lat": 42.4271626,
-      "lng": -82.966938,
+      "lat": 42.42693,
+      "lng": -82.967248,
+      "entity": "MDPM HOLDINGS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 172278286,
+      "offerDate": "2025-06-17T05:00:00.000Z",
+      "offerPrice": 36000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "14577 WHITCOMB ST, DETROIT MI",
+      "city": "DETROIT",
+      "state": "MI",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1235,
+      "lotSize": 0.1100092,
+      "lat": 42.395491,
+      "lng": -83.196435,
       "entity": "MDPM HOLDINGS LLC"
     },
     {
@@ -90,8 +144,8 @@
       "baths": 1,
       "sqft": 1028,
       "lotSize": 0.1199954,
-      "lat": 42.4238221,
-      "lng": -82.9570935,
+      "lat": 42.432429,
+      "lng": -82.950218,
       "entity": "MDPM HOLDINGS LLC"
     }
   ]

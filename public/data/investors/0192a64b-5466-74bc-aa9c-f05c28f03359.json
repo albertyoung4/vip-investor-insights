@@ -9,21 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "SAVVY TN SOLUTIONS LLC",
-      "MEMPHIS INVESTMENT PROPERTIES III L",
-      "LOCKS COURTIER SERVICE LLC",
-      "DAMON MCKAY",
-      "JACK WHITAKER JR"
+      "INSTANT OFFERS LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 10,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -35,194 +31,13 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 4
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 198789239,
-      "offerDate": "2025-12-10T05:00:00.000Z",
-      "offerPrice": 100000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "295 MODDER AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.098097,
-      "lng": -90.072585,
-      "entity": "SAVVY TN SOLUTIONS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 22271024,
-      "offerDate": "2025-10-20T05:00:00.000Z",
-      "offerPrice": 135000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3612 MACON RD, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.161377,
-      "lng": -89.940134,
-      "entity": "SAVVY TN SOLUTIONS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 22271024,
-      "offerDate": "2025-10-20T05:00:00.000Z",
-      "offerPrice": 66000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3612 MACON RD, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.161377,
-      "lng": -89.940134,
-      "entity": "LOCKS COURTIER SERVICE LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 188661006,
-      "offerDate": "2025-01-23T05:00:00.000Z",
-      "offerPrice": 174000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3704 MARION AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.109084,
-      "lng": -89.939017,
-      "entity": "MEMPHIS INVESTMENT PROPERTIES III L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 144070406,
-      "offerDate": "2024-12-09T05:00:00.000Z",
-      "offerPrice": 10000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "515 N 16TH ST, WEST MEMPHIS AR",
-      "city": "WEST MEMPHIS",
-      "state": "AR",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.151332,
-      "lng": -90.165288,
-      "entity": "DAMON MCKAY"
-    },
-    {
-      "propertyId": null,
-      "attomId": 228400,
-      "offerDate": "2024-03-07T05:00:00.000Z",
-      "offerPrice": 27000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "485 N 27TH ST, WEST MEMPHIS AR",
-      "city": "WEST MEMPHIS",
-      "state": "AR",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.151179,
-      "lng": -90.150668,
-      "entity": "DAMON MCKAY"
-    },
-    {
-      "propertyId": null,
-      "attomId": 16781028,
-      "offerDate": "2024-01-11T05:00:00.000Z",
-      "offerPrice": 46000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "3328 BENJESTOWN RD, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.216462,
-      "lng": -90.040652,
-      "entity": "DAMON MCKAY"
-    },
-    {
-      "propertyId": null,
-      "attomId": 2315078,
-      "offerDate": "2026-03-26T05:00:00.000Z",
-      "offerPrice": 140000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2053 FELIX AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.118472,
-      "lng": -89.993825,
-      "entity": "JACK WHITAKER JR"
-    },
-    {
-      "propertyId": null,
-      "attomId": 144070406,
-      "offerDate": "2026-01-05T05:00:00.000Z",
-      "offerPrice": 39500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "515 N 16TH ST, WEST MEMPHIS AR",
-      "city": "WEST MEMPHIS",
-      "state": "AR",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.151332,
-      "lng": -90.165288,
-      "entity": "JACK WHITAKER JR"
-    },
-    {
-      "propertyId": null,
-      "attomId": 199030907,
-      "offerDate": "2025-12-29T05:00:00.000Z",
-      "offerPrice": 18316,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1274 GILL AVE, MEMPHIS TN",
-      "city": "MEMPHIS",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.10795,
-      "lng": -90.020061,
-      "entity": "JACK WHITAKER JR"
-    }
-  ]
+  "properties": []
 }

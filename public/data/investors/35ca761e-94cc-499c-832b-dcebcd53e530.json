@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "fast track home sales llc"
+      "FAST TRACK HOME SALES LLC"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": 2,
       "sqft": 1632,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 39.691106,
+      "lng": -84.077762,
       "entity": "FAST TRACK HOME SALES LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 2,
       "sqft": 2376,
       "lotSize": 0.0780992,
-      "lat": null,
-      "lng": null,
+      "lat": 39.738364,
+      "lng": -84.216307,
       "entity": "FAST TRACK HOME SALES LLC"
     },
     {
@@ -90,8 +90,8 @@
       "baths": 2,
       "sqft": 1724,
       "lotSize": 0.5148072,
-      "lat": 39.9810496,
-      "lng": -83.0375677,
+      "lat": 39.566791,
+      "lng": -84.284413,
       "entity": "FAST TRACK HOME SALES LLC"
     }
   ]

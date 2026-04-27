@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "jeff moore"
+      "JEFF MOORE"
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
+    "totalTransactions2025": 3,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 5,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,11 +23,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -35,9 +35,100 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 2
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 187663564,
+      "offerDate": "2026-03-20T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "333 CROWFOOT RD, LEBANON OR",
+      "city": "LEBANON",
+      "state": "OR",
+      "beds": 0,
+      "baths": null,
+      "sqft": 2208,
+      "lotSize": 0.35,
+      "lat": 44.508075,
+      "lng": -122.890019,
+      "entity": "JEFF MOORE"
+    },
+    {
+      "propertyId": null,
+      "attomId": 29587936,
+      "offerDate": "2026-01-06T06:00:00.000Z",
+      "offerPrice": 295000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2506 ORCHID BAY DR APT 104, NAPLES FL",
+      "city": "NAPLES",
+      "state": "FL",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1445,
+      "lotSize": 0,
+      "lat": 26.240108,
+      "lng": -81.764795,
+      "entity": "JEFF MOORE"
+    },
+    {
+      "propertyId": null,
+      "attomId": 7029141,
+      "offerDate": "2025-08-13T05:00:00.000Z",
+      "offerPrice": 166000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "413 WEINLAND DR, NEW CARLISLE OH",
+      "city": "NEW CARLISLE",
+      "state": "OH",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 1073,
+      "lotSize": 0.1955923,
+      "lat": 39.885423,
+      "lng": -84.037816,
+      "entity": "JEFF MOORE"
+    },
+    {
+      "propertyId": null,
+      "attomId": 21023218,
+      "offerDate": "2025-04-29T05:00:00.000Z",
+      "offerPrice": 0,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "760 C ST, LOS BANOS CA",
+      "city": "LOS BANOS",
+      "state": "CA",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 1240,
+      "lotSize": 0.1721763,
+      "lat": 37.066,
+      "lng": -120.841214,
+      "entity": "JEFF MOORE"
+    },
+    {
+      "propertyId": null,
+      "attomId": 292803398,
+      "offerDate": "2025-04-04T05:00:00.000Z",
+      "offerPrice": 56500,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "600 N JACKSON ST, CLINTON IL",
+      "city": "CLINTON",
+      "state": "IL",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1920,
+      "lotSize": 0,
+      "lat": 40.157231,
+      "lng": -88.962599,
+      "entity": "JEFF MOORE"
+    }
+  ]
 }

@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "joe abraham"
+      "JOE ABRAHAM"
     ]
   },
   "stats": {
-    "totalTransactions2025": 0,
+    "totalTransactions2025": 1,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -27,7 +27,7 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,5 +39,24 @@
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 7234269,
+      "offerDate": "2025-08-22T05:00:00.000Z",
+      "offerPrice": 725000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "15 DUANE AVE, NEW CITY NY",
+      "city": "NEW CITY",
+      "state": "NY",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2052,
+      "lotSize": 0.35,
+      "lat": 41.138561,
+      "lng": -73.985164,
+      "entity": "JOE ABRAHAM"
+    }
+  ]
 }

@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "W2 HOLDINGS LLC"
+      "ASHLEY CHASTAIN"
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
+    "totalTransactions2025": 2,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 5,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -23,11 +23,11 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 3
+        "total": 2
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -42,88 +42,39 @@
   "properties": [
     {
       "propertyId": null,
-      "attomId": 10662322,
-      "offerDate": "2025-07-09",
-      "offerPrice": 235550,
-      "status": "recorder",
+      "attomId": 148839227,
+      "offerDate": "2025-06-16T05:00:00.000Z",
+      "offerPrice": 384000,
+      "status": "recorded",
       "isRebuilt": false,
-      "address": "1605 RUTH AVE, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.138759,
-      "lng": -84.475298
+      "address": "509 E MASON DR, BROKEN ARROW OK",
+      "city": "BROKEN ARROW",
+      "state": "OK",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 2011,
+      "lotSize": 2.51,
+      "lat": 36.04008,
+      "lng": -95.784063,
+      "entity": "ASHLEY CHASTAIN"
     },
     {
       "propertyId": null,
-      "attomId": 23235057,
-      "offerDate": "2025-06-25",
-      "offerPrice": 280000,
-      "status": "recorder",
+      "attomId": 29696957,
+      "offerDate": "2025-05-05T05:00:00.000Z",
+      "offerPrice": 264900,
+      "status": "recorded",
       "isRebuilt": false,
-      "address": "3645 RUSSELL AVE, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.126597,
-      "lng": -84.414418
-    },
-    {
-      "propertyId": null,
-      "attomId": 182383530,
-      "offerDate": "2025-06-13",
-      "offerPrice": 215000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3541 LINWOOD AVE, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.124472,
-      "lng": -84.42016
-    },
-    {
-      "propertyId": null,
-      "attomId": 46803881,
-      "offerDate": "2025-05-27",
-      "offerPrice": 332000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "8255 LAKE SHORE DR, WEST CHESTER OH",
-      "city": "WEST CHESTER",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.344045,
-      "lng": -84.376499
-    },
-    {
-      "propertyId": null,
-      "attomId": 2270610,
-      "offerDate": "2024-01-03",
-      "offerPrice": 1410000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "112 LAKESIDE DR, GOODLETTSVILLE TN",
-      "city": "GOODLETTSVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.350478,
-      "lng": -86.76395
+      "address": "6 TALON CT, KINGSTON GA",
+      "city": "KINGSTON",
+      "state": "GA",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1270,
+      "lotSize": 0,
+      "lat": 34.266196,
+      "lng": -85.028253,
+      "entity": "ASHLEY CHASTAIN"
     }
   ]
 }

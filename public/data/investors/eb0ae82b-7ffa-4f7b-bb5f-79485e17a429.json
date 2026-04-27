@@ -8,12 +8,14 @@
     "totalBids": 5,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": []
+    "entities": [
+      "B & Q PRIMIER PROPERTY SOLUTIONS LL"
+    ]
   },
   "stats": {
     "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 3,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -33,9 +35,64 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 3
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 199181399,
+      "offerDate": "2026-01-20T06:00:00.000Z",
+      "offerPrice": 160000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "519 ROSS AVE, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 1462,
+      "lotSize": 0.2600092,
+      "lat": 35.15545,
+      "lng": -90.198041,
+      "entity": "B & Q PRIMIER PROPERTY SOLUTIONS LL"
+    },
+    {
+      "propertyId": null,
+      "attomId": 1898759,
+      "offerDate": "2026-01-20T06:00:00.000Z",
+      "offerPrice": 160000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "402 OXFORD ST, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1200,
+      "lotSize": 0.2199954,
+      "lat": 35.141704,
+      "lng": -90.194459,
+      "entity": "B & Q PRIMIER PROPERTY SOLUTIONS LL"
+    },
+    {
+      "propertyId": null,
+      "attomId": 201093669,
+      "offerDate": "2026-01-20T06:00:00.000Z",
+      "offerPrice": 160000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "457 BELVEDERE DR, WEST MEMPHIS AR",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 961,
+      "lotSize": 0.1800046,
+      "lat": 35.161814,
+      "lng": -90.194316,
+      "entity": "B & Q PRIMIER PROPERTY SOLUTIONS LL"
+    }
+  ]
 }

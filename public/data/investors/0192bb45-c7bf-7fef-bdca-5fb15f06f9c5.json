@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "NATIONWIDE CAPITAL PARTNERS LLC"
+      "AARON KAMEL"
     ]
   },
   "stats": {
-    "totalTransactions2025": 3,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -27,120 +27,17 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 54416175,
-      "offerDate": "2026-03-05",
-      "offerPrice": 100000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "200 PARK AVE APT 725, CALUMET CITY IL",
-      "city": "CALUMET CITY",
-      "state": "IL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 41.598555,
-      "lng": -87.573011
-    },
-    {
-      "propertyId": null,
-      "attomId": 23712108,
-      "offerDate": "2025-12-03",
-      "offerPrice": 225000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "20023 BOARDWALK BLVD, SOUTHFIELD MI",
-      "city": "SOUTHFIELD",
-      "state": "MI",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.477141,
-      "lng": -83.242152
-    },
-    {
-      "propertyId": null,
-      "attomId": 853419,
-      "offerDate": "2025-08-05",
-      "offerPrice": 210000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "20310 RODEO CT, SOUTHFIELD MI",
-      "city": "SOUTHFIELD",
-      "state": "MI",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.477141,
-      "lng": -83.242152
-    },
-    {
-      "propertyId": null,
-      "attomId": 1241565,
-      "offerDate": "2025-02-25",
-      "offerPrice": 112500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1510 S MARSTON ST, PHILADELPHIA PA",
-      "city": "PHILADELPHIA",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.934299,
-      "lng": -75.190671
-    },
-    {
-      "propertyId": null,
-      "attomId": 26115656,
-      "offerDate": "2024-08-22",
-      "offerPrice": 141500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1527 S BAILEY ST, PHILADELPHIA PA",
-      "city": "PHILADELPHIA",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.933714,
-      "lng": -75.188381
-    },
-    {
-      "propertyId": null,
-      "attomId": 17271302,
-      "offerDate": "2024-04-08",
-      "offerPrice": 140000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1526 S ETTING ST, PHILADELPHIA PA",
-      "city": "PHILADELPHIA",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.933959,
-      "lng": -75.190245
-    }
-  ]
+  "properties": []
 }

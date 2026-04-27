@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "midnight buffalo llc"
+      "MIDNIGHT BUFFALO LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
+    "totalTransactions2025": 2,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 1,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -54,8 +54,26 @@
       "baths": 1,
       "sqft": 754,
       "lotSize": 0.263315,
-      "lat": 38.2256386,
-      "lng": -85.8007761,
+      "lat": 38.22571,
+      "lng": -85.800605,
+      "entity": "MIDNIGHT BUFFALO LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 27458723,
+      "offerDate": "2025-02-14T06:00:00.000Z",
+      "offerPrice": 127000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2231 LIVERPOOL LN, LOUISVILLE KY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "beds": 0,
+      "baths": 1,
+      "sqft": 925,
+      "lotSize": 0.1353994,
+      "lat": 38.203224,
+      "lng": -85.659764,
       "entity": "MIDNIGHT BUFFALO LLC"
     }
   ]

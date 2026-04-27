@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T12:55:23.420Z",
+  "generatedAt": "2026-04-27T17:12:09.181Z",
   "investors": [
     {
       "id": "01940f6b-8260-7f82-b39b-9ff849de4509",
@@ -11,7 +11,7 @@
       "ytdWon": 3,
       "ytdBids": 13,
       "entities": [
-        "david ray watts"
+        "DAVID RAY WATTS"
       ]
     },
     {
@@ -24,7 +24,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "brooks brothers properties llc"
+        "BROOKS BROTHERS PROPERTIES LLC"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "urban oasis properties llc"
+        "URBAN OASIS PROPERTIES LLC"
       ]
     },
     {
@@ -50,7 +50,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "simpson property llc"
+        "SIMPSON PROPERTY LLC"
       ]
     },
     {
@@ -63,7 +63,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "barrel creek investments llp"
+        "BARREL CREEK INVESTMENTS LLP"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "ytdWon": 1,
       "ytdBids": 7,
       "entities": [
-        "purple otter llc"
+        "PURPLE OTTER LLC"
       ]
     },
     {
@@ -89,10 +89,10 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "guppys holdings llc",
-        "inversiones de cuatro hermanos llc",
-        "ridgetop properties llc",
-        "william michael moorehead"
+        "GUPPYS HOLDINGS LLC",
+        "INVERSIONES DE CUATRO HERMANOS LLC",
+        "RIDGETOP PROPERTIES LLC",
+        "WILLIAM MICHAEL MOOREHEAD"
       ]
     },
     {
@@ -105,10 +105,10 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "wehby investment properties ll",
-        "wehby investment properties llc",
-        "wehby investment property llc",
-        "wehby investments llc"
+        "WEHBY INVESTMENT PROPERTIES LL",
+        "WEHBY INVESTMENT PROPERTIES LLC",
+        "WEHBY INVESTMENT PROPERTY LLC",
+        "WEHBY INVESTMENTS LLC"
       ]
     },
     {
@@ -121,7 +121,7 @@
       "ytdWon": 1,
       "ytdBids": 5,
       "entities": [
-        "colfax properties llc"
+        "COLFAX PROPERTIES LLC"
       ]
     },
     {
@@ -134,7 +134,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "catricia l roberson"
+        "CATRICIA L ROBERSON"
       ]
     },
     {
@@ -146,7 +146,9 @@
       "totalBids": 20,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": []
+      "entities": [
+        "CHRIS DEAN"
+      ]
     },
     {
       "id": "412a9845-9862-41dd-a81d-717c7591b611",
@@ -158,9 +160,9 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "901 home buyers, llc",
-        "cash end buyers llc",
-        "immobiliare international llc"
+        "901 HOME BUYERS LLC",
+        "CASH END BUYERS LLC",
+        "IMMOBILIARE INTERNATIONAL LLC"
       ]
     },
     {
@@ -173,7 +175,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "rrr investment group llc"
+        "RRR INVESTMENT GROUP LLC"
       ]
     },
     {
@@ -186,8 +188,8 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "michael davis pendergrast",
-        "michael pendergrast"
+        "MICHAEL DAVIS PENDERGRAST",
+        "MICHAEL PENDERGRAST"
       ]
     },
     {
@@ -200,7 +202,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "jeff moore"
+        "JEFF MOORE"
       ]
     },
     {
@@ -213,7 +215,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "cheyenne investments llc"
+        "CHEYENNE INVESTMENTS LLC"
       ]
     },
     {
@@ -226,7 +228,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ltd investments llc"
+        "LTD INVESTMENTS LLC"
       ]
     },
     {
@@ -239,7 +241,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "104 north 46th street family trust"
+        "104 NORTH 46TH STREET FAMILY TRUST"
       ]
     },
     {
@@ -252,7 +254,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "compass re llc"
+        "COMPASS RE LLC"
       ]
     },
     {
@@ -265,7 +267,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "shield property solutions llc"
+        "SHIELD PROPERTY SOLUTIONS LLC"
       ]
     },
     {
@@ -277,7 +279,10 @@
       "totalBids": 18,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "CLIFFORD JONES",
+        "LAURA AMBLER"
+      ]
     },
     {
       "id": "9014cce5-575b-440c-8ea3-7664263bb99a",
@@ -289,7 +294,7 @@
       "ytdWon": 0,
       "ytdBids": 2,
       "entities": [
-        "delaware valley opportunity fund llc"
+        "DELAWARE VALLEY OPPORTUNITY FUND LLC"
       ]
     },
     {
@@ -301,7 +306,13 @@
       "totalBids": 10,
       "ytdWon": 1,
       "ytdBids": 3,
-      "entities": []
+      "entities": [
+        "BARTLETT INVESTMENTS LLC",
+        "BLACKBELT INVESTMENTS LLC",
+        "MICHAEL BARTLETT",
+        "MICHAEL L BARTLETT",
+        "MICHAEL LEE BARTLETT"
+      ]
     },
     {
       "id": "28c5611b-3ddf-4166-9355-2840903ab352",
@@ -313,7 +324,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "urban oasis properties llc"
+        "URBAN OASIS PROPERTIES LLC"
       ]
     },
     {
@@ -337,7 +348,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "embark developments llc"
+        "EMBARK DEVELOPMENTS LLC"
       ]
     },
     {
@@ -350,7 +361,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "cedar brook properties funding 3 llc"
+        "CEDAR BROOK PROPERTIES FUNDING 3 LLC"
       ]
     },
     {
@@ -363,7 +374,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "davids group 2 llc"
+        "DAVIDS GROUP 2 LLC"
       ]
     },
     {
@@ -376,7 +387,7 @@
       "ytdWon": 1,
       "ytdBids": 2,
       "entities": [
-        "wilber castillo"
+        "WILBER CASTILLO"
       ]
     },
     {
@@ -389,7 +400,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ac wallace holdings llc"
+        "AC WALLACE HOLDINGS LLC"
       ]
     },
     {
@@ -402,7 +413,7 @@
       "ytdWon": 0,
       "ytdBids": 2,
       "entities": [
-        "frank famiano"
+        "FRANK FAMIANO"
       ]
     },
     {
@@ -415,7 +426,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "midnight buffalo llc"
+        "MIDNIGHT BUFFALO LLC"
       ]
     },
     {
@@ -428,7 +439,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "revolutionary home buyers klc"
+        "REVOLUTIONARY HOME BUYERS KLC"
       ]
     },
     {
@@ -441,7 +452,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "aspen properties llc"
+        "ASPEN PROPERTIES LLC"
       ]
     },
     {
@@ -453,7 +464,9 @@
       "totalBids": 9,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "TWENTY ONE REAL ESTATE LLC"
+      ]
     },
     {
       "id": "bee49dc8-efed-4372-83b8-c51c79b64dcc",
@@ -475,7 +488,10 @@
       "totalBids": 8,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "BLACK LIGHT PROPERTIES LLC",
+        "JARED CHRISTENSEN"
+      ]
     },
     {
       "id": "0195f44b-0707-791c-bb4f-20b330bef893",
@@ -487,7 +503,7 @@
       "ytdWon": 0,
       "ytdBids": 2,
       "entities": [
-        "mdpm holdings llc"
+        "MDPM HOLDINGS LLC"
       ]
     },
     {
@@ -511,7 +527,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "passive sunshine 1 llc"
+        "PASSIVE SUNSHINE 1 LLC"
       ]
     },
     {
@@ -545,7 +561,10 @@
       "totalBids": 6,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "JASON DAVID HOSKINS",
+        "JASON HOSKINS"
+      ]
     },
     {
       "id": "0195a927-b0c0-7664-8cc3-7cf75fc03e16",
@@ -557,7 +576,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "joe abraham"
+        "JOE ABRAHAM"
       ]
     },
     {
@@ -569,7 +588,9 @@
       "totalBids": 6,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": []
+      "entities": [
+        "WILLIAM GONZALEZ"
+      ]
     },
     {
       "id": "06d46331-7434-43ab-85f7-d6a584d9a322",
@@ -580,7 +601,14 @@
       "totalBids": 5,
       "ytdWon": 0,
       "ytdBids": 2,
-      "entities": []
+      "entities": [
+        "30 LEE AVENUE REALTY LLC",
+        "BOMBAS REALTY LLC",
+        "JACOB HILL",
+        "LEVERAGE REALTY LLC",
+        "SYM PROPERTIES LLC",
+        "TRENO MEETING LLC"
+      ]
     },
     {
       "id": "eb0ae82b-7ffa-4f7b-bb5f-79485e17a429",
@@ -591,7 +619,9 @@
       "totalBids": 5,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "B & Q PRIMIER PROPERTY SOLUTIONS LL"
+      ]
     },
     {
       "id": "9effe7ef-0c35-43a8-aa9c-70cd51d9aee5",
@@ -603,8 +633,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "prodigy marketing llc",
-        "talent boost llc"
+        "PRODIGY MARKETING LLC",
+        "TALENT BOOST LLC"
       ]
     },
     {
@@ -617,7 +647,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "hm llc"
+        "HM LLC"
       ]
     },
     {
@@ -630,7 +660,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "fast track home sales llc"
+        "FAST TRACK HOME SALES LLC"
       ]
     },
     {
@@ -643,7 +673,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "rowdon holdings llc"
+        "ROWDON HOLDINGS LLC"
       ]
     },
     {
@@ -656,7 +686,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "twin willows properties llc"
+        "TWIN WILLOWS PROPERTIES LLC"
       ]
     },
     {
@@ -669,7 +699,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "prime estate holdings llc"
+        "PRIME ESTATE HOLDINGS LLC"
       ]
     },
     {
@@ -681,7 +711,13 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "ANN VESCO",
+        "ANNA MARIE VESCO",
+        "ANNA VESCO",
+        "MASTER ST PROPERTIES UNLIMITED LLC",
+        "MASTER STREET PROPERTIES UNLIMITED"
+      ]
     },
     {
       "id": "876e4269-bf83-4fa9-ae0d-c0333e608169",
@@ -692,7 +728,9 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": []
+      "entities": [
+        "DAPHANE NORTHINGTON"
+      ]
     },
     {
       "id": "0192a23e-6613-7a48-9ea3-8d672e09a108",
@@ -704,7 +742,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "devin buford"
+        "DEVIN BUFORD"
       ]
     },
     {
@@ -727,10 +765,7 @@
       "totalBids": 25,
       "ytdWon": 0,
       "ytdBids": 3,
-      "entities": [
-        "HCF PROPERTIES LLC",
-        "ASSETRICH LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0192bbaf-79ea-76b9-b137-4961fc1c70c9",
@@ -754,9 +789,7 @@
       "totalBids": 10,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": [
-        "MUSIC CITY MANAGEMENT INVESTMENTS L"
-      ]
+      "entities": []
     },
     {
       "id": "6e977ddd-8a8e-4272-ba8f-aa4ebe58ac6e",
@@ -768,7 +801,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "AZ INVESTMENTS LLC",
         "A Z INVESTMENTS LLC"
       ]
     },
@@ -782,11 +814,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "SAVVY TN SOLUTIONS LLC",
-        "MEMPHIS INVESTMENT PROPERTIES III L",
-        "LOCKS COURTIER SERVICE LLC",
-        "DAMON MCKAY",
-        "JACK WHITAKER JR"
+        "INSTANT OFFERS LLC"
       ]
     },
     {
@@ -799,8 +827,7 @@
       "ytdWon": 1,
       "ytdBids": 3,
       "entities": [
-        "CAMBRIDGE RE HOLDINGS LLC",
-        "TYPE TWO HOLDINGS LLC"
+        "COZY ESTATES LLC"
       ]
     },
     {
@@ -812,9 +839,7 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "DANIEL MORGAN"
-      ]
+      "entities": []
     },
     {
       "id": "b9ab6790-24cf-4060-bd81-b61332456555",
@@ -826,9 +851,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "SECUREALESTATE INVESTMENTS LLC",
-        "PROJECT MADHOUSE LLC",
-        "IHAB PROPERTIES LLC"
+        "SECUREALESTATE INVESTMENTS LLC"
       ]
     },
     {
@@ -841,6 +864,9 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
+        "JEFFERY E POORE",
+        "NATE HOCK",
+        "NATE HOCK ENTERONISESUK",
         "NATE HOCK ENTERPRISES LLC"
       ]
     },
@@ -853,10 +879,7 @@
       "totalBids": 41,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "JULES REAL ESTATE SOLUTIONS LLC",
-        "RED BRICK STONE GROUP LLC"
-      ]
+      "entities": []
     },
     {
       "id": "3586da66-caf7-43c5-86f6-81e832f1207b",
@@ -867,9 +890,7 @@
       "totalBids": 18,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": [
-        "SFR II LLC"
-      ]
+      "entities": []
     },
     {
       "id": "8d3999c8-f73d-42a5-adf8-14f723244102",
@@ -880,9 +901,7 @@
       "totalBids": 14,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "VFMT REALTY INVESTMENT GROUP LLC"
-      ]
+      "entities": []
     },
     {
       "id": "aab0beab-2507-4dbd-9d5e-d17fd3e8f937",
@@ -894,6 +913,9 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
+        "BHB PROPERTIES LLC",
+        "CASSIDY MELHORN",
+        "VOL HOMES LLC",
         "VOLHOMES LLC"
       ]
     },
@@ -906,10 +928,7 @@
       "totalBids": 13,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": [
-        "KINGDOM REDEVELOPMENT BROTHERS CORP",
-        "YESENIA RIOS LAVARIEGA"
-      ]
+      "entities": []
     },
     {
       "id": "e0f14646-2b1a-4a67-b023-bd044ff99d65",
@@ -920,10 +939,7 @@
       "totalBids": 12,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "MEMPHIS CASH FLOW GP",
-        "SREERAJ NADRAJAN"
-      ]
+      "entities": []
     },
     {
       "id": "01977f05-7a96-7182-b141-e986e254106f",
@@ -935,8 +951,7 @@
       "ytdWon": 0,
       "ytdBids": 6,
       "entities": [
-        "J&D REAL ESTATE GROUP LLC",
-        "RAYMA PROPERTIES LLC"
+        "J & D REAL ESTATE GROUP LLC"
       ]
     },
     {
@@ -949,8 +964,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JOHN GRAY",
-        "MARCIO SILVA"
+        "LABELLA PROPERTIES LLC"
       ]
     },
     {
@@ -962,9 +976,7 @@
       "totalBids": 10,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": [
-        "MID SOUTH HOMEBUYERS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0196884b-5417-785f-80c8-d02b77942470",
@@ -976,8 +988,7 @@
       "ytdWon": 0,
       "ytdBids": 6,
       "entities": [
-        "KENNETH KANDRAC",
-        "MICHAEL R EVANS"
+        "N/A"
       ]
     },
     {
@@ -989,9 +1000,7 @@
       "totalBids": 10,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "QUORSTONE LLC"
-      ]
+      "entities": []
     },
     {
       "id": "a18c8309-8cc5-4dd1-b4ea-0c39f71055ce",
@@ -1003,8 +1012,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DAVID RHODES",
-        "KELLY CALDWELL"
+        "DAVID RHODES"
       ]
     },
     {
@@ -1016,9 +1024,7 @@
       "totalBids": 9,
       "ytdWon": 0,
       "ytdBids": 2,
-      "entities": [
-        "CASAS PROPERTIES LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0a1ebe94-742f-4057-a855-4278a550fbdb",
@@ -1030,8 +1036,11 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "ERIN GALLAGHER",
-        "JOE HAFNER"
+        "3 KINGS STR LLC",
+        "EXCEL BUILDERS",
+        "EXCEL BUILDERS LLC",
+        "JOE HAFNER",
+        "JOSEPH HARNER"
       ]
     },
     {
@@ -1043,10 +1052,7 @@
       "totalBids": 8,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "BIG DOG INVESTMENTS LLC",
-        "CORNER LOT HOLDINGS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "273cd9c4-ad50-40a9-9887-49c5848ca10b",
@@ -1057,9 +1063,7 @@
       "totalBids": 7,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "FAMILY SNOWBALL LLC"
-      ]
+      "entities": []
     },
     {
       "id": "01946ad5-ac19-7b5d-8bb2-3351f03b91b4",
@@ -1071,8 +1075,7 @@
       "ytdWon": 0,
       "ytdBids": 2,
       "entities": [
-        "BARRY APPLING",
-        "JAMES THOMAS"
+        "BARRY APPLING"
       ]
     },
     {
@@ -1085,9 +1088,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BRITCHER PROPERTIES LLC",
-        "INTERNATIONAL IMMOBILIARE LLC",
-        "SAN CHICO LLC"
+        "INTERNATIONAL IMMOBILIAR LLC"
       ]
     },
     {
@@ -1100,7 +1101,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "WHITFIELD PROPERTY MANAGEMENT LLC"
+        "BARBARA GAIL WHITFIELD"
       ]
     },
     {
@@ -1113,7 +1114,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DOUBLE BACKFLIP LLC",
         "EZ GA PROPERTIES LLC"
       ]
     },
@@ -1126,9 +1126,7 @@
       "totalBids": 6,
       "ytdWon": 0,
       "ytdBids": 3,
-      "entities": [
-        "STEVEN SMITH"
-      ]
+      "entities": []
     },
     {
       "id": "52998508-2ab7-46e9-90d3-4f2e4478c412",
@@ -1139,9 +1137,7 @@
       "totalBids": 6,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "SIG HOLDINGS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "912dda5a-597a-49f8-af7c-66afa646c3ae",
@@ -1153,7 +1149,9 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "SGG CONTRACTING INC"
+        "NOT AVAILABLE FROM THE DATA SOURCE",
+        "SGG CONTRACTING INC",
+        "SGG CONTRACTING INCORPORATION"
       ]
     },
     {
@@ -1192,7 +1190,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "RYAN YOUNG"
+        "SARAH SCOTT"
       ]
     },
     {
@@ -1204,10 +1202,7 @@
       "totalBids": 5,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "ELM STREET MANAGEMENT LLC",
-        "REBOUND REMODELS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0193938b-5b40-7515-8016-c7e4aabb6ca5",
@@ -1219,8 +1214,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "PROJECT MADHOUSE LLC",
-        "SECUREALESTARE INVESTMENTS LLC"
+        "SECUREALESTATE INVESTMENTS LLC"
       ]
     },
     {
@@ -1246,8 +1240,11 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "SAFWAT NOUH",
-        "THUY MILY"
+        "MICHAEL ADLY",
+        "MM INVESTMENTS LLC",
+        "MMINVESTMENTS LLC",
+        "NASH HOMES LLC",
+        "WALID CONSTRUCTION LLC"
       ]
     },
     {
@@ -1260,8 +1257,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "CARL WOERNER",
-        "SCOTT L PLANCK"
+        "ANGIE QUEBMAN"
       ]
     },
     {
@@ -1274,7 +1270,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "KAIZEN INVESTMENTS GROUP LLC"
+        "DIAMOND CUT HOLDINGS LLC"
       ]
     },
     {
@@ -1287,7 +1283,8 @@
       "ytdWon": 0,
       "ytdBids": 3,
       "entities": [
-        "PORT CITY PROPERTIES LLC"
+        "PORT CITY PROPERTIES LLC",
+        "TRAVIS BROWN"
       ]
     },
     {
@@ -1299,9 +1296,7 @@
       "totalBids": 5,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "SAMM INVESTMENT LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0193e4d1-6723-7f07-bc00-68881cc837f2",
@@ -1313,9 +1308,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BAMA CAPITAL LLC",
-        "BARPALA LLC",
-        "BROKEN VESSEL HOLDINGS LLC"
+        "100 BARBARA LLC"
       ]
     },
     {
@@ -1328,7 +1321,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MAHALO VENTURES LLC",
         "SOUP TO NUTS LLC"
       ]
     },
@@ -1342,7 +1334,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "H & A RENTALS LLC"
+        "H&A RENTALS LLC"
       ]
     },
     {
@@ -1355,7 +1347,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MARTINEZ PROPERTIES LLC"
+        "TRACY HARRELL"
       ]
     },
     {
@@ -1381,7 +1373,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "REDNOUR REAL ESTATE SERVICES LLC"
+        "KAREN HOMES LLC"
       ]
     },
     {
@@ -1394,7 +1386,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MEMPHIS INVESTMENT HOUSES LLC"
+        "BRYCE & BROWN HOME BUILDERS LLC"
       ]
     },
     {
@@ -1407,7 +1399,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DAVID MOORE INVESTMENTS LLC"
+        "BETTY BROWN"
       ]
     },
     {
@@ -1420,8 +1412,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "GM ORTIZ LLC",
-        "M&J ORTIZ LLC"
+        "M & J ORTIZ LLC"
       ]
     },
     {
@@ -1447,7 +1438,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "GILBERT CONSTRUCTION LLC"
+        "BECKY TUCKER"
       ]
     },
     {
@@ -1472,12 +1463,7 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "CINCY PROPERTY CARE LLC",
-        "MOBILL AR LLC",
-        "S & M HOUSING LLC",
-        "TIDY NEST PROPERTIES LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0fa35965-5499-4bb6-a52b-665c09ffcf08",
@@ -1488,10 +1474,7 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "CHRISTOPHER HUSS",
-        "MICHAEL HONEYCUTT"
-      ]
+      "entities": []
     },
     {
       "id": "230f9584-7a62-4ef2-95dd-55ff045c7383",
@@ -1502,10 +1485,7 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "BENNY NEILL",
-        "CRISTAL D PRICE"
-      ]
+      "entities": []
     },
     {
       "id": "f95b932c-9185-4348-b0dd-454b519adb5d",
@@ -1516,9 +1496,7 @@
       "totalBids": 4,
       "ytdWon": 0,
       "ytdBids": 1,
-      "entities": [
-        "1802 INVESTMENTS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "01923b9f-721d-7d4b-bd01-2b4b4736786d",
@@ -1530,8 +1508,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "LIGHTHOUSE ESTATES LLC",
-        "RED DOOR LEGACY LLC"
+        "JUSTIN BEAN"
       ]
     },
     {
@@ -1544,9 +1521,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "FAVELA HOMES LLC",
-        "JO & VI LLC",
-        "PREFERRED HOMES LLC"
+        "FAVELA HOMES LLC"
       ]
     },
     {
@@ -1571,9 +1546,7 @@
       "totalBids": 3,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "THE REGINALD LEWIS GROUP LLC"
-      ]
+      "entities": []
     },
     {
       "id": "01981507-744d-7ab1-b347-4f61906af280",
@@ -1585,12 +1558,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "CALLI INVESTMENTS LLC",
-        "HEARTLAND RENTAL GROUP LLC",
-        "HIGHVIEW HOLDINGS LLC",
-        "KLLEAN INVESTMENTS LLC",
-        "ST LOUIS NUMBER 5 LLC",
-        "VS FLIPS LLC"
+        "N/A"
       ]
     },
     {
@@ -1603,7 +1571,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "MPK REAL ESTATE HOLDINGS LLC"
+        "STEVE EKLUND"
       ]
     },
     {
@@ -1616,7 +1584,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JOSEPH ADAMS"
+        "JOSEPH"
       ]
     },
     {
@@ -1629,7 +1597,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ARKAD GOLD LLC"
+        "MAYER S STROH"
       ]
     },
     {
@@ -1642,9 +1610,10 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DWH PROPERTIES LLC",
-        "KOP PRAPERTIES LLC",
-        "KOP PROPERTIES LLC"
+        "AISHA CHAUDHRY",
+        "HAMNA CHAUDHRY",
+        "KOP PROPERTIES LLC",
+        "SHAHID MAHMOOD"
       ]
     },
     {
@@ -1657,7 +1626,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "RENNERB PROPERTIES LLC"
+        "VCB2 PROPERTIES LLC"
       ]
     },
     {
@@ -1670,7 +1639,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BUYWISE PROPERTIES LLC"
+        "316 E 6TH ST TRUST"
       ]
     },
     {
@@ -1683,7 +1652,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ALTITUDE INVESTMENTS LLC"
+        "MODERN INVESTMENTS LLC"
       ]
     },
     {
@@ -1709,8 +1678,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "CITY WIDE INVESTMENTS LLC",
-        "G & L ASSOCIATES LLC"
+        "CITY WIDE INVESTMENTS LLC"
       ]
     },
     {
@@ -1722,9 +1690,7 @@
       "totalBids": 3,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "THIRD DAY PROPERTIES LLC"
-      ]
+      "entities": []
     },
     {
       "id": "019716da-4474-7796-ae93-7da96330a205",
@@ -1775,7 +1741,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "AMARAS OHIO LLC"
+        "FORTUNE VINE REALITY LLC"
       ]
     },
     {
@@ -1787,10 +1753,7 @@
       "totalBids": 3,
       "ytdWon": 0,
       "ytdBids": 2,
-      "entities": [
-        "ATS PROPERTIES LLC",
-        "LONE WOLFE INVESTMENTS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "019439c5-4abf-716a-b9fb-b3123c07435b",
@@ -1802,8 +1765,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JOANN SILER",
-        "MICHAEL P JOHNSON"
+        "MICHAEL JOHNSON"
       ]
     },
     {
@@ -1815,10 +1777,7 @@
       "totalBids": 3,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "EGIL O MIRANDA CHAVEZ",
-        "JAMES STEPHENS"
-      ]
+      "entities": []
     },
     {
       "id": "f089dd43-7d1b-4706-8ffd-488d9df6a730",
@@ -1829,10 +1788,7 @@
       "totalBids": 3,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "ALICE HERBERT",
-        "NICOLE HARRIS"
-      ]
+      "entities": []
     },
     {
       "id": "0194bd8c-155c-7795-bc65-7ba77e1339df",
@@ -1857,8 +1813,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "KLA PROPERTY INVESTMENTS LLC",
-        "UPTOP INVESTMENTS LLC"
+        "KLA PROPERTY INVESTMENTS LLC"
       ]
     },
     {
@@ -1871,7 +1826,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "J & R PROPERTY LLC"
+        "J&R PROPERTY"
       ]
     },
     {
@@ -1884,7 +1839,9 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "ERNESTO GARCIA"
+        "ERNESTO GARCIA",
+        "FINE LINE INVESTMENTS LLC",
+        "FINELINE INVESTMENTS LLC"
       ]
     },
     {
@@ -1897,7 +1854,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "PREFERRED PROPERTIES 740 LLC"
+        "PREFERRED PROPERTIES 740 LLC",
+        "PREFERRED-PROPERTIES 740 LLC"
       ]
     },
     {
@@ -1910,8 +1868,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BBE ASSET HOLDINGS LLC",
-        "RBE ASSET HOLDINGS LLC"
+        "BBE ASSET HOLDINGS LLC"
       ]
     },
     {
@@ -1937,8 +1894,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "143 CLEVELAND AVENUE LLC",
-        "RUBUILT OFFERS LLC"
+        "KRESSIN HOLDING LLC"
       ]
     },
     {
@@ -1951,8 +1907,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "KIRK MACE",
-        "MICHAEL ROBINSON"
+        "KIRK MACE"
       ]
     },
     {
@@ -1978,7 +1933,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FLIPPIN 812 LLC"
+        "CODY NELSON JACKSON",
+        "MELISSA ZINK"
       ]
     },
     {
@@ -1991,7 +1947,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DANDY DEALINGS LLC"
+        "DANDY DWELLINGS"
       ]
     },
     {
@@ -2004,8 +1960,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DAVID J KNIGHT",
-        "MICHAEL GRIFFIN"
+        "EDOX INVESTMENTS LLC"
       ]
     },
     {
@@ -2031,8 +1986,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "DAVID CHARLTON",
-        "JOHN MORENO"
+        "J & Y ENTERPRISE LLC"
       ]
     },
     {
@@ -2045,7 +1999,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "PECAN 2025 LLC"
+        "LIVE OAK PROPERTIES LLC"
       ]
     },
     {
@@ -2058,8 +2012,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MEMFIXERUPPER LLC",
-        "MEMFIX RENTALS LLC"
+        "FERNANDO MARTINEZ"
       ]
     },
     {
@@ -2098,7 +2051,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ELORA HOLDINGS AND INVESTMENTS LLC",
         "SLAP SHOT TRANSACTIONS LLC"
       ]
     },
@@ -2112,7 +2064,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "PINELANDS HOME SALES LLC"
+        "MARK SCHNEIDER",
+        "SCHNEIDER RENTAL LLC"
       ]
     },
     {
@@ -2125,8 +2078,10 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "SALVADOR RODRIGUEZ",
-        "TERRY E KING"
+        "BLUE SKY HORIZON GP",
+        "SAAWAN B SATIYA",
+        "TERRY KING",
+        "YONG CHIEH LIOU"
       ]
     },
     {
@@ -2139,7 +2094,8 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "HAVANA ESTATES LLC"
+        "ALDO ECHEVERRIA",
+        "ALDO J ECHEVERRIA"
       ]
     },
     {
@@ -2165,8 +2121,10 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ROOTED INVESTMENTS LLC",
-        "TLD PROPERTIES LLC"
+        "CODY SMITH",
+        "JAMES BAILEY",
+        "MARWAN A ALSANABANI",
+        "RHEA SMOTHERS MORGAN"
       ]
     },
     {
@@ -2179,7 +2137,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ZACHARY WHITING"
+        "THE DANBERRY CO."
       ]
     },
     {
@@ -2192,7 +2150,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BROKER COMP II LLC"
+        "BROKER COMP II LLC",
+        "MARLO CRAWLEY"
       ]
     },
     {
@@ -2205,7 +2164,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "LIMESTONE RENTALS LLC"
+        "DAVID DEAN",
+        "DAVID K DEAN"
       ]
     },
     {
@@ -2243,9 +2203,7 @@
       "totalBids": 2,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "YOUR HOME SOLUTIONS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "6acf04df-9631-4214-be38-acb4954967df",
@@ -2257,7 +2215,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "COPELAND HOLDINGS LLC"
+        "KEITH FOLLESE"
       ]
     },
     {
@@ -2269,9 +2227,7 @@
       "totalBids": 2,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "MC SQUARES VENTURES LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0192c42e-d632-7bc2-9d11-c70f2d92ba63",
@@ -2283,8 +2239,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JOHN E WATERS",
-        "MARK U LANGE"
+        "JOHN WATERS"
       ]
     },
     {
@@ -2297,7 +2252,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "NATIONWIDE CAPITAL PARTNERS LLC"
+        "AARON KAMEL"
       ]
     },
     {
@@ -2310,8 +2265,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MEIK PROPERTIES CORP",
-        "RH HOT LLC"
+        "MEIK PROPERTIES CORP"
       ]
     },
     {
@@ -2324,9 +2278,11 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "LIGHTHOUSE ESTATES LLC",
+        "EMILY P BLACKWOOD",
+        "LINDA IRELAND",
+        "PHOENIX DWELLINGS LLC",
         "TURN 2 PROPERTIES LLC",
-        "VIVACIOUS LIVING LLC"
+        "TURN 2 PROPERTRIES LLC"
       ]
     },
     {
@@ -2351,10 +2307,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "HALL OF FAME HOME BUYERS LLC",
-        "MGDR LAND LLC"
-      ]
+      "entities": []
     },
     {
       "id": "019b4750-6061-789c-8614-7be8f603d3c4",
@@ -2366,8 +2319,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BANK OF AMERICA NA",
-        "CLAUDINE FULLMAN"
+        "CHENNY QUAN GAN"
       ]
     },
     {
@@ -2379,11 +2331,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "SFR WORKFORCE OWNER 2 LLC",
-        "SFR WORKFORCE OWNER LLC",
-        "SOUTHERN OAK CAPITAL LLC"
-      ]
+      "entities": []
     },
     {
       "id": "d29bca6e-ed03-4cdc-8d9f-b552897178fb",
@@ -2395,7 +2343,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ESTATE OF HAROLD J COX JR",
         "MICHAEL JOHNSON"
       ]
     },
@@ -2409,9 +2356,10 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
+        "ALICIA CAROLINA ABREGO GARCIA",
+        "CLAUDIA BENNETT MA",
         "MCS HOMES LLC",
-        "MCS LLC",
-        "STRONGER BUILDERS LLC"
+        "MCS LLC"
       ]
     },
     {
@@ -2424,7 +2372,9 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MARUMA REAL ESTATE AL LLC"
+        "IOWA EQUITY EXCHANGE PRKG 3148 LLC",
+        "LG PROPERTIES LLC",
+        "PCU LLC"
       ]
     },
     {
@@ -2437,8 +2387,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FAMILY SNOWBALL LLC",
-        "JBNAL PROPERTIES LLC"
+        "FAMILY SNOWBALL LLC"
       ]
     },
     {
@@ -2464,7 +2413,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "PEGASUS REAL ESTATE SERVICES LLC"
+        "CHANCE WOODS"
       ]
     },
     {
@@ -2477,7 +2426,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "OFFERPAD SPVBORROWER1 LLC"
+        "OFFERPAD"
       ]
     },
     {
@@ -2490,7 +2439,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FEDERAL NATL MTG ASSN",
         "JUSTIN SPAULDING"
       ]
     },
@@ -2504,10 +2452,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FIFTH LLC",
-        "OHIO FALCON LLC",
-        "OHIO FALSON LLC",
-        "QUEST PROPERTY HOLDINGS LLC"
+        "OHIO FALCON LLC"
       ]
     },
     {
@@ -2519,9 +2464,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "NEXT LEVEL INVESTMENTS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "5c3c7451-bb7e-4e0c-b578-7ac08e757bf9",
@@ -2533,7 +2476,8 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FIRST LIGHT HOLDINGS LLC"
+        "TIM HUDSON",
+        "TIMOTHY HUDSON"
       ]
     },
     {
@@ -2546,7 +2490,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ROMA CAPITAL LLC"
+        "BELMAN MIRANDA"
       ]
     },
     {
@@ -2559,8 +2503,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "FEDERAL HM LN MTG CORP",
-        "ROSHAUNYA K GRAY"
+        "ABDULMALIK MASHRAH"
       ]
     },
     {
@@ -2573,7 +2516,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "RESTORED INVESTMENTS LLC"
+        "POCONO PROPERTIES LLC"
       ]
     },
     {
@@ -2586,7 +2529,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ANTONIO CATALAN",
         "BRIAN WEST"
       ]
     },
@@ -2612,10 +2554,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "ALCAZA LLC",
-        "CARPIOMACO CONSTRUCTION LLC"
-      ]
+      "entities": []
     },
     {
       "id": "019504e7-7382-7675-89bc-eefb1c696c84",
@@ -2627,7 +2566,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "SWA SOUTH BEND PROPERTIES LLC"
+        "SHAKIL AHMED"
       ]
     },
     {
@@ -2640,8 +2579,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JESUS GARCIA",
-        "JOSE OLVERA"
+        "JESUS GARCIA"
       ]
     },
     {
@@ -2654,8 +2592,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "ALTON GIBSON",
-        "RAFAEL GONZALEZ"
+        "SFR CAPITAL PARTNERS"
       ]
     },
     {
@@ -2667,9 +2604,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "26 CENTS LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0195017c-3a6a-724c-a91d-03961026efef",
@@ -2720,8 +2655,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "CHARLES ROZZELLE",
-        "CHARLES WILLIAM ROZZELLE"
+        "ERNESTO ROZALEZ MARTINEZ"
       ]
     },
     {
@@ -2734,7 +2668,6 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "105 PRINCETON AVE LLC",
         "435 XANTHUS AVE LLC"
       ]
     },
@@ -2761,7 +2694,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "BENJAMIN MOORE",
+        "JASON B HEATON",
         "JASON HEATON"
       ]
     },
@@ -2788,7 +2721,7 @@
       "ytdWon": 0,
       "ytdBids": 1,
       "entities": [
-        "LITTLE INVESTMENTS LLC"
+        "MCKENNA LITTLE"
       ]
     },
     {
@@ -2801,8 +2734,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FAMIY TREE REAL ESTATE INVESTMENTS",
-        "PROPIEDADES ALM LLC"
+        "FAMILY TREE REI LLC"
       ]
     },
     {
@@ -2841,7 +2773,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MW PRIME HOLDINGS LLC"
+        "MIKE VALENZA"
       ]
     },
     {
@@ -2854,7 +2786,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JCP GENESEE LLC"
+        "JCP"
       ]
     },
     {
@@ -2866,9 +2798,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "5227 BURTON STREET LLC"
-      ]
+      "entities": []
     },
     {
       "id": "01947d22-4c79-7961-a137-c9e80694a80e",
@@ -2880,7 +2810,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MATTHEW HALE"
+        "JERAMIE PETERSON"
       ]
     },
     {
@@ -2893,6 +2823,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
+        "FIRST CHOICE CONSTRUCTION LLC",
         "RANDALL JOHNSON"
       ]
     },
@@ -2906,8 +2837,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "HALEY BROWN",
-        "MIGUEL A GONZALEZ"
+        "CARL COLLINS"
       ]
     },
     {
@@ -2919,10 +2849,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "EASY STREET CAPITAL LLC",
-        "REVIVE SPACES LLC"
-      ]
+      "entities": []
     },
     {
       "id": "0193d5b5-fb40-7a7c-ace1-06fdfe063a96",
@@ -2934,7 +2861,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "GLR PROFESSIONALS 2024 LLC"
+        "GARRETT LOWERY"
       ]
     },
     {
@@ -2947,7 +2874,9 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "EDUARDO CASTILLO"
+        "EDUARDO AND ALONDRA CASTILLO LIV TR",
+        "EDUARDO CASTILLO",
+        "EDUARDO CASTILLO & ALONDRA CASTILLO"
       ]
     },
     {
@@ -2960,8 +2889,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "MICHAEL YARBROUGH",
-        "TYNISKI THAXTON"
+        "MICHAEL YARBROUGH"
       ]
     },
     {
@@ -2974,6 +2902,11 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
+        "BRIAN R TESAR",
+        "BRIAN RICHARD TESAR",
+        "BRIAN TESAR",
+        "CHRIS SCANTLAND",
+        "RISING STREAMS LLC",
         "ROCKET STREAMS LLC"
       ]
     },
@@ -3000,7 +2933,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "STARLIGHT REALITY EMPIRE LLC"
+        "STARLIGHT REALITY GROUP"
       ]
     },
     {
@@ -3012,9 +2945,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "YANG TAO"
-      ]
+      "entities": []
     },
     {
       "id": "0192a7bb-6f78-7474-8ada-98e4ab31dce7",
@@ -3026,7 +2957,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "GUMLOG INVESTMENT GROUP LLC"
+        "BRENDA OSORIO GARCIA"
       ]
     },
     {
@@ -3039,8 +2970,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "JIMMY PENROSE",
-        "MICHAEL DUGAN"
+        "YELENA ALIY"
       ]
     },
     {
@@ -3053,8 +2983,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "CHAD JARRAH",
-        "MIGUELINA GOMEZ"
+        "CHAD JARRAH"
       ]
     },
     {
@@ -3066,9 +2995,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "MARFOX LLC"
-      ]
+      "entities": []
     },
     {
       "id": "01959abd-e5dc-7e7e-a27b-3892e25ceef8",
@@ -3080,8 +3007,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "AMANDA BURTON",
-        "AMANDA DIXON"
+        "MATT FOUCH"
       ]
     },
     {
@@ -3093,9 +3019,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "SHEFFIELD PROPERTIES INC"
-      ]
+      "entities": []
     },
     {
       "id": "019397b4-7e81-753f-ae3c-c3967a1b9ce2",
@@ -3107,8 +3031,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "FLUSHING INVESTMENTS CORP",
-        "KONEY REALTY LLC"
+        "JOURNEY HOME REALTY LLC"
       ]
     },
     {
@@ -3121,7 +3044,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "W2 HOLDINGS LLC"
+        "ASHLEY CHASTAIN"
       ]
     },
     {
@@ -3133,9 +3056,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "KEITH ADAMS"
-      ]
+      "entities": []
     },
     {
       "id": "0194050b-6977-7e25-a143-8eb7895787d6",
@@ -3147,7 +3068,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "10AZEE PROPERTIES LLC"
+        "BORN AGAIN PROPERTIES LLC"
       ]
     },
     {
@@ -3159,10 +3080,7 @@
       "totalBids": 1,
       "ytdWon": 0,
       "ytdBids": 0,
-      "entities": [
-        "GREGORY SCOTT GOOLSBY",
-        "JAMES P MARTIN"
-      ]
+      "entities": []
     },
     {
       "id": "0196a806-5d07-7a6c-8f94-7046cdcf87a1",
@@ -3174,7 +3092,7 @@
       "ytdWon": 0,
       "ytdBids": 0,
       "entities": [
-        "T Y H P A 20 L L C"
+        "TYH PA 16 LLC"
       ]
     },
     {
@@ -3187,7 +3105,7 @@
       "ytdWon": 1,
       "ytdBids": 1,
       "entities": [
-        "growth 2026 ll"
+        "GROWTH 2026 LL"
       ]
     }
   ]

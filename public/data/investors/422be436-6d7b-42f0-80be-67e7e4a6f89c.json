@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "ltd investments llc"
+      "LTD INVESTMENTS LLC"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": 1,
       "sqft": 768,
       "lotSize": 1.152,
-      "lat": null,
-      "lng": null,
+      "lat": 40.035307,
+      "lng": -80.688931,
       "entity": "LTD INVESTMENTS LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 1,
       "sqft": 1108,
       "lotSize": 0.0600092,
-      "lat": 40.6834054,
-      "lng": -76.205829,
+      "lat": 40.68366,
+      "lng": -76.205616,
       "entity": "LTD INVESTMENTS LLC"
     },
     {
@@ -90,8 +90,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.3,
-      "lat": null,
-      "lng": null,
+      "lat": 38.070624,
+      "lng": -92.747532,
       "entity": "LTD INVESTMENTS LLC"
     }
   ]

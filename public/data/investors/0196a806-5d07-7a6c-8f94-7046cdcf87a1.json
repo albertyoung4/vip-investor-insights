@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "T Y H P A 20 L L C"
+      "TYH PA 16 LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 4,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -27,7 +27,7 @@
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 4
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
@@ -39,74 +39,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 1041104,
-      "offerDate": "2025-07-25",
-      "offerPrice": 55000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "7 CARRIE ST, PITTSBURGH PA",
-      "city": "PITTSBURGH",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.461458,
-      "lng": -80.002265
-    },
-    {
-      "propertyId": null,
-      "attomId": 47020372,
-      "offerDate": "2025-07-24",
-      "offerPrice": 22500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "8428 DERSAM ST, PITTSBURGH PA",
-      "city": "PITTSBURGH",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.458252,
-      "lng": -79.877066
-    },
-    {
-      "propertyId": null,
-      "attomId": 24667464,
-      "offerDate": "2025-07-24",
-      "offerPrice": 62000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1220 THELMA ST, PITTSBURGH PA",
-      "city": "PITTSBURGH",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.468986,
-      "lng": -80.028063
-    },
-    {
-      "propertyId": null,
-      "attomId": 179964060,
-      "offerDate": "2025-07-10",
-      "offerPrice": 22000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "614 HOLLACE ST, PITTSBURGH PA",
-      "city": "PITTSBURGH",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.450445,
-      "lng": -79.967556
-    }
-  ]
+  "properties": []
 }

@@ -8,19 +8,16 @@
     "totalBids": 1,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "GREGORY SCOTT GOOLSBY",
-      "JAMES P MARTIN"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 2,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 5,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -32,99 +29,13 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 22403607,
-      "offerDate": "2026-01-30",
-      "offerPrice": 260000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5936 BROWNTOWN RD, CHATTANOOGA TN",
-      "city": "CHATTANOOGA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.167091,
-      "lng": -85.272184
-    },
-    {
-      "propertyId": null,
-      "attomId": 53638802,
-      "offerDate": "2026-01-30",
-      "offerPrice": 1988700,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3 MARSH CREEK RD, FERNANDINA BEACH FL",
-      "city": "FERNANDINA BEACH",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 30.55246,
-      "lng": -81.450214
-    },
-    {
-      "propertyId": null,
-      "attomId": 163372397,
-      "offerDate": "2025-10-30",
-      "offerPrice": 1562500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2411 BOXWOOD LN, FERNANDINA BEACH FL",
-      "city": "FERNANDINA BEACH",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 30.55911,
-      "lng": -81.449841
-    },
-    {
-      "propertyId": null,
-      "attomId": 142169373,
-      "offerDate": "2025-03-28",
-      "offerPrice": 270000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1714 S CREST MANOR LN, CHATTANOOGA TN",
-      "city": "CHATTANOOGA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.018663,
-      "lng": -85.265935
-    },
-    {
-      "propertyId": null,
-      "attomId": 11696450,
-      "offerDate": "2024-01-31",
-      "offerPrice": 290000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5 LAVENDER LN, SPRINGFIELD MA",
-      "city": "SPRINGFIELD",
-      "state": "MA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.121876,
-      "lng": -72.484634
-    }
-  ]
+  "properties": []
 }

@@ -8,31 +8,28 @@
     "totalBids": 4,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "CHRISTOPHER HUSS",
-      "MICHAEL HONEYCUTT"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 6,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
@@ -40,108 +37,5 @@
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 141485033,
-      "offerDate": "2025-05-07",
-      "offerPrice": 1150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "16750 SW 172ND AVE, MIAMI FL",
-      "city": "MIAMI",
-      "state": "FL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 25.610207,
-      "lng": -80.471436
-    },
-    {
-      "propertyId": null,
-      "attomId": 31313183,
-      "offerDate": "2025-12-22",
-      "offerPrice": 310000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "129 N LAKE LOUISE DR, MOCKSVILLE NC",
-      "city": "MOCKSVILLE",
-      "state": "NC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.891866,
-      "lng": -80.493705
-    },
-    {
-      "propertyId": null,
-      "attomId": 172601629,
-      "offerDate": "2025-09-10",
-      "offerPrice": 175000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "38182 CHERRY HILL RD, WESTLAND MI",
-      "city": "WESTLAND",
-      "state": "MI",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.309668,
-      "lng": -83.415102
-    },
-    {
-      "propertyId": null,
-      "attomId": 196987467,
-      "offerDate": "2025-07-03",
-      "offerPrice": 2000000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "5701 CRINER RD SE, HUNTSVILLE AL",
-      "city": "HUNTSVILLE",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.690379,
-      "lng": -86.561169
-    },
-    {
-      "propertyId": null,
-      "attomId": 303317641,
-      "offerDate": "2025-01-08",
-      "offerPrice": 21500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "112 RED OAK CT, TROY NC",
-      "city": "TROY",
-      "state": "NC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.319168,
-      "lng": -80.066721
-    },
-    {
-      "propertyId": null,
-      "attomId": 25925366,
-      "offerDate": "2024-08-30",
-      "offerPrice": 362000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1036 WEISS DR, SUMMERTON SC",
-      "city": "SUMMERTON",
-      "state": "SC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 33.547234,
-      "lng": -80.227107
-    }
-  ]
+  "properties": []
 }

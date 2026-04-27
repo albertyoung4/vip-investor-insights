@@ -9,17 +9,17 @@
     "ytdWon": 1,
     "ytdBids": 7,
     "entities": [
-      "purple otter llc"
+      "PURPLE OTTER LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 1,
+    "totalTransactions2025": 2,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 1,
+    "recorderTransactions": 2,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 2
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -42,6 +42,24 @@
   "properties": [
     {
       "propertyId": null,
+      "attomId": 142092511,
+      "offerDate": "2025-01-31T06:00:00.000Z",
+      "offerPrice": 40000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1536 MERLIN AVE, MEMPHIS TN",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 986,
+      "lotSize": 0.1679982,
+      "lat": 35.09029,
+      "lng": -90.011865,
+      "entity": "PURPLE OTTER LLC"
+    },
+    {
+      "propertyId": null,
       "attomId": 191014763,
       "offerDate": "2025-01-02T06:00:00.000Z",
       "offerPrice": 0,
@@ -54,8 +72,8 @@
       "baths": 1,
       "sqft": 889,
       "lotSize": 0.1429982,
-      "lat": 35.1777573,
-      "lng": -89.9747977,
+      "lat": 35.157139,
+      "lng": -89.976418,
       "entity": "PURPLE OTTER LLC"
     }
   ]

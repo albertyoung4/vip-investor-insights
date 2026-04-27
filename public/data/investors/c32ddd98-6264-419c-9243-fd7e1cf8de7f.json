@@ -8,173 +8,34 @@
     "totalBids": 1,
     "ytdWon": 0,
     "ytdBids": 0,
-    "entities": [
-      "MARFOX LLC"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 199778076,
-      "offerDate": "2026-02-24",
-      "offerPrice": 237000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "10800 E CANTEEN RD, NEWKIRK OK",
-      "city": "NEWKIRK",
-      "state": "OK",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.857939,
-      "lng": -96.892013
-    },
-    {
-      "propertyId": null,
-      "attomId": 202024950,
-      "offerDate": "2025-11-18",
-      "offerPrice": 382500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3533 RAINES LN, KNOXVILLE TN",
-      "city": "KNOXVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.907905,
-      "lng": -83.95892
-    },
-    {
-      "propertyId": null,
-      "attomId": 2611854,
-      "offerDate": "2025-11-05",
-      "offerPrice": 240000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "7236 PALERMO RD, KNOXVILLE TN",
-      "city": "KNOXVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.053833,
-      "lng": -83.978785
-    },
-    {
-      "propertyId": null,
-      "attomId": 16144315,
-      "offerDate": "2025-08-06",
-      "offerPrice": 206000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "4310 TWIN PINES DR, KNOXVILLE TN",
-      "city": "KNOXVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.967065,
-      "lng": -84.013466
-    },
-    {
-      "propertyId": null,
-      "attomId": 204428891,
-      "offerDate": "2025-06-26",
-      "offerPrice": 158500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3722 ROBERTS RD, CORRYTON TN",
-      "city": "CORRYTON",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.085405,
-      "lng": -83.786737
-    },
-    {
-      "propertyId": null,
-      "attomId": 3821310,
-      "offerDate": "2025-03-10",
-      "offerPrice": 125000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "2714 E 5TH AVE, KNOXVILLE TN",
-      "city": "KNOXVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.989789,
-      "lng": -83.892332
-    },
-    {
-      "propertyId": null,
-      "attomId": 7142234,
-      "offerDate": "2024-11-22",
-      "offerPrice": 185000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "204 OAKLAND ST, KNOXVILLE TN",
-      "city": "KNOXVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.996195,
-      "lng": -83.875838
-    },
-    {
-      "propertyId": null,
-      "attomId": 189009195,
-      "offerDate": "2024-04-15",
-      "offerPrice": 160000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3620 SKYLINE DR, KNOXVILLE TN",
-      "city": "KNOXVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.992799,
-      "lng": -83.872063
-    }
-  ]
+  "properties": []
 }

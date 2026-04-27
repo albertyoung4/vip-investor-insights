@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "embark developments llc"
+      "EMBARK DEVELOPMENTS LLC"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": null,
       "sqft": 960,
       "lotSize": 0.1616621,
-      "lat": 34.996356,
-      "lng": -85.288461,
+      "lat": 34.999651,
+      "lng": -85.287044,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -72,14 +72,9 @@
       "baths": 2,
       "sqft": 1667,
       "lotSize": 0.6600092,
-      "lat": 35.509022,
-      "lng": -84.7932775,
-      "entity": "EMBARK DEVELOPMENTS LLC",
-      "omrMatch": {
-        "posterName": "Nick Rice",
-        "askingPrice": 70000,
-        "postedAt": "2026-04-02T20:41:31.317561+00:00"
-      }
+      "lat": 35.525553,
+      "lng": -84.788687,
+      "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
       "propertyId": null,
@@ -95,8 +90,8 @@
       "baths": null,
       "sqft": 2332,
       "lotSize": 0.3133609,
-      "lat": null,
-      "lng": null,
+      "lat": 35.040824,
+      "lng": -85.23896,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -113,8 +108,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.019995400682091713,
-      "lat": 34.9790374,
-      "lng": -85.289533,
+      "lat": 34.9765510559082,
+      "lng": -85.300591,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -131,8 +126,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.11000920087099075,
-      "lat": 34.9790374,
-      "lng": -85.289533,
+      "lat": 34.976383209228516,
+      "lng": -85.300592,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -149,8 +144,8 @@
       "baths": 1,
       "sqft": 1930,
       "lotSize": 0.1699954,
-      "lat": 34.9790374,
-      "lng": -85.289533,
+      "lat": 34.976105,
+      "lng": -85.300362,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -167,8 +162,8 @@
       "baths": 1,
       "sqft": 948,
       "lotSize": 0.1899908,
-      "lat": 34.9790374,
-      "lng": -85.289533,
+      "lat": 34.975931,
+      "lng": -85.300185,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -185,31 +180,26 @@
       "baths": 1,
       "sqft": 1112,
       "lotSize": 1.08,
-      "lat": null,
-      "lng": null,
-      "entity": "EMBARK DEVELOPMENTS LLC",
-      "omrMatch": {
-        "posterName": "Jonathan Krieg",
-        "askingPrice": 65000,
-        "postedAt": "2026-04-02T20:41:56.632467+00:00"
-      }
+      "lat": 35.160651,
+      "lng": -84.850941,
+      "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
       "propertyId": null,
-      "attomId": 52514178,
+      "attomId": 18745914,
       "offerDate": "2025-08-05T05:00:00.000Z",
-      "offerPrice": 36000,
+      "offerPrice": 18500,
       "status": "recorded",
       "isRebuilt": false,
-      "address": "1012 TUNNEL BLVD, CHATTANOOGA TN",
-      "city": "CHATTANOOGA",
+      "address": "22 INGLESIDE AVE, ENGLEWOOD TN",
+      "city": "ENGLEWOOD",
       "state": "TN",
       "beds": 0,
-      "baths": null,
-      "sqft": 2332,
-      "lotSize": 0.3133609,
-      "lat": null,
-      "lng": null,
+      "baths": 1,
+      "sqft": 1197,
+      "lotSize": 0.3,
+      "lat": 35.424698,
+      "lng": -84.492521,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -226,8 +216,8 @@
       "baths": null,
       "sqft": 1365,
       "lotSize": 0.1606979,
-      "lat": 35.0416655,
-      "lng": -85.2575036,
+      "lat": 35.045404,
+      "lng": -85.267319,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -244,8 +234,8 @@
       "baths": 2,
       "sqft": 1253,
       "lotSize": 23.6,
-      "lat": null,
-      "lng": null,
+      "lat": 35.146854,
+      "lng": -84.911005,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -262,8 +252,8 @@
       "baths": 2,
       "sqft": 1008,
       "lotSize": 0.3443526,
-      "lat": null,
-      "lng": null,
+      "lat": 35.147439,
+      "lng": -84.874349,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -280,8 +270,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.1606979,
-      "lat": null,
-      "lng": null,
+      "lat": 35.152187,
+      "lng": -84.863345,
       "entity": "EMBARK DEVELOPMENTS LLC"
     },
     {
@@ -316,8 +306,8 @@
       "baths": 2,
       "sqft": 1020,
       "lotSize": 0.5165289,
-      "lat": null,
-      "lng": null,
+      "lat": 35.148829,
+      "lng": -84.871395,
       "entity": "EMBARK DEVELOPMENTS LLC"
     }
   ]

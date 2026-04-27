@@ -8,14 +8,12 @@
     "totalBids": 10,
     "ytdWon": 0,
     "ytdBids": 1,
-    "entities": [
-      "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    ]
+    "entities": []
   },
   "stats": {
     "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 8,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -35,154 +33,9 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 36283662,
-      "offerDate": "2026-02-24T05:00:00.000Z",
-      "offerPrice": 800000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "105 BURLINGTON CT, NASHVILLE TN",
-      "city": "NASHVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.109535,
-      "lng": -86.833253,
-      "entity": "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 186731292,
-      "offerDate": "2024-07-23T05:00:00.000Z",
-      "offerPrice": 250000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "430 EMMITT AVE, MADISON TN",
-      "city": "MADISON",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.250521,
-      "lng": -86.708593,
-      "entity": "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 44168239,
-      "offerDate": "2024-05-08T05:00:00.000Z",
-      "offerPrice": 210000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "244 NEW SAWYER BROWN RD, NASHVILLE TN",
-      "city": "NASHVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 36.086678,
-      "lng": -86.940981,
-      "entity": "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 33165841,
-      "offerDate": "2024-03-22T05:00:00.000Z",
-      "offerPrice": 203000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "109 GLADE DR, TULLAHOMA TN",
-      "city": "TULLAHOMA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.335323,
-      "lng": -86.230836,
-      "entity": "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 197528528,
-      "offerDate": "2024-01-29T05:00:00.000Z",
-      "offerPrice": 48500,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1007 MCDONALD ST, FAYETTEVILLE TN",
-      "city": "FAYETTEVILLE",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.150143,
-      "lng": -86.58374,
-      "entity": "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 203445401,
-      "offerDate": "2024-01-24T05:00:00.000Z",
-      "offerPrice": 60000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1367 HAWKERSMITH RD, TULLAHOMA TN",
-      "city": "TULLAHOMA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.391304,
-      "lng": -86.126587,
-      "entity": "MUSIC CITY MANAGEMENT INVESTMENTS L"
-    },
-    {
-      "propertyId": null,
-      "attomId": 20554237,
-      "offerDate": "2026-01-16T05:00:00.000Z",
-      "offerPrice": 255000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "7015 DOGWOOD LN, MILAN TN",
-      "city": "MILAN",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.901955,
-      "lng": -88.756719,
-      "entity": "ERIC BAILEY"
-    },
-    {
-      "propertyId": null,
-      "attomId": 203445401,
-      "offerDate": "2024-01-24T05:00:00.000Z",
-      "offerPrice": 118000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "1367 HAWKERSMITH RD, TULLAHOMA TN",
-      "city": "TULLAHOMA",
-      "state": "TN",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.391304,
-      "lng": -86.126587,
-      "entity": "FELIX CASTRO TIENDA"
-    }
-  ]
+  "properties": []
 }

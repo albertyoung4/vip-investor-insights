@@ -8,23 +8,20 @@
     "totalBids": 3,
     "ytdWon": 0,
     "ytdBids": 2,
-    "entities": [
-      "ATS PROPERTIES LLC",
-      "LONE WOLFE INVESTMENTS LLC"
-    ]
+    "entities": []
   },
   "stats": {
-    "totalTransactions2025": 5,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 12,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -32,218 +29,13 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 290412453,
-      "offerDate": "2026-03-02",
-      "offerPrice": 581400,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "807 N NASHVILLE AVE, SHEFFIELD AL",
-      "city": "SHEFFIELD",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.766577,
-      "lng": -87.697706
-    },
-    {
-      "propertyId": null,
-      "attomId": 290415709,
-      "offerDate": "2026-02-17",
-      "offerPrice": 18500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1006 E 17TH ST, SHEFFIELD AL",
-      "city": "SHEFFIELD",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.751848,
-      "lng": -87.694586
-    },
-    {
-      "propertyId": null,
-      "attomId": 290439211,
-      "offerDate": "2025-12-22",
-      "offerPrice": 25000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "7715 MOUNT MILLS RD, CHEROKEE AL",
-      "city": "CHEROKEE",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.718434,
-      "lng": -87.891771
-    },
-    {
-      "propertyId": null,
-      "attomId": 290412879,
-      "offerDate": "2025-06-09",
-      "offerPrice": 47700,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "7315 2ND ST, MUSCLE SHOALS AL",
-      "city": "MUSCLE SHOALS",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.757282,
-      "lng": -87.536041
-    },
-    {
-      "propertyId": null,
-      "attomId": 290434020,
-      "offerDate": "2025-04-23",
-      "offerPrice": 675000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1110 PAUL E JOHNSON MEMORIAL DR, TUSCUMBIA AL",
-      "city": "TUSCUMBIA",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.725813,
-      "lng": -87.686944
-    },
-    {
-      "propertyId": null,
-      "attomId": 290436183,
-      "offerDate": "2025-03-13",
-      "offerPrice": 102000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1006 FRANCIS ST, TUSCUMBIA AL",
-      "city": "TUSCUMBIA",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.719925,
-      "lng": -87.721279
-    },
-    {
-      "propertyId": null,
-      "attomId": 290438770,
-      "offerDate": "2025-01-31",
-      "offerPrice": 44000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "8943 MOUNT MILLS RD, CHEROKEE AL",
-      "city": "CHEROKEE",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.736641,
-      "lng": -87.891812
-    },
-    {
-      "propertyId": null,
-      "attomId": 290408113,
-      "offerDate": "2024-12-17",
-      "offerPrice": 82500,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1411 FREY AVE, SHEFFIELD AL",
-      "city": "SHEFFIELD",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.762142,
-      "lng": -87.676796
-    },
-    {
-      "propertyId": null,
-      "attomId": 176833673,
-      "offerDate": "2024-11-07",
-      "offerPrice": 630000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "4700 WALDEN CT, CHARLOTTE NC",
-      "city": "CHARLOTTE",
-      "state": "NC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.147711,
-      "lng": -80.834488
-    },
-    {
-      "propertyId": null,
-      "attomId": 50772729,
-      "offerDate": "2024-10-30",
-      "offerPrice": 200000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "3989 S WHETZEL ST, CINCINNATI OH",
-      "city": "CINCINNATI",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.148356,
-      "lng": -84.394379
-    },
-    {
-      "propertyId": null,
-      "attomId": 290437290,
-      "offerDate": "2024-02-15",
-      "offerPrice": 105000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "440 CARTER DR, TUSCUMBIA AL",
-      "city": "TUSCUMBIA",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.727752685546875,
-      "lng": -87.786851
-    },
-    {
-      "propertyId": null,
-      "attomId": 290445983,
-      "offerDate": "2024-02-09",
-      "offerPrice": 17300,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1306 ROBERTSON BLVD, SHEFFIELD AL",
-      "city": "SHEFFIELD",
-      "state": "AL",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 34.770762,
-      "lng": -87.672604
-    }
-  ]
+  "properties": []
 }

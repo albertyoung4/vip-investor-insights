@@ -9,17 +9,17 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "cheyenne investments llc"
+      "CHEYENNE INVESTMENTS LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 58,
+    "totalTransactions2025": 59,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 72,
+    "recorderTransactions": 74,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 14
+        "total": 15
       },
       "2025-Q2": {
         "rebuilt": 0,
@@ -42,20 +42,20 @@
   "properties": [
     {
       "propertyId": null,
-      "attomId": 50825235,
-      "offerDate": "2026-03-16T05:00:00.000Z",
-      "offerPrice": 72550,
+      "attomId": 54086127,
+      "offerDate": "2026-04-06T05:00:00.000Z",
+      "offerPrice": 170000,
       "status": "recorded",
       "isRebuilt": false,
-      "address": "1551 CANADA FLATT RD, COOKEVILLE TN",
+      "address": "2602 OAKWOOD LN, COOKEVILLE TN",
       "city": "COOKEVILLE",
       "state": "TN",
-      "beds": 0,
+      "beds": 3,
       "baths": 2,
-      "sqft": 1329,
-      "lotSize": 2,
-      "lat": null,
-      "lng": null,
+      "sqft": 1705,
+      "lotSize": 0,
+      "lat": 36.202211,
+      "lng": -85.473145,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -72,8 +72,26 @@
       "baths": null,
       "sqft": 1152,
       "lotSize": 1.5,
-      "lat": null,
-      "lng": null,
+      "lat": 36.354868,
+      "lng": -85.650892,
+      "entity": "CHEYENNE INVESTMENTS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 50825235,
+      "offerDate": "2026-03-16T05:00:00.000Z",
+      "offerPrice": 72550,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "1551 CANADA FLATT RD, COOKEVILLE TN",
+      "city": "COOKEVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1329,
+      "lotSize": 2,
+      "lat": 36.171115,
+      "lng": -85.38437,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -90,8 +108,8 @@
       "baths": 3,
       "sqft": 2047,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 36.235883,
+      "lng": -85.47494,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -108,8 +126,8 @@
       "baths": null,
       "sqft": 2176,
       "lotSize": 5.7399998,
-      "lat": null,
-      "lng": null,
+      "lat": 35.389411,
+      "lng": -85.965961,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -126,8 +144,8 @@
       "baths": 3,
       "sqft": 1750,
       "lotSize": 1.98,
-      "lat": 35.8682893,
-      "lng": -84.8907568,
+      "lat": 35.522368,
+      "lng": -85.482539,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -144,44 +162,8 @@
       "baths": 2,
       "sqft": 1118,
       "lotSize": 0.3100092,
-      "lat": 35.6676481,
-      "lng": -85.7874806,
-      "entity": "CHEYENNE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 195082700,
-      "offerDate": "2026-02-09T06:00:00.000Z",
-      "offerPrice": 157000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "2030 INDUSTRIAL DR, MONTEREY TN",
-      "city": "MONTEREY",
-      "state": "TN",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 2079,
-      "lotSize": 3.3,
-      "lat": 36.1397641,
-      "lng": -85.2665853,
-      "entity": "CHEYENNE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 325460492,
-      "offerDate": "2026-02-09T06:00:00.000Z",
-      "offerPrice": 131241,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "5409 BARTLETT RD, COOKEVILLE TN",
-      "city": "COOKEVILLE",
-      "state": "TN",
-      "beds": 0,
-      "baths": null,
-      "sqft": 1260,
-      "lotSize": 0.5899908,
-      "lat": null,
-      "lng": null,
+      "lat": 35.66503,
+      "lng": -85.785128,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -198,8 +180,44 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 7.5700002,
-      "lat": null,
-      "lng": null,
+      "lat": 36.127934,
+      "lng": -85.205995,
+      "entity": "CHEYENNE INVESTMENTS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 325460492,
+      "offerDate": "2026-02-09T06:00:00.000Z",
+      "offerPrice": 131241,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5409 BARTLETT RD, COOKEVILLE TN",
+      "city": "COOKEVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1260,
+      "lotSize": 0.5899908,
+      "lat": 36.239591,
+      "lng": -85.498231,
+      "entity": "CHEYENNE INVESTMENTS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 195082700,
+      "offerDate": "2026-02-09T06:00:00.000Z",
+      "offerPrice": 157000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "2030 INDUSTRIAL DR, MONTEREY TN",
+      "city": "MONTEREY",
+      "state": "TN",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 2079,
+      "lotSize": 3.3,
+      "lat": 36.124027,
+      "lng": -85.252375,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -216,8 +234,8 @@
       "baths": 3,
       "sqft": 2070,
       "lotSize": 0.2,
-      "lat": 35.6900478,
-      "lng": -85.7937613,
+      "lat": 35.689422,
+      "lng": -85.777773,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -234,8 +252,8 @@
       "baths": 1,
       "sqft": 1440,
       "lotSize": 1.52,
-      "lat": 36.5189176,
-      "lng": -86.0678283,
+      "lat": 36.503245,
+      "lng": -85.953992,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -252,8 +270,8 @@
       "baths": 2,
       "sqft": 1550,
       "lotSize": 0.4012856,
-      "lat": null,
-      "lng": null,
+      "lat": 35.211361,
+      "lng": -87.306134,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -270,8 +288,8 @@
       "baths": 1,
       "sqft": 1647,
       "lotSize": 1.05,
-      "lat": null,
-      "lng": null,
+      "lat": 36.543029,
+      "lng": -86.216194,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -288,8 +306,8 @@
       "baths": 1,
       "sqft": 950,
       "lotSize": 0.3787879,
-      "lat": 35.5952973,
-      "lng": -85.9205268,
+      "lat": 35.600443,
+      "lng": -85.92322,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -306,8 +324,8 @@
       "baths": 3,
       "sqft": 1851,
       "lotSize": 0,
-      "lat": 36.1761945,
-      "lng": -86.2771676,
+      "lat": 36.17636,
+      "lng": -86.278262,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -324,8 +342,8 @@
       "baths": 3,
       "sqft": 1860,
       "lotSize": 2,
-      "lat": 36.1570847,
-      "lng": -86.8157184,
+      "lat": 35.65451,
+      "lng": -85.836527,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -342,8 +360,8 @@
       "baths": 2,
       "sqft": 1256,
       "lotSize": 0,
-      "lat": 35.4494522,
-      "lng": -86.0768592,
+      "lat": 35.449199,
+      "lng": -86.07171,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -360,8 +378,8 @@
       "baths": null,
       "sqft": 1152,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 35.866836,
+      "lng": -85.752098,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -378,8 +396,8 @@
       "baths": 1,
       "sqft": 989,
       "lotSize": 0.4300046,
-      "lat": 36.536626,
-      "lng": -85.8541734,
+      "lat": 36.537087,
+      "lng": -85.854896,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -396,8 +414,8 @@
       "baths": 2,
       "sqft": 1056,
       "lotSize": 0.3067034,
-      "lat": 35.7084853,
-      "lng": -85.8070044,
+      "lat": 35.703828,
+      "lng": -85.797773,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -414,8 +432,8 @@
       "baths": 2,
       "sqft": 1568,
       "lotSize": 1.85,
-      "lat": null,
-      "lng": null,
+      "lat": 36.390458,
+      "lng": -85.53062,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -432,8 +450,8 @@
       "baths": 2,
       "sqft": 1188,
       "lotSize": 3.5,
-      "lat": null,
-      "lng": null,
+      "lat": 35.714529,
+      "lng": -86.21174,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -450,8 +468,8 @@
       "baths": 1,
       "sqft": 1056,
       "lotSize": 1.5,
-      "lat": null,
-      "lng": null,
+      "lat": 36.134376,
+      "lng": -85.664872,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -468,8 +486,8 @@
       "baths": 1,
       "sqft": 984,
       "lotSize": 51,
-      "lat": null,
-      "lng": null,
+      "lat": 35.868263,
+      "lng": -85.829926,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -486,8 +504,8 @@
       "baths": 2,
       "sqft": 1296,
       "lotSize": 5.21,
-      "lat": null,
-      "lng": null,
+      "lat": 36.301523,
+      "lng": -85.495657,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -504,8 +522,8 @@
       "baths": 3,
       "sqft": 2072,
       "lotSize": 8.1300001,
-      "lat": null,
-      "lng": null,
+      "lat": 36.13453,
+      "lng": -86.181681,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -522,8 +540,8 @@
       "baths": 1,
       "sqft": 1620,
       "lotSize": 1.4,
-      "lat": null,
-      "lng": null,
+      "lat": 35.808809,
+      "lng": -85.794369,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -540,8 +558,8 @@
       "baths": 2,
       "sqft": 1075,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 35.651366,
+      "lng": -85.832884,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -558,8 +576,8 @@
       "baths": 2,
       "sqft": 1179,
       "lotSize": 0,
-      "lat": 35.937456,
-      "lng": -85.0447077,
+      "lat": 35.937884,
+      "lng": -85.043411,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -576,8 +594,8 @@
       "baths": 2,
       "sqft": 1306,
       "lotSize": 0.3443526,
-      "lat": null,
-      "lng": null,
+      "lat": 36.152469,
+      "lng": -85.637032,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -594,8 +612,8 @@
       "baths": 2,
       "sqft": 1344,
       "lotSize": 0.6399908,
-      "lat": null,
-      "lng": null,
+      "lat": 35.689702,
+      "lng": -85.799746,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -612,8 +630,8 @@
       "baths": 2,
       "sqft": 1320,
       "lotSize": 7.0900002,
-      "lat": null,
-      "lng": null,
+      "lat": 35.370886,
+      "lng": -85.738454,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -630,8 +648,8 @@
       "baths": 1,
       "sqft": 950,
       "lotSize": 0.2128099,
-      "lat": 36.1679277,
-      "lng": -85.5157945,
+      "lat": 36.168059,
+      "lng": -85.515411,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -648,8 +666,26 @@
       "baths": null,
       "sqft": 2052,
       "lotSize": 1.36,
-      "lat": null,
-      "lng": null,
+      "lat": 36.564512,
+      "lng": -86.264851,
+      "entity": "CHEYENNE INVESTMENTS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 1069093,
+      "offerDate": "2025-08-05T05:00:00.000Z",
+      "offerPrice": 173000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "300 C RODY RD, MCMINNVILLE TN",
+      "city": "MCMINNVILLE",
+      "state": "TN",
+      "beds": 0,
+      "baths": 2,
+      "sqft": 1728,
+      "lotSize": 1,
+      "lat": 35.712931,
+      "lng": -85.83507,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -666,8 +702,8 @@
       "baths": 2,
       "sqft": 1479,
       "lotSize": 0.4905877,
-      "lat": null,
-      "lng": null,
+      "lat": 35.860359,
+      "lng": -86.45365,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -684,8 +720,8 @@
       "baths": 1,
       "sqft": 1139,
       "lotSize": 0.2754821,
-      "lat": 36.30231,
-      "lng": -86.692728,
+      "lat": 36.388943,
+      "lng": -86.432044,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -702,26 +738,8 @@
       "baths": null,
       "sqft": 1008,
       "lotSize": 5.02,
-      "lat": null,
-      "lng": null,
-      "entity": "CHEYENNE INVESTMENTS LLC"
-    },
-    {
-      "propertyId": null,
-      "attomId": 297495,
-      "offerDate": "2025-07-09T05:00:00.000Z",
-      "offerPrice": 206000,
-      "status": "recorded",
-      "isRebuilt": false,
-      "address": "201 FONTENAY DR, LEBANON TN",
-      "city": "LEBANON",
-      "state": "TN",
-      "beds": 0,
-      "baths": 3,
-      "sqft": 1851,
-      "lotSize": 0,
-      "lat": 36.1761945,
-      "lng": -86.2771676,
+      "lat": 35.65737,
+      "lng": -86.207766,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -738,8 +756,8 @@
       "baths": 3,
       "sqft": 1976,
       "lotSize": 1,
-      "lat": null,
-      "lng": null,
+      "lat": 36.508294,
+      "lng": -86.488362,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -756,8 +774,8 @@
       "baths": 2.5,
       "sqft": 1296,
       "lotSize": 0.2247264,
-      "lat": 36.5576432,
-      "lng": -86.2544359,
+      "lat": 36.562499,
+      "lng": -86.254818,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -774,8 +792,8 @@
       "baths": 2,
       "sqft": 1104,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 35.984356,
+      "lng": -85.799055,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -792,8 +810,8 @@
       "baths": null,
       "sqft": 840,
       "lotSize": 1.21,
-      "lat": null,
-      "lng": null,
+      "lat": 35.746216,
+      "lng": -85.693518,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -810,8 +828,8 @@
       "baths": 2,
       "sqft": 1424,
       "lotSize": 2.2,
-      "lat": null,
-      "lng": null,
+      "lat": 35.840329,
+      "lng": -85.772503,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -828,8 +846,8 @@
       "baths": null,
       "sqft": 700,
       "lotSize": 1.36,
-      "lat": null,
-      "lng": null,
+      "lat": 36.502933,
+      "lng": -85.487389,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -846,8 +864,8 @@
       "baths": 2.5,
       "sqft": 2356,
       "lotSize": 1.9299999,
-      "lat": null,
-      "lng": null,
+      "lat": 36.452213,
+      "lng": -86.317313,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -864,8 +882,8 @@
       "baths": 2,
       "sqft": 1000,
       "lotSize": 0,
-      "lat": 35.9526543,
-      "lng": -85.0200322,
+      "lat": 35.95457,
+      "lng": -85.021101,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -882,8 +900,8 @@
       "baths": 1,
       "sqft": 975,
       "lotSize": 0.392562,
-      "lat": 36.3955889,
-      "lng": -86.4332461,
+      "lat": 36.397673,
+      "lng": -86.435266,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -900,8 +918,8 @@
       "baths": 2,
       "sqft": 2240,
       "lotSize": 0.7100092,
-      "lat": null,
-      "lng": null,
+      "lat": 36.136128,
+      "lng": -85.59807,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -918,8 +936,8 @@
       "baths": 3,
       "sqft": 2140,
       "lotSize": 0.6170799,
-      "lat": 35.9530503,
-      "lng": -85.8279577,
+      "lat": 35.953446,
+      "lng": -85.828688,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -936,8 +954,8 @@
       "baths": 2,
       "sqft": 1200,
       "lotSize": 6.5300002,
-      "lat": null,
-      "lng": null,
+      "lat": 36.120817,
+      "lng": -85.186958,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -954,8 +972,8 @@
       "baths": null,
       "sqft": 1890,
       "lotSize": 0.9199954,
-      "lat": null,
-      "lng": null,
+      "lat": 36.376795,
+      "lng": -86.289558,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -972,8 +990,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 1.600000023841858,
-      "lat": null,
-      "lng": null,
+      "lat": 36.37690353393555,
+      "lng": -86.288798,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -990,8 +1008,8 @@
       "baths": 2,
       "sqft": 1680,
       "lotSize": 2,
-      "lat": null,
-      "lng": null,
+      "lat": 35.40571,
+      "lng": -86.450968,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1008,8 +1026,8 @@
       "baths": 3,
       "sqft": 2808,
       "lotSize": 5.4099998,
-      "lat": 36.1378819,
-      "lng": -86.8391828,
+      "lat": 36.124468,
+      "lng": -85.434938,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1026,8 +1044,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 5.119999885559082,
-      "lat": 36.1378819,
-      "lng": -86.8391828,
+      "lat": 36.125038146972656,
+      "lng": -85.434069,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1044,8 +1062,8 @@
       "baths": 1,
       "sqft": 1324,
       "lotSize": 0.2582645,
-      "lat": 36.3781387,
-      "lng": -86.4519672,
+      "lat": 36.378118,
+      "lng": -86.451637,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1062,8 +1080,8 @@
       "baths": 2,
       "sqft": 1922,
       "lotSize": 1.76,
-      "lat": null,
-      "lng": null,
+      "lat": 35.711413,
+      "lng": -85.692125,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1080,8 +1098,8 @@
       "baths": 1.5,
       "sqft": 1890,
       "lotSize": 5,
-      "lat": null,
-      "lng": null,
+      "lat": 35.677749,
+      "lng": -86.125677,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1098,8 +1116,8 @@
       "baths": 1,
       "sqft": 1520,
       "lotSize": 5.0300002,
-      "lat": null,
-      "lng": null,
+      "lat": 35.730104,
+      "lng": -86.026669,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1116,8 +1134,8 @@
       "baths": 2,
       "sqft": 1404,
       "lotSize": 1.59,
-      "lat": null,
-      "lng": null,
+      "lat": 36.225937,
+      "lng": -85.795193,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1134,8 +1152,8 @@
       "baths": 1,
       "sqft": 1428,
       "lotSize": 3,
-      "lat": null,
-      "lng": null,
+      "lat": 35.874362,
+      "lng": -85.668516,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1152,8 +1170,8 @@
       "baths": null,
       "sqft": 1216,
       "lotSize": 3,
-      "lat": null,
-      "lng": null,
+      "lat": 35.87379837036133,
+      "lng": -85.668158,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1170,8 +1188,8 @@
       "baths": 2,
       "sqft": 1152,
       "lotSize": 1.15,
-      "lat": null,
-      "lng": null,
+      "lat": 35.955639,
+      "lng": -85.594369,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1188,8 +1206,8 @@
       "baths": 1,
       "sqft": 1280,
       "lotSize": 0.3443526,
-      "lat": 35.6832257,
-      "lng": -85.798497,
+      "lat": 35.686658,
+      "lng": -85.798402,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1206,8 +1224,8 @@
       "baths": 2,
       "sqft": 1188,
       "lotSize": 1.1,
-      "lat": null,
-      "lng": null,
+      "lat": 35.965038,
+      "lng": -85.735534,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1224,8 +1242,8 @@
       "baths": 1,
       "sqft": 1800,
       "lotSize": 0.9090909,
-      "lat": null,
-      "lng": null,
+      "lat": 35.955228,
+      "lng": -85.594394,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1242,8 +1260,8 @@
       "baths": 1,
       "sqft": 1020,
       "lotSize": 5,
-      "lat": null,
-      "lng": null,
+      "lat": 35.957099,
+      "lng": -85.849224,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1260,8 +1278,8 @@
       "baths": 1,
       "sqft": 1016,
       "lotSize": 10,
-      "lat": null,
-      "lng": null,
+      "lat": 36.536147,
+      "lng": -85.351672,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1278,8 +1296,8 @@
       "baths": null,
       "sqft": 1344,
       "lotSize": 1.3099999,
-      "lat": null,
-      "lng": null,
+      "lat": 36.308431,
+      "lng": -85.53878,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1296,8 +1314,8 @@
       "baths": 2,
       "sqft": 1392,
       "lotSize": 0.7300046,
-      "lat": null,
-      "lng": null,
+      "lat": 35.910005,
+      "lng": -85.892934,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1314,8 +1332,8 @@
       "baths": 2,
       "sqft": 1666,
       "lotSize": 1.4,
-      "lat": null,
-      "lng": null,
+      "lat": 36.533111,
+      "lng": -86.214108,
       "entity": "CHEYENNE INVESTMENTS LLC"
     },
     {
@@ -1332,8 +1350,26 @@
       "baths": null,
       "sqft": 1344,
       "lotSize": 0.6,
-      "lat": null,
-      "lng": null,
+      "lat": 35.838898,
+      "lng": -85.784761,
+      "entity": "CHEYENNE INVESTMENTS LLC"
+    },
+    {
+      "propertyId": null,
+      "attomId": 148718487,
+      "offerDate": "2025-01-09T06:00:00.000Z",
+      "offerPrice": 47000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "829 CHILDRESS AVE, SWEETWATER TN",
+      "city": "SWEETWATER",
+      "state": "TN",
+      "beds": 0,
+      "baths": null,
+      "sqft": 1056,
+      "lotSize": 0.3600092,
+      "lat": 35.60808,
+      "lng": -84.47357,
       "entity": "CHEYENNE INVESTMENTS LLC"
     }
   ]

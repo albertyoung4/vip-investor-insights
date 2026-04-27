@@ -9,14 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "AMANDA BURTON",
-      "AMANDA DIXON"
+      "MATT FOUCH"
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 7,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -24,7 +23,7 @@
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -32,133 +31,13 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 325725252,
-      "offerDate": "2025-12-18",
-      "offerPrice": 66000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1905 BEAVER CREEK RD, PIKETON OH",
-      "city": "PIKETON",
-      "state": "OH",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 39.05324,
-      "lng": -82.975795
-    },
-    {
-      "propertyId": null,
-      "attomId": 229327954,
-      "offerDate": "2024-08-29",
-      "offerPrice": 270000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "321 EAGLE CREEK RD, CLOVER SC",
-      "city": "CLOVER",
-      "state": "SC",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 35.114779,
-      "lng": -81.210547
-    },
-    {
-      "propertyId": null,
-      "attomId": 170650953,
-      "offerDate": "2026-01-07",
-      "offerPrice": 225000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "13565 RIDGE RD W, ALBION NY",
-      "city": "ALBION",
-      "state": "NY",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 43.277669,
-      "lng": -78.243921
-    },
-    {
-      "propertyId": null,
-      "attomId": 317231320,
-      "offerDate": "2025-10-10",
-      "offerPrice": 275000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "203 BEANS CORNER RD, NEW SHARON ME",
-      "city": "NEW SHARON",
-      "state": "ME",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 44.677946,
-      "lng": -69.987754
-    },
-    {
-      "propertyId": null,
-      "attomId": 145815715,
-      "offerDate": "2025-06-13",
-      "offerPrice": 56000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "600 WASHINGTON RD, PITTSBURGH PA",
-      "city": "PITTSBURGH",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.382939,
-      "lng": -80.044762
-    },
-    {
-      "propertyId": null,
-      "attomId": 179092533,
-      "offerDate": "2025-06-13",
-      "offerPrice": 56000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "308 W 6TH AVE, MCKEESPORT PA",
-      "city": "MCKEESPORT",
-      "state": "PA",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.348911,
-      "lng": -79.87503
-    },
-    {
-      "propertyId": null,
-      "attomId": 48414703,
-      "offerDate": "2024-10-22",
-      "offerPrice": 637000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "9573 WINTERSET CIR, PLYMOUTH MI",
-      "city": "PLYMOUTH",
-      "state": "MI",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 42.356407,
-      "lng": -83.525191
-    }
-  ]
+  "properties": []
 }

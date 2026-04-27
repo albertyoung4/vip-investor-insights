@@ -9,7 +9,7 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "aspen properties llc"
+      "ASPEN PROPERTIES LLC"
     ]
   },
   "stats": {
@@ -54,8 +54,8 @@
       "baths": 3,
       "sqft": 1521,
       "lotSize": 0,
-      "lat": null,
-      "lng": null,
+      "lat": 29.780394,
+      "lng": -95.566802,
       "entity": "ASPEN PROPERTIES LLC"
     },
     {
@@ -72,8 +72,8 @@
       "baths": 1,
       "sqft": 1506,
       "lotSize": 0,
-      "lat": 45.7549456,
-      "lng": 8.312629,
+      "lat": 34.556689,
+      "lng": -86.970557,
       "entity": "ASPEN PROPERTIES LLC"
     },
     {
@@ -90,8 +90,8 @@
       "baths": null,
       "sqft": 0,
       "lotSize": 0.1320018,
-      "lat": 29.478199,
-      "lng": -94.5784584,
+      "lat": 29.222797,
+      "lng": -94.903509,
       "entity": "ASPEN PROPERTIES LLC"
     },
     {
@@ -108,8 +108,8 @@
       "baths": 2,
       "sqft": 1008,
       "lotSize": 0.1742654,
-      "lat": 38.8789955,
-      "lng": -94.7836885,
+      "lat": 38.861631,
+      "lng": -94.78663,
       "entity": "ASPEN PROPERTIES LLC"
     }
   ]

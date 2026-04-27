@@ -9,22 +9,21 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "FLUSHING INVESTMENTS CORP",
-      "KONEY REALTY LLC"
+      "JOURNEY HOME REALTY LLC"
     ]
   },
   "stats": {
-    "totalTransactions2025": 4,
+    "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 9,
+    "recorderTransactions": 0,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
-        "total": 2
+        "total": 0
       },
       "2025-Q2": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2025-Q3": {
         "rebuilt": 0,
@@ -32,167 +31,13 @@
       },
       "2025-Q4": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 1
+        "total": 0
       }
     }
   },
-  "properties": [
-    {
-      "propertyId": null,
-      "attomId": 7360943,
-      "offerDate": "2026-01-22",
-      "offerPrice": 167000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "1242 N OLDEN AVE, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.239591,
-      "lng": -74.750673
-    },
-    {
-      "propertyId": null,
-      "attomId": 37861187,
-      "offerDate": "2025-12-26",
-      "offerPrice": 170000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "119 WAYNE AVE, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.23106,
-      "lng": -74.764945
-    },
-    {
-      "propertyId": null,
-      "attomId": 1738574,
-      "offerDate": "2025-04-24",
-      "offerPrice": 175000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "770 2ND ST, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.198755,
-      "lng": -74.755507
-    },
-    {
-      "propertyId": null,
-      "attomId": 4255344,
-      "offerDate": "2025-03-20",
-      "offerPrice": 190000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "237 GRAND ST, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.204397,
-      "lng": -74.748353
-    },
-    {
-      "propertyId": null,
-      "attomId": 188852049,
-      "offerDate": "2025-02-14",
-      "offerPrice": 175000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "437 WALNUT AVE, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.224134,
-      "lng": -74.74133
-    },
-    {
-      "propertyId": null,
-      "attomId": 14776413,
-      "offerDate": "2024-12-17",
-      "offerPrice": 160000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "234 EUCLID AVE, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.22144,
-      "lng": -74.744513
-    },
-    {
-      "propertyId": null,
-      "attomId": 195777771,
-      "offerDate": "2024-11-07",
-      "offerPrice": 125000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "441 W HANOVER ST, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.223743,
-      "lng": -74.775332
-    },
-    {
-      "propertyId": null,
-      "attomId": 24140600,
-      "offerDate": "2024-09-12",
-      "offerPrice": 163000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "35 CHARLES ST, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.215202,
-      "lng": -74.745216
-    },
-    {
-      "propertyId": null,
-      "attomId": 4207018,
-      "offerDate": "2024-05-15",
-      "offerPrice": 150000,
-      "status": "recorder",
-      "isRebuilt": false,
-      "address": "491 W HANOVER ST, TRENTON NJ",
-      "city": "TRENTON",
-      "state": "NJ",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "lotSize": null,
-      "lat": 40.224337,
-      "lng": -74.77638
-    }
-  ]
+  "properties": []
 }

@@ -9,13 +9,13 @@
     "ytdWon": 0,
     "ytdBids": 0,
     "entities": [
-      "hm llc"
+      "HM LLC"
     ]
   },
   "stats": {
     "totalTransactions2025": 0,
     "rebuiltTransactions": 0,
-    "recorderTransactions": 0,
+    "recorderTransactions": 1,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -35,9 +35,28 @@
       },
       "2026-Q1": {
         "rebuilt": 0,
-        "total": 0
+        "total": 1
       }
     }
   },
-  "properties": []
+  "properties": [
+    {
+      "propertyId": null,
+      "attomId": 52038028,
+      "offerDate": "2026-03-31T05:00:00.000Z",
+      "offerPrice": 819000,
+      "status": "recorded",
+      "isRebuilt": false,
+      "address": "5030 HARBORAGE DR, FORT MYERS FL",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 2197,
+      "lotSize": 0.2870064,
+      "lat": 26.479607,
+      "lng": -81.840796,
+      "entity": "HM LLC"
+    }
+  ]
 }
