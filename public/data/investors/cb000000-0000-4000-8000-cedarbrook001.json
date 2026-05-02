@@ -50,8 +50,8 @@
   },
   "stats": {
     "totalTransactions2025": 390,
-    "rebuiltTransactions": 0,
-    "recorderTransactions": 390,
+    "rebuiltTransactions": 1,
+    "recorderTransactions": 389,
     "quarterlyStats": {
       "2025-Q1": {
         "rebuilt": 0,
@@ -100,7 +100,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1838101",
       "zillowPrice": 268625,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-04",
+      "soldPrice": 268625,
+      "grossProfit": 137625,
+      "holdDays": 213
     },
     {
       "propertyId": null,
@@ -124,7 +128,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 200000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-02",
+      "soldPrice": 200000,
+      "grossProfit": 105000,
+      "holdDays": 395
     },
     {
       "propertyId": null,
@@ -172,7 +180,11 @@
       "mlsName": "realMLS",
       "mlsId": "2081044",
       "zillowPrice": 305900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-02-27",
+      "soldPrice": 197500,
+      "grossProfit": 27500,
+      "holdDays": 49
     },
     {
       "propertyId": null,
@@ -196,7 +208,11 @@
       "mlsName": "Lennar Homes",
       "mlsId": null,
       "zillowPrice": 699777,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-07-11",
+      "soldPrice": 300000,
+      "grossProfit": 92000,
+      "holdDays": 182
     },
     {
       "propertyId": null,
@@ -268,7 +284,11 @@
       "mlsName": "Columbus and Central Ohio Regional MLS ",
       "mlsId": "225009628",
       "zillowPrice": 158000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-21",
+      "soldPrice": 158000,
+      "grossProfit": 46000,
+      "holdDays": 218
     },
     {
       "propertyId": null,
@@ -292,7 +312,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 0,
-      "zillowStatus": "SOLD"
+      "zillowStatus": "SOLD",
+      "soldDate": "2025-09-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 226
     },
     {
       "propertyId": null,
@@ -364,7 +388,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10464416",
       "zillowPrice": 350000,
-      "zillowStatus": "SOLD"
+      "zillowStatus": "SOLD",
+      "soldDate": "2025-04-01",
+      "soldPrice": 350000,
+      "grossProfit": 152500,
+      "holdDays": 68
     },
     {
       "propertyId": null,
@@ -388,7 +416,11 @@
       "mlsName": "DABR MLS",
       "mlsId": "933772",
       "zillowPrice": 265000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-24",
+      "soldPrice": 265000,
+      "grossProfit": 116000,
+      "holdDays": 182
     },
     {
       "propertyId": null,
@@ -412,7 +444,11 @@
       "mlsName": "MRED as distributed by MLS GRID",
       "mlsId": "12463194",
       "zillowPrice": 189900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-21",
+      "soldPrice": 190000,
+      "grossProfit": 88000,
+      "holdDays": 271
     },
     {
       "propertyId": null,
@@ -460,7 +496,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10590220",
       "zillowPrice": 310000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-04",
+      "soldPrice": 310000,
+      "grossProfit": 125000,
+      "holdDays": 284
     },
     {
       "propertyId": null,
@@ -484,7 +524,11 @@
       "mlsName": "Heartland MLS as distributed by MLS GRID",
       "mlsId": "2577902",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-06",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 286
     },
     {
       "propertyId": null,
@@ -508,7 +552,11 @@
       "mlsName": "Heartland MLS as distributed by MLS GRID",
       "mlsId": "2577904",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-16",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 357
     },
     {
       "propertyId": null,
@@ -532,7 +580,11 @@
       "mlsName": "CTMLS",
       "mlsId": "25012828",
       "zillowPrice": 440000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-08",
+      "soldPrice": 440000,
+      "grossProfit": 140275,
+      "holdDays": 193
     },
     {
       "propertyId": null,
@@ -556,7 +608,11 @@
       "mlsName": "FMLS GA",
       "mlsId": "7754132",
       "zillowPrice": 2599,
-      "zillowStatus": "FOR_RENT"
+      "zillowStatus": "FOR_RENT",
+      "soldDate": "2025-10-09",
+      "soldPrice": 355000,
+      "grossProfit": 125000,
+      "holdDays": 254
     },
     {
       "propertyId": null,
@@ -580,7 +636,11 @@
       "mlsName": "MRED as distributed by MLS GRID",
       "mlsId": "12562386",
       "zillowPrice": 390000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-14",
+      "soldPrice": 390000,
+      "grossProfit": 135000,
+      "holdDays": 440
     },
     {
       "propertyId": null,
@@ -604,7 +664,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 0,
-      "zillowStatus": "SOLD"
+      "zillowStatus": "SOLD",
+      "soldDate": "2025-11-03",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 278
     },
     {
       "propertyId": null,
@@ -628,7 +692,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6835398",
       "zillowPrice": 394900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-22",
+      "soldPrice": 394900,
+      "grossProfit": 95900,
+      "holdDays": 174
     },
     {
       "propertyId": null,
@@ -652,7 +720,11 @@
       "mlsName": "DABR MLS",
       "mlsId": "939219",
       "zillowPrice": 199000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-07",
+      "soldPrice": 199000,
+      "grossProfit": 99000,
+      "holdDays": 250
     },
     {
       "propertyId": null,
@@ -676,7 +748,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10506731",
       "zillowPrice": 380000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-05-20",
+      "soldPrice": 380000,
+      "grossProfit": 210000,
+      "holdDays": 106
     },
     {
       "propertyId": null,
@@ -724,7 +800,11 @@
       "mlsName": "LVR",
       "mlsId": "2680751",
       "zillowPrice": 245000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-02",
+      "soldPrice": 245000,
+      "grossProfit": 45000,
+      "holdDays": 210
     },
     {
       "propertyId": null,
@@ -748,7 +828,11 @@
       "mlsName": "NKMLS",
       "mlsId": "630464",
       "zillowPrice": 182900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-03",
+      "soldPrice": 182900,
+      "grossProfit": 117900,
+      "holdDays": 149
     },
     {
       "propertyId": null,
@@ -766,7 +850,11 @@
       "lotSize": 1.23,
       "lat": 41.693371,
       "lng": -111.873479,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "soldDate": "2025-12-23",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 320
     },
     {
       "propertyId": null,
@@ -790,7 +878,11 @@
       "mlsName": "LVR",
       "mlsId": "2704152",
       "zillowPrice": 750000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-19",
+      "soldPrice": 750000,
+      "grossProfit": 300000,
+      "holdDays": 221
     },
     {
       "propertyId": null,
@@ -814,7 +906,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "O6346887",
       "zillowPrice": 350000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-08",
+      "soldPrice": 350000,
+      "grossProfit": 210000,
+      "holdDays": 299
     },
     {
       "propertyId": null,
@@ -838,7 +934,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6849289",
       "zillowPrice": 415000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-06-12",
+      "soldPrice": 415000,
+      "grossProfit": 115000,
+      "holdDays": 119
     },
     {
       "propertyId": null,
@@ -862,7 +962,11 @@
       "mlsName": "Columbus and Central Ohio Regional MLS ",
       "mlsId": "225033366",
       "zillowPrice": 165000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-10",
+      "soldPrice": 165000,
+      "grossProfit": 104000,
+      "holdDays": 269
     },
     {
       "propertyId": null,
@@ -886,7 +990,11 @@
       "mlsName": "LVR",
       "mlsId": "2685550",
       "zillowPrice": 400000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-16",
+      "soldPrice": 400000,
+      "grossProfit": 110000,
+      "holdDays": 152
     },
     {
       "propertyId": null,
@@ -910,7 +1018,11 @@
       "mlsName": "CTMLS",
       "mlsId": "25006131",
       "zillowPrice": 185000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-05-16",
+      "soldPrice": 185000,
+      "grossProfit": 45000,
+      "holdDays": 91
     },
     {
       "propertyId": null,
@@ -934,7 +1046,11 @@
       "mlsName": "realMLS",
       "mlsId": "2099031",
       "zillowPrice": 275000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-14",
+      "soldPrice": 275000,
+      "grossProfit": 180000,
+      "holdDays": 301
     },
     {
       "propertyId": null,
@@ -1030,7 +1146,11 @@
       "mlsName": "Columbus and Central Ohio Regional MLS ",
       "mlsId": "225046456",
       "zillowPrice": 175000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-14",
+      "soldPrice": 175000,
+      "grossProfit": 15000,
+      "holdDays": 414
     },
     {
       "propertyId": null,
@@ -1054,7 +1174,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "2897887",
       "zillowPrice": 495000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-06",
+      "soldPrice": 495000,
+      "grossProfit": 165000,
+      "holdDays": 224
     },
     {
       "propertyId": null,
@@ -1126,7 +1250,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1841690",
       "zillowPrice": 255000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-30",
+      "soldPrice": 255000,
+      "grossProfit": 120000,
+      "holdDays": 149
     },
     {
       "propertyId": null,
@@ -1150,7 +1278,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 510000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-06-30",
+      "soldPrice": 485000,
+      "grossProfit": 202500,
+      "holdDays": 117
     },
     {
       "propertyId": null,
@@ -1174,7 +1306,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "2886019",
       "zillowPrice": 450000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-15",
+      "soldPrice": 450000,
+      "grossProfit": 155000,
+      "holdDays": 132
     },
     {
       "propertyId": null,
@@ -1198,7 +1334,11 @@
       "mlsName": "NTREIS",
       "mlsId": "20987823",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 274
     },
     {
       "propertyId": null,
@@ -1222,7 +1362,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6906232",
       "zillowPrice": 435000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-05",
+      "soldPrice": 435000,
+      "grossProfit": 102000,
+      "holdDays": 243
     },
     {
       "propertyId": null,
@@ -1246,7 +1390,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 255500,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-06-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 86
     },
     {
       "propertyId": null,
@@ -1294,7 +1442,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6863714",
       "zillowPrice": 635000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-06-27",
+      "soldPrice": 635000,
+      "grossProfit": 185000,
+      "holdDays": 108
     },
     {
       "propertyId": null,
@@ -1318,7 +1470,11 @@
       "mlsName": "Zillow Rentals",
       "mlsId": null,
       "zillowPrice": 758,
-      "zillowStatus": "FOR_RENT"
+      "zillowStatus": "FOR_RENT",
+      "soldDate": "2025-07-17",
+      "soldPrice": 170000,
+      "grossProfit": 5500,
+      "holdDays": 128
     },
     {
       "propertyId": null,
@@ -1342,7 +1498,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1092957",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-05",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 358
     },
     {
       "propertyId": null,
@@ -1366,7 +1526,11 @@
       "mlsName": "realMLS",
       "mlsId": "2076657",
       "zillowPrice": 295000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-19",
+      "soldPrice": 295000,
+      "grossProfit": 49000,
+      "holdDays": 158
     },
     {
       "propertyId": null,
@@ -1390,7 +1554,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10526692",
       "zillowPrice": 251500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-06-25",
+      "soldPrice": 251500,
+      "grossProfit": 101500,
+      "holdDays": 99
     },
     {
       "propertyId": null,
@@ -1414,7 +1582,11 @@
       "mlsName": "realMLS",
       "mlsId": "2105917",
       "zillowPrice": 470000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-22",
+      "soldPrice": 470000,
+      "grossProfit": 220000,
+      "holdDays": 309
     },
     {
       "propertyId": null,
@@ -1438,7 +1610,11 @@
       "mlsName": "LVR",
       "mlsId": "2671032",
       "zillowPrice": 400000,
-      "zillowStatus": "SOLD"
+      "zillowStatus": "SOLD",
+      "soldDate": "2025-04-29",
+      "soldPrice": 400000,
+      "grossProfit": 59000,
+      "holdDays": 40
     },
     {
       "propertyId": null,
@@ -1462,7 +1638,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1939816",
       "zillowPrice": 500000,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-05-09",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 49
     },
     {
       "propertyId": null,
@@ -1510,7 +1690,11 @@
       "mlsName": "realMLS",
       "mlsId": "2088768",
       "zillowPrice": 182500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-05",
+      "soldPrice": 180000,
+      "grossProfit": 80000,
+      "holdDays": 165
     },
     {
       "propertyId": null,
@@ -1582,7 +1766,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6859573",
       "zillowPrice": 458000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-03-31",
+      "soldPrice": 330000,
+      "grossProfit": 22500,
+      "holdDays": 5
     },
     {
       "propertyId": null,
@@ -1606,7 +1794,11 @@
       "mlsName": "CTMLS",
       "mlsId": "25006131",
       "zillowPrice": 185000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-05-16",
+      "soldPrice": 185000,
+      "grossProfit": 45000,
+      "holdDays": 91
     },
     {
       "propertyId": null,
@@ -1630,7 +1822,11 @@
       "mlsName": "CTMLS",
       "mlsId": "25020844",
       "zillowPrice": 307000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-10",
+      "soldPrice": 307000,
+      "grossProfit": 167000,
+      "holdDays": 228
     },
     {
       "propertyId": null,
@@ -1654,7 +1850,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8422534",
       "zillowPrice": 405000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-12",
+      "soldPrice": 405000,
+      "grossProfit": 103524,
+      "holdDays": 291
     },
     {
       "propertyId": null,
@@ -1678,7 +1878,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8449612",
       "zillowPrice": 485000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-18",
+      "soldPrice": 485000,
+      "grossProfit": 185000,
+      "holdDays": 328
     },
     {
       "propertyId": null,
@@ -1726,7 +1930,11 @@
       "mlsName": "Hive MLS",
       "mlsId": "SA332246",
       "zillowPrice": 337000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-21",
+      "soldPrice": 337000,
+      "grossProfit": 177000,
+      "holdDays": 207
     },
     {
       "propertyId": null,
@@ -1750,7 +1958,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 570900,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-03-05",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 342
     },
     {
       "propertyId": null,
@@ -1774,7 +1986,11 @@
       "mlsName": "realMLS",
       "mlsId": "2109198",
       "zillowPrice": 339000,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-09-25",
+      "soldPrice": 441500,
+      "grossProfit": 215500,
+      "holdDays": 174
     },
     {
       "propertyId": null,
@@ -1822,7 +2038,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "2980466",
       "zillowPrice": 269000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-27",
+      "soldPrice": 269000,
+      "grossProfit": 122000,
+      "holdDays": 203
     },
     {
       "propertyId": null,
@@ -1846,7 +2066,11 @@
       "mlsName": "realMLS",
       "mlsId": "2112625",
       "zillowPrice": 385000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-05",
+      "soldPrice": 385000,
+      "grossProfit": 160000,
+      "holdDays": 303
     },
     {
       "propertyId": null,
@@ -1870,7 +2094,11 @@
       "mlsName": "realMLS",
       "mlsId": "2091223",
       "zillowPrice": 329900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-05",
+      "soldPrice": 329900,
+      "grossProfit": 128670,
+      "holdDays": 119
     },
     {
       "propertyId": null,
@@ -1894,7 +2122,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1095776",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-13",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 338
     },
     {
       "propertyId": null,
@@ -1942,7 +2174,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6882762",
       "zillowPrice": 442500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-23",
+      "soldPrice": 442500,
+      "grossProfit": 160000,
+      "holdDays": 104
     },
     {
       "propertyId": null,
@@ -1990,7 +2226,11 @@
       "mlsName": "NTREIS",
       "mlsId": "20994607",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-02",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 145
     },
     {
       "propertyId": null,
@@ -2038,7 +2278,11 @@
       "mlsName": "WPMLS",
       "mlsId": "1721693",
       "zillowPrice": 209000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-28",
+      "soldPrice": 209000,
+      "grossProfit": 88000,
+      "holdDays": 226
     },
     {
       "propertyId": null,
@@ -2062,7 +2306,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1088477",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-29",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 165
     },
     {
       "propertyId": null,
@@ -2110,7 +2358,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10532485",
       "zillowPrice": 300000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-21",
+      "soldPrice": 300000,
+      "grossProfit": 150000,
+      "holdDays": 90
     },
     {
       "propertyId": null,
@@ -2158,7 +2410,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10552037",
       "zillowPrice": 311000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-11",
+      "soldPrice": 311000,
+      "grossProfit": 175227,
+      "holdDays": 141
     },
     {
       "propertyId": null,
@@ -2182,7 +2438,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6912643",
       "zillowPrice": 505000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-03",
+      "soldPrice": 505000,
+      "grossProfit": 137500,
+      "holdDays": 286
     },
     {
       "propertyId": null,
@@ -2230,7 +2490,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1090445",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-09",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 168
     },
     {
       "propertyId": null,
@@ -2302,7 +2566,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 783000,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-09-09",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 132
     },
     {
       "propertyId": null,
@@ -2326,7 +2594,11 @@
       "mlsName": "Hive MLS",
       "mlsId": "SA336075",
       "zillowPrice": 365000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-23",
+      "soldPrice": 365000,
+      "grossProfit": 180000,
+      "holdDays": 146
     },
     {
       "propertyId": null,
@@ -2422,7 +2694,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21097435",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-06-05",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 35
     },
     {
       "propertyId": null,
@@ -2446,7 +2722,11 @@
       "mlsName": "Zillow Rentals",
       "mlsId": null,
       "zillowPrice": 249600,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-07-01",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 60
     },
     {
       "propertyId": null,
@@ -2470,7 +2750,11 @@
       "mlsName": "Heartland MLS as distributed by MLS GRID",
       "mlsId": "2587914",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-20",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 260
     },
     {
       "propertyId": null,
@@ -2488,7 +2772,11 @@
       "lotSize": 0.15,
       "lat": 39.094891,
       "lng": -94.428801,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "soldDate": "2026-01-20",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 260
     },
     {
       "propertyId": null,
@@ -2536,7 +2824,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "S5142870",
       "zillowPrice": 364900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-04",
+      "soldPrice": 364900,
+      "grossProfit": 114900,
+      "holdDays": 302
     },
     {
       "propertyId": null,
@@ -2584,7 +2876,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 275000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-09",
+      "soldPrice": 275000,
+      "grossProfit": 85000,
+      "holdDays": 155
     },
     {
       "propertyId": null,
@@ -2656,7 +2952,11 @@
       "mlsName": "Zillow Rentals",
       "mlsId": null,
       "zillowPrice": 2010,
-      "zillowStatus": "FOR_RENT"
+      "zillowStatus": "FOR_RENT",
+      "soldDate": "2025-11-13",
+      "soldPrice": 251000,
+      "grossProfit": 87500,
+      "holdDays": 188
     },
     {
       "propertyId": null,
@@ -2680,7 +2980,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6882312",
       "zillowPrice": 375000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-29",
+      "soldPrice": 375000,
+      "grossProfit": 163000,
+      "holdDays": 78
     },
     {
       "propertyId": null,
@@ -2704,7 +3008,11 @@
       "mlsName": "Hive MLS",
       "mlsId": "SA333699",
       "zillowPrice": 355000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-07-18",
+      "soldPrice": 355000,
+      "grossProfit": 105000,
+      "holdDays": 66
     },
     {
       "propertyId": null,
@@ -2728,7 +3036,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1854529",
       "zillowPrice": 199900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-05",
+      "soldPrice": 199900,
+      "grossProfit": 99900,
+      "holdDays": 175
     },
     {
       "propertyId": null,
@@ -2752,7 +3064,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 475124,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-10-30",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 169
     },
     {
       "propertyId": null,
@@ -2794,7 +3110,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 175000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-06-02",
+      "soldPrice": 192000,
+      "grossProfit": 17000,
+      "holdDays": 18
     },
     {
       "propertyId": null,
@@ -2818,7 +3138,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6879307",
       "zillowPrice": 342000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-21",
+      "soldPrice": 342000,
+      "grossProfit": 87000,
+      "holdDays": 98
     },
     {
       "propertyId": null,
@@ -2842,7 +3166,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6891123",
       "zillowPrice": 349000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-13",
+      "soldPrice": 349000,
+      "grossProfit": 129000,
+      "holdDays": 89
     },
     {
       "propertyId": null,
@@ -2866,7 +3194,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 215000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-05",
+      "soldPrice": 215000,
+      "grossProfit": 134000,
+      "holdDays": 200
     },
     {
       "propertyId": null,
@@ -2938,7 +3270,11 @@
       "mlsName": "Heartland MLS as distributed by MLS GRID",
       "mlsId": "2583646",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-06",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 230
     },
     {
       "propertyId": null,
@@ -2946,7 +3282,7 @@
       "offerDate": "2025-05-23",
       "offerPrice": 80000,
       "status": "won",
-      "isRebuilt": false,
+      "isRebuilt": true,
       "address": "135 DOUGLAS AVE, FRANKFORT KY",
       "city": "FRANKFORT",
       "state": "KY",
@@ -2962,7 +3298,17 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 62000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "rebuiltOffer": {
+        "propertyId": "0194dd28-db25-7640-bb9e-397c3f21a7ed",
+        "offerPrice": 41000,
+        "offerDate": "2025-02-20",
+        "buyer": "Brian Conway (Bayview/Cedar Brook)"
+      },
+      "soldDate": "2025-08-11",
+      "soldPrice": 62000,
+      "grossProfit": -18000,
+      "holdDays": 80
     },
     {
       "propertyId": null,
@@ -2986,7 +3332,11 @@
       "mlsName": "MLSOK/OKCMAR as distributed by MLS GRID",
       "mlsId": "1178618",
       "zillowPrice": 265000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-05-27",
+      "soldPrice": 160000,
+      "grossProfit": 15000,
+      "holdDays": 4
     },
     {
       "propertyId": null,
@@ -3010,7 +3360,11 @@
       "mlsName": "DABR MLS",
       "mlsId": "939236",
       "zillowPrice": 198500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-05",
+      "soldPrice": 198500,
+      "grossProfit": 98500,
+      "holdDays": 100
     },
     {
       "propertyId": null,
@@ -3034,7 +3388,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6911881",
       "zillowPrice": 300000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-29",
+      "soldPrice": 300000,
+      "grossProfit": 150000,
+      "holdDays": 124
     },
     {
       "propertyId": null,
@@ -3058,7 +3416,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 980700,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-01-16",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 232
     },
     {
       "propertyId": null,
@@ -3082,7 +3444,11 @@
       "mlsName": "Heartland MLS as distributed by MLS GRID",
       "mlsId": "2587098",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-14",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 319
     },
     {
       "propertyId": null,
@@ -3106,7 +3472,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 358200,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-11-20",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 174
     },
     {
       "propertyId": null,
@@ -3130,7 +3500,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 206200,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-08-29",
+      "soldPrice": 280000,
+      "grossProfit": 95000,
+      "holdDays": 91
     },
     {
       "propertyId": null,
@@ -3202,7 +3576,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21242052",
       "zillowPrice": 299500,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-07-17",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 43
     },
     {
       "propertyId": null,
@@ -3244,7 +3622,11 @@
       "mlsName": "CRMLS",
       "mlsId": "PW25200812",
       "zillowPrice": 390000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-05",
+      "soldPrice": 390000,
+      "grossProfit": 130000,
+      "holdDays": 145
     },
     {
       "propertyId": null,
@@ -3268,7 +3650,11 @@
       "mlsName": "realMLS",
       "mlsId": "2128713",
       "zillowPrice": 279900,
-      "zillowStatus": "PENDING"
+      "zillowStatus": "PENDING",
+      "soldDate": "2025-06-18",
+      "soldPrice": 141000,
+      "grossProfit": 41000,
+      "holdDays": 2
     },
     {
       "propertyId": null,
@@ -3292,7 +3678,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1884336",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-02",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 78
     },
     {
       "propertyId": null,
@@ -3340,7 +3730,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 553700,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-08-14",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 55
     },
     {
       "propertyId": null,
@@ -3364,7 +3758,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10629177",
       "zillowPrice": 267500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-16",
+      "soldPrice": 267500,
+      "grossProfit": 122500,
+      "holdDays": 176
     },
     {
       "propertyId": null,
@@ -3388,7 +3786,11 @@
       "mlsName": "LVR",
       "mlsId": "2726492",
       "zillowPrice": 734000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-06",
+      "soldPrice": 734000,
+      "grossProfit": 259000,
+      "holdDays": 136
     },
     {
       "propertyId": null,
@@ -3412,7 +3814,11 @@
       "mlsName": "Heartland MLS as distributed by MLS GRID",
       "mlsId": "2577679",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-12",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 142
     },
     {
       "propertyId": null,
@@ -3460,7 +3866,11 @@
       "mlsName": "EXIT Realty broker feed",
       "mlsId": "621682",
       "zillowPrice": 96500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-03",
+      "soldPrice": 96500,
+      "grossProfit": 22370,
+      "holdDays": 162
     },
     {
       "propertyId": null,
@@ -3484,7 +3894,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 298983,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-12-03",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 161
     },
     {
       "propertyId": null,
@@ -3508,7 +3922,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 279900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-05",
+      "soldPrice": 279900,
+      "grossProfit": 76900,
+      "holdDays": 225
     },
     {
       "propertyId": null,
@@ -3580,7 +3998,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6902650",
       "zillowPrice": 364990,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-18",
+      "soldPrice": 384990,
+      "grossProfit": 134990,
+      "holdDays": 84
     },
     {
       "propertyId": null,
@@ -3604,7 +4026,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-17",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 295
     },
     {
       "propertyId": null,
@@ -3652,7 +4078,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1853374",
       "zillowPrice": 299000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-16",
+      "soldPrice": 299000,
+      "grossProfit": 141000,
+      "holdDays": 112
     },
     {
       "propertyId": null,
@@ -3700,7 +4130,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1094476",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-21",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 204
     },
     {
       "propertyId": null,
@@ -3748,7 +4182,11 @@
       "mlsName": "realMLS",
       "mlsId": "2121847",
       "zillowPrice": 290000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-20",
+      "soldPrice": 290000,
+      "grossProfit": 129000,
+      "holdDays": 262
     },
     {
       "propertyId": null,
@@ -3772,7 +4210,11 @@
       "mlsName": "NTREIS",
       "mlsId": "20851352",
       "zillowPrice": 0,
-      "zillowStatus": "SOLD"
+      "zillowStatus": "SOLD",
+      "soldDate": "2025-09-23",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 84
     },
     {
       "propertyId": null,
@@ -3844,7 +4286,11 @@
       "mlsName": "MIBOR as distributed by MLS GRID",
       "mlsId": "22099331",
       "zillowPrice": 169900,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-08-18",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 41
     },
     {
       "propertyId": null,
@@ -3868,7 +4314,11 @@
       "mlsName": "MIBOR as distributed by MLS GRID",
       "mlsId": "22099331",
       "zillowPrice": 169900,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-08-18",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 41
     },
     {
       "propertyId": null,
@@ -3892,7 +4342,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 454725,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-01-08",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 183
     },
     {
       "propertyId": null,
@@ -3940,7 +4394,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 326000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-04",
+      "soldPrice": 326000,
+      "grossProfit": 150650,
+      "holdDays": 147
     },
     {
       "propertyId": null,
@@ -3964,7 +4422,11 @@
       "mlsName": "realMLS",
       "mlsId": "2129591",
       "zillowPrice": 310000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-23",
+      "soldPrice": 310000,
+      "grossProfit": 137000,
+      "holdDays": 256
     },
     {
       "propertyId": null,
@@ -4036,7 +4498,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1092828",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-02",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 141
     },
     {
       "propertyId": null,
@@ -4084,7 +4550,11 @@
       "mlsName": "DABR MLS",
       "mlsId": "948499",
       "zillowPrice": 145000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-05",
+      "soldPrice": 145000,
+      "grossProfit": 60000,
+      "holdDays": 205
     },
     {
       "propertyId": null,
@@ -4108,7 +4578,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 297300,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-02-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 204
     },
     {
       "propertyId": null,
@@ -4132,7 +4606,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21004595",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 19
     },
     {
       "propertyId": null,
@@ -4204,7 +4682,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21093310",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-06",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 113
     },
     {
       "propertyId": null,
@@ -4300,7 +4782,11 @@
       "mlsName": "Zillow Rentals",
       "mlsId": null,
       "zillowPrice": 4800,
-      "zillowStatus": "FOR_RENT"
+      "zillowStatus": "FOR_RENT",
+      "soldDate": "2025-11-21",
+      "soldPrice": 730000,
+      "grossProfit": 65000,
+      "holdDays": 122
     },
     {
       "propertyId": null,
@@ -4324,7 +4810,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "3014214",
       "zillowPrice": 600000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-08",
+      "soldPrice": 347500,
+      "grossProfit": 47500,
+      "holdDays": 78
     },
     {
       "propertyId": null,
@@ -4444,7 +4934,11 @@
       "mlsName": "LVR",
       "mlsId": "2747521",
       "zillowPrice": 675000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-05",
+      "soldPrice": 675000,
+      "grossProfit": 155000,
+      "holdDays": 218
     },
     {
       "propertyId": null,
@@ -4468,7 +4962,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6911887",
       "zillowPrice": 239000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-26",
+      "soldPrice": 239000,
+      "grossProfit": 83292,
+      "holdDays": 118
     },
     {
       "propertyId": null,
@@ -4540,7 +5038,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 175000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-02",
+      "soldPrice": 175000,
+      "grossProfit": 35000,
+      "holdDays": 32
     },
     {
       "propertyId": null,
@@ -4564,7 +5066,11 @@
       "mlsName": "FMLS GA",
       "mlsId": "7718524",
       "zillowPrice": 459000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-22",
+      "soldPrice": 200000,
+      "grossProfit": 25000,
+      "holdDays": 82
     },
     {
       "propertyId": null,
@@ -4612,7 +5118,11 @@
       "mlsName": "FMLS GA",
       "mlsId": "7677004",
       "zillowPrice": 312700,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-16",
+      "soldPrice": 312700,
+      "grossProfit": 147700,
+      "holdDays": 134
     },
     {
       "propertyId": null,
@@ -4636,7 +5146,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-02",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 57
     },
     {
       "propertyId": null,
@@ -4660,7 +5174,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1894739",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-25",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 50
     },
     {
       "propertyId": null,
@@ -4684,7 +5202,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1922520",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-31",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 145
     },
     {
       "propertyId": null,
@@ -4756,7 +5278,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 113200,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-12-31",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 145
     },
     {
       "propertyId": null,
@@ -4780,7 +5306,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 428200,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-02-19",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 195
     },
     {
       "propertyId": null,
@@ -4804,7 +5334,11 @@
       "mlsName": "Imagine MLS",
       "mlsId": "26001056",
       "zillowPrice": 235000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-13",
+      "soldPrice": 235000,
+      "grossProfit": 125000,
+      "holdDays": 214
     },
     {
       "propertyId": null,
@@ -4948,7 +5482,11 @@
       "mlsName": "Zillow Rentals",
       "mlsId": null,
       "zillowPrice": 120000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-22",
+      "soldPrice": 93000,
+      "grossProfit": 28000,
+      "holdDays": 10
     },
     {
       "propertyId": null,
@@ -4972,7 +5510,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6891123",
       "zillowPrice": 349000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-08-13",
+      "soldPrice": 349000,
+      "grossProfit": 129000,
+      "holdDays": 89
     },
     {
       "propertyId": null,
@@ -4996,7 +5538,11 @@
       "mlsName": "LVR",
       "mlsId": "2754831",
       "zillowPrice": 962500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-24",
+      "soldPrice": 675000,
+      "grossProfit": 55000,
+      "holdDays": 72
     },
     {
       "propertyId": null,
@@ -5020,7 +5566,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 217000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-05",
+      "soldPrice": 217000,
+      "grossProfit": 122000,
+      "holdDays": 176
     },
     {
       "propertyId": null,
@@ -5044,7 +5594,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1928737",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-19",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 217
     },
     {
       "propertyId": null,
@@ -5068,7 +5622,11 @@
       "mlsName": "EXIT Realty broker feed",
       "mlsId": "621434",
       "zillowPrice": 209900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-11",
+      "soldPrice": 88000,
+      "grossProfit": 18000,
+      "holdDays": 27
     },
     {
       "propertyId": null,
@@ -5110,7 +5668,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1896574",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-18",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 31
     },
     {
       "propertyId": null,
@@ -5134,7 +5696,11 @@
       "mlsName": "LVR",
       "mlsId": "2729509",
       "zillowPrice": 450000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-21",
+      "soldPrice": 450000,
+      "grossProfit": 137500,
+      "holdDays": 94
     },
     {
       "propertyId": null,
@@ -5158,7 +5724,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21115054",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-01",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 43
     },
     {
       "propertyId": null,
@@ -5182,7 +5752,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10575431",
       "zillowPrice": 370000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-09-15",
+      "soldPrice": 370000,
+      "grossProfit": 170000,
+      "holdDays": 26
     },
     {
       "propertyId": null,
@@ -5230,7 +5804,11 @@
       "mlsName": "LVR",
       "mlsId": "2734704",
       "zillowPrice": 590000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-30",
+      "soldPrice": 590000,
+      "grossProfit": 187500,
+      "holdDays": 131
     },
     {
       "propertyId": null,
@@ -5254,7 +5832,11 @@
       "mlsName": "LVR",
       "mlsId": "2746167",
       "zillowPrice": 535000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-01",
+      "soldPrice": 358500,
+      "grossProfit": 33000,
+      "holdDays": 40
     },
     {
       "propertyId": null,
@@ -5278,7 +5860,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1915541",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-30",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 130
     },
     {
       "propertyId": null,
@@ -5302,7 +5888,11 @@
       "mlsName": "FMLS GA",
       "mlsId": "7703042",
       "zillowPrice": 359900,
-      "zillowStatus": "PENDING"
+      "zillowStatus": "PENDING",
+      "soldDate": "2025-10-20",
+      "soldPrice": 232000,
+      "grossProfit": 32000,
+      "holdDays": 59
     },
     {
       "propertyId": null,
@@ -5326,7 +5916,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6965233",
       "zillowPrice": 450000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-20",
+      "soldPrice": 450000,
+      "grossProfit": 175000,
+      "holdDays": 178
     },
     {
       "propertyId": null,
@@ -5350,7 +5944,11 @@
       "mlsName": "Hive MLS",
       "mlsId": "SA342245",
       "zillowPrice": 326500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-05",
+      "soldPrice": 326500,
+      "grossProfit": 111256,
+      "holdDays": 132
     },
     {
       "propertyId": null,
@@ -5398,7 +5996,11 @@
       "mlsName": "FMLS GA",
       "mlsId": "7693719",
       "zillowPrice": 384000,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-10-23",
+      "soldPrice": 245000,
+      "grossProfit": 35000,
+      "holdDays": 56
     },
     {
       "propertyId": null,
@@ -5494,7 +6096,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6937552",
       "zillowPrice": 470000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-22",
+      "soldPrice": 470000,
+      "grossProfit": 140000,
+      "holdDays": 108
     },
     {
       "propertyId": null,
@@ -5512,7 +6118,11 @@
       "lotSize": 0,
       "lat": 36.213517,
       "lng": -86.285401,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "soldDate": "2025-11-07",
+      "soldPrice": 225000,
+      "grossProfit": 65000,
+      "holdDays": 63
     },
     {
       "propertyId": null,
@@ -5536,7 +6146,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8463200",
       "zillowPrice": 332000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-23",
+      "soldPrice": 200000,
+      "grossProfit": 35000,
+      "holdDays": 45
     },
     {
       "propertyId": null,
@@ -5584,7 +6198,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6972046",
       "zillowPrice": 399000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-16",
+      "soldPrice": 399000,
+      "grossProfit": 139000,
+      "holdDays": 219
     },
     {
       "propertyId": null,
@@ -5608,7 +6226,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 127000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-01",
+      "soldPrice": 127000,
+      "grossProfit": 45000,
+      "holdDays": 83
     },
     {
       "propertyId": null,
@@ -5632,7 +6254,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1932530",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-27",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 47
     },
     {
       "propertyId": null,
@@ -5656,7 +6282,11 @@
       "mlsName": "CRMLS",
       "mlsId": "SR26042617",
       "zillowPrice": 665000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-24",
+      "soldPrice": 665000,
+      "grossProfit": 156000,
+      "holdDays": 194
     },
     {
       "propertyId": null,
@@ -5680,7 +6310,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "3045692",
       "zillowPrice": 220000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-20",
+      "soldPrice": 220000,
+      "grossProfit": 35000,
+      "holdDays": 189
     },
     {
       "propertyId": null,
@@ -5704,7 +6338,11 @@
       "mlsName": "SWMLS",
       "mlsId": "1094823",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-12",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 122
     },
     {
       "propertyId": null,
@@ -5728,7 +6366,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8442145",
       "zillowPrice": 280000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-18",
+      "soldPrice": 280000,
+      "grossProfit": 40000,
+      "holdDays": 64
     },
     {
       "propertyId": null,
@@ -5800,7 +6442,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 324300,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2025-10-17",
+      "soldPrice": 260000,
+      "grossProfit": 19000,
+      "holdDays": 30
     },
     {
       "propertyId": null,
@@ -5824,7 +6470,11 @@
       "mlsName": "MIBOR as distributed by MLS GRID",
       "mlsId": "22066114",
       "zillowPrice": 225001,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-18",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 62
     },
     {
       "propertyId": null,
@@ -5848,7 +6498,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "3097745",
       "zillowPrice": 370000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-09",
+      "soldPrice": 370000,
+      "grossProfit": 125000,
+      "holdDays": 173
     },
     {
       "propertyId": null,
@@ -5872,7 +6526,11 @@
       "mlsName": "MIBOR as distributed by MLS GRID",
       "mlsId": "22066114",
       "zillowPrice": 225001,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-18",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 62
     },
     {
       "propertyId": null,
@@ -6004,7 +6662,11 @@
       "mlsName": "CRMLS",
       "mlsId": "CV25259800",
       "zillowPrice": 710000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-12",
+      "soldPrice": 710000,
+      "grossProfit": 160000,
+      "holdDays": 140
     },
     {
       "propertyId": null,
@@ -6028,7 +6690,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 159
     },
     {
       "propertyId": null,
@@ -6052,7 +6718,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6941167",
       "zillowPrice": 470000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-20",
+      "soldPrice": 470000,
+      "grossProfit": 120000,
+      "holdDays": 144
     },
     {
       "propertyId": null,
@@ -6124,7 +6794,11 @@
       "mlsName": "CRMLS",
       "mlsId": "PW25270499",
       "zillowPrice": 670000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-10",
+      "soldPrice": 670000,
+      "grossProfit": 154500,
+      "holdDays": 133
     },
     {
       "propertyId": null,
@@ -6166,7 +6840,11 @@
       "mlsName": "EXIT Realty broker feed",
       "mlsId": "623357",
       "zillowPrice": 236000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-10-22",
+      "soldPrice": 100000,
+      "grossProfit": 23500,
+      "holdDays": 21
     },
     {
       "propertyId": null,
@@ -6190,7 +6868,11 @@
       "mlsName": "Consolidated MLS",
       "mlsId": "632901",
       "zillowPrice": 220000,
-      "zillowStatus": "FOR_SALE"
+      "zillowStatus": "FOR_SALE",
+      "soldDate": "2025-10-30",
+      "soldPrice": 115000,
+      "grossProfit": 40000,
+      "holdDays": 29
     },
     {
       "propertyId": null,
@@ -6214,7 +6896,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 569700,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-02-24",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 145
     },
     {
       "propertyId": null,
@@ -6262,7 +6948,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 353600,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-02-06",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 126
     },
     {
       "propertyId": null,
@@ -6358,7 +7048,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "S5143208",
       "zillowPrice": 217500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-23",
+      "soldPrice": 217500,
+      "grossProfit": 107500,
+      "holdDays": 167
     },
     {
       "propertyId": null,
@@ -6430,7 +7124,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 401100,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-03-02",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 144
     },
     {
       "propertyId": null,
@@ -6454,7 +7152,11 @@
       "mlsName": "CTMLS",
       "mlsId": "25031654",
       "zillowPrice": 278000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-16",
+      "soldPrice": 278000,
+      "grossProfit": 103000,
+      "holdDays": 129
     },
     {
       "propertyId": null,
@@ -6478,7 +7180,11 @@
       "mlsName": "Zillow Rentals",
       "mlsId": null,
       "zillowPrice": 2400,
-      "zillowStatus": "FOR_RENT"
+      "zillowStatus": "FOR_RENT",
+      "soldDate": "2025-11-25",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 46
     },
     {
       "propertyId": null,
@@ -6574,7 +7280,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8498259",
       "zillowPrice": 499999,
-      "zillowStatus": "PENDING"
+      "zillowStatus": "PENDING",
+      "soldDate": "2026-01-05",
+      "soldPrice": 325000,
+      "grossProfit": 40000,
+      "holdDays": 83
     },
     {
       "propertyId": null,
@@ -6598,7 +7308,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1938764",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-14",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 181
     },
     {
       "propertyId": null,
@@ -6622,7 +7336,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1921620",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-05",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 82
     },
     {
       "propertyId": null,
@@ -6694,7 +7412,11 @@
       "mlsName": "CTMLS",
       "mlsId": "25032714",
       "zillowPrice": 317500,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-16",
+      "soldPrice": 317500,
+      "grossProfit": 122500,
+      "holdDays": 92
     },
     {
       "propertyId": null,
@@ -6790,7 +7512,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8446939",
       "zillowPrice": 160000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-11-24",
+      "soldPrice": 160000,
+      "grossProfit": 60000,
+      "holdDays": 38
     },
     {
       "propertyId": null,
@@ -6814,7 +7540,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 191000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-01",
+      "soldPrice": 272500,
+      "grossProfit": 81500,
+      "holdDays": 163
     },
     {
       "propertyId": null,
@@ -6958,7 +7688,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6969720",
       "zillowPrice": 474900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-26",
+      "soldPrice": 474900,
+      "grossProfit": 148900,
+      "holdDays": 154
     },
     {
       "propertyId": null,
@@ -7054,7 +7788,11 @@
       "mlsName": "Stellar MLS",
       "mlsId": "TB8441148",
       "zillowPrice": 675000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-13",
+      "soldPrice": 675000,
+      "grossProfit": 75000,
+      "holdDays": 112
     },
     {
       "propertyId": null,
@@ -7192,7 +7930,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1867637",
       "zillowPrice": 198000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-17",
+      "soldPrice": 198000,
+      "grossProfit": 128000,
+      "holdDays": 139
     },
     {
       "propertyId": null,
@@ -7312,7 +8054,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1866427",
       "zillowPrice": 174900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-10",
+      "soldPrice": 174900,
+      "grossProfit": 112400,
+      "holdDays": 127
     },
     {
       "propertyId": null,
@@ -7432,7 +8178,11 @@
       "mlsName": "WPMLS",
       "mlsId": "1737043",
       "zillowPrice": 95250,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-24",
+      "soldPrice": 95250,
+      "grossProfit": 55250,
+      "holdDays": 111
     },
     {
       "propertyId": null,
@@ -7456,7 +8206,11 @@
       "mlsName": "LVR",
       "mlsId": "2763168",
       "zillowPrice": 250000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-08",
+      "soldPrice": 250000,
+      "grossProfit": 78000,
+      "holdDays": 153
     },
     {
       "propertyId": null,
@@ -7480,7 +8234,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6957186",
       "zillowPrice": 379900,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-07",
+      "soldPrice": 379900,
+      "grossProfit": 99900,
+      "holdDays": 146
     },
     {
       "propertyId": null,
@@ -7504,7 +8262,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21118437",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-10",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 27
     },
     {
       "propertyId": null,
@@ -7552,7 +8314,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 115000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-16",
+      "soldPrice": 115000,
+      "grossProfit": 89892,
+      "holdDays": 63
     },
     {
       "propertyId": null,
@@ -7570,7 +8336,11 @@
       "lotSize": 1.36,
       "lat": 36.4236,
       "lng": -86.917581,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "soldDate": "2026-03-11",
+      "soldPrice": 435000,
+      "grossProfit": null,
+      "holdDays": 114
     },
     {
       "propertyId": null,
@@ -7618,7 +8388,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "3035606",
       "zillowPrice": 230000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-10",
+      "soldPrice": 230000,
+      "grossProfit": 30000,
+      "holdDays": 23
     },
     {
       "propertyId": null,
@@ -7684,7 +8458,11 @@
       "mlsName": "Columbus and Central Ohio Regional MLS ",
       "mlsId": "225044502",
       "zillowPrice": 120000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-01-06",
+      "soldPrice": 120000,
+      "grossProfit": 40000,
+      "holdDays": 49
     },
     {
       "propertyId": null,
@@ -7756,7 +8534,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21237802",
       "zillowPrice": 285000,
-      "zillowStatus": "PENDING"
+      "zillowStatus": "PENDING",
+      "soldDate": "2026-02-10",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 84
     },
     {
       "propertyId": null,
@@ -7780,7 +8562,11 @@
       "mlsName": "LVR",
       "mlsId": "2737899",
       "zillowPrice": 525000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-06",
+      "soldPrice": 525000,
+      "grossProfit": 72000,
+      "holdDays": 108
     },
     {
       "propertyId": null,
@@ -7804,7 +8590,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21137264",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 78
     },
     {
       "propertyId": null,
@@ -8062,7 +8852,11 @@
       "mlsName": "RealTracs MLS as distributed by MLS GRID",
       "mlsId": "3073833",
       "zillowPrice": 325000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-25",
+      "soldPrice": 325000,
+      "grossProfit": 82000,
+      "holdDays": 92
     },
     {
       "propertyId": null,
@@ -8086,7 +8880,11 @@
       "mlsName": "LERA MLS",
       "mlsId": "1927487",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2025-12-22",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 27
     },
     {
       "propertyId": null,
@@ -8206,7 +9004,11 @@
       "mlsName": "GAMLS",
       "mlsId": "10691017",
       "zillowPrice": 144000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-25",
+      "soldPrice": 144000,
+      "grossProfit": 34000,
+      "holdDays": 86
     },
     {
       "propertyId": null,
@@ -8254,7 +9056,11 @@
       "mlsName": "Cincy MLS",
       "mlsId": "1866312",
       "zillowPrice": 180000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-02-12",
+      "soldPrice": 180000,
+      "grossProfit": 35000,
+      "holdDays": 73
     },
     {
       "propertyId": null,
@@ -8302,7 +9108,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 407700,
-      "zillowStatus": "OTHER"
+      "zillowStatus": "OTHER",
+      "soldDate": "2026-01-23",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 51
     },
     {
       "propertyId": null,
@@ -8590,7 +9400,11 @@
       "mlsName": null,
       "mlsId": null,
       "zillowPrice": 225000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-27",
+      "soldPrice": 225000,
+      "grossProfit": 61000,
+      "holdDays": 108
     },
     {
       "propertyId": null,
@@ -8638,7 +9452,11 @@
       "mlsName": "NTREIS",
       "mlsId": "21152065",
       "zillowPrice": 0,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-03-04",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 83
     },
     {
       "propertyId": null,
@@ -8944,7 +9762,11 @@
       "mlsName": "LVR",
       "mlsId": "2764232",
       "zillowPrice": 425000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-17",
+      "soldPrice": 425000,
+      "grossProfit": 135000,
+      "holdDays": 116
     },
     {
       "propertyId": null,
@@ -8968,7 +9790,11 @@
       "mlsName": "ARMLS",
       "mlsId": "6983854",
       "zillowPrice": 545000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-02",
+      "soldPrice": 545000,
+      "grossProfit": 175000,
+      "holdDays": 101
     },
     {
       "propertyId": null,
@@ -9088,7 +9914,11 @@
       "mlsName": "LVR",
       "mlsId": "2765405",
       "zillowPrice": 505000,
-      "zillowStatus": "RECENTLY_SOLD"
+      "zillowStatus": "RECENTLY_SOLD",
+      "soldDate": "2026-04-07",
+      "soldPrice": 505000,
+      "grossProfit": 100000,
+      "holdDays": 105
     },
     {
       "propertyId": null,
@@ -9316,7 +10146,11 @@
       "lotSize": 0.2931129,
       "lat": 29.425541,
       "lng": -98.412701,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "soldDate": "2026-03-03",
+      "soldPrice": 0,
+      "grossProfit": null,
+      "holdDays": 62
     },
     {
       "propertyId": null,

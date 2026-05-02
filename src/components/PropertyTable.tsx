@@ -100,8 +100,11 @@ export default function PropertyTable({
                 className="px-3 py-2 text-right cursor-pointer whitespace-nowrap"
                 onClick={() => toggleSort("offerPrice")}
               >
-                Price{arrow("offerPrice")}
+                Bought{arrow("offerPrice")}
               </th>
+              <th className="px-3 py-2 whitespace-nowrap">Sold Date</th>
+              <th className="px-3 py-2 text-right whitespace-nowrap">Sold Price</th>
+              <th className="px-3 py-2 text-right whitespace-nowrap">Gross Profit</th>
               <th
                 className="px-3 py-2 cursor-pointer"
                 onClick={() => toggleSort("isRebuilt")}
@@ -144,6 +147,20 @@ export default function PropertyTable({
                   <td className="px-3 py-2 text-right text-gray-900 font-medium">
                     {p.offerPrice
                       ? "$" + p.offerPrice.toLocaleString()
+                      : "—"}
+                  </td>
+                  <td className="px-3 py-2 whitespace-nowrap text-gray-600">
+                    {p.soldDate ? new Date(p.soldDate).toLocaleDateString() : "—"}
+                  </td>
+                  <td className="px-3 py-2 text-right text-gray-900">
+                    {p.soldPrice ? "$" + p.soldPrice.toLocaleString() : "—"}
+                  </td>
+                  <td className={`px-3 py-2 text-right font-medium ${
+                    p.grossProfit && p.grossProfit > 0 ? "text-emerald-600"
+                    : p.grossProfit && p.grossProfit < 0 ? "text-rose-600"
+                    : "text-gray-400"}`}>
+                    {p.grossProfit != null
+                      ? (p.grossProfit >= 0 ? "+" : "") + "$" + Math.abs(p.grossProfit).toLocaleString()
                       : "—"}
                   </td>
                   <td className="px-3 py-2">

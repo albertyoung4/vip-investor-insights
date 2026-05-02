@@ -27,10 +27,20 @@ export interface PropertyDetail {
   lat: number | null;
   lng: number | null;
   entity?: string;
+  soldDate?: string | null;
+  soldPrice?: number | null;
+  grossProfit?: number | null;
+  holdDays?: number | null;
   omrMatch?: {
     posterName: string | null;
     askingPrice: number | null;
     postedAt: string | null;
+  };
+  rebuiltOffer?: {
+    propertyId: string;
+    offerPrice: number;
+    offerDate: string;
+    buyer: string;
   };
 }
 
