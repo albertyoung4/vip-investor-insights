@@ -49,7 +49,10 @@ export default function PropertyTable({
     if (info?.category === "MLS" || info?.category === "REO") {
       return { label: info.category === "REO" ? "REO" : "MLS", className: "bg-blue-100 text-blue-700" };
     }
-    return { label: "3rd Party", className: "bg-orange-100 text-orange-700" };
+    if (info?.category === "Off Market") {
+      return { label: "Off Market", className: "bg-orange-100 text-orange-700" };
+    }
+    return { label: "3rd Party", className: "bg-gray-100 text-gray-600" };
   }
 
   function getExitStrategy(p: PropertyDetail): string | null {

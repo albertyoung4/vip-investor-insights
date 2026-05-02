@@ -69,7 +69,13 @@
         "rebuilt": 0,
         "total": 135
       }
-    }
+    },
+    "zillowClassified": 374,
+    "mlsAcquisitions": 223,
+    "offMarketAcquisitions": 151,
+    "activeFlips": 67,
+    "soldOrFlipped": 237,
+    "currentlyListed": 94
   },
   "properties": [
     {
@@ -88,7 +94,13 @@
       "lotSize": 0.1160009,
       "lat": 39.166491,
       "lng": -84.535793,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1838101",
+      "zillowPrice": 268625,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -106,7 +118,13 @@
       "lotSize": 0,
       "lat": 37.890306,
       "lng": -83.87449,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 200000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -124,7 +142,13 @@
       "lotSize": 0.0847107,
       "lat": 41.950057,
       "lng": -87.777067,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MRED as distributed by MLS GRID",
+      "mlsId": "12566657",
+      "zillowPrice": 420000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -142,7 +166,13 @@
       "lotSize": 0.2355601,
       "lat": 30.259024,
       "lng": -81.642974,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2081044",
+      "zillowPrice": 305900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -160,7 +190,13 @@
       "lotSize": 0.1399908,
       "lat": 36.159213,
       "lng": -115.067998,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Lennar Homes",
+      "mlsId": null,
+      "zillowPrice": 699777,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -178,7 +214,13 @@
       "lotSize": 1,
       "lat": 40.765291,
       "lng": -111.41209,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2147268",
+      "zillowPrice": 625000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -196,7 +238,13 @@
       "lotSize": 1,
       "lat": 40.765291,
       "lng": -111.41209,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2147268",
+      "zillowPrice": 625000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -214,7 +262,13 @@
       "lotSize": 0.0219927,
       "lat": 40.086124,
       "lng": -82.978768,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "225009628",
+      "zillowPrice": 158000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -232,7 +286,13 @@
       "lotSize": 0.1800046,
       "lat": 41.196554,
       "lng": -111.960883,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 0,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -250,7 +310,13 @@
       "lotSize": 0,
       "lat": 33.969798,
       "lng": -84.64188,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2LLC"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2LLC",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7705669",
+      "zillowPrice": 389900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -268,7 +334,13 @@
       "lotSize": 0.2277089,
       "lat": 27.751595,
       "lng": -82.726083,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8317858",
+      "zillowPrice": 390000,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -286,7 +358,13 @@
       "lotSize": 1.49,
       "lat": 33.702273,
       "lng": -85.010665,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10464416",
+      "zillowPrice": 350000,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -304,7 +382,13 @@
       "lotSize": 0.2479109,
       "lat": 39.684474,
       "lng": -84.152139,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "DABR MLS",
+      "mlsId": "933772",
+      "zillowPrice": 265000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -322,7 +406,13 @@
       "lotSize": 0.1707989,
       "lat": 41.47513,
       "lng": -87.675471,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MRED as distributed by MLS GRID",
+      "mlsId": "12463194",
+      "zillowPrice": 189900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -340,7 +430,13 @@
       "lotSize": 0.1,
       "lat": 36.080128,
       "lng": -115.01736,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2674745",
+      "zillowPrice": 405000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -358,7 +454,13 @@
       "lotSize": 0.2699954,
       "lat": 33.724868,
       "lng": -84.270276,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10590220",
+      "zillowPrice": 310000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -376,7 +478,13 @@
       "lotSize": 0.1600092,
       "lat": 38.495322,
       "lng": -94.957691,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2577902",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -394,7 +502,13 @@
       "lotSize": 0.1600092,
       "lat": 38.495925,
       "lng": -94.957834,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2577904",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -412,7 +526,13 @@
       "lotSize": 0.3399908,
       "lat": 32.719245,
       "lng": -80.105712,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25012828",
+      "zillowPrice": 440000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -430,7 +550,13 @@
       "lotSize": 0.4100092,
       "lat": 33.868548,
       "lng": -84.065319,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "FMLS GA",
+      "mlsId": "7754132",
+      "zillowPrice": 2599,
+      "zillowStatus": "FOR_RENT"
     },
     {
       "propertyId": null,
@@ -448,7 +574,13 @@
       "lotSize": 0.1167126,
       "lat": 42.016567,
       "lng": -87.724561,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MRED as distributed by MLS GRID",
+      "mlsId": "12562386",
+      "zillowPrice": 390000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -466,7 +598,13 @@
       "lotSize": 0.1760101,
       "lat": 40.653897,
       "lng": -112.297584,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 0,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -484,7 +622,13 @@
       "lotSize": 0.1177916,
       "lat": 33.567682,
       "lng": -112.210796,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6835398",
+      "zillowPrice": 394900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -502,7 +646,13 @@
       "lotSize": 0.1890955,
       "lat": 39.884791,
       "lng": -84.201699,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING I LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING I LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "DABR MLS",
+      "mlsId": "939219",
+      "zillowPrice": 199000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -520,7 +670,13 @@
       "lotSize": 0.4100092,
       "lat": 33.947458,
       "lng": -84.060341,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10506731",
+      "zillowPrice": 380000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -538,7 +694,13 @@
       "lotSize": 0.1936639,
       "lat": 32.568719,
       "lng": -96.947737,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "20821993",
+      "zillowPrice": 0,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -556,7 +718,13 @@
       "lotSize": 0,
       "lat": 36.287502,
       "lng": -115.270431,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2680751",
+      "zillowPrice": 245000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -574,7 +742,13 @@
       "lotSize": 0.1199954,
       "lat": 39.046535,
       "lng": -84.512109,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NKMLS",
+      "mlsId": "630464",
+      "zillowPrice": 182900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -610,7 +784,13 @@
       "lotSize": 0.1100092,
       "lat": 36.184275,
       "lng": -115.2986,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2704152",
+      "zillowPrice": 750000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -628,7 +808,13 @@
       "lotSize": 0.2800046,
       "lat": 29.193766,
       "lng": -82.110318,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "O6346887",
+      "zillowPrice": 350000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -646,7 +832,13 @@
       "lotSize": 0.1600092,
       "lat": 33.60504,
       "lng": -112.240789,
-      "entity": "CEDER BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDER BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6849289",
+      "zillowPrice": 415000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -664,7 +856,13 @@
       "lotSize": 0.0320248,
       "lat": 39.59532,
       "lng": -82.935782,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "225033366",
+      "zillowPrice": 165000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -682,7 +880,13 @@
       "lotSize": 0.1399908,
       "lat": 36.270753,
       "lng": -115.178783,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2685550",
+      "zillowPrice": 400000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -700,7 +904,13 @@
       "lotSize": 4.8099999,
       "lat": 33.017177,
       "lng": -80.338451,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25006131",
+      "zillowPrice": 185000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -718,7 +928,13 @@
       "lotSize": 0.212259,
       "lat": 30.356685,
       "lng": -81.583246,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2099031",
+      "zillowPrice": 275000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -736,7 +952,13 @@
       "lotSize": 0.0800046,
       "lat": 40.541222,
       "lng": -112.001481,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2131073",
+      "zillowPrice": 619900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -754,7 +976,13 @@
       "lotSize": 0.1659091,
       "lat": 32.645398,
       "lng": -97.092245,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "20908327",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -772,7 +1000,13 @@
       "lotSize": 0.2300046,
       "lat": 40.701948,
       "lng": -111.850499,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2131061",
+      "zillowPrice": 775000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -790,7 +1024,13 @@
       "lotSize": 0.4710055,
       "lat": 39.977577,
       "lng": -83.049484,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "225046456",
+      "zillowPrice": 175000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -808,7 +1048,13 @@
       "lotSize": 0.9600092,
       "lat": 36.280421,
       "lng": -86.758433,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "2897887",
+      "zillowPrice": 495000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -826,7 +1072,13 @@
       "lotSize": 0.2479339,
       "lat": 28.095904,
       "lng": -82.510363,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 234200,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -844,7 +1096,13 @@
       "lotSize": 0,
       "lat": 38.166305,
       "lng": -84.909839,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Metro Search Inc. LLC DBA Apex MLS",
+      "mlsId": "1712055",
+      "zillowPrice": 579900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -862,7 +1120,13 @@
       "lotSize": 0.2399908,
       "lat": 39.178741,
       "lng": -84.273544,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1841690",
+      "zillowPrice": 255000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -880,7 +1144,13 @@
       "lotSize": 0.0043159,
       "lat": 33.616471,
       "lng": -111.721856,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 510000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -898,7 +1168,13 @@
       "lotSize": 0,
       "lat": 36.207619,
       "lng": -86.570973,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "2886019",
+      "zillowPrice": 450000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -916,7 +1192,13 @@
       "lotSize": 0,
       "lat": 33.288174,
       "lng": -96.565632,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "20987823",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -934,7 +1216,13 @@
       "lotSize": 0.2029844,
       "lat": 33.645693,
       "lng": -112.124569,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6906232",
+      "zillowPrice": 435000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -952,7 +1240,13 @@
       "lotSize": 0.2597107,
       "lat": 30.034508,
       "lng": -95.475435,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 255500,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -970,7 +1264,13 @@
       "lotSize": 0,
       "lat": 39.765007,
       "lng": -84.109909,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 1 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "DABR MLS",
+      "mlsId": "930427",
+      "zillowPrice": 189900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -988,7 +1288,13 @@
       "lotSize": 0.169146,
       "lat": 33.269898,
       "lng": -111.707003,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6863714",
+      "zillowPrice": 635000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1006,7 +1312,13 @@
       "lotSize": 0.3100092,
       "lat": 33.762834,
       "lng": -84.169899,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": "Zillow Rentals",
+      "mlsId": null,
+      "zillowPrice": 758,
+      "zillowStatus": "FOR_RENT"
     },
     {
       "propertyId": null,
@@ -1024,7 +1336,13 @@
       "lotSize": 0.2760101,
       "lat": 35.095527,
       "lng": -106.49261,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1092957",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1042,7 +1360,13 @@
       "lotSize": 0.1379936,
       "lat": 30.041469,
       "lng": -81.752178,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2076657",
+      "zillowPrice": 295000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1060,7 +1384,13 @@
       "lotSize": 0.2065886,
       "lat": 31.993646,
       "lng": -81.107701,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10526692",
+      "zillowPrice": 251500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1078,7 +1408,13 @@
       "lotSize": 0.6652893,
       "lat": 30.05574,
       "lng": -81.830486,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2105917",
+      "zillowPrice": 470000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1096,7 +1432,13 @@
       "lotSize": 0.1100092,
       "lat": 36.039731,
       "lng": -115.146325,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2671032",
+      "zillowPrice": 400000,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -1114,7 +1456,13 @@
       "lotSize": 0.1719927,
       "lat": 29.599356,
       "lng": -98.530484,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1939816",
+      "zillowPrice": 500000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1132,7 +1480,13 @@
       "lotSize": 0.1046832,
       "lat": 40.360179,
       "lng": -80.019589,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "WPMLS",
+      "mlsId": "1723777",
+      "zillowPrice": 254925,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1150,7 +1504,13 @@
       "lotSize": 0,
       "lat": 29.921166,
       "lng": -81.387311,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2088768",
+      "zillowPrice": 182500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1168,7 +1528,13 @@
       "lotSize": 0.2315657,
       "lat": 33.991568,
       "lng": -80.498188,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 75000,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -1186,7 +1552,13 @@
       "lotSize": 0.4593893,
       "lat": 32.948605,
       "lng": -97.170519,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 2 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21164441",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1204,7 +1576,13 @@
       "lotSize": 0.1842057,
       "lat": 33.592719,
       "lng": -112.214986,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6859573",
+      "zillowPrice": 458000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1222,7 +1600,13 @@
       "lotSize": 4.8099999,
       "lat": 33.017177,
       "lng": -80.338451,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25006131",
+      "zillowPrice": 185000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1240,7 +1624,13 @@
       "lotSize": 0,
       "lat": 33.001493,
       "lng": -80.048828,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25020844",
+      "zillowPrice": 307000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1258,7 +1648,13 @@
       "lotSize": 0.1463958,
       "lat": 28.157944,
       "lng": -82.280668,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8422534",
+      "zillowPrice": 405000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1276,7 +1672,13 @@
       "lotSize": 0.2726354,
       "lat": 28.48071,
       "lng": -81.34171,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8449612",
+      "zillowPrice": 485000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1294,7 +1696,13 @@
       "lotSize": 0.1558999,
       "lat": 31.96584,
       "lng": -81.139992,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Hive MLS",
+      "mlsId": "SA343857",
+      "zillowPrice": 329000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1312,7 +1720,13 @@
       "lotSize": 0.3600092,
       "lat": 31.975161,
       "lng": -81.226784,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Hive MLS",
+      "mlsId": "SA332246",
+      "zillowPrice": 337000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1330,7 +1744,13 @@
       "lotSize": 0.2699954,
       "lat": 41.519051,
       "lng": -112.012079,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 570900,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -1348,7 +1768,13 @@
       "lotSize": 0.0098944,
       "lat": 30.261411,
       "lng": -81.647324,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2109198",
+      "zillowPrice": 339000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1366,7 +1792,13 @@
       "lotSize": 0.2399908,
       "lat": 40.085832,
       "lng": -86.070245,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22094610",
+      "zillowPrice": 349900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1384,7 +1816,13 @@
       "lotSize": 0.3100092,
       "lat": 36.561058,
       "lng": -87.416391,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "2980466",
+      "zillowPrice": 269000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1402,7 +1840,13 @@
       "lotSize": 0.1800046,
       "lat": 29.836795,
       "lng": -81.31155,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2112625",
+      "zillowPrice": 385000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1420,7 +1864,13 @@
       "lotSize": 0.1995179,
       "lat": 30.638398,
       "lng": -81.545164,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2091223",
+      "zillowPrice": 329900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1438,7 +1888,13 @@
       "lotSize": 0.1739899,
       "lat": 35.124828,
       "lng": -106.650034,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1095776",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1456,7 +1912,13 @@
       "lotSize": 0,
       "lat": 33.159361,
       "lng": -80.04559,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26011700",
+      "zillowPrice": 289000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1474,7 +1936,13 @@
       "lotSize": 0.1205234,
       "lat": 33.678057,
       "lng": -112.146903,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6882762",
+      "zillowPrice": 442500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1492,7 +1960,13 @@
       "lotSize": 0.2682966,
       "lat": 30.422131,
       "lng": -95.632144,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 462400,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -1510,7 +1984,13 @@
       "lotSize": 0.1396006,
       "lat": 32.853718,
       "lng": -97.09059,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "20994607",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1528,7 +2008,13 @@
       "lotSize": 0.2295684,
       "lat": 27.042195,
       "lng": -82.1991,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 140000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1546,7 +2032,13 @@
       "lotSize": 0.1584022,
       "lat": 40.454252,
       "lng": -79.842365,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "WPMLS",
+      "mlsId": "1721693",
+      "zillowPrice": 209000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1564,7 +2056,13 @@
       "lotSize": 0.1550046,
       "lat": 35.078849,
       "lng": -106.551778,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1088477",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1582,7 +2080,13 @@
       "lotSize": 0.1252066,
       "lat": 32.649704,
       "lng": -97.108145,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21015473",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1600,7 +2104,13 @@
       "lotSize": 0.5699954,
       "lat": 33.755788,
       "lng": -84.037119,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10532485",
+      "zillowPrice": 300000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1618,7 +2128,13 @@
       "lotSize": 0.5399908,
       "lat": 28.991911,
       "lng": -81.305422,
-      "entity": "CEDARBROOK PROPERTIES III LLC"
+      "entity": "CEDARBROOK PROPERTIES III LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8472530",
+      "zillowPrice": 405000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1636,7 +2152,13 @@
       "lotSize": 0.1100092,
       "lat": 31.994406,
       "lng": -81.074458,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10552037",
+      "zillowPrice": 311000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1654,7 +2176,13 @@
       "lotSize": 0.1163912,
       "lat": 33.355294,
       "lng": -111.823145,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6912643",
+      "zillowPrice": 505000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1672,7 +2200,13 @@
       "lotSize": 0.3699954,
       "lat": 36.550424,
       "lng": -87.287478,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3170712",
+      "zillowPrice": 389900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1690,7 +2224,13 @@
       "lotSize": 0.1379936,
       "lat": 35.071319,
       "lng": -106.716464,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3LLC"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1090445",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1708,7 +2248,13 @@
       "lotSize": 0.9846419,
       "lat": 33.332425,
       "lng": -112.479971,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6902109",
+      "zillowPrice": 395000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1726,7 +2272,13 @@
       "lotSize": 0.9699954,
       "lat": 33.849356,
       "lng": -81.368768,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Consolidated MLS",
+      "mlsId": "622703",
+      "zillowPrice": 169900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -1744,7 +2296,13 @@
       "lotSize": 0.2199954,
       "lat": 40.635043,
       "lng": -111.82834,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 783000,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -1762,7 +2320,13 @@
       "lotSize": 0.3788108,
       "lat": 32.040847,
       "lng": -81.156717,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Hive MLS",
+      "mlsId": "SA336075",
+      "zillowPrice": 365000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1780,7 +2344,13 @@
       "lotSize": 1.91,
       "lat": 35.683318,
       "lng": -82.55095,
-      "entity": "JUDY L GLICKEN"
+      "entity": "JUDY L GLICKEN",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 669000,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -1798,7 +2368,13 @@
       "lotSize": 0,
       "lat": 33.273065,
       "lng": -84.654297,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7623913",
+      "zillowPrice": 299000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1816,7 +2392,13 @@
       "lotSize": 0.136708,
       "lat": 28.090747,
       "lng": -82.773664,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 177000,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -1834,7 +2416,13 @@
       "lotSize": 0.1610422,
       "lat": 32.86048,
       "lng": -96.616425,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21097435",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1852,7 +2440,13 @@
       "lotSize": 0.1772039,
       "lat": 32.8354,
       "lng": -97.093215,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": "Zillow Rentals",
+      "mlsId": null,
+      "zillowPrice": 249600,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -1870,7 +2464,13 @@
       "lotSize": 0.4800046,
       "lat": 39.09451,
       "lng": -94.428818,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2587914",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1906,7 +2506,13 @@
       "lotSize": 0,
       "lat": 34.02159,
       "lng": -84.444056,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 392000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1924,7 +2530,13 @@
       "lotSize": 0.2107897,
       "lat": 28.48594,
       "lng": -81.263676,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "S5142870",
+      "zillowPrice": 364900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1942,7 +2554,13 @@
       "lotSize": 0.15,
       "lat": 40.535502,
       "lng": -112.288402,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2127345",
+      "zillowPrice": 338500,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -1960,7 +2578,13 @@
       "lotSize": 0,
       "lat": 34.116689,
       "lng": -80.876652,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 275000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1978,7 +2602,13 @@
       "lotSize": 0.3910009,
       "lat": 39.878208,
       "lng": -86.195023,
-      "entity": "BROOK PROPERTIES FUNDING 3 LLC"
+      "entity": "BROOK PROPERTIES FUNDING 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22085890",
+      "zillowPrice": 283000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -1996,7 +2626,13 @@
       "lotSize": 0.2239899,
       "lat": 40.375464,
       "lng": -111.947543,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LC"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2149253",
+      "zillowPrice": 724900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2014,7 +2650,13 @@
       "lotSize": 0.1710055,
       "lat": 39.919374,
       "lng": -83.146819,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": "Zillow Rentals",
+      "mlsId": null,
+      "zillowPrice": 2010,
+      "zillowStatus": "FOR_RENT"
     },
     {
       "propertyId": null,
@@ -2032,7 +2674,13 @@
       "lotSize": 0.1799128,
       "lat": 33.403992,
       "lng": -111.564863,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6882312",
+      "zillowPrice": 375000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2050,7 +2698,13 @@
       "lotSize": 0.2157025,
       "lat": 32.06312,
       "lng": -81.03998,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Hive MLS",
+      "mlsId": "SA333699",
+      "zillowPrice": 355000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2068,7 +2722,13 @@
       "lotSize": 0.1940083,
       "lat": 39.259902,
       "lng": -84.581359,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1854529",
+      "zillowPrice": 199900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2086,7 +2746,13 @@
       "lotSize": 0.3899908,
       "lat": 41.632174,
       "lng": -111.935801,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 475124,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2122,7 +2788,13 @@
       "lotSize": 0.5399908,
       "lat": 36.377537,
       "lng": -86.894105,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 175000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2140,7 +2812,13 @@
       "lotSize": 0.0179063,
       "lat": 33.392203,
       "lng": -111.627289,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6879307",
+      "zillowPrice": 342000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2158,7 +2836,13 @@
       "lotSize": 0.0614096,
       "lat": 33.409555,
       "lng": -111.898198,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6891123",
+      "zillowPrice": 349000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2176,7 +2860,13 @@
       "lotSize": 3.4200001,
       "lat": 34.626786,
       "lng": -81.069568,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 215000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2194,7 +2884,13 @@
       "lotSize": 0.2536731,
       "lat": 33.883029,
       "lng": -81.091685,
-      "entity": "CEDARBROOK PROPERTIES FUNDING 3 LLC"
+      "entity": "CEDARBROOK PROPERTIES FUNDING 3 LLC",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 175000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2212,7 +2908,13 @@
       "lotSize": 0,
       "lat": 33.014797,
       "lng": -80.013214,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25019644",
+      "zillowPrice": 400000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2230,7 +2932,13 @@
       "lotSize": 0.0199954,
       "lat": 39.033192,
       "lng": -94.286928,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2583646",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2248,7 +2956,13 @@
       "lotSize": 0.0734619,
       "lat": 38.203054,
       "lng": -84.853646,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 62000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2266,7 +2980,13 @@
       "lotSize": 0.1559917,
       "lat": 35.582986,
       "lng": -97.657039,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MLSOK/OKCMAR as distributed by MLS GRID",
+      "mlsId": "1178618",
+      "zillowPrice": 265000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2284,7 +3004,13 @@
       "lotSize": 0,
       "lat": 39.840912,
       "lng": -84.308087,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "DABR MLS",
+      "mlsId": "939236",
+      "zillowPrice": 198500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2302,7 +3028,13 @@
       "lotSize": 0.1603306,
       "lat": 32.92883,
       "lng": -111.732,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6911881",
+      "zillowPrice": 300000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2320,7 +3052,13 @@
       "lotSize": 0.2899908,
       "lat": 40.722047,
       "lng": -111.831467,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 980700,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2338,7 +3076,13 @@
       "lotSize": 0.4399908,
       "lat": 38.985641,
       "lng": -94.496395,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2587098",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2356,7 +3100,13 @@
       "lotSize": 0.0899908,
       "lat": 41.513093,
       "lng": -112.019559,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 358200,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2374,7 +3124,13 @@
       "lotSize": 0.0024564,
       "lat": 33.619558,
       "lng": -111.719358,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 206200,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2392,7 +3148,13 @@
       "lotSize": 0.4699954,
       "lat": 33.043901,
       "lng": -80.228118,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26003912",
+      "zillowPrice": 269000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2410,7 +3172,13 @@
       "lotSize": 0.3399908,
       "lat": 37.650299,
       "lng": -84.959108,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Metro Search Inc. LLC DBA Apex MLS",
+      "mlsId": "1708470",
+      "zillowPrice": 209000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2428,7 +3196,13 @@
       "lotSize": 0.1898072,
       "lat": 32.829859,
       "lng": -97.092483,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21242052",
+      "zillowPrice": 299500,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2464,7 +3238,13 @@
       "lotSize": 0.2754821,
       "lat": 34.565642,
       "lng": -117.288795,
-      "entity": "CEDAR BROOK PROPERTIES 3 LLC"
+      "entity": "CEDAR BROOK PROPERTIES 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CRMLS",
+      "mlsId": "PW25200812",
+      "zillowPrice": 390000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2482,7 +3262,13 @@
       "lotSize": 0.2070937,
       "lat": 30.347056,
       "lng": -81.57148,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2128713",
+      "zillowPrice": 279900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -2500,7 +3286,13 @@
       "lotSize": 0.1587695,
       "lat": 29.446001,
       "lng": -98.550187,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1884336",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2518,7 +3310,13 @@
       "lotSize": 0.1322314,
       "lat": 42.068848,
       "lng": -76.820764,
-      "entity": "LAKEVIEW LOAN SERVICING L"
+      "entity": "LAKEVIEW LOAN SERVICING L",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 65700,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2536,7 +3334,13 @@
       "lotSize": 1.72,
       "lat": 32.752151,
       "lng": -97.007665,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 553700,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2554,7 +3358,13 @@
       "lotSize": 1.25,
       "lat": 34.359277,
       "lng": -82.909599,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10629177",
+      "zillowPrice": 267500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2572,7 +3382,13 @@
       "lotSize": 0.2600092,
       "lat": 36.154496,
       "lng": -115.217192,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2726492",
+      "zillowPrice": 734000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2590,7 +3406,13 @@
       "lotSize": 0,
       "lat": 38.761208,
       "lng": -93.726887,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2577679",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2608,7 +3430,13 @@
       "lotSize": 0,
       "lat": 33.570071,
       "lng": -84.396312,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10598819",
+      "zillowPrice": 314000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2626,7 +3454,13 @@
       "lotSize": 0.7700184,
       "lat": 34.269459,
       "lng": -80.828143,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "EXIT Realty broker feed",
+      "mlsId": "621682",
+      "zillowPrice": 96500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2644,7 +3478,13 @@
       "lotSize": 0.1584022,
       "lat": 29.822059,
       "lng": -95.068611,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 298983,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2662,7 +3502,13 @@
       "lotSize": 0.1440083,
       "lat": 39.094073,
       "lng": -84.393207,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 279900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2680,7 +3526,13 @@
       "lotSize": 0.0199954,
       "lat": 39.033192,
       "lng": -94.397431,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2607746",
+      "zillowPrice": 150000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -2698,7 +3550,13 @@
       "lotSize": 0,
       "lat": 33.449352,
       "lng": -84.153726,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "FMLS GA",
+      "mlsId": "7632738",
+      "zillowPrice": 275000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2716,7 +3574,13 @@
       "lotSize": 0.0464876,
       "lat": 33.580164,
       "lng": -112.059431,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6902650",
+      "zillowPrice": 364990,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2734,7 +3598,13 @@
       "lotSize": 0.1899908,
       "lat": 41.186979,
       "lng": -112.029595,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2752,7 +3622,13 @@
       "lotSize": 0.2343434,
       "lat": 40.380854,
       "lng": -79.947927,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "WPMLS",
+      "mlsId": "1738209",
+      "zillowPrice": 395000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2770,7 +3646,13 @@
       "lotSize": 0.2969927,
       "lat": 39.22213,
       "lng": -84.398429,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1853374",
+      "zillowPrice": 299000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2788,7 +3670,13 @@
       "lotSize": 0.1404959,
       "lat": 27.492856,
       "lng": -82.598608,
-      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC"
+      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 137500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2806,7 +3694,13 @@
       "lotSize": 0.1489899,
       "lat": 35.059348,
       "lng": -106.741058,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1094476",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2824,7 +3718,13 @@
       "lotSize": 0.1262626,
       "lat": 38.21038,
       "lng": -84.879743,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Imagine MLS",
+      "mlsId": "26008244",
+      "zillowPrice": 199900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2842,7 +3742,13 @@
       "lotSize": 0.2462121,
       "lat": 30.22639,
       "lng": -81.776253,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2121847",
+      "zillowPrice": 290000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -2860,7 +3766,13 @@
       "lotSize": 0.2148072,
       "lat": 32.750133,
       "lng": -97.210396,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "20851352",
+      "zillowPrice": 0,
+      "zillowStatus": "SOLD"
     },
     {
       "propertyId": null,
@@ -2878,7 +3790,13 @@
       "lotSize": 0,
       "lat": 33.893105,
       "lng": -84.550645,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7703039",
+      "zillowPrice": 375000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2896,7 +3814,13 @@
       "lotSize": 0.0098944,
       "lat": 30.261398,
       "lng": -81.647402,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2109198",
+      "zillowPrice": 339000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2914,7 +3838,13 @@
       "lotSize": 0.3609963,
       "lat": 39.787866,
       "lng": -85.965282,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22099331",
+      "zillowPrice": 169900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2932,7 +3862,13 @@
       "lotSize": 0.3609963,
       "lat": 39.787866,
       "lng": -85.965282,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22099331",
+      "zillowPrice": 169900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2950,7 +3886,13 @@
       "lotSize": 0.1929063,
       "lat": 29.688447,
       "lng": -95.734881,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 454725,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -2968,7 +3910,13 @@
       "lotSize": 0.0075069,
       "lat": 30.310799,
       "lng": -81.611554,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2115672",
+      "zillowPrice": 155000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -2986,7 +3934,13 @@
       "lotSize": 0.2699954,
       "lat": 34.072149,
       "lng": -81.2092,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 326000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3004,7 +3958,13 @@
       "lotSize": 0.3067723,
       "lat": 30.125358,
       "lng": -81.80292,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2129591",
+      "zillowPrice": 310000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3022,7 +3982,13 @@
       "lotSize": 0.5140037,
       "lat": 39.833906,
       "lng": -86.089722,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22088700",
+      "zillowPrice": 379900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3040,7 +4006,13 @@
       "lotSize": 0.5140037,
       "lat": 39.833906,
       "lng": -86.089722,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22088700",
+      "zillowPrice": 379900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3058,7 +4030,13 @@
       "lotSize": 0.1269972,
       "lat": 35.190022,
       "lng": -106.71175,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1092828",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3076,7 +4054,13 @@
       "lotSize": 0.1199954,
       "lat": 39.043795,
       "lng": -94.537059,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Heartland MLS as distributed by MLS GRID",
+      "mlsId": "2595657",
+      "zillowPrice": 165000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3094,7 +4078,13 @@
       "lotSize": 0,
       "lat": 39.667089,
       "lng": -83.934839,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "DABR MLS",
+      "mlsId": "948499",
+      "zillowPrice": 145000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3112,7 +4102,13 @@
       "lotSize": 0.1721993,
       "lat": 29.448339,
       "lng": -95.092115,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 297300,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -3130,7 +4126,13 @@
       "lotSize": 0.1421028,
       "lat": 32.699651,
       "lng": -97.447865,
-      "entity": "CEDAR BROOK PROPERTIES 3 LLC"
+      "entity": "CEDAR BROOK PROPERTIES 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21004595",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3148,7 +4150,13 @@
       "lotSize": 0.0600092,
       "lat": 40.784243,
       "lng": -111.9015,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2150797",
+      "zillowPrice": 299999,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -3166,7 +4174,13 @@
       "lotSize": 0.15,
       "lat": 36.191054,
       "lng": -115.282555,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2710167",
+      "zillowPrice": 590000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3184,7 +4198,13 @@
       "lotSize": 0.1775023,
       "lat": 32.661826,
       "lng": -97.079199,
-      "entity": "CEDAR BOOK PROPERTIES FUNDING 3 LLC"
+      "entity": "CEDAR BOOK PROPERTIES FUNDING 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21093310",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3202,7 +4222,13 @@
       "lotSize": 0.1721074,
       "lat": 32.787416,
       "lng": -97.291517,
-      "entity": "CEDAR BROOK PROPERITES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERITES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21245708",
+      "zillowPrice": 235999,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3220,7 +4246,13 @@
       "lotSize": 0,
       "lat": 32.788184,
       "lng": -80.034036,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26005315",
+      "zillowPrice": 175000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3238,7 +4270,13 @@
       "lotSize": 0.4699954,
       "lat": 38.172182,
       "lng": -83.951397,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Imagine MLS",
+      "mlsId": "26001054",
+      "zillowPrice": 189900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3256,7 +4294,13 @@
       "lotSize": 0.1767677,
       "lat": 34.116067,
       "lng": -117.642426,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": "Zillow Rentals",
+      "mlsId": null,
+      "zillowPrice": 4800,
+      "zillowStatus": "FOR_RENT"
     },
     {
       "propertyId": null,
@@ -3274,7 +4318,13 @@
       "lotSize": 0.9899908,
       "lat": 36.276488,
       "lng": -86.756589,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3014214",
+      "zillowPrice": 600000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3292,7 +4342,13 @@
       "lotSize": 0.1,
       "lat": 36.232732,
       "lng": -115.304634,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2776374",
+      "zillowPrice": 575000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3310,7 +4366,13 @@
       "lotSize": 0.1,
       "lat": 36.049449,
       "lng": -115.296079,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2776401",
+      "zillowPrice": 545000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3328,7 +4390,13 @@
       "lotSize": 0.9399908,
       "lat": 36.281335,
       "lng": -86.759419,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3041378",
+      "zillowPrice": 499900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3346,7 +4414,13 @@
       "lotSize": 0.2087006,
       "lat": 33.44459,
       "lng": -111.929146,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 400000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3364,7 +4438,13 @@
       "lotSize": 0.1100092,
       "lat": 36.17825,
       "lng": -115.323855,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2747521",
+      "zillowPrice": 675000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3382,7 +4462,13 @@
       "lotSize": 0.1515152,
       "lat": 33.785587,
       "lng": -112.545745,
-      "entity": "CEDAR BROOKS PROPERTIES FUNDING 3 L"
+      "entity": "CEDAR BROOKS PROPERTIES FUNDING 3 L",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6911887",
+      "zillowPrice": 239000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3400,7 +4486,13 @@
       "lotSize": 0.175,
       "lat": 32.028017,
       "lng": -81.247438,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Hive MLS",
+      "mlsId": "SA343659",
+      "zillowPrice": 294000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3418,7 +4510,13 @@
       "lotSize": 0.1322084,
       "lat": 32.772588,
       "lng": -97.360408,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 178800,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -3436,7 +4534,13 @@
       "lotSize": 0.4224059,
       "lat": 34.045172,
       "lng": -81.145707,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 175000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3454,7 +4558,13 @@
       "lotSize": 0,
       "lat": 34.08069,
       "lng": -84.573672,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "FMLS GA",
+      "mlsId": "7718524",
+      "zillowPrice": 459000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3472,7 +4582,13 @@
       "lotSize": 0.3899908,
       "lat": 39.978112,
       "lng": -86.096554,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22087858",
+      "zillowPrice": 565000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3490,7 +4606,13 @@
       "lotSize": 0.0300046,
       "lat": 33.707888,
       "lng": -84.332358,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "FMLS GA",
+      "mlsId": "7677004",
+      "zillowPrice": 312700,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3508,7 +4630,13 @@
       "lotSize": 0.1792011,
       "lat": 30.286536,
       "lng": -97.661387,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3526,7 +4654,13 @@
       "lotSize": 0.2485078,
       "lat": 29.694598,
       "lng": -98.080611,
-      "entity": "CEDAR BROOK PROEPRTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROEPRTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1894739",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3544,7 +4678,13 @@
       "lotSize": 0.2410009,
       "lat": 29.425655,
       "lng": -98.55234,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1922520",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3562,7 +4702,13 @@
       "lotSize": 1.21,
       "lat": 33.629886,
       "lng": -84.011911,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7688534",
+      "zillowPrice": 525000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -3580,7 +4726,13 @@
       "lotSize": 1.21,
       "lat": 33.629886,
       "lng": -84.011911,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7688534",
+      "zillowPrice": 525000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -3598,7 +4750,13 @@
       "lotSize": 0.1606979,
       "lat": 29.425636,
       "lng": -98.552145,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 113200,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -3616,7 +4774,13 @@
       "lotSize": 0.2160009,
       "lat": 41.128643,
       "lng": -112.031142,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 428200,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -3634,7 +4798,13 @@
       "lotSize": 0,
       "lat": 37.879364,
       "lng": -84.569924,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Imagine MLS",
+      "mlsId": "26001056",
+      "zillowPrice": 235000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3652,7 +4822,13 @@
       "lotSize": 0.1890037,
       "lat": 39.738863,
       "lng": -86.022851,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22088939",
+      "zillowPrice": 299900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3670,7 +4846,13 @@
       "lotSize": 0.1890037,
       "lat": 39.738863,
       "lng": -86.022851,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22088939",
+      "zillowPrice": 299900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3688,7 +4870,13 @@
       "lotSize": 0.3440083,
       "lat": 39.884534,
       "lng": -86.050324,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22034846",
+      "zillowPrice": 270000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3706,7 +4894,13 @@
       "lotSize": 0.3440083,
       "lat": 39.884534,
       "lng": -86.050324,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22034846",
+      "zillowPrice": 270000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3724,7 +4918,13 @@
       "lotSize": 0.1480028,
       "lat": 39.731213,
       "lng": -86.151365,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 159800,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -3742,7 +4942,13 @@
       "lotSize": 0.1510101,
       "lat": 39.189443,
       "lng": -84.405441,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": "Zillow Rentals",
+      "mlsId": null,
+      "zillowPrice": 120000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3760,7 +4966,13 @@
       "lotSize": 0.0614096,
       "lat": 33.409555,
       "lng": -111.898198,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6891123",
+      "zillowPrice": 349000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3778,7 +4990,13 @@
       "lotSize": 0.2399908,
       "lat": 36.00974,
       "lng": -115.091107,
-      "entity": "BROOK PROPERTIES FUNDING 3 LLC"
+      "entity": "BROOK PROPERTIES FUNDING 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2754831",
+      "zillowPrice": 962500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3796,7 +5014,13 @@
       "lotSize": 0.7,
       "lat": 33.99118,
       "lng": -80.519557,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LC"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LC",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 217000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3814,7 +5038,13 @@
       "lotSize": 0.1584022,
       "lat": 29.362378,
       "lng": -98.427586,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1928737",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3832,7 +5062,13 @@
       "lotSize": 0,
       "lat": 34.053406,
       "lng": -80.998275,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "EXIT Realty broker feed",
+      "mlsId": "621434",
+      "zillowPrice": 209900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3868,7 +5104,13 @@
       "lotSize": 0.1900826,
       "lat": 29.515372,
       "lng": -98.486011,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1896574",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3886,7 +5128,13 @@
       "lotSize": 0.1,
       "lat": 36.269009,
       "lng": -115.249162,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2729509",
+      "zillowPrice": 450000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3904,7 +5152,13 @@
       "lotSize": 0,
       "lat": 33.05542,
       "lng": -96.722459,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21115054",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3922,7 +5176,13 @@
       "lotSize": 0.3399908,
       "lat": 33.843075,
       "lng": -83.919875,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10575431",
+      "zillowPrice": 370000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3940,7 +5200,13 @@
       "lotSize": 0,
       "lat": 32.965218,
       "lng": -80.016822,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26007759",
+      "zillowPrice": 315000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -3958,7 +5224,13 @@
       "lotSize": 0.1899908,
       "lat": 36.148443,
       "lng": -115.231605,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2734704",
+      "zillowPrice": 590000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3976,7 +5248,13 @@
       "lotSize": 0.1699954,
       "lat": 36.134659,
       "lng": -115.112196,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2746167",
+      "zillowPrice": 535000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -3994,7 +5272,13 @@
       "lotSize": 0.1147842,
       "lat": 29.595649,
       "lng": -98.454873,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1915541",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4012,7 +5296,13 @@
       "lotSize": 0,
       "lat": 34.062143,
       "lng": -84.596559,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7703042",
+      "zillowPrice": 359900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -4030,7 +5320,13 @@
       "lotSize": 0.1328053,
       "lat": 33.412557,
       "lng": -111.604517,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6965233",
+      "zillowPrice": 450000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4048,7 +5344,13 @@
       "lotSize": 0.1699954,
       "lat": 32.040082,
       "lng": -81.238144,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Hive MLS",
+      "mlsId": "SA342245",
+      "zillowPrice": 326500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4066,7 +5368,13 @@
       "lotSize": 0.1190312,
       "lat": 28.175034,
       "lng": -82.755745,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8472616",
+      "zillowPrice": 252000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4084,7 +5392,13 @@
       "lotSize": 0.4100092,
       "lat": 33.844641,
       "lng": -84.101183,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7693719",
+      "zillowPrice": 384000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4102,7 +5416,13 @@
       "lotSize": 0.2269972,
       "lat": 39.224264,
       "lng": -84.532537,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1868340",
+      "zillowPrice": 184000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4120,7 +5440,13 @@
       "lotSize": 0,
       "lat": 41.11483,
       "lng": -112.024266,
-      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC"
+      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2147280",
+      "zillowPrice": 270000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4138,7 +5464,13 @@
       "lotSize": 0.1399908,
       "lat": 41.224902,
       "lng": -111.949962,
-      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC"
+      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2135537",
+      "zillowPrice": 414900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -4156,7 +5488,13 @@
       "lotSize": 0.165427,
       "lat": 33.678277,
       "lng": -112.129937,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6937552",
+      "zillowPrice": 470000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4192,7 +5530,13 @@
       "lotSize": 0.1735078,
       "lat": 27.820163,
       "lng": -82.716512,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8463200",
+      "zillowPrice": 332000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4210,7 +5554,13 @@
       "lotSize": 0.2699954,
       "lat": 36.247022,
       "lng": -86.635614,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3170515",
+      "zillowPrice": 399900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4228,7 +5578,13 @@
       "lotSize": 0.1536501,
       "lat": 33.599532,
       "lng": -112.331377,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6972046",
+      "zillowPrice": 399000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4246,7 +5602,13 @@
       "lotSize": 0.1799587,
       "lat": 40.363044,
       "lng": -79.823128,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING III"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING III",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 127000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4264,7 +5626,13 @@
       "lotSize": 0.2341598,
       "lat": 29.585241,
       "lng": -98.371423,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1932530",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4282,7 +5650,13 @@
       "lotSize": 0.1299816,
       "lat": 33.957497,
       "lng": -117.479474,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CRMLS",
+      "mlsId": "SR26042617",
+      "zillowPrice": 665000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4300,7 +5674,13 @@
       "lotSize": 0.5899908,
       "lat": 36.124011,
       "lng": -86.718926,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3045692",
+      "zillowPrice": 220000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4318,7 +5698,13 @@
       "lotSize": 0.1280073,
       "lat": 35.158886,
       "lng": -106.70529,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "SWMLS",
+      "mlsId": "1094823",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4336,7 +5722,13 @@
       "lotSize": 0.1721763,
       "lat": 27.302636,
       "lng": -82.460818,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8442145",
+      "zillowPrice": 280000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4354,7 +5746,13 @@
       "lotSize": 0.2510101,
       "lat": 32.743882,
       "lng": -97.210679,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Dave Perry Miller & Associates - An Ebby Halliday Company",
+      "mlsId": "21077606",
+      "zillowPrice": 286131,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -4372,7 +5770,13 @@
       "lotSize": 0.0800046,
       "lat": 32.905379,
       "lng": -80.081304,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26006043",
+      "zillowPrice": 249900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4390,7 +5794,13 @@
       "lotSize": 0.1919192,
       "lat": 28.460583,
       "lng": -81.385356,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 324300,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -4408,7 +5818,13 @@
       "lotSize": 0.3219927,
       "lat": 39.775819,
       "lng": -86.285024,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22066114",
+      "zillowPrice": 225001,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4426,7 +5842,13 @@
       "lotSize": 0,
       "lat": 35.951533,
       "lng": -86.470864,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3097745",
+      "zillowPrice": 370000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4444,7 +5866,13 @@
       "lotSize": 0.3219927,
       "lat": 39.775819,
       "lng": -86.285024,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22066114",
+      "zillowPrice": 225001,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4462,7 +5890,13 @@
       "lotSize": 0.1839991,
       "lat": 40.147498,
       "lng": -83.011036,
-      "entity": "CEDAR BOOK PROPETIES FUNDING 3 LLC"
+      "entity": "CEDAR BOOK PROPETIES FUNDING 3 LLC",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "226009575",
+      "zillowPrice": 525000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4480,7 +5914,13 @@
       "lotSize": 0,
       "lat": 27.820138,
       "lng": -82.673564,
-      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC"
+      "entity": "CEDAR BROOK PROPERTY FUNDING 3 LLC",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8488342",
+      "zillowPrice": 365000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -4534,7 +5974,13 @@
       "lotSize": 0.2899908,
       "lat": 39.911496,
       "lng": -86.275753,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22081984",
+      "zillowPrice": 499900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4552,7 +5998,13 @@
       "lotSize": 0.1258724,
       "lat": 34.193844,
       "lng": -117.412561,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CRMLS",
+      "mlsId": "CV25259800",
+      "zillowPrice": 710000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4570,7 +6022,13 @@
       "lotSize": 0.2,
       "lat": 41.113889,
       "lng": -112.047838,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4588,7 +6046,13 @@
       "lotSize": 0.1580119,
       "lat": 33.229212,
       "lng": -111.553443,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6941167",
+      "zillowPrice": 470000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4606,7 +6070,13 @@
       "lotSize": 0.3899908,
       "lat": 33.387752,
       "lng": -84.839215,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7710430",
+      "zillowPrice": 259900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -4624,7 +6094,13 @@
       "lotSize": 0.1721763,
       "lat": 40.50005,
       "lng": -79.808159,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "WPMLS",
+      "mlsId": "1743131",
+      "zillowPrice": 284900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4642,7 +6118,13 @@
       "lotSize": 0.1799816,
       "lat": 33.936638,
       "lng": -117.379123,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CRMLS",
+      "mlsId": "PW25270499",
+      "zillowPrice": 670000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4678,7 +6160,13 @@
       "lotSize": 0.6399908,
       "lat": 33.813596,
       "lng": -81.108282,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "EXIT Realty broker feed",
+      "mlsId": "623357",
+      "zillowPrice": 236000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4696,7 +6184,13 @@
       "lotSize": 0.2093205,
       "lat": 33.958341,
       "lng": -81.054172,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Consolidated MLS",
+      "mlsId": "632901",
+      "zillowPrice": 220000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4714,7 +6208,13 @@
       "lotSize": 0.2230946,
       "lat": 29.501513,
       "lng": -95.029296,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 569700,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -4732,7 +6232,13 @@
       "lotSize": 0.1280073,
       "lat": 41.07702,
       "lng": -111.923538,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2132242",
+      "zillowPrice": 510000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -4750,7 +6256,13 @@
       "lotSize": 0.2300046,
       "lat": 41.069711,
       "lng": -111.952789,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 353600,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -4768,7 +6280,13 @@
       "lotSize": 0.2059458,
       "lat": 41.495718,
       "lng": -87.569153,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING III"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING III",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MRED as distributed by MLS GRID",
+      "mlsId": "12608505",
+      "zillowPrice": 149900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -4786,7 +6304,13 @@
       "lotSize": 0.1311983,
       "lat": 29.551259,
       "lng": -98.610183,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 230000,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -4804,7 +6328,13 @@
       "lotSize": 0.1294307,
       "lat": 30.31376,
       "lng": -81.712307,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2121994",
+      "zillowPrice": 275000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4822,7 +6352,13 @@
       "lotSize": 0.0129936,
       "lat": 28.312199,
       "lng": -81.483857,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "S5143208",
+      "zillowPrice": 217500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4840,7 +6376,13 @@
       "lotSize": 0,
       "lat": 29.793277,
       "lng": -81.308923,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "realMLS",
+      "mlsId": "2125402",
+      "zillowPrice": 240000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4858,7 +6400,13 @@
       "lotSize": 0.1131084,
       "lat": 36.076701,
       "lng": -115.281417,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2776382",
+      "zillowPrice": 725000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4876,7 +6424,13 @@
       "lotSize": 0.1761938,
       "lat": 30.180766,
       "lng": -97.814687,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 401100,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -4894,7 +6448,13 @@
       "lotSize": 0,
       "lat": 33.03775,
       "lng": -80.099949,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25031654",
+      "zillowPrice": 278000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4912,7 +6472,13 @@
       "lotSize": 0.1564968,
       "lat": 33.103948,
       "lng": -96.865318,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": "Zillow Rentals",
+      "mlsId": null,
+      "zillowPrice": 2400,
+      "zillowStatus": "FOR_RENT"
     },
     {
       "propertyId": null,
@@ -4930,7 +6496,13 @@
       "lotSize": 0.1300046,
       "lat": 36.059956,
       "lng": -115.131456,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2763142",
+      "zillowPrice": 459900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -4948,7 +6520,13 @@
       "lotSize": 0.1721763,
       "lat": 40.519876,
       "lng": -79.835951,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 90000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4966,7 +6544,13 @@
       "lotSize": 0.2089991,
       "lat": 32.024078,
       "lng": -80.957452,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 350000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -4984,7 +6568,13 @@
       "lotSize": 0.1491965,
       "lat": 28.00408,
       "lng": -82.747919,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8498259",
+      "zillowPrice": 499999,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5002,7 +6592,13 @@
       "lotSize": 0.1922635,
       "lat": 29.382454,
       "lng": -98.445486,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1938764",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5020,7 +6616,13 @@
       "lotSize": 0.1859963,
       "lat": 29.391594,
       "lng": -98.375083,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1921620",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5038,7 +6640,13 @@
       "lotSize": 0.5,
       "lat": 34.487316,
       "lng": -84.339674,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7759946",
+      "zillowPrice": 425000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5056,7 +6664,13 @@
       "lotSize": 0.1721763,
       "lat": 28.548165,
       "lng": -81.776697,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 223000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5074,7 +6688,13 @@
       "lotSize": 0.1767677,
       "lat": 32.988926,
       "lng": -80.129506,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "CTMLS",
+      "mlsId": "25032714",
+      "zillowPrice": 317500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5092,7 +6712,13 @@
       "lotSize": 0.0661387,
       "lat": 40.48087,
       "lng": -80.028845,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 L",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 91500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5110,7 +6736,13 @@
       "lotSize": 0.1807392,
       "lat": 30.262579,
       "lng": -81.741616,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2130957",
+      "zillowPrice": 295000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5128,7 +6760,13 @@
       "lotSize": 0.1640037,
       "lat": 35.06311,
       "lng": -106.617152,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 320600,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5146,7 +6784,13 @@
       "lotSize": 0.2410468,
       "lat": 27.330605,
       "lng": -82.458067,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8446939",
+      "zillowPrice": 160000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5164,7 +6808,13 @@
       "lotSize": 0.257989,
       "lat": 40.162078,
       "lng": -80.21765,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 191000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5182,7 +6832,13 @@
       "lotSize": 0.1699954,
       "lat": 36.29083,
       "lng": -115.209632,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2776152",
+      "zillowPrice": 625000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5200,7 +6856,13 @@
       "lotSize": 0.0386823,
       "lat": 30.252506,
       "lng": -81.778483,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "realMLS",
+      "mlsId": "2128815",
+      "zillowPrice": 159900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5218,7 +6880,13 @@
       "lotSize": 0.3800046,
       "lat": 39.877831,
       "lng": -86.116027,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22089889",
+      "zillowPrice": 349900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5236,7 +6904,13 @@
       "lotSize": 0.3800046,
       "lat": 39.877831,
       "lng": -86.116027,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22089889",
+      "zillowPrice": 349900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5254,7 +6928,13 @@
       "lotSize": 0.5194904,
       "lat": 32.35695,
       "lng": -97.392669,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Dave Perry Miller & Associates - An Ebby Halliday Company",
+      "mlsId": "21101087",
+      "zillowPrice": 109352,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5272,7 +6952,13 @@
       "lotSize": 0.0682966,
       "lat": 33.331811,
       "lng": -111.701452,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6969720",
+      "zillowPrice": 474900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5290,7 +6976,13 @@
       "lotSize": 0.1,
       "lat": 36.289778,
       "lng": -115.328281,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2763164",
+      "zillowPrice": 499900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5308,7 +7000,13 @@
       "lotSize": 0.1767677,
       "lat": 32.853197,
       "lng": -96.972714,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Dave Perry Miller & Associates - An Ebby Halliday Company",
+      "mlsId": "21109741",
+      "zillowPrice": 216900,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5326,7 +7024,13 @@
       "lotSize": 0.1992654,
       "lat": 33.601556,
       "lng": -112.321773,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "ARMLS",
+      "mlsId": "6983800",
+      "zillowPrice": 409900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5344,7 +7048,13 @@
       "lotSize": 0.2073921,
       "lat": 27.991426,
       "lng": -82.824718,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8441148",
+      "zillowPrice": 675000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5362,7 +7072,13 @@
       "lotSize": 0.1502066,
       "lat": 30.433246,
       "lng": -97.692173,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Unlock MLS",
+      "mlsId": "6035192",
+      "zillowPrice": 479900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5380,7 +7096,13 @@
       "lotSize": 0.2199954,
       "lat": 31.9639,
       "lng": -81.138588,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Hive MLS",
+      "mlsId": "SA353172",
+      "zillowPrice": 275000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5416,7 +7138,13 @@
       "lotSize": 0.1699954,
       "lat": 40.705525,
       "lng": -112.081704,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2147355",
+      "zillowPrice": 450000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5434,7 +7162,13 @@
       "lotSize": 0.127663,
       "lat": 33.227004,
       "lng": -111.553434,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6970474",
+      "zillowPrice": 400000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5452,7 +7186,13 @@
       "lotSize": 0.1570018,
       "lat": 39.137639,
       "lng": -84.567669,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1867637",
+      "zillowPrice": 198000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5470,7 +7210,13 @@
       "lotSize": 1.5700001,
       "lat": 38.941831,
       "lng": -84.709188,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 305800,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5488,7 +7234,13 @@
       "lotSize": null,
       "lat": null,
       "lng": null,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22081124",
+      "zillowPrice": 370000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5506,7 +7258,13 @@
       "lotSize": 0.0320018,
       "lat": 39.865309,
       "lng": -86.156021,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22081124",
+      "zillowPrice": 370000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5524,7 +7282,13 @@
       "lotSize": 0.3140037,
       "lat": 39.893829,
       "lng": -82.993629,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "226006567",
+      "zillowPrice": 229000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5542,7 +7306,13 @@
       "lotSize": 0.1350092,
       "lat": 39.743866,
       "lng": -84.137073,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1866427",
+      "zillowPrice": 174900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5560,7 +7330,13 @@
       "lotSize": 0.1350092,
       "lat": 29.346966,
       "lng": -98.601003,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 138010,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5578,7 +7354,13 @@
       "lotSize": 0.25,
       "lat": 37.808118,
       "lng": -85.909545,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Metro Search Inc. LLC DBA Apex MLS",
+      "mlsId": "1713329",
+      "zillowPrice": 219900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5596,7 +7378,13 @@
       "lotSize": 0.1699036,
       "lat": 32.84857,
       "lng": -97.318451,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21200282",
+      "zillowPrice": 355000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5614,7 +7402,13 @@
       "lotSize": 0.1657025,
       "lat": 32.739067,
       "lng": -96.585515,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 274600,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5632,7 +7426,13 @@
       "lotSize": 0.1492195,
       "lat": 40.361687,
       "lng": -79.976852,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING III"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING III",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "WPMLS",
+      "mlsId": "1737043",
+      "zillowPrice": 95250,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5650,7 +7450,13 @@
       "lotSize": 0.0842057,
       "lat": 36.164359,
       "lng": -115.26677,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2763168",
+      "zillowPrice": 250000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5668,7 +7474,13 @@
       "lotSize": 0.0860882,
       "lat": 33.390957,
       "lng": -111.635237,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6957186",
+      "zillowPrice": 379900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5686,7 +7498,13 @@
       "lotSize": 0.1530073,
       "lat": 32.65652,
       "lng": -97.187781,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21118437",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5704,7 +7522,13 @@
       "lotSize": 0.1671028,
       "lat": 29.693848,
       "lng": -95.604618,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 305693,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5722,7 +7546,13 @@
       "lotSize": 0,
       "lat": 34.09242,
       "lng": -81.176884,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 115000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5758,7 +7588,13 @@
       "lotSize": 0.1899908,
       "lat": 40.529806,
       "lng": -112.279507,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "UtahRealEstate.com",
+      "mlsId": "2139492",
+      "zillowPrice": 375000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5776,7 +7612,13 @@
       "lotSize": 1.15,
       "lat": 36.302837,
       "lng": -87.040646,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3035606",
+      "zillowPrice": 230000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5794,7 +7636,13 @@
       "lotSize": 0.3879017,
       "lat": 30.407702,
       "lng": -97.742845,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 449300,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -5830,7 +7678,13 @@
       "lotSize": 0.1179982,
       "lat": 39.936016,
       "lng": -83.079153,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "225044502",
+      "zillowPrice": 120000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5848,7 +7702,13 @@
       "lotSize": 0,
       "lat": 39.818936,
       "lng": -84.025719,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "DABR MLS",
+      "mlsId": "950071",
+      "zillowPrice": 83500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5866,7 +7726,13 @@
       "lotSize": 0.6600092,
       "lat": 33.797776,
       "lng": -84.090683,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7754072",
+      "zillowPrice": 399900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -5884,7 +7750,13 @@
       "lotSize": 0.2039027,
       "lat": 32.723543,
       "lng": -97.079613,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21237802",
+      "zillowPrice": 285000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -5902,7 +7774,13 @@
       "lotSize": 0.1300046,
       "lat": 36.261389,
       "lng": -115.241135,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2737899",
+      "zillowPrice": 525000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5920,7 +7798,13 @@
       "lotSize": 0.1963958,
       "lat": 32.900893,
       "lng": -97.541404,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21137264",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5956,7 +7840,13 @@
       "lotSize": 0.1600092,
       "lat": 32.010536,
       "lng": -81.073857,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 110000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5974,7 +7864,13 @@
       "lotSize": 0.2,
       "lat": 36.114125,
       "lng": -115.097416,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 372000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -5992,7 +7888,13 @@
       "lotSize": 1.4400001,
       "lat": 33.745136,
       "lng": -84.01363,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "FMLS GA",
+      "mlsId": "7752361",
+      "zillowPrice": 349900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6010,7 +7912,13 @@
       "lotSize": 0.2320018,
       "lat": 39.835006,
       "lng": -86.146414,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22060797",
+      "zillowPrice": 350000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6028,7 +7936,13 @@
       "lotSize": 0.1620064,
       "lat": 39.137046,
       "lng": -84.462442,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1851930",
+      "zillowPrice": 138000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6046,7 +7960,13 @@
       "lotSize": 0,
       "lat": 27.256,
       "lng": -82.480367,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8494690",
+      "zillowPrice": 349900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6064,7 +7984,13 @@
       "lotSize": 0.0783058,
       "lat": 36.125778,
       "lng": -115.30858,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2763173",
+      "zillowPrice": 519900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6082,7 +8008,13 @@
       "lotSize": 0.0399908,
       "lat": 35.99977,
       "lng": -115.151899,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2776063",
+      "zillowPrice": 345000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6100,7 +8032,13 @@
       "lotSize": 0.8300046,
       "lat": 39.183618,
       "lng": -84.704386,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Cincy MLS",
+      "mlsId": "1875570",
+      "zillowPrice": 274900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6118,7 +8056,13 @@
       "lotSize": 0,
       "lat": 36.239741,
       "lng": -86.156267,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3073833",
+      "zillowPrice": 325000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6136,7 +8080,13 @@
       "lotSize": 0.1410009,
       "lat": 29.591017,
       "lng": -98.380507,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1927487",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6154,7 +8104,13 @@
       "lotSize": 0.1199954,
       "lat": 36.23182,
       "lng": -115.303239,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2770075",
+      "zillowPrice": 599900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6172,7 +8128,13 @@
       "lotSize": 0.2575987,
       "lat": 27.875268,
       "lng": -82.720081,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 270000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6190,7 +8152,13 @@
       "lotSize": 1.6900001,
       "lat": 33.097761,
       "lng": -80.565682,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 117928,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -6208,7 +8176,13 @@
       "lotSize": 0.0803949,
       "lat": 33.529688,
       "lng": -112.095821,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 250000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6226,7 +8200,13 @@
       "lotSize": 0.7100092,
       "lat": 33.605096,
       "lng": -85.136272,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10691017",
+      "zillowPrice": 144000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6244,7 +8224,13 @@
       "lotSize": 0.0399908,
       "lat": 32.867673,
       "lng": -80.047962,
-      "entity": "CEDAR BROOK PROPERITES FUNDING 2 LL"
+      "entity": "CEDAR BROOK PROPERITES FUNDING 2 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26011859",
+      "zillowPrice": 239000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6262,7 +8248,13 @@
       "lotSize": 0.2070018,
       "lat": 39.138866,
       "lng": -84.6186,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1866312",
+      "zillowPrice": 180000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6280,7 +8272,13 @@
       "lotSize": 0.5938935,
       "lat": 33.644815,
       "lng": -84.069489,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "GAMLS",
+      "mlsId": "10579117",
+      "zillowPrice": 190000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6298,7 +8296,13 @@
       "lotSize": 0.2137052,
       "lat": 32.857907,
       "lng": -97.1328,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 407700,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -6316,7 +8320,13 @@
       "lotSize": 0.1719927,
       "lat": 39.158368,
       "lng": -84.494996,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Cincy MLS",
+      "mlsId": "1860287",
+      "zillowPrice": 150000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6334,7 +8344,13 @@
       "lotSize": 0.1376951,
       "lat": 27.987878,
       "lng": -81.658275,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Stellar MLS",
+      "mlsId": "TB8490277",
+      "zillowPrice": 275000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6352,7 +8368,13 @@
       "lotSize": 0.1060606,
       "lat": 29.501508,
       "lng": -98.685008,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LERA MLS",
+      "mlsId": "1947290",
+      "zillowPrice": 224900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6370,7 +8392,13 @@
       "lotSize": 9.8100004,
       "lat": 33.178159,
       "lng": -79.635725,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "CTMLS",
+      "mlsId": "26012354",
+      "zillowPrice": 300000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6388,7 +8416,13 @@
       "lotSize": 0.1148072,
       "lat": 29.795984,
       "lng": -95.38204,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 555057,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -6406,7 +8440,13 @@
       "lotSize": 0.1280073,
       "lat": 39.422284,
       "lng": -86.432405,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22090274",
+      "zillowPrice": 199900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6424,7 +8464,13 @@
       "lotSize": 0,
       "lat": 33.045223,
       "lng": -96.74003,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING3 LLC"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING3 LLC",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 371600,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -6442,7 +8488,13 @@
       "lotSize": 0.75,
       "lat": 39.003736,
       "lng": -84.540102,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 80000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6460,7 +8512,13 @@
       "lotSize": 0.1199954,
       "lat": 36.028773,
       "lng": -115.105832,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2725156",
+      "zillowPrice": 440000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6478,7 +8536,13 @@
       "lotSize": 0.1300046,
       "lat": 36.150883,
       "lng": -115.053477,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2763877",
+      "zillowPrice": 374900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6496,7 +8560,13 @@
       "lotSize": 0.1760101,
       "lat": 29.379285,
       "lng": -98.444363,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1929373",
+      "zillowPrice": 79900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6514,7 +8584,13 @@
       "lotSize": 1.067,
       "lat": 33.884593,
       "lng": -112.055942,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 225000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6532,7 +8608,13 @@
       "lotSize": 0.1,
       "lat": 36.173422,
       "lng": -115.274045,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 260900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6550,7 +8632,13 @@
       "lotSize": 0.1368916,
       "lat": 32.77282,
       "lng": -97.089865,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "NTREIS",
+      "mlsId": "21152065",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6568,7 +8656,13 @@
       "lotSize": 0.1991047,
       "lat": 39.917055,
       "lng": -86.204586,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22097380",
+      "zillowPrice": 249900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6586,7 +8680,13 @@
       "lotSize": 0.1991047,
       "lat": 39.917055,
       "lng": -86.204586,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "MIBOR as distributed by MLS GRID",
+      "mlsId": "22097380",
+      "zillowPrice": 249900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6604,7 +8704,13 @@
       "lotSize": 0.1147842,
       "lat": 29.533846,
       "lng": -98.432262,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1931913",
+      "zillowPrice": 0,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6622,7 +8728,13 @@
       "lotSize": 0.1600092,
       "lat": 36.114862,
       "lng": -115.250064,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 340000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6640,7 +8752,13 @@
       "lotSize": 0.1388889,
       "lat": 41.850276,
       "lng": -87.898622,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "MRED as distributed by MLS GRID",
+      "mlsId": "12364101",
+      "zillowPrice": 326000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6658,7 +8776,13 @@
       "lotSize": 0.2,
       "lat": 28.452116,
       "lng": -82.552071,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 205000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6694,7 +8818,13 @@
       "lotSize": 0.1179982,
       "lat": 33.744057,
       "lng": -111.9741,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6993596",
+      "zillowPrice": 599900,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6712,7 +8842,13 @@
       "lotSize": 0.1224059,
       "lat": 41.680204,
       "lng": -87.684131,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 216000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6730,7 +8866,13 @@
       "lotSize": 0,
       "lat": 35.884856,
       "lng": -86.353997,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "RealTracs MLS as distributed by MLS GRID",
+      "mlsId": "3129303",
+      "zillowPrice": 385000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6748,7 +8890,13 @@
       "lotSize": 0.525,
       "lat": 39.991933,
       "lng": -82.75551,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING3 LLC"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING3 LLC",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 210000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6766,7 +8914,13 @@
       "lotSize": 0.15,
       "lat": 36.050312,
       "lng": -115.060391,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2738777",
+      "zillowPrice": 450000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6784,7 +8938,13 @@
       "lotSize": 0.1399908,
       "lat": 36.272997,
       "lng": -115.145921,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2764232",
+      "zillowPrice": 425000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6802,7 +8962,13 @@
       "lotSize": 0.17236,
       "lat": 33.847647,
       "lng": -112.096651,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "ARMLS",
+      "mlsId": "6983854",
+      "zillowPrice": 545000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6820,7 +8986,13 @@
       "lotSize": 0,
       "lat": 34.049907,
       "lng": -80.97782,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 149500,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6838,7 +9010,13 @@
       "lotSize": 0.1721993,
       "lat": 29.673727,
       "lng": -98.143885,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 255000,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -6856,7 +9034,13 @@
       "lotSize": 0.1699954,
       "lat": 29.503992,
       "lng": -98.542544,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 239380,
+      "zillowStatus": "OTHER"
     },
     {
       "propertyId": null,
@@ -6874,7 +9058,13 @@
       "lotSize": 0.0469927,
       "lat": 39.945049,
       "lng": -82.99622,
-      "entity": "CARA ANN SMITH"
+      "entity": "CARA ANN SMITH",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "Columbus and Central Ohio Regional MLS ",
+      "mlsId": "225029670",
+      "zillowPrice": 315000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6892,7 +9082,13 @@
       "lotSize": 0.15,
       "lat": 36.248894,
       "lng": -115.204806,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LVR",
+      "mlsId": "2765405",
+      "zillowPrice": 505000,
+      "zillowStatus": "RECENTLY_SOLD"
     },
     {
       "propertyId": null,
@@ -6910,7 +9106,13 @@
       "lotSize": 0.2300046,
       "lat": 27.990592,
       "lng": -80.672278,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Space Coast AOR",
+      "mlsId": "1073122",
+      "zillowPrice": 250000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6928,7 +9130,13 @@
       "lotSize": 0.2151974,
       "lat": 39.83624,
       "lng": -84.254215,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "DABR MLS",
+      "mlsId": "956252",
+      "zillowPrice": 159900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6946,7 +9154,13 @@
       "lotSize": 0.1478421,
       "lat": 29.406142,
       "lng": -98.537739,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "MLS",
+      "exitStrategy": null,
+      "mlsName": "LERA MLS",
+      "mlsId": "1937558",
+      "zillowPrice": 99900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -6964,7 +9178,13 @@
       "lotSize": 0.2460744,
       "lat": 33.549704,
       "lng": -112.175752,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "ARMLS",
+      "mlsId": "6987300",
+      "zillowPrice": 499900,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -6982,7 +9202,13 @@
       "lotSize": null,
       "lat": null,
       "lng": null,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2774737",
+      "zillowPrice": 715000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -7000,7 +9226,13 @@
       "lotSize": 0,
       "lat": 34.018683,
       "lng": -81.05649,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "Consolidated MLS",
+      "mlsId": "629880",
+      "zillowPrice": 265000,
+      "zillowStatus": "PENDING"
     },
     {
       "propertyId": null,
@@ -7018,7 +9250,13 @@
       "lotSize": 0.0300046,
       "lat": 36.07841,
       "lng": -115.030283,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "LVR",
+      "mlsId": "2776155",
+      "zillowPrice": 275000,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -7036,7 +9274,13 @@
       "lotSize": 1.2,
       "lat": 40.532193,
       "lng": -79.610394,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING III"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING III",
+      "category": "Off Market",
+      "exitStrategy": "Flip",
+      "mlsName": "WPMLS",
+      "mlsId": "1738953",
+      "zillowPrice": 199900,
+      "zillowStatus": "FOR_SALE"
     },
     {
       "propertyId": null,
@@ -7090,7 +9334,13 @@
       "lotSize": 0.2899908,
       "lat": 29.219681,
       "lng": -82.118156,
-      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL"
+      "entity": "CEDAR BROOK PROPERTIES FUNDING 3 LL",
+      "category": "Off Market",
+      "exitStrategy": null,
+      "mlsName": null,
+      "mlsId": null,
+      "zillowPrice": 156000,
+      "zillowStatus": "RECENTLY_SOLD"
     }
   ]
 }

@@ -54,13 +54,22 @@ export default async function InvestorPage({
   const { investor: inv, stats, properties } = profile;
 
   // Load MLS classification data
+  // CSV layout: address,offerDate,recorderPrice,investor,category,exitStrategy,mlsName,mlsId,zillowPrice,zillowStatus
+  // Address may contain a comma ("STREET, CITY ST"), so we anchor off the trailing 9 fields.
   const mlsCsvPath = path.join(getDataDir(), "mls-check-results.csv");
   const mlsInfo: Record<string, { category: string; exitStrategy: string }> = {};
   if (fs.existsSync(mlsCsvPath)) {
     const mlsLines = fs.readFileSync(mlsCsvPath, "utf-8").trim().split("\n").slice(1);
     for (const line of mlsLines) {
       const parts = line.split(",");
-      mlsInfo[parts[0]] = { category: parts[4] || "Off Market", exitStrategy: parts[5] || "" };
+      if (parts.length < 10) continue;
+      const tail = parts.slice(-9); // [offerDate, recorderPrice, investor, category, exitStrategy, mlsName, mlsId, zillowPrice, zillowStatus]
+      const address = parts.slice(0, parts.length - 9).join(",").trim();
+      const category = tail[3] || "Off Market";
+      const exitStrategy = tail[4] || "";
+      // Match the address-key normalization used in PropertyTable: strip commas, uppercase, trim
+      const key = address.replace(/,\s*/g, " ").toUpperCase().trim();
+      mlsInfo[key] = { category, exitStrategy };
     }
   }
 
