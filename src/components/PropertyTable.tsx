@@ -52,7 +52,7 @@ export default function PropertyTable({
     if (info?.category === "Off Market") {
       return { label: "Off Market", className: "bg-orange-100 text-orange-700" };
     }
-    return { label: "3rd Party", className: "bg-gray-100 text-gray-600" };
+    return { label: "Unknown", className: "bg-gray-100 text-gray-600" };
   }
 
   function getExitStrategy(p: PropertyDetail): string | null {
